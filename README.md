@@ -44,8 +44,11 @@ transcription documentation [in portuguese](./extras/doc/Dehergne_transcription_
 Current work on identifying place names is going
 on in a fork:
 
+Current work on identifying place names is going
+on in a fork:
     https://github.com/joaquimrcarvalho/dehergne-locations 
 
+    
 Idenfication of locations is done by adding a linked data identifier to each location.
 
 ## License
