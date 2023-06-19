@@ -410,6 +410,7 @@ kleio$gacto2.str/translations=192
             ls$nome/João Francisco Cardozo
             ls$nome-chines/Mei Ta-Tch'eng Eul-Tchang
             ls$nascimento/Porto de Mós, diocese de Leiria# @wikidata:Q1012710/16770613
+            ls$nascimento/Porto de Mós, diocese de Leiria# @wikidata:Q1012710/16770613
             ls$jesuita-entrada/?/16921222
             ls$embarque/[Para o Malabar]/17080000
             ls$wicky/1511/17080000
@@ -653,9 +654,9 @@ kleio$gacto2.str/translations=192
             ls$estadia/Tonquim/17500000
             ls$estadia/China# @wikidata:Q148
             ls$estadia/Macau# @wikidata:Q14773/17620705#capturado
-            ls$estadia/Lisboa (Forte de S. Julião)# @wikidata:Q597/17641019
-            ls$estadia/Itália# @wikidata:Q38/17670709#deportado
-            ls$estadia/Villa Rufinella%Rifinella# @wikidata:Q3558780/17750000
+            ls$estadia/Lisboa (Forte de S. Julião)/17641019
+            ls$estadia/Itália/17670709#deportado
+            ls$estadia/Rifinella/17750000
             ls$jesuita-votos/Coadjutor Espiritual/17411112
             ls$jesuita-votos-local/Làngòi, Tonquim/17411112
             ls$morte/Urbania, Itália# @wikidata:Q190134/17870323
