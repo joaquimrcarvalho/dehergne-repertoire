@@ -1,5 +1,5 @@
-KleioTranslator - server version 12.8 - build 593 2025-03-16 21:55:53
-28-5-2025 23-22
+KleioTranslator - server version 12.9 - build 588 2025-06-06 16:04:22
+12-9-2025 7-1
 
 Processing data file dehergne-r.cli
 -------------------------------------------
@@ -12,14 +12,14 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 197
+Translation count: 198
 Obs: 
 ** Processing source fonte$dehergne-r
 32: lista$dehergne-notices-r
 *** End of File
 
 Line 354 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-manuel-de-siqueira-tcheng) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 1786 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-gabriel-boussel) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1791 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-gabriel-boussel) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
 Structure file: /kleio-home/structures/sources.str
 Structure processing report: /kleio-home/structures/sources.srpt

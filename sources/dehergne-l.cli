@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=189
+kleio$gacto2.str/translations=191
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-130
    fonte$dehergne-l/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra L
 
@@ -1442,7 +1442,7 @@ kleio$gacto2.str/translations=189
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Santo António da Terrugem, diocese de Elvas# @wikidata:Q2257171/16930321
-            ls$jesuita-entrada/Coimbra%?#Dehergne omisso, ver ARSI LUS.47.Catálogo tipo 1, 1711,fol.126v, n. 193, Coimbra a partir de fol.120/17080321
+            ls$jesuita-entrada/Coimbra%?#@wikidata:45412 Dehergne omisso, ver ARSI LUS.47.Catálogo tipo 1, 1711,fol.126v, n. 193, Coimbra a partir de fol.120/17080321
             ls$embarque/?/17140412#não padre
             ls$wicky/1586/17140412
             ls$wicky-viagem/137/17140412
