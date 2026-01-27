@@ -1255,7 +1255,7 @@ kleio$gacto2.str/translations=191
          n$Joaquim Lobo/id=deh-joaquim-lobo
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
-            ls$nascimento/Cadaval, diocese de Coimbra#ILOC confirm nono documento original diocese "Conimbric.", o lugar e a diocese estão em colunas separadas e na linha seguinte a diocese é "Conimbric."/17320224#ou 17360326
+            ls$nascimento/Cadaval, diocese de Lisboa%Cadaval, Diocése de Coimbra#@wikidata:Q33661928  Confirmado no documento original diocese "Conimbric." Lus. 41, 98-99, o lugar e a diocese estão em colunas separadas e na linha seguinte a diocese é "Conimbric. Provavelmente erro no original"/17320224#ou 17360326 como em Lus. 41, 98, Dehergne obteve a data noutro documento.
             ls$jesuita-entrada/Lisboa# @wikidata:Q597/17510401
             ls$embarque/[Para a China]/>1755:<1758#entre 1755 e 1778
             ls$wicky/2104/>1755:<1758#entre 1755 e 1758
