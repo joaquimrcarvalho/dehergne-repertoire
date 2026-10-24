@@ -329,10 +329,10 @@ kleio$gacto2.str/translations=72
             ls$jesuita-cargo/Visitador do Japão e da China/17250908
             ls$jesuita-cargo/Visitador do Japão e da China/17290908
             ls$estadia/Cantão# @wikidata:Q16572/17220000
-            ls$estadia/Lofeu/17221228#durante a prisão dos padres Messari e Bucarelli no Tonquim
+            ls$estadia/Lofeu#@wikidata:Q33204/17221228#durante a prisão dos padres Messari e Bucarelli no Tonquim
             ls$estadia/Macau# @wikidata:Q14773/17230000
             ls$jesuita-tarefa/Funda a Congregação do Sagrado Coração/17230000
-            ls$estadia/Lofeu/17230414
+            ls$estadia/Lofeu#@wikidata:Q33204/17230414
             rel$institucional/Envia a Lofeu#?/António de Mello/deh-romain-hinderer-ref4/data=17230000#cerca de
             ls$estadia/Chekiang# @wikidata:Q16967/17240000#escondido durante a perseguição
             ls$estadia/Hangchow# @wikidata:Q4970/17250000
