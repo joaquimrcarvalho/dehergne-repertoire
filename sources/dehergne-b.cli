@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=233
+kleio$gacto2.str/translations=239
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-182
    fonte$dehergne-b/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra B
 
@@ -17,7 +17,7 @@ kleio$gacto2.str/translations=233
             ls$nascimento/Andancette, diocese de Vienne, Dauphiné# @wikidata:Q639112/16630904#ou 16630924 ou 16631004 ou 16651012
             ls$jesuita-entrada/?/16810405#ou 16800902
             ls$estadia/Brest# @wikidata:Q12193/16980100
-            ls$embarque/Zélande# @wikidata:Q705/16980100
+            ls$embarque/Zélande/16980100
             ls$estadia/Cantão# @wikidata:Q16572/16981104
             ls$estadia/Tingchow (T'ing-tcheou), Fukien# @wikidata:Q7808213/17010000
             ls$estadia/Shanghang (Chang-hang), Fukien# @wikidata:Q1338218/17010000
@@ -46,10 +46,10 @@ kleio$gacto2.str/translations=233
             ls$estadia/Concépcion, Chile# @wikidata:Q1880/17110000#fim de
             ls$estadia/Cantão# @wikidata:Q16572/17120725
             ls$estadia/Cantão# @wikidata:Q16572/17160800
-            ls$estadia/Hukwang#@wikidata:Q2235155
+            ls$estadia/Hukwang#@wikidata:Q2235155/>1716-08:<1724#inferred by ZCode
             ls$estadia/Macau# @wikidata:Q14773/17240000#durante a perseguição
-            ls$estadia/Hangchow, Tchö-kiang# @wikidata:Q4970
-            ls$estadia/Soochow, Kiang-nan# @wikidata:Q42622
+            ls$estadia/Hangchow, Tchö-kiang# @wikidata:Q4970/>1724:<1746#inferred by ZCode
+            ls$estadia/Soochow, Kiang-nan# @wikidata:Q42622/>1724:<1746#inferred by ZCode
             ls$estadia/Macau# @wikidata:Q14773/17460000#exílio
             ls$estadia/Lorient# @wikidata:Q71724/17520728#desembarca com três jovens chineses
             ls$jesuita-tarefa/Conduz três jovens chineses a França e segue-os até ao colégio real de La Flèche, onde eles fazem os seus estudos
@@ -189,8 +189,8 @@ kleio$gacto2.str/translations=233
             ls$estadia/Tchö-kiang#@wikidata:Q16967/16880000
             ls$estadia/Hukwang#@wikidata:Q2235155/16890000#parte para viver como eremita, trazido de volta por Blaise Verbiest
             ls$estadia/Foochow, Fukien# @wikidata:Q68481/16910000
-            ls$estadia/Kwangtung#@wikidata:Q15175
-            ls$estadia/Kiang-nan#@wikidata:Q11133842
+            ls$estadia/Kwangtung#@wikidata:Q15175/>1691:<1700-10-08#inferred by ZCode
+            ls$estadia/Kiang-nan#@wikidata:Q11133842/>1691:<1700-10-08#inferred by ZCode
             ls$jesuita-ordenacao-padre/Nanquim# @wikidata:Q16666/16880801
             ls$jesuita-votos/Coadjutor Espiritual
             ls$morte/Shanghai# @wikidata:Q8686/17001008
@@ -215,7 +215,7 @@ kleio$gacto2.str/translations=233
             ls$estadia/[Missão]/17390301
             ls$estadia/Kiangsi#@wikidata:Q57052/17490000#capturado
             ls$estadia/Siangtan (Siang-t'an) Hunan# @wikidata:Q215755/17550000
-            ls$estadia/Fukien# @wikidata:Q41705
+            ls$estadia/Fukien# @wikidata:Q41705/>1755:<1758#inferred by ZCode
             ls$estadia/Kiang-nan#@wikidata:Q11133842/17580000
             ls$jesuita-ordenacao-padre/?/17390000#cerca de
             ls$jesuita-votos/Coadjutor Espiritual/17440000
@@ -245,7 +245,7 @@ kleio$gacto2.str/translations=233
             ls$wicky-viagem/117/16940000
             ls$chegada/[À missão]/16951203
             ls$estadia/Nankin [Nanjing], Chenkiang (Tchen-kiang)[Zhejiang] e Tanyang, em Kiang-nan [Jiangnan]# @wikidata:Q16666/16990000
-            ls$estadia/Hangchow#Hangzhou @wikidata:Q4970
+            ls$estadia/Hangchow#Hangzhou @wikidata:Q4970/>1699:<1701#inferred by ZCode
             ls$jesuita-tarefa/Reconstrói a Igreja de Hangchow
             ls$estadia/Shanghai# @wikidata:Q8686/1701
             ls$estadia/Macau# @wikidata:Q14773/17040000
@@ -312,8 +312,8 @@ kleio$gacto2.str/translations=233
             ls$estadia/Alepo# @wikidata:Q41183/16850000
             ls$estadia/Moscovo# @wikidata:Q649/16850000#com o Padre Philippe Avril
             ls$estadia/Roma# @wikidata:Q220/16870000#necessitava de uma comprovação de Luís XIV
-            ls$estadia/Rouen# @wikidata:Q30974
-            ls$partida/Hamburgo# @wikidata:Q1055
+            ls$estadia/Rouen# @wikidata:Q30974/>1687:<1708-01-20#inferred by ZCode
+            ls$partida/Hamburgo# @wikidata:Q1055/>1687:<1708-01-20#inferred by ZCode
             ls$morte/No Báltico# @wikidata:Q545/17080120
             ls$dehergne/75/obs=Barnabé, Louis (franç.) P. 75 N. Loches (Indre-et-Loire), 30 août 1649 -E. 31 août ou 11 déc. 1666 (Aquit. 11, 161v). Envoyé, en 1680, étudier sur place en Arménie la possibilité de gagner la Chine par la voie de terre et la Russie. Arr. Alep, d'où, en 1685, le P. Avril l'emmène jusqu'à Moscou., on lui réclame une attestation de Louis XIV patronnant ce projet, manière de l'éconduire. Il revient à Rome en 1687. Le catal. de 1688 le met « in Sin. », à tort (Aquit. 7, 179v). M. 20 janv. 1708 dans la Baltique, emb. à Rouen pour Hambourg (M. en 1687, dit Sommervogel). Aquit. l'ignore. - Pf. 421.
 
@@ -334,7 +334,7 @@ kleio$gacto2.str/translations=233
             ls$estadia/China# @wikidata:Q148/17660000
             ls$estadia/Cantão# @wikidata:Q16572/17690000
             ls$jesuita-tarefa/Presta Juramento/17690407#ou 1770
-            ls$estadia/Pequim#? @wikidata:Q956
+            ls$estadia/Pequim#? @wikidata:Q956/>1769-04-07:<1771#inferred by ZCode
             ls$estadia/Hukwang#@wikidata:Q2235155/17710000
             ls$estadia/Kiangsi#@wikidata:Q57052/17780000
             ls$jesuita-votos/4V/17710815
@@ -355,7 +355,7 @@ kleio$gacto2.str/translations=233
             ls$morte/Rio Kan#Rio Nam Khan, em Laos?/15940000#afogado no naufrágio, a caminho do noviciato
             ls$dehergne/77/obs=Barradas, João (macaïste) 77 N. à Macao (v. 1570?). En 1594, en route pour entrer au noviciat, accompagne Ricci sur la rivière Kan où il fait naufrage et se noie. Pf. 25., DElia, I 341 et 344 n.
 
-            referido$Matteo Ricci/id=deh-joao-barradas-ref1/xsame_as=deh-matteo-ricci
+            referido$Matteo Ricci/id=deh-joao-barradas-ref1/xmesmo_que=deh-matteo-ricci
                ls$estadia/rio Kan#Rio Nam Khan, em Laos?/15940000
 
          n$Didace Barreto/id=deh-didace-barreto
@@ -371,7 +371,7 @@ kleio$gacto2.str/translations=233
          n$Rui Barreto/id=deh-rui-barreto
             ls$nascimento/Mora, diocese de Évora# @wikidata:Q174800/15520000
             ls$nacionalidade/Portugal
-            ls$jesuita-entrada/?/15681228#ou 15721228
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/15681228#ou 15721228/obs=Dehergne omits place of entry; in Coimbra student de "Casos" Lus. 39 (1579).
             ls$jesuita-ordenacao-padre/?/15790404#antes de
             ls$embarque/Chagas/15790404#novo padre
             ls$wicky/206/15790404
@@ -535,7 +535,7 @@ kleio$gacto2.str/translations=233
             rel$sociabilidade/Companheiro/Lodovico Maggi/deh-jean-baptiste-batailhe-ref3/data=17301210
             ls$estadia/Cantão# @wikidata:Q16572/17310808
             ls$estadia/Hukwang#@wikidata:Q2235155/17350000
-            ls$estadia/Honan#@wikidata:Q43684
+            ls$estadia/Honan#@wikidata:Q43684/>1735:<1743#inferred by ZCode
             ls$estadia/Hukwang#@wikidata:Q2235155/17430000
             ls$jesuita-ordenacao-padre/?/17290000#ou 17300000
             ls$jesuita-votos/4V/17330815
@@ -590,14 +590,14 @@ kleio$gacto2.str/translations=233
             rel$sociabilidade/Companheiro/Domenico Fuciti/deh-ignace-baudet-de-beauregard-ref3/data=16550323
             ls$estadia/Macau# @wikidata:Q14773/16560600
             ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16590000
-            ls$estadia/Cambodja# @wikidata:Q424 @wikidata:Q424
+            ls$estadia/Cambodja# @wikidata:Q424 @wikidata:Q424/>1659:<1669-12-20#inferred by ZCode
             ls$estadia/Macau# @wikidata:Q14773/16691220
             ls$estadia/Macau (colégio)# @wikidata:Q14773/16730000
             ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16730000
             ls$estadia/Sião# @wikidata:Q869/16650000#exilado
             ls$estadia/Sião# @wikidata:Q869/16740000#exilado
             ls$jesuita-votos/Coadjutor Espiritual/16521101/obs=JS 25, 205v le met profès des 3 V. 1 nov. 1653.
-            ls$jesuita-votos-local/Vienne, Dauphiné# @wikidata: Q26849/16521101
+            ls$jesuita-votos-local/Vienne, Dauphiné# @wikidata:Q26849/16521101
             ls$morte/?/16790000#depois de
             ls$dehergne/87/obs=Baudet de Beauregard, Ignace, dit François Ignace (franç.) P. 87 N. baptisé à St-Hugues-St-Jean de Grenoble 7 févr. 1618. E. 1635. Emb. Vannes fin oct. 1654 avec les PP. Poncet, Macret et Fuciti, et avec les mêmes à Lisbonne, 23 mars 1655 (W 1005)., 1659, Cochinchine., Cambodge (JS 25, 170v)., écrit de Macao, 7 janv. et 20 déc. 1669 (JS 70, 260 et ARSI FG 730)., en 1673, au collège de Macao, « P. Franciscus Ignatius qui dicitur Baudet » (JS 25, 204) puis Cochinchine., exilé au Siam, 1665 et 1674. V. François Ignace Baudet Viennae 1 nov. 1652, coadj. spir. (Gai. 27, 150): Vienne en Dauphiné. JS 25, 205v le met profès des 3 V. 1 nov. 1653. M. après 1679. Fils d'André Baudet, seigneur de Beauregard, secrétaire et greffier au Parlement (1586-1627), et d'Olympe de Guichard, protestante avant son mariage, qui eurent onze enfants.
             ls$dehergne/87/obs=BN : ms. fr. 25055, 140 dit : Emb. avec les PP. Greslon et Fucrn le 25 mai 1654, arr. à Macao à la mi-juin (1656). JS 25, 205v l'appelle P. Franciscus Ignatius Gallus Gratianopolitan. Pf. 294: Beaudet., Louis Basette, Trois lettres (1652-1654) du P. François Baudet de Beauregard missionnaire au Japon, en Chine et en Cochinchine, « Le Dauphiné», Grenoble, 1953., Guy-Aliard, Histoire généalogique, 1680.
@@ -936,7 +936,7 @@ kleio$gacto2.str/translations=233
             ls$estadia/Macau# @wikidata:Q14773/17470501
             ls$jesuita-ordenacao-padre/Laon# @wikidata:Q167141/17400000
             ls$jesuita-votos/4V/17400202
-            ls$jesuita-votos-local/Pont-à-Mousson# @wikidata: Q461413/17400202
+            ls$jesuita-votos-local/Pont-à-Mousson# @wikidata:Q461413/17400202
             ls$morte/Macau# @wikidata:Q14773/17470418
             ls$dehergne/100/obs=Beuth, Jean-François (franç.) P. 100 André Ly l'appelle Reuter (Ly 17)., Beath (M 435, 19)., Butth (M 443, 678). Yang Jo-wang (Pf.)., Houang (M 443, 679: Hoang). N. 26 oct. 1704 « Argentinensis », Strasbourg -E. 25 sept. 1724, Nancy (Camp. 15, 104). Emb. 21 oct. 1743 (.Franc. 21, 64)., A. 12 juill. 1744., Kingchow, Hupeh, 1745 (M 443, 186)., persécution, arrêté 26 sept. 1746 à Shasi (Chache) Hupeh., procès (M 436, 1-49., SOCP t. 47, 1748 f 168 et t. 48 f° 273v)., expulsé à Macao, où il arr. le 1 mai 1747 (B. Casanatense ms 1577, 242v). P. en 1740, à Laon (Camp. 16, 36). V. à Pont-à-Mousson, 2 févr. 1740, pr. (Gai. 21, 135). M. 18 avril 1747 à Macao (HS 53a, 56), ou le 19 avril (Af 444, 24., Camp. 16, 270v) (Streit VII, 3343: 1748).
             ls$dehergne/100/obs=Le Directeur des Archives de Strasbourg n'a rien trouvé à 1706 (Pf.), mais il veut bien me signaler un Jean-François Beyth né le 26 oct et baptisé de 27 oct. 1704 en l'église St-Pierre-le-Vieux catholique (N 155, f 193), fils de Auguste Beyth, originaire de Lixel, Saxe, et de Marie (...) Schrankenmuller, de Strasbourg. Pf. 826., Gubbels, 183-188.
@@ -1606,12 +1606,12 @@ kleio$gacto2.str/translations=233
             ls$estadia/Sian, Si-ngan fou#@wikidata:Q5826/16470000
             ls$estadia/Pequim# @wikidata:Q956/16480222/obs=feito prisioneiro com o Padre Gabriel de Magalhães
             ls$estadia/Pequim# @wikidata:Q956/16510000/obs=libertado
-            ls$estadia/Tong-t'ang, Pequim# @wikidata: Q1064185/16550000
+            ls$estadia/Tong-t'ang, Pequim# @wikidata:Q1064185/16550000
             ls$jesuita-tarefa/Funda a residência de Tong-t'ang#com Padre Gabriel de Magalhães, segundo entrada de Magalhães, Dehergne 506/16550000
-            ls$estadia/Tong-t'ang, Pequim# @wikidata: Q1064185/16620000
+            ls$estadia/Tong-t'ang, Pequim# @wikidata:Q1064185/16620000
             ls$jesuita-tarefa/Funda a igreja de Tong-t'ang/16620000
-            ls$estadia/Tong-t'ang, Pequim# @wikidata: Q1064185/16640000/obs=feito prisioneiro durante a perseguição
-            ls$estadia/Tong-t'ang, Pequim# @wikidata: Q1064185/16690000/obs=libertado pelo imperador
+            ls$estadia/Tong-t'ang, Pequim# @wikidata:Q1064185/16640000/obs=feito prisioneiro durante a perseguição
+            ls$estadia/Tong-t'ang, Pequim# @wikidata:Q1064185/16690000/obs=libertado pelo imperador
             ls$titulo/Mandarim
             ls$jesuita-votos/4V/16490327
             ls$jesuita-votos-local/Pequim# @wikidata:Q956/16490327
@@ -1625,7 +1625,7 @@ kleio$gacto2.str/translations=233
                ls$jesuita-estatuto/Padre
                ls$estadia/Pequim# @wikidata:Q956/16480222/obs=feito prisioneiro
                ls$estadia/Pequim# @wikidata:Q956/16510000/obs=libertado
-               ls$estadia/Tong-t'ang, Pequim# @wikidata: Q1064185/16550000
+               ls$estadia/Tong-t'ang, Pequim# @wikidata:Q1064185/16550000
                ls$jesuita-tarefa/Funda a residência de Tong-t'ang#segundo entrada de Magalhães, Dehergne 506/16550000
 
             referido$K'Ang Hi/id=deh-lodovico-buglio-ref2/obs=imperador Kangxi
