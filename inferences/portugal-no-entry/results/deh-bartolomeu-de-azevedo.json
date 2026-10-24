@@ -1,0 +1,82 @@
+{
+ "id": "deh-bartolomeu-de-azevedo",
+ "name": "Bartolomeu de Azevedo",
+ "lugar": "Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)",
+ "data": "1736-03-22",
+ "confianca": "alta",
+ "sugestao_tabela": "? (a tabela Obsidian «0 Portugal no entry» não tem sugestão para esta pessoa)",
+ "validacao": "lugar estabelecido por prova directa (catálogo coevo de 1737 do próprio noviciado); sem sugestão prévia a corrigir",
+ "resumo": "Bartolomeu de Azevedo entrou no Noviciado das Missões da Índia — o «Noviciado do Oriente», em Arroios, Lisboa — a 22 de Março de 1736. A prova é o catálogo de 1737 dessa casa (ARSI, Lus. 48, f. 168), transcrito por Francisco Rodrigues: o reitor era o P. Manuel Monteiro, o mesmo que inaugurou o noviciado a 27 de Abril de 1735, e entre os «noviços com o dia da entrada» figura, no n.º 6, «Bartolomeu de Azevedo 22 de Março 1736» — a data que o Dehergne lhe atribui. O mesmo catálogo identifica pela mesma via Xavier Duarte (n.º 13, 3 de Novembro de 1736).",
+ "biografia": "Bartolomeu de Azevedo (Acevedo) nasceu em Viana do Castelo, diocese de Braga, a 24 de Agosto de 1718. Entrou no Noviciado das Missões da Índia, em Arroios (Lisboa), a 22 de Março de 1736, destinado às missões da China. Em 1743 estudava teologia e estava «für die Missionen bestimmt» (catálogo de 1743, Lus. 48, 267, n.º 211); foi ordenado sacerdote por volta de 1744-1745 e embarcou na expedição de 1745 (W 1907), chegando à China nesse ano. Morreu em Pequim, região onde trabalhava; a pedra tumular (segundo Planchet, p. 193) dá 29 de Outubro de 1755, enquanto Pfister o faz morrer a 29 de Outubro de 1745 — conflito de datas registado pelo Dehergne.",
+ "analise": [
+  {
+   "titulo": "A prova: a lista de noviços do Noviciado do Oriente (1737)",
+   "texto": "No capítulo dedicado ao Noviciado do Oriente, Francisco Rodrigues transcreve o catálogo de 1737 dessa casa:\n\n> `O catálogo de 1737, no códice português, Lus. 48, na folha 168, tem: P. Manuel Monteiro, reitor; P. António de Sá, ministro; P. Luís de Vasconcelos, Companheiro do Mestre; P. Jerónimo Godinho e três auxiliares. Noviços com o dia da entrada: 1. José de Távora escolar 23 de Julho de 1735 … 6. Bartolomeu de Azevedo 22 de Março 1736 … 13. Xavier Duarte 3 … 1736. Reitores do Noviciado da índia de 1735 a 1759: P. Manuel Monteiro, a 28 de Maio de 1735…`\n\n— Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), p. 197 (impresso 167) — raw (`ocr`) · `pha page 64 197 --raw`\n\nA casa é a mesma que o capítulo descreve nas páginas anteriores: comprada «pouco para além do Chafariz de Arroios», fora dos muros de Lisboa, destinada «aos missionários da índia», cujos noviços nela entraram a 27 de Abril de 1735 com o reitor Manuel Monteiro (doc 64, pp. 163-166). Um noviço nomeado no catálogo de uma casa é, por definição, alguém que nela faz o noviciado — e o dia da entrada (22 de Março de 1736) coincide exactamente com o que o Dehergne lhe atribui a partir de um catálogo posterior (Lus. 48, 267)."
+  },
+  {
+   "titulo": "Confirmação indirecta: a prática do próprio Dehergne",
+   "texto": "Para outro noviço da mesma lista de 1737 — António Pires (n.º 7, entrado em Março de 1736) — o Dehergne escreve «E. 24 mars 1736, Lisbonne, pour les missions (Lus. 48, 167v)»: lendo a mesma secção do códice (f. 167v-168), o autor identifica expressamente a casa como «Lisbonne, pour les missions». Para Bartolomeu de Azevedo limitou-se a tomar a data de um catálogo de 1743 (f. 267) e não assinalou o lugar — que fica assim restituído pela lista do próprio noviciado. O catálogo de 1743 (Lus. 48, 267, n.º 211) mostra-o ainda em Portugal, a estudar teologia e destinado às missões (Wicki, doc 66, p. 165)."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "*Catalogo dos Sojeitos… 1711-1758* (1909), doc 157 (28 pp.; letra B, pp. 15-19) — ausência de «Bartolomeu de Azevedo» — edited (`jesuit-cat-1900`)",
+   "comando": "pha page 157 17 --edited",
+   "o_que_prova": "não consta do registo impresso da província (que exclui os noviços de Arroios), coerente com a atribuição a Arroios feita pelo doc 64",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), p. 197 (impresso 167), citando «Arq. S. J., catál. de 1737; Lus. 48, f. 168» — raw (`ocr`) · `pha page 64 197 --raw`",
+   "comando": "pha page 64 197 --raw",
+   "o_que_prova": "lista nominativa dos noviços do Noviciado do Oriente com o dia da entrada: n.º 6 «Bartolomeu de Azevedo 22 de Março 1736» e n.º 13 «Xavier Duarte 3 … 1736» — é a prova de que fizeram o noviciado nessa casa de Arroios (Lisboa)",
+   "forca": "direta"
+  },
+  {
+   "citacao": "Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), pp. 166-167 (impresso 166-167): «No dia 27 de Abril de 1735 entraram nele os Noviços com o Reitor Manuel Monteiro…»; a casa é o «Noviciado das Missões da índia» comprado além do Chafariz de Arroios — raw (`ocr`) · `pha page 64 196 --raw`",
+   "comando": "pha page 64 196 --raw",
+   "o_que_prova": "identificação da casa (noviciado das missões da Índia, Arroios, Lisboa) cujo catálogo de 1737 lista o n.º 6, Bartolomeu de Azevedo, com a data de entrada",
+   "forca": "contexto"
+  },
+  {
+   "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 244 (impresso 206), notícia n.º 649 (António Pires): «N. Lisbonne, 1er mai 1721 -E. 24 mars 1736, Lisbonne, pour les missions (Lus. 48, 167v)» — raw (`french-ocr`) · `pha page 65 244 --raw`",
+   "comando": "pha page 65 244 --raw",
+   "o_que_prova": "o próprio Dehergne, lendo o catálogo Lus. 48, f. 167v (a lista do Noviciado do Oriente de 1737), identifica o lugar da entrada como «Lisbonne, pour les missions» — a mesma casa em que a lista nomeia Bartolomeu de Azevedo (n.º 6) e Xavier Duarte (n.º 13)",
+   "forca": "contexto"
+  },
+  {
+   "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 165, anotação ao n.º 1907 — raw (`wicki-indienfahrer-1967`) · `pha page 66 165 --raw`",
+   "comando": "pha page 66 165 --raw",
+   "o_que_prova": "natural de Viana (Braga), nascido em 1718, entrado em 1736; em 1743 destinado às missões e estudando teologia (Lus. 48, 267, n.º 211); chegou à China em 1745",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 56 (Bartolomeu de Azevedo) na base Timelink, atributo `dehergne/obs`",
+   "comando": "python3 tools/packet.py deh-bartolomeu-de-azevedo",
+   "o_que_prova": "data de entrada 22 de Março de 1736 (Lus. 48, 267) e o conflito sobre a data da morte (1755 vs 1745)",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "Pfister, *Notices biographiques… de l'ancienne Mission de Chine*, t. 2, n.º 381 (impresso p. 829) (doc 50), p. 295 — raw (`french-ocr`) · `pha page 50 295 --raw`",
+   "comando": "pha page 50 295 --raw",
+   "o_que_prova": "«N. 1718. — E. 1735. — A. 1745. — Scolast. — M. 29 oct. 1745, Pékin» — só datas (Pfister antecipa a entrada para 1735)",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "Dehergne, *Répertoire des Jésuites de Chine de 1552 à 1800* (doc 65), p. 16 = pág. impressa XIV, « E. = Date d'entrée au noviciat. Nous indiquons la ville où il fait son noviciat et la province jésuite qui l'accueille » — raw (`ocr`) · `pha page 65 16`",
+   "comando": "pha page 65 16",
+   "o_que_prova": "o campo « E. » do Dehergne é a data de entrada no noviciado e o autor indica a cidade do noviciado sempre que a conhece",
+   "forca": "contexto"
+  },
+  {
+   "citacao": "Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), pp. 165-168 = cap. « I — O Noviciado do Oriente » — raw (`ocr`) · `pha page 64 195`, `pha page 64 196`, `pha page 64 198`",
+   "comando": "pha page 64 196",
+   "o_que_prova": "o Noviciado das Missões da Índia (dito do Oriente) foi aberto em Arroios, fora dos muros de Lisboa, a 27 de Abril de 1735, para formar missionários das províncias de Goa, Malabar, Japão e China, sob o reitor P. Manuel Monteiro (desde 28 de Maio de 1735)",
+   "forca": "contexto"
+  }
+ ],
+ "nao_encontrado": null,
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-bartolomeu-de-azevedo]]"
+ ]
+}

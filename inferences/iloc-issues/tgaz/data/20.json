@@ -1,0 +1,54 @@
+{
+  "issue": "20",
+  "file": "20-san-kiao-hou-kia.md",
+  "place": "San kiao hou kia",
+  "dehergne_year": 1741,
+  "region": "Jiangxi / Ruizhou fu",
+  "country": "China",
+  "identified_chinese": "三橋 (Sanqiao) / 三橋胡家 (hou kia inferred); 瑞州府 / 高安縣",
+  "wikidata_id": "Q14583988",
+  "queries": [
+    {"name": "三橋", "year": null, "feature_type": null, "source": null,
+     "total": 6,
+     "hits": [
+       {"sys_id": "hvd_130195", "name": "三桥", "transcription": "Sanqiao", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "怀宁县 (Huaining Xian)", "lat": 30.60741, "lon": 116.70831, "data_source": "CHGIS"},
+       {"sys_id": "hvd_140566", "name": "三桥", "transcription": "Sanqiao", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "临川县 (Linchuan Xian)", "lat": 27.97443, "lon": 116.16621, "data_source": "CHGIS"},
+       {"sys_id": "hvd_160811", "name": "三桥", "transcription": "Sanqiao", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "贵筑县 (Guizhu Xian)", "lat": 26.58336, "lon": 106.66183, "data_source": "CHGIS"}
+     ]},
+    {"name": "三桥", "year": null, "feature_type": null, "source": null,
+     "parent": "高安县", "total": 0, "hits": []},
+    {"name": "三桥", "year": null, "feature_type": null, "source": null,
+     "parent": "瑞州府", "total": 0, "hits": []},
+    {"name": "瑞州府", "year": 1741, "feature_type": null, "source": null,
+     "total": 2,
+     "hits": [
+       {"sys_id": "hvd_32628", "name": "瑞州府", "transcription": "Ruizhou Fu", "years": "1369 ~ 1911", "feature_type": "府 (fu)", "parent_name": "江西行省 (Jiangxi Xingsh)", "lat": 28.4256, "lon": 115.37228, "data_source": "CHGIS"}
+     ]},
+    {"name": "高安县", "year": 1741, "feature_type": null, "source": null,
+     "total": 1,
+     "hits": [
+       {"sys_id": "hvd_41219", "name": "高安县", "transcription": "Gao'an Xian", "years": "622 ~ 1911", "feature_type": "县 (xian)", "parent_name": "靖州 (Jing Zhou) [first of chain; last 瑞州府 1369-1911]", "lat": 28.4256, "lon": 115.37228, "data_source": "CHGIS"}
+     ]}
+  ],
+  "best_match": {"sys_id": "hvd_32628", "name": "瑞州府",
+    "transcription": "Ruizhou Fu", "feature_type": "fu",
+    "english": "prefecture", "years": "1369 ~ 1911",
+    "parent": "江西省 (Jiangxi Sheng), 1645-1911",
+    "lat": 28.4256, "lon": 115.37228, "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_32628",
+    "present_location": "江西高安县"},
+  "parent_matches": [
+    {"sys_id": "hvd_41219", "name": "高安县", "feature_type": "xian",
+     "years": "622 ~ 1911", "parent": "瑞州府 (1369-1911)",
+     "lat": 28.4256, "lon": 115.37228,
+     "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_41219"}
+  ],
+  "wikidata": {"id": "Q1229428", "label": "Gao'an 高安市",
+               "lat": 28.422222222222, "lon": 115.37222222222},
+  "wikidata_note": "Q14583988 (三桥村, the issue's village anchor) has no P625 coordinate; comparison is against the 高安市 county seat Q1229428.",
+  "dist_km": 0.38,
+  "verdict": "partially-confirmed",
+  "verdict_note": "TGAZ confirms the parents 瑞州府 (hvd_32628) and 高安县 (hvd_41219) but has no record of the village 三橋/Sanqiao itself; no 三桥 village under 瑞州府 in the 1820/1911 layers.",
+  "notes": "Village query returned only 1820/1911 villages in other provinces; --parent facets returned 0. Q14583988 stands on archive evidence alone.",
+  "checked_at": "2026-10-22"
+}

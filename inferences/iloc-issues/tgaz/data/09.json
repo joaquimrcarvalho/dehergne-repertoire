@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-22",
+  "issue": "09",
+  "file": "09-maxagongdong.md",
+  "place": "Maxagongdong",
+  "dehergne_year": 1725,
+  "region": "Philippines",
+  "country": "Philippines",
+  "identified_chinese": "",
+  "wikidata_id": null,
+  "queries": [
+    {
+      "name": "Maxagongdong",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Maxagong",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Filipinas",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": null,
+  "wikidata": null,
+  "dist_km": null,
+  "verdict": "outside-coverage",
+  "verdict_note": "TGAZ has no Philippine layer; all queries returned 0 hits, so it can neither confirm nor reject the unidentified name.",
+  "notes": "The place remains unidentified from the archive (issue conclusion); TGAZ cannot help."
+}

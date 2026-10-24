@@ -1,0 +1,48 @@
+{
+  "issue": "22",
+  "file": "22-sian-tan-hien.md",
+  "place": "Sian tan hien",
+  "dehergne_year": 1706,
+  "region": "Hunan / Changsha fu (Xiangtan)",
+  "country": "China",
+  "identified_chinese": "湘潭縣 (Xiangtan Xian); parent 潭州府 → 長沙府",
+  "wikidata_id": "Q215755",
+  "queries": [
+    {"name": "湘潭", "year": null, "feature_type": null, "source": null,
+     "total": 9,
+     "hits": [
+       {"sys_id": "hvd_41738", "name": "湘潭县", "transcription": "Xiangtan Xian", "years": "1370 ~ 1911", "feature_type": "县 (xian)", "parent_name": "潭州府 (Tanzhou Fu)", "lat": 27.8727, "lon": 112.91126, "data_source": "CHGIS"},
+       {"sys_id": "hvd_717", "name": "湘潭县", "transcription": "Xiangtan Xian", "years": "1820 ~ 1820", "feature_type": "县 (xian)", "parent_name": "长沙府 (Changsha Fu)", "lat": 27.8727, "lon": 112.91126, "data_source": "CHGIS"},
+       {"sys_id": "hvd_41736", "name": "湘潭县", "transcription": "Xiangtan Xian", "years": "1127 ~ 1294", "feature_type": "县 (xian)", "parent_name": "潭州 (Tan Zhou)", "lat": 27.8727, "lon": 112.91126, "data_source": "CHGIS"}
+     ]},
+    {"name": "湘潭縣", "year": 1706, "feature_type": null, "source": null,
+     "total": 1,
+     "hits": [
+       {"sys_id": "hvd_41738", "name": "湘潭县", "transcription": "Xiangtan Xian", "years": "1370 ~ 1911", "feature_type": "县 (xian)", "parent_name": "潭州府 (Tanzhou Fu)", "lat": 27.8727, "lon": 112.91126, "data_source": "CHGIS"}
+     ]},
+    {"name": "Xiangtan", "year": null, "feature_type": null, "source": null,
+     "total": 15,
+     "hits": [
+       {"sys_id": "hvd_41738", "name": "湘潭县", "transcription": "Xiangtan Xian", "years": "1370 ~ 1911", "feature_type": "县 (xian)", "parent_name": "潭州府 (Tanzhou Fu)", "lat": 27.8727, "lon": 112.91126, "data_source": "CHGIS"}
+     ]},
+    {"name": "長沙府", "year": null, "feature_type": null, "source": null,
+     "total": 8,
+     "hits": [
+       {"sys_id": "hvd_32753", "name": "长沙府", "transcription": "Changsha Fu", "years": "1372 ~ 1911", "feature_type": "府 (fu)", "parent_name": "湖广等处行省 (Huguangdengchu)", "lat": 28.1982, "lon": 112.97813, "data_source": "CHGIS"}
+     ]}
+  ],
+  "best_match": {"sys_id": "hvd_41738", "name": "湘潭县",
+    "transcription": "Xiangtan Xian", "feature_type": "xian",
+    "english": "county", "years": "1370 ~ 1911",
+    "parent": "潭州府 (1370-1371) → 长沙府 (1372-1911)",
+    "lat": 27.8727, "lon": 112.91126, "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_41738",
+    "present_location": "湖南省湘潭市"},
+  "wikidata": {"id": "Q215755", "label": "Xiangtan 湘潭市",
+               "lat": 27.84306, "lon": 112.92283},
+  "dist_km": 3.49,
+  "verdict": "confirmed",
+  "verdict_note": "TGAZ records 湘潭縣 (county, 1370-1911, parent 潭州府→長沙府, seat = present Xiangtan city) at 3.5 km from Q215755. Confirms the hien reading; rejected Q703818 (Yongjia, Zhejiang) is unrelated.",
+  "notes": "CHGIS source note: 降湘潭州置, 属潭州府, 1372 属长沙府, 治所即今湖南省湘潭市驻地. 1820-layer hvd_717 at same point.",
+  "checked_at": "2026-10-22"
+}

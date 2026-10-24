@@ -1,0 +1,253 @@
+{
+  "checked_at": "2026-10-22",
+  "issue": "29",
+  "file": "29-tonkosz.md",
+  "place": "Tonkosz",
+  "dehergne_year": 1805,
+  "region": "Saratov oblast, Russia (Volga-German colony)",
+  "country": "Russia",
+  "identified_chinese": "",
+  "wikidata_id": "Q958741",
+  "queries": [
+    {
+      "name": "Saratov",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 3,
+      "hits": [
+        {
+          "sys_id": "hgr_345",
+          "name": "Саратов",
+          "transcription": "Saratov",
+          "years": "1785 ~ 1796",
+          "feature_type": "главный город (glavnyi gorod)",
+          "parent_name": "Саратовский уезд (Saratovskii uezd)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_70",
+          "name": "Саратовский уезд",
+          "transcription": "Saratovskii uezd",
+          "years": "1785 ~ 1796",
+          "feature_type": "уезд (uezd)",
+          "parent_name": "Саратовское Наместничество (Saratovskoe Namestnichestvo)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_29",
+          "name": "Саратовское Наместничество",
+          "transcription": "Saratovskoe Namestnichestvo",
+          "years": "1785 ~ 1796",
+          "feature_type": "Наместничество (Namestnichestvo)",
+          "parent_name": "Российская империя (Rossiiskaia imperiia)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Саратов",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 3,
+      "hits": [
+        {
+          "sys_id": "hgr_345",
+          "name": "Саратов",
+          "transcription": "Saratov",
+          "years": "1785 ~ 1796",
+          "feature_type": "главный город (glavnyi gorod)",
+          "parent_name": "Саратовский уезд (Saratovskii uezd)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_70",
+          "name": "Саратовский уезд",
+          "transcription": "Saratovskii uezd",
+          "years": "1785 ~ 1796",
+          "feature_type": "уезд (uezd)",
+          "parent_name": "Саратовское Наместничество (Saratovskoe Namestnichestvo)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_29",
+          "name": "Саратовское Наместничество",
+          "transcription": "Saratovskoe Namestnichestvo",
+          "years": "1785 ~ 1796",
+          "feature_type": "Наместничество (Namestnichestvo)",
+          "parent_name": "Российская империя (Rossiiskaia imperiia)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Саратов",
+      "year": 1795,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 3,
+      "hits": [
+        {
+          "sys_id": "hgr_345",
+          "name": "Саратов",
+          "transcription": "Saratov",
+          "years": "1785 ~ 1796",
+          "feature_type": "главный город (glavnyi gorod)",
+          "parent_name": "Саратовский уезд (Saratovskii uezd)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_70",
+          "name": "Саратовский уезд",
+          "transcription": "Saratovskii uezd",
+          "years": "1785 ~ 1796",
+          "feature_type": "уезд (uezd)",
+          "parent_name": "Саратовское Наместничество (Saratovskoe Namestnichestvo)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_29",
+          "name": "Саратовское Наместничество",
+          "transcription": "Saratovskoe Namestnichestvo",
+          "years": "1785 ~ 1796",
+          "feature_type": "Наместничество (Namestnichestvo)",
+          "parent_name": "Российская империя (Rossiiskaia imperiia)",
+          "lat": 51.533333,
+          "lon": 46.0,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Saratov",
+      "year": 1805,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Tonkosz",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Tonkoszorowka",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Тонкошуровка",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Mariental",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Мариенталь",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Sovetskoye",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Советское",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": {
+    "sys_id": "hgr_345",
+    "name": "Саратов",
+    "transcription": "Saratov",
+    "feature_type": "главный город (glavnyi gorod)",
+    "english": "chief town",
+    "years": "1785 ~ 1796",
+    "parent": "Саратовский уезд (Saratovskii uezd)",
+    "lat": 51.533333,
+    "lon": 46.0,
+    "data_source": "HGR",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hgr_345",
+    "present_location": "Saratov, Saratov Oblast, Russia",
+    "parents": [
+      {
+        "name": "Саратовский уезд",
+        "transcribed": "Saratovskii uezd",
+        "parent_id": "hgr_70",
+        "begin": "1785",
+        "end": "1796"
+      }
+    ],
+    "spellings": [
+      "Саратовъ",
+      "Саратов",
+      "Saratov"
+    ],
+    "source_note": "САРАТОВЪ, главный городъ Намѣстничества сего имени…"
+  },
+  "wikidata": {
+    "id": "Q958741",
+    "label": "Sovetskoye (Mariental) / 苏维埃茨科耶_(萨拉托夫州)",
+    "lat": 51.45,
+    "lon": 46.733333333333
+  },
+  "dist_km": 51.61,
+  "verdict": "partially-confirmed",
+  "verdict_note": "TGAZ HGR has Saratov (chief town) and Saratov uezd/namestnichestvo, the parent the issue names, but no record of Tonkosz / Tonkoszorowka / Mariental / Sovetskoye; the locality itself is absent from the HGR layer.",
+  "notes": "HGR layer is 1785-1796, i.e. before the 1805 death; its coverage of the Volga-German colonies is not established by these queries. No hits under German, Polish, Russian or modern names. The 51.6 km figure compares the modern colony site (Q958741) with Saratov city, the district centre."
+}

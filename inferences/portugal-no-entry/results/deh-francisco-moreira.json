@@ -1,0 +1,49 @@
+{
+  "id": "deh-francisco-moreira",
+  "name": "Francisco Moreira",
+  "lugar": "Coimbra (noviciado do Colégio de Coimbra)",
+  "data": "1704-01-01",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido por prova directa: está na lista «Novitii Scholastici» da secção de Coimbra do catálogo de 1705, com a data exacta de entrada",
+  "resumo": "No catálogo de 1705 (ARSI Lus. 47, f. 72v), na secção do Colégio/Missão de Coimbra, a lista «Novitii Scholastici» inclui, com o n.º 211: «Fr. Franciscus Moreira ex Civitate Conimbricensi, eiusd. Dioec., natus an. 1689, ingressus Societ. 1. Januarii an. 1704. Vires optimae». Fez o noviciado em Coimbra, onde entrou a 1 de Janeiro de 1704. Não aparece na lista de noviços da Casa de Provação de Lisboa do mesmo catálogo (f. 86), o que afasta a hipótese lisboeta; em 1711 continua em Coimbra, onde Dehergne colheu a data (f. 125).",
+  "biografia": "Francisco Moreira (Moreyra), português, nasceu em Coimbra a 27 de Dezembro de 1689. Entrou na Companhia a 1 de Janeiro de 1704 e foi destinado à China: embarcou no S. Ana a 14 de Março de 1716 (W 1602) e chegou a Macau a 31 de Agosto. Afastado por causa da questão dos ritos, partiu como missionário para a Cochinchina em 1720 e morreu a 25 de Abril de 1739 «in missione», na província do Japão (HS 53a, 28; Pfister 643).",
+  "analise": [
+    {
+      "titulo": "1. A prova: a lista de noviços de Coimbra no catálogo de 1705",
+      "texto": "A f. 72v do códice Lus. 47 pertence ao catálogo de 1705 e abre a lista «Novitii Scholastici» da secção de Coimbra. Entre os noviços entrados em 1703-1704 figura, com o n.º 211:\n\n> Fr. Franciscus Moreira ex Civitate Conimbricensi, eiusd. Dioec., natus an. 1689, ingressus Societ. 1. Januarii an. 1704. Vires optimae. (ARSI Lus. 47, f. 72v)\n\nÉ a prova directa: Moreira foi noviço em Coimbra e aí entrou a 1 de Janeiro de 1704 (o mesmo dia que Dehergne indica, colhido na f. 125 do catálogo de 1711). Note-se que, no mesmo catálogo de 1705, os noviços de Lisboa estão numa secção distinta, a «Domus Probationis Ulyssiponensis» (ff. 85-86v) — e Moreira não figura nela.",
+      "fonte": "ARSI Lus. 47, f. 72v; lista de Lisboa nas ff. 85-86v"
+    },
+    {
+      "titulo": "2. Confirmação de residência em 1711 (f. 125)",
+      "texto": "No catálogo de 1711, f. 125 (secção da Missão de Coimbra), o n.º 152 dá o mesmo dia de entrada e a naturalidade coimbrã:\n\n> Fr. Franciscus Moreira Conimb. Dioec. eiusdem, natus 27. Dec. ann. 1689, ingressus Soc. 1. Jan. 1704. Valetudo sana, modo Philosophiae 3. anni. (ARSI Lus. 47, f. 125)\n\nÉ a folha citada por Dehergne, mas, sendo uma lista de residência, não provaria por si a casa de entrada: essa prova está na lista de noviços de 1705.",
+      "fonte": "ARSI Lus. 47, f. 125"
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 72v, n.º 211 (catálogo de 1705, secção de Coimbra, lista «Novitii Scholastici») — imagem `LUS. 47/072v.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/072v.jpg\"",
+      "o_que_prova": "«Fr. Franciscus Moreira ex Civitate Conimbricensi, eiusd. Dioec., natus an. 1689, ingressus Societ. 1. Januarii an. 1704. Vires optimae» — noviço de Coimbra, entrada a 1 de Janeiro de 1704",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 125, n.º 152 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/125.jpg\"",
+      "o_que_prova": "«Fr. Franciscus Moreira Conimb. Dioec. eiusdem, natus 27. Dec. ann. 1689, ingressus Soc. 1. Jan. 1704» — data exacta confirmada e residência em Coimbra em 1711",
+      "forca": "direta quanto à data"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 210, n.º 569 « Moreira (Moreyra), Francisco (port.) » — edited (`french-ocr`) · `pha page 65 210 --edited`",
+      "comando": "pha page 65 210 --edited",
+      "o_que_prova": "«N. Coïmbre 27 déc. 1689 - E. 1 janv. 1704 (Lus. 47, 125)» — notícia-base, sem lugar de entrada",
+      "forca": "indireta (fonte da data)"
+    }
+  ],
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-francisco-moreira]]",
+    "[[Missionários com local de entrada desconhecido - referências LUS]]"
+  ],
+  "nao_encontrado": "O pha não tem catálogos portugueses posteriores a 1625. Procurou-se «Francisco Moreira» e «Franciscus Moreira» no arquivo: os resultados são maioritariamente do homónimo setecentista de Angola e da Índia ou dos volumes de Rodrigues (doc 64), que o menciona como «sacerdote ... professor de Letras de Coimbra» sem indicar a casa do noviciado."
+}

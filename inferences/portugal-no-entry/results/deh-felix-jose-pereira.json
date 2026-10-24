@@ -1,0 +1,46 @@
+{
+  "id": "deh-felix-jose-pereira",
+  "name": "Félix-José Pereira",
+  "lugar": null,
+  "data": null,
+  "confianca": "nenhuma",
+  "sugestao_tabela": "",
+  "validacao": "data confirmada na fonte citada por Dehergne; lugar não estabelecido",
+  "resumo": "Dehergne (n.º 617) cita «Lus. 46, 269v» para a entrada de 14 de Janeiro de 1690. Confirmei que o fólio 269v de Lus. 46 pertence ao registo provincial (notícias com naturalidade, idade, «init. Soc.» e estudos, e os totais da casa), sem indicação da casa de entrada. O lugar não foi encontrado em nenhuma fonte disponível.",
+  "biografia": "Félix-José Pereira, natural de Lisboa (29 de Janeiro de 1674), sacerdote. Entrou na Companhia a 14 de Janeiro de 1690 (Dehergne, Lus. 46, 269v). Foi enviado ao Oriente como procurador do Japão, embarcando a 14 de Março de 1716 no *S. Ana* directo a Macau (chegou a 31 de Agosto de 1716); passou ao Tonkin, de que foi superior em 1721, e morreu no Tonkin a 7 de Março de 1723.",
+  "analise": [
+    {
+      "titulo": "A data de entrada e o que o fólio citado contém",
+      "texto": "Dehergne: «N. 29 janv. 1674, Lisbonne -E. 14 janv. 1690 (Lus. 46, 269v)». O fólio 269v de Lus. 46 (imagem LUS. 46/269v.jpg) é uma página do registo/notícias da província, com entradas numeradas que dão nome, naturalidade, idade, data de entrada e estudos, e no fim os totais (sacerdotes, escolásticos, coadjutores). Não regista a casa de entrada."
+    },
+    {
+      "titulo": "O que se procurou e não existe",
+      "texto": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 617 (doc 65), p. 236 — edited (`dehergne-ocr`)",
+      "comando": "pha page 65 236 --edited",
+      "o_que_prova": "notícia biográfica: «E. 14 janv. 1690 (Lus. 46, 269v)» — data e cota, sem lugar",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/269v.jpg\"",
+      "o_que_prova": "o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 236 — edited",
+      "comando": "pha page 65 236 --edited",
+      "o_que_prova": "os índices de nomes da obra (entidades nomeadas) não trazem nenhum lugar de entrada para este religioso",
+      "forca": "negativa"
+    }
+  ],
+  "nao_encontrado": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-felix-jose-pereira]]"
+  ]
+}

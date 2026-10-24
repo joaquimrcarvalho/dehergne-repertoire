@@ -1,0 +1,288 @@
+{
+  "issue": "31",
+  "file": "31-wouho.md",
+  "place": "Wouho",
+  "dehergne_year": 1772,
+  "region": "Anhui",
+  "country": "China",
+  "identified_chinese": "五河縣 (五河县)",
+  "wikidata_id": "Q1334665",
+  "queries": [
+    {
+      "name": "五河",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 5,
+      "hits": [
+        {
+          "sys_id": "hvd_43267",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1271 ~ 1545",
+          "feature_type": "县 (xian)",
+          "parent_name": "淮安军 (Huai'an Jun)",
+          "lat": 33.1326,
+          "lon": 117.87911,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_43268",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1549 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "凤阳府 (Fengyang Fu)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_1700",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121270",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_196384",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "五河",
+      "year": 1772,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_43268",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1549 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "凤阳府 (Fengyang Fu)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "五河县",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 5,
+      "hits": [
+        {
+          "sys_id": "hvd_43267",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1271 ~ 1545",
+          "feature_type": "县 (xian)",
+          "parent_name": "淮安军 (Huai'an Jun)",
+          "lat": 33.1326,
+          "lon": 117.87911,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_43268",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1549 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "凤阳府 (Fengyang Fu)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_1700",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121270",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_196384",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "Wuhe",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 6,
+      "hits": [
+        {
+          "sys_id": "hvd_95642",
+          "name": "乌河县",
+          "transcription": "Wuhe Xian",
+          "years": "618 ~ 626",
+          "feature_type": "县 (xian)",
+          "parent_name": "并州 (Bing Zhou)",
+          "lat": 38.04964,
+          "lon": 112.92767,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_43267",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1271 ~ 1545",
+          "feature_type": "县 (xian)",
+          "parent_name": "淮安军 (Huai'an Jun)",
+          "lat": 33.1326,
+          "lon": 117.87911,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_43268",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1549 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "凤阳府 (Fengyang Fu)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_1700",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121270",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 117.88253,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_196384",
+          "name": "五河县",
+          "transcription": "Wuhe Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "泗州 (Si Zhou)",
+          "lat": 33.13974,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    }
+  ],
+  "best_match": {
+    "sys_id": "hvd_43268",
+    "name": "五河縣",
+    "transcription": "Wuhe Xian",
+    "feature_type": "xian",
+    "english": "county",
+    "years": "1549 ~ 1911",
+    "parent": "凤阳府, 泗州",
+    "lat": 33.13974,
+    "lon": 117.88253,
+    "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/hvd_43268",
+    "present_location": "安徽五河县治",
+    "parents": [
+      {
+        "name": "凤阳府",
+        "transcribed": "Fengyang Fu",
+        "parent_id": "hvd_33521",
+        "begin": "1549",
+        "end": "1723"
+      },
+      {
+        "name": "泗州",
+        "transcribed": "Si Zhou",
+        "parent_id": "hvd_33336",
+        "begin": "1724",
+        "end": "1911"
+      }
+    ]
+  },
+  "wikidata_alt": {
+    "id": "Q359990",
+    "label": "Wuhu / 芜湖市",
+    "lat": 31.33398,
+    "lon": 118.36223,
+    "dist_km": 205.8,
+    "role": "existing (wrong) .cli link — rejected"
+  },
+  "wikidata": {
+    "id": "Q1334665",
+    "label": "Wuhe County / 五河县",
+    "lat": 33.14653,
+    "lon": 117.88618
+  },
+  "dist_km": 0.83,
+  "verdict": "confirmed",
+  "verdict_note": "TGAZ records 五河县 (county, 1549–1911), parent 泗州 from 1724 (凤阳府 before), present_location '安徽五河县治'; its point is 0.83 km from Wikidata Q1334665 (Wuhe County) and 205.8 km from Q359990 (Wuhu) — definitively Wuhe, not Wuhu.",
+  "notes": "The 1772 year query returns exactly hvd_43268, whose parent chain is 泗州 1724–1911 — matching Dehergne's 'near Szechow 泗州'. Confirms that the existing @wikidata:Q359990 (Wuhu) comment in sources/dehergne-l.cli:323 is wrong.",
+  "checked_at": "2026-10-22"
+}

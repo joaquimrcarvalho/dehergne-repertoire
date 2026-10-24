@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-22",
+  "issue": "17",
+  "file": "17-ponti-in-valle-tellina.md",
+  "place": "Ponti (in valle Tellina)",
+  "dehergne_year": 1685,
+  "region": "Ponte in Valtellina, Sondrio, Lombardy, Italy",
+  "country": "Italy",
+  "identified_chinese": "",
+  "wikidata_id": "Q39321",
+  "queries": [
+    {
+      "name": "Ponti",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Ponte",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Ponte in Valtellina",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Valtellina",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": null,
+  "wikidata": {
+    "id": "Q39321",
+    "label": "Ponte in Valtellina",
+    "lat": 46.183333333333,
+    "lon": 9.9833333333333
+  },
+  "dist_km": null,
+  "verdict": "outside-coverage",
+  "verdict_note": "TGAZ has no European layer; all four queries (Latin locative, Italian forms, valley name) returned 0 hits.",
+  "notes": "The identification as Ponte in Valtellina Q39321 rests on the archive evidence in the issue; TGAZ contributes nothing either way."
+}

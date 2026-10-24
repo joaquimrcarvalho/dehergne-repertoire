@@ -1,0 +1,61 @@
+{
+  "issue": "23",
+  "file": "23-siao-tchai-de-han-tchong-shensi.md",
+  "place": "Siao-tchai de Han-tchong, Shensi",
+  "dehergne_year": 1657,
+  "region": "Shaanxi / Hanzhong fu / Chenggu",
+  "country": "China",
+  "identified_chinese": "小寨子 (Xiao zhai zi); 城固縣 / 漢中府",
+  "wikidata_id": "Q1069968",
+  "queries": [
+    {"name": "小寨子", "year": null, "feature_type": null, "source": null,
+     "total": 1,
+     "hits": [
+       {"sys_id": "hvd_134896", "name": "小寨子", "transcription": "Xiaozhaizi", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "望都县 (Wangdu Xian)", "lat": 38.53627, "lon": 115.24108, "data_source": "CHGIS"}
+     ]},
+    {"name": "小寨", "year": null, "feature_type": null, "source": null,
+     "total": 11,
+     "hits": [
+       {"sys_id": "hvd_135779", "name": "小寨", "transcription": "Xiaozhai", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "迁安县 (Qian'an Xian)", "lat": 40.05238, "lon": 118.69942, "data_source": "CHGIS"},
+       {"sys_id": "hvd_158247", "name": "小寨村", "transcription": "Xiaozhaicun", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "昆明县 (Kunming Xian)", "lat": 25.01775, "lon": 102.98037, "data_source": "CHGIS"}
+     ]},
+    {"name": "小寨子", "year": null, "feature_type": null, "source": null,
+     "parent": "城固縣", "total": 0, "hits": []},
+    {"name": "小寨子", "year": null, "feature_type": null, "source": null,
+     "parent": "漢中府", "total": 0, "hits": []},
+    {"name": "城固", "year": null, "feature_type": null, "source": null,
+     "total": 5,
+     "hits": [
+       {"sys_id": "hvd_964", "name": "城固县", "transcription": "Chenggu Xian", "years": "1820 ~ 1820", "feature_type": "县 (xian)", "parent_name": "汉中府 (Hanzhong Fu)", "lat": 33.15713, "lon": 107.32794, "data_source": "CHGIS"},
+       {"sys_id": "hvd_71005", "name": "城固县", "transcription": "Chenggu Xian", "years": "629 ~ 0", "feature_type": "县 (xian)", "parent_name": "汉中郡 (Hanzhong Jun) [first of chain; last 汉中府 1368-1643]", "lat": 33.15713, "lon": 107.32794, "data_source": "CHGIS"},
+       {"sys_id": "hvd_121342", "name": "城固县", "transcription": "Chenggu Xian", "years": "1911 ~ 1911", "feature_type": "县 (xian)", "parent_name": "汉中府 (Hanzhong Fu)", "lat": 33.15713, "lon": 107.32794, "data_source": "CHGIS"}
+     ]},
+    {"name": "城固", "year": 1657, "feature_type": null, "source": null,
+     "total": 0, "hits": []}
+  ],
+  "best_match": {"sys_id": "hvd_964", "name": "城固县",
+    "transcription": "Chenggu Xian", "feature_type": "xian",
+    "english": "county", "years": "1820 ~ 1820",
+    "parent": "汉中府 (Hanzhong Fu)",
+    "lat": 33.15713, "lon": 107.32794, "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_964",
+    "present_location": "陕西城固县"},
+  "parent_matches": [
+    {"sys_id": "hvd_71005", "name": "城固县", "feature_type": "xian",
+     "years": "629 ~ 0 (open-ended)", "parent": "汉中府 (1368-1643) at end of chain",
+     "lat": 33.15713, "lon": 107.32794,
+     "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_71005"}
+  ],
+  "homonyms": [
+    {"sys_id": "hvd_134896", "name": "小寨子", "years": "1911 ~ 1911",
+     "parent": "望都县 (Wangdu Xian), Zhili", "lat": 38.53627, "lon": 115.24108,
+     "note": "Only 小寨子 in TGAZ; not the Chenggu village."}
+  ],
+  "wikidata": {"id": "Q1069968", "label": "Chenggu County 城固县",
+               "lat": 33.15405, "lon": 107.32536},
+  "dist_km": 0.42,
+  "verdict": "partially-confirmed",
+  "verdict_note": "TGAZ confirms 城固縣 (hvd_964, 1820, parent 漢中府; continuous hvd_71005) but not the village 小寨子 itself: its only 小寨子 record is a 1911 village under 望都县, Zhili (homonym).",
+  "notes": "year=1657 query returns 0 because the continuous 城固县 record hvd_71005 is open-ended (end 0) and dropped by the year filter. Village-level TGAZ coverage is 1820/1911 only.",
+  "checked_at": "2026-10-22"
+}

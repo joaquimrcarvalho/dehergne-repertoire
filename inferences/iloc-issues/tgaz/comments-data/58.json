@@ -1,0 +1,158 @@
+{
+  "github_issue": "58",
+  "comment_file": "candidate-issue-58.md",
+  "issue": "58",
+  "cross_ref": "23",
+  "place": "Siao-tchai de Han-tchong",
+  "dehergne_year": 1657,
+  "region": "Shaanxi (Chenggu county, Hanzhong fu)",
+  "country": "China",
+  "identified_chinese": "小寨子 / 城固縣",
+  "wikidata_id": "Q1069968",
+  "queries": [
+    {
+      "name": "小寨子",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_134896",
+          "name": "小寨子",
+          "transcription": "Xiaozhaizi",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "望都县 (Wangdu Xian)",
+          "lat": 38.53627,
+          "lon": 115.24108,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "小寨",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "total": 11,
+      "hits": [
+        {
+          "sys_id": "hvd_135779",
+          "name": "小寨",
+          "transcription": "Xiaozhai",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "迁安县 (Qian'an Xian)",
+          "lat": 40.05238,
+          "lon": 118.69942,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_158247",
+          "name": "小寨村",
+          "transcription": "Xiaozhaicun",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "昆明县 (Kunming Xian)",
+          "lat": 25.01775,
+          "lon": 102.98037,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "小寨子",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": "城固縣",
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "小寨子",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": "漢中府",
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "城固",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "total": 5,
+      "hits": [
+        {
+          "sys_id": "hvd_964",
+          "name": "城固县",
+          "transcription": "Chenggu Xian",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "汉中府 (Hanzhong Fu)",
+          "lat": 33.15713,
+          "lon": 107.32794,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_71005",
+          "name": "城固县",
+          "transcription": "Chenggu Xian",
+          "years": "629 ~ 0",
+          "feature_type": "县 (xian)",
+          "parent_name": "汉中郡 (Hanzhong Jun) [first of chain; last 汉中府 1368-1643]",
+          "lat": 33.15713,
+          "lon": 107.32794,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121342",
+          "name": "城固县",
+          "transcription": "Chenggu Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "汉中府 (Hanzhong Fu)",
+          "lat": 33.15713,
+          "lon": 107.32794,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "城固",
+      "year": 1657,
+      "feature_type": null,
+      "source": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": {
+    "sys_id": "hvd_964",
+    "name": "城固县",
+    "transcription": "Chenggu Xian",
+    "feature_type": "xian",
+    "english": "county",
+    "years": "1820 ~ 1820",
+    "parent": "汉中府 (Hanzhong Fu)",
+    "lat": 33.15713,
+    "lon": 107.32794,
+    "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_964",
+    "present_location": "陕西城固县"
+  },
+  "wikidata": {
+    "id": "Q1069968",
+    "label": "Chenggu County / 城固县",
+    "lat": 33.15405,
+    "lon": 107.32536
+  },
+  "dist_km": 0.42,
+  "verdict": "partially-confirmed",
+  "verdict_note": "Same place as iloc issue 23: 城固縣 hvd_964 / hvd_71005 is 0.4 km from Q1069968; the village 小寨子 is absent (the one TGAZ record is a Zhili homonym), and Q515573 is Hanzhong city, 29 km away.",
+  "notes": "",
+  "checked_at": "2026-10-22"
+}

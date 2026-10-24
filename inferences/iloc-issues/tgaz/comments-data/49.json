@@ -1,0 +1,520 @@
+{
+  "github_issue": "49",
+  "comment_file": "candidate-issue-49-check.md",
+  "issue": "49",
+  "cross_ref": "14",
+  "place": "Pé-pou, Linkiang fou",
+  "dehergne_year": 1787,
+  "region": "Jiangxi (Linjiang fu / Qingjiang)",
+  "country": "China",
+  "identified_chinese": "臨江府 / 清江縣 (prefecture only)",
+  "wikidata_id": "Q197394",
+  "queries": [
+    {
+      "name": "臨江府",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 7,
+      "hits": [
+        {
+          "sys_id": "hvd_195228",
+          "name": "临江府",
+          "transcription": "Lin'an Fu",
+          "years": "1911 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "江西 (Jiangxi)",
+          "lat": 28.01557,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_32539",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1363 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "江西行省 (Jiangxi Xingsh)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97119",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1363 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 28.01557,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_9640",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "江西 (Jiangxi)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_79270",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1909 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 47.65402,
+          "lon": 132.51485,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_120456",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1911 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 47.65361,
+          "lon": 132.51399,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_195465",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1911 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "吉林 (Jilin)",
+          "lat": 47.65361,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "临江府",
+      "year": 1787,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 2,
+      "hits": [
+        {
+          "sys_id": "hvd_32539",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1363 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "江西行省 (Jiangxi Xingsh)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97119",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1363 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 28.01557,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "Linjiang",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 49,
+      "hits": [
+        {
+          "sys_id": "hvd_137328",
+          "name": "临江",
+          "transcription": "Linjiang",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "浦城县 (Pucheng Xian)",
+          "lat": 27.8237,
+          "lon": 118.44543,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_165505",
+          "name": "临江",
+          "transcription": "Linjiang",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "",
+          "lat": 29.24619,
+          "lon": 105.96331,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_164218",
+          "name": "临江",
+          "transcription": "Linjiang",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "",
+          "lat": 30.2082,
+          "lon": 104.9506,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_151819",
+          "name": "临江",
+          "transcription": "Linjiang",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "文县 (Wen Xian)",
+          "lat": 33.06407,
+          "lon": 104.93819,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_159453",
+          "name": "临江",
+          "transcription": "Linjiang",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "永北厅 (Yongbei Ting)",
+          "lat": 26.3165,
+          "lon": 101.05949,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97119",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1363 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 28.01557,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_32539",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1363 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "江西行省 (Jiangxi Xingsh)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_9640",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "江西 (Jiangxi)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_1892",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 28.01557,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_79270",
+          "name": "临江府",
+          "transcription": "Linjiang Fu",
+          "years": "1909 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 47.65402,
+          "lon": 132.51485,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "清江县",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 16,
+      "hits": [
+        {
+          "sys_id": "hvd_105251",
+          "name": "清化郡",
+          "transcription": "Qinghua Jun",
+          "years": "742 ~ 757",
+          "feature_type": "郡 (jun)",
+          "parent_name": "",
+          "lat": 30.27226,
+          "lon": 109.47861,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_45855",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "585 ~ 1258",
+          "feature_type": "县 (xian)",
+          "parent_name": "施州 (Shi Zhou)",
+          "lat": 30.27226,
+          "lon": 109.47861,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_40941",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "938 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "洪州 (Hong Zhou)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_45856",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "1259 ~ 1275",
+          "feature_type": "县 (xian)",
+          "parent_name": "施州 (Shi Zhou)",
+          "lat": 30.26455,
+          "lon": 109.57906,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_45857",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "1276 ~ 1285",
+          "feature_type": "县 (xian)",
+          "parent_name": "施州 (Shi Zhou)",
+          "lat": 30.27226,
+          "lon": 109.47861,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_795",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "临江府 (Linjiang Fu)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121738",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "临江府 (Lin'an Fu)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_196782",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "临江府 (Lin'an Fu)",
+          "lat": 28.01557,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105395",
+          "name": "施州",
+          "transcription": "Shi Zhou",
+          "years": "585 ~ 606",
+          "feature_type": "州 (zhou)",
+          "parent_name": "",
+          "lat": 30.27226,
+          "lon": 109.47861,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105254",
+          "name": "施州",
+          "transcription": "Shi Zhou",
+          "years": "618 ~ 618",
+          "feature_type": "州 (zhou)",
+          "parent_name": "",
+          "lat": 30.27226,
+          "lon": 109.47861,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "清江县",
+      "year": 1787,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_40941",
+          "name": "清江县",
+          "transcription": "Qingjiang Xian",
+          "years": "938 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "洪州 (Hong Zhou)",
+          "lat": 28.01557,
+          "lon": 115.39899,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "白埠",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_142293",
+          "name": "白埠圩",
+          "transcription": "Baibuxu",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "会昌县 (Huichang Xian)",
+          "lat": 25.27257,
+          "lon": 115.74715,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "白埠",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": "临江府",
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "北埠",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "百步",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_126481",
+          "name": "百步梯",
+          "transcription": "Baibuti",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "花县 (Hua Xian)",
+          "lat": 23.55918,
+          "lon": 113.297,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "百步",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": "临江府",
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "裴埠",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": {
+    "sys_id": "hvd_32539",
+    "name": "臨江府",
+    "transcription": "Linjiang Fu",
+    "feature_type": "fu",
+    "english": "superior prefecture",
+    "years": "1363 ~ 1911",
+    "parent": "江西行省, 江西布政使司, 江西省",
+    "lat": 28.01557,
+    "lon": 115.39899,
+    "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/hvd_32539",
+    "present_location": "江西樟树市西南临江镇",
+    "parents": [
+      {
+        "name": "江西行省",
+        "transcribed": "Jiangxi Xingsh",
+        "parent_id": "hvd_30142",
+        "begin": "1363",
+        "end": "1375"
+      },
+      {
+        "name": "江西布政使司",
+        "transcribed": "Jiangxi Buzhen",
+        "parent_id": "hvd_30143",
+        "begin": "1376",
+        "end": "1644"
+      },
+      {
+        "name": "江西省",
+        "transcribed": "Jiangxi Sheng",
+        "parent_id": "hvd_30144",
+        "begin": "1645",
+        "end": "1911"
+      }
+    ]
+  },
+  "wikidata": {
+    "id": "Q197394",
+    "label": "Zhangshu / 樟树市",
+    "lat": 28.066667,
+    "lon": 115.5375
+  },
+  "dist_km": 14.73,
+  "verdict": "partially-confirmed",
+  "verdict_note": "Same place as iloc issue 14: 臨江府 hvd_32539 and 清江縣 confirmed, 14.7 km from the prefecture seat Q197394; no 白埠/北埠/百步/裴埠 candidate under 臨江府.",
+  "notes": "The comment's rejection of Q13802007 (白埠村 in Pizhou, Jiangsu, 756 km away) is consistent with the gazetteer.",
+  "checked_at": "2026-10-22"
+}

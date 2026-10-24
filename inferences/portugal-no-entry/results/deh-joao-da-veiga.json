@@ -1,0 +1,64 @@
+{
+  "id": "deh-joao-da-veiga",
+  "name": "João da Veiga",
+  "lugar": "Évora (Real Colégio do Espírito Santo — noviciado)",
+  "data": "1614-11-25",
+  "confianca": "média",
+  "sugestao_tabela": "Goa?",
+  "validacao": "sugestão «Goa» rejeitada. Encontrado como noviço com data de entrada expressa — «Ir. João da Veiga — Novemb. 25 — 1614» — na lista «Ir. Nouiços» do registo que precede o «Catalogo dos Padres e Irmãos do Coll.º de S. Antão» e sucede à secção de Évora do catálogo de 1617 (Lus. 39). Atribuo o noviciado a Évora (confiança média: a página não tem título de casa).",
+  "resumo": "Nas imagens ARSI que já tinham servido para os outros cinco encontrei João da Veiga numa lista de noviços com datas de admissão: «Ir. João da Veiga — Novemb. 25 — 1614» (a par de «Ir. Andre Diniz — Novemb. 25 — 1614»), no registo que fecha a parte de Évora e antecede o catálogo do colégio de S. Antão (Lus. 39, bloco de 1614-1617). Isto confirma o ano de 1614 de Dehergne, dá o dia (25 de Novembro) e rejeita de vez «Goa»: Veiga era noviço em Portugal e só embarcou em Lisboa em Abril de 1618.",
+  "biografia": "Nasceu em 1597 em «Verros». Entrou na Companhia em 25 de Novembro de 1614, como noviço em Portugal (a lista em que aparece é a de um noviciado português, muito provavelmente Évora); em 1617 já não está nas listas de Coimbra nem na de S. Roque. Embarcou para a China em meados de Abril de 1618, no S. Carlos (W 664); em 1620 estava no colégio de Goa (catálogo Goa 25, fólio 24, que dá 6 anos de Companhia — origem do «E. 1614» de Dehergne). Não consta dos catálogos de China de 1621 e 1626 nem do de Goa de 1627; Wicki anota «Mon.: Desp[edido]», isto é, foi despedido da Companhia.",
+  "analise": [
+    {
+      "titulo": "A prova direta: o noviço «Ir. João da Veiga», 25 de Novembro de 1614",
+      "texto": "No bloco Lus. 39 que contém o catálogo de 1617, a página que precede imediatamente o título «Catalogo dos Padres e Irmãos do Coll.º de S. Antão» fecha a lista dos religiosos da casa anterior com a secção dos noviços, com o dia e o ano de cada admissão:\n\n> Ir. Nouiços\n> P. Aluaro Taveres Mestre.\n> Ir. Andre Diniz — Novemb. 25 — 1614.\n> Ir. João da Veiga — Novemb. 25 — 1614.\n> Ir. Bertholameu Vaz — Janr. 14 — 1615 ...\n\nÉ a única página do arquivo (pha ou imagens) que nomeia João da Veiga em Portugal e a única que dá um dia para a sua entrada. Confirma Dehergne (E. 1614) e elimina a sugestão «Goa?». Imagem lida: /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/097v.jpg (página esquerda do spread, sem número de fólio visível)."
+    },
+    {
+      "titulo": "Porque atribuo a casa a Évora (e não a Coimbra ou Lisboa)",
+      "texto": "A página não traz título de casa, pelo que a atribuição é por contexto, com três argumentos: (1) posição no códice — a lista de noviços está imediatamente antes do catálogo do colégio de S. Antão e depois da secção de Évora (no catálogo de 1617 a ordem das casas é S. Roque, Coimbra, Évora, S. Antão), pelo que o registo inserido pertence à parte de Évora; (2) o mesmo registo numérico, na página anterior, põe «Ir. Gil d'Abreu» no 3.º curso — e Gil de Abreu é o noviço de Évora de 13 de Julho de 1611 (doc 52, p. 303) e figura na lista de Évora do catálogo de 1614 que Dehergne cita (Lus. 44 II, 320); (3) os noviços desta lista não são os de Coimbra — no catálogo breve de 1617 os noviços de Coimbra são outros (Bartolomeu de Abreu, Gregório Pinto, Silvestre Cardoso, Gaspar de Macedo, Miguel Brandão, João Cabral, António Veloso, Francisco de Faria, etc. — imagem /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg) e o Mestre de Noviços de Coimbra é o P. Diogo Monteiro, não o P. Álvaro Tavares que encabeça esta lista. Ressalva: P. Álvaro Tavares é documentado como «Reytor do Noviciado» em Lisboa em 1627 (Franco, Imagem da virtude... Lisboa, doc 53, p. 502), pelo que uma atribuição à Casa de Provação de Lisboa não pode ser excluída por completo — daí a confiança média."
+    },
+    {
+      "titulo": "«Goa» está excluído",
+      "texto": "A citação de Dehergne, «Goa 25, 24», é o catálogo de Goa de 1620 (Wicki usa a mesma cota para os n.os 640 e 662: «1620 war er noch Irmão in Goa (Goa 25, 23v / 25v)»): dá a residência de 1620 e o ano de entrada, não o lugar. Em Abril de 1618 Veiga embarcou em Lisboa como irmão da Companhia (Wicki doc 66, p. 44, n.º 664; Memorial das Missões, doc 67, p. 34), quatro anos depois de entrar: o noviciado foi português."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, Lus. 39, registo de noviços do bloco de 1614-1617 (página imediatamente anterior ao «Catalogo dos Padres e Irmãos do Coll.º de S. Antão»): «Ir. João da Veiga — Novemb. 25 — 1614», sob o título «Ir. Nouiços» e com «P. Aluaro Taveres Mestre» à cabeça — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/097v.jpg (página esquerda do spread)",
+      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/097v.jpg\"",
+      "o_que_prova": "João da Veiga era noviço em Portugal e entrou a 25 de Novembro de 1614 — prova direta do ano e do dia; exclui «Goa»; a casa (noviciado) é a da secção que precede S. Antão, isto é, Évora (por contexto, sem título de casa na página)",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, Lus. 39, fol. 97, catálogo breve de 1617, secção «Irmãos Nouiços Estudantes» do Colégio de Coimbra — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg",
+      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg\"",
+      "o_que_prova": "negativa útil: os noviços de Coimbra em 1617 são outros (incluem António Veloso, mas não João da Veiga) — a lista de noviços onde Veiga aparece não é a de Coimbra",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Dehergne, Répertoire des Jésuites de Chine (doc 65), p. 324, entrada n.º 876 «Veiga, Joäo da (port.) scol.» — edited (french-ocr)",
+      "comando": "pha page 65 324 --edited",
+      "o_que_prova": "«N. 1597, Verros - E. 1614 (Goa 25, 24). Emb. mi-avril 1618 pour la Chine sur le S. Carlos (W 664). En 1620, au collège de Goa» — a data de 1614 que a lista de noviços confirma e a citação que gerou a sugestão errada «Goa»",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Wicki, Liste der Jesuiten-Indienfahrer 1541-1758 (doc 66), p. 44, envio 57 (1618), n.º 664 «Ir. João da Veiga, Port.» — edited (wicki-indienfahrer-1967)",
+      "comando": "pha page 66 44 --edited",
+      "o_que_prova": "embarque em Lisboa, em Abril de 1618, como irmão da Companhia — confirma que a entrada (1614) foi em Portugal",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Biblioteca Pública de Évora, Memorial das Missões... (doc 67), p. 34 — edited (missiones-catalogue)",
+      "comando": "pha page 67 34 --edited",
+      "o_que_prova": "«I[rmã]o João da Veiga português» na lista da missão de 1618, a par de Gil de Abreu, Álvaro Cabral, João Ferreira e Matias de Sousa",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "Fólios/imagens inspecionados antes desta descoberta: Lus. 44 II, fols 313v, 315, 320 e 321 (catálogo de Janeiro de 1614) — não está nas listas de Coimbra nem de Évora dessas páginas; Lus. 39, fols 93v-101 (bloco de 1617: S. Roque, Coimbra, Évora, registo de noviços, início de S. Antão) — não está em S. Roque nem em Coimbra. Não existem no pha os fólios de base de Dehergne (Lus. 44 I, 156; Lus. 44 II, 313-361) nem o catálogo Goa 25. A página onde o encontrei não tem título de casa visível, donde a confiança média quanto à casa (Évora), embora o ano, o dia e a exclusão de Goa sejam firmes.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-joao-da-veiga]]",
+    "[[João da Veiga]]",
+    "[[Portugal no entry 1618]]"
+  ]
+}

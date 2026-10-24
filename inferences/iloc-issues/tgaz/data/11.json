@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-22",
+  "issue": "11",
+  "file": "11-moulins.md",
+  "place": "Moulins",
+  "dehergne_year": 1689,
+  "region": "Allier, Auvergne-Rhône-Alpes, France",
+  "country": "France",
+  "identified_chinese": "",
+  "wikidata_id": "Q184883",
+  "queries": [
+    {
+      "name": "Moulins",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Molins",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Molini",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": null,
+  "wikidata": {
+    "id": "Q184883",
+    "label": "Moulins",
+    "lat": 46.564722222222,
+    "lon": 3.3325
+  },
+  "dist_km": null,
+  "verdict": "outside-coverage",
+  "verdict_note": "TGAZ has no European layer; all three queries (French and the Latin 'Molini') returned 0 hits.",
+  "notes": "The identification as Moulins (Allier) Q184883 rests on the archive evidence in the issue; TGAZ contributes nothing either way."
+}

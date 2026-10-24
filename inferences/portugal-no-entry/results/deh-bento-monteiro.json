@@ -1,0 +1,74 @@
+{
+ "id": "deh-bento-monteiro",
+ "name": "Bento Monteiro",
+ "lugar": "Coimbra (Noviciado de Coimbra)",
+ "data": "1732-06-27",
+ "confianca": "alta",
+ "sugestao_tabela": "",
+ "validacao": "lugar estabelecido em fonte primária (registo provincial de entradas; confirmado pelo apêndice impresso n.º 212)",
+ "resumo": "O registo provincial das entradas fecha o caso: «Bento Monteyro n.º de Coimbra, f.º leg.º de Mattheus Monteyro e de Thereza Muniz, Naceo no 1.º de Junho de 1718: Entrou no Nov.º de Coimbra a 27 de Junho de 1732. Entrou p.º Estudante da Prov.ª» (BNP, Pombalina 231, f. 29r; imagem `hires_000067.jpg`). O lugar de entrada é **Coimbra**, a sua terra natal.",
+ "biografia": "Bento Monteiro (Monteyro) nasceu em Coimbra a 1 de Junho de 1718. Entrou na Companhia a 27 de Junho de 1732. Embarcou como não-sacerdote para o Japão a 13 de Abril de 1735 (W 1827) e foi ordenado sacerdote depois de 1742. Professou os 4 votos a 2 de Fevereiro de 1751 — o Dehergne nota que «il oublie de dire où». O catálogo de 1751 diz que «foi procurador em Goa da vice-província da China» e é «agora procurador da província do Japão»; não constando do catálogo de 1753, teria morrido antes dessa data.",
+ "analise": [
+  {
+   "titulo": "A data e a ausência de lugar",
+   "texto": "A notícia do Dehergne diz:\n\n> `Monteiro (Monteyro), Bento (port.) P. 561 N. 1 juin 1718, Coïmbre - E. 27 juin 1732 (Lus. 48, 90., JS 25, 286). Emb., non prêtre, pour le Japon, 13 avril 1735 (W 1827)… V. il oublie de dire où, 2 févr. 1751 (Lus. 17, 15., JS 25, 287)`\n\n— Joseph Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 561 na base Timelink (atributo `dehergne/obs`) · `python3 tools/packet.py deh-bento-monteiro`\n\nO próprio autor observa, a propósito dos votos, que a fonte «esquece» o lugar — sinal de que trabalhava com catálogos que davam datas sem casas. Para a entrada cita o fólio 90 do códice Lus. 48, o mesmo que cita para João de Loureiro (3 de Maio de 1732): dois noviços com datas diferentes no mesmo fólio, isto é, uma página de catálogo com várias pessoas, e não a identificação de uma casa."
+  },
+  {
+   "titulo": "Onde se procurou",
+   "texto": "Verificaram-se Pfister t. 2 (doc 50 — o único Monteiro é o irmão Estanislau Monteiro, n.º 358, impresso p. 794, outro religioso), Backer-Sommervogel (docs 138-149: em doc 142, pp. 629-630, os «MONTEIRO» são Antoine, Ignace e outros, não Bento), Wicki (doc 66, anotação ao n.º 1827, p. 162: apenas «—. - Lit.: Humbert 350 Nr. 78»), doc 64 (pp. 166-168: só o reitor Manuel Monteiro, homónimo) e os catálogos jesuítas do arquivo pha, que terminam em 1625. Este ponto ficou, porém, resolvido pelo registo provincial de entradas (BNP, Pombalina 231, f. 29r (imagem hires_000067.jpg)): ver a secção «A entrada na Companhia»."
+  },
+  {
+   "titulo": "A entrada na Companhia",
+   "texto": "O registo provincial das entradas fecha o caso: «Bento Monteyro n.º de Coimbra, f.º leg.º de Mattheus Monteyro e de Thereza Muniz, Naceo no 1.º de Junho de 1718: Entrou no Nov.º de Coimbra a 27 de Junho de 1732. Entrou p.º Estudante da Prov.ª» (BNP, Pombalina 231, f. 29r; imagem `hires_000067.jpg`). O lugar de entrada é **Coimbra**, a sua terra natal."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "*Catalogo dos Sojeitos… 1711-1758* (1909), doc 157, p. 17, n.º 212 — «Bento Monteiro | Coimbra | … | **Coimbra** | 27 junho» — edited (`jesuit-cat-1900`)",
+   "comando": "pha page 157 17 --edited",
+   "o_que_prova": "confirma o noviciado de Coimbra e a data de 27 de Junho de 1732",
+   "forca": "direta"
+  },
+  {
+   "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 561 (Bento Monteiro) na base Timelink, atributo `dehergne/obs`",
+   "comando": "python3 tools/packet.py deh-bento-monteiro",
+   "o_que_prova": "entrada em 27 de Junho de 1732 (Lus. 48, 90; JS 25, 286), sem lugar",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 162, anotação ao n.º 1827 — raw (`wicki-indienfahrer-1967`) · `pha page 66 162 --raw`",
+   "comando": "pha page 66 162 --raw",
+   "o_que_prova": "nenhum dado novo sobre a entrada (só a referência bibliográfica a Humbert)",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "Dehergne, *Répertoire des Jésuites de Chine de 1552 à 1800* (doc 65), p. 16 = pág. impressa XIV, « E. = Date d'entrée au noviciat. Nous indiquons la ville où il fait son noviciat et la province jésuite qui l'accueille » — raw (`ocr`) · `pha page 65 16`",
+   "comando": "pha page 65 16",
+   "o_que_prova": "o campo « E. » do Dehergne é, por definição, a data de entrada no noviciado, e o autor indica a cidade do noviciado sempre que a conhece; para as 12 pessoas deste lote deixou só a data, logo não tinha a cidade",
+   "forca": "contexto"
+  },
+  {
+   "citacao": "Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), pp. 165-168 = cap. « I — O Noviciado do Oriente » — raw (`ocr`) · `pha page 64 195`, `pha page 64 196`, `pha page 64 197`, `pha page 64 198`",
+   "comando": "pha page 64 196 ; pha page 64 197",
+   "o_que_prova": "em 1726-1738 havia em Portugal quatro noviciados (Lisboa/Monte Olivete, anexo ao Colégio de Coimbra, anexo ao de Évora, e — desde 27 de Abril de 1735 — o Noviciado das Missões da Índia, em Arroios, Lisboa, criado para as missões de Goa, Malabar, Japão e China)",
+   "forca": "contexto"
+  },
+  {
+   "citacao": "BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), f. 29r (imagem `hires_000067.jpg`) — leitura directa do manuscrito",
+   "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000067.jpg\"",
+   "o_que_prova": "o lugar de entrada na Companhia: «Bento Monteyro n.º de Coimbra, f.º leg.º de Mattheus Monteyro e de Thereza Muniz, Naceo no 1.º de Junho de 1718: Entrou no Nov.º de Coimbra a 27 de Junho de 1732. Entrou p.º Estudante da Prov.ª» — entrada no noviciado de Coimbra",
+   "forca": "direta"
+  },
+  {
+   "citacao": "ARSI, *Catalogus Provinciae Lusitanae ineunte anno MCMX* (1910), apêndice «Catalogo dos sojeitos que entraram em a Companhia de Jesus na Provincia de Portugal 1711-1758», n.º 212 — edição impressa (texto extraído em results/_scratch/app1910.txt)",
+   "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/LUSITANIAE_1910.pdf\"",
+   "o_que_prova": "o mesmo assento, impresso com coluna NOVICIADO (n.º 212): confirma a casa e a data lidas no manuscrito",
+   "forca": "direta"
+  }
+ ],
+ "nao_encontrado": "O caso fica resolvido pelo registo provincial de entradas (f. 29r), confirmado pelo apêndice impresso (n.º 212). O códice ARSI Lus. 48, f. 90, citado por Dehergne, não existe no arquivo nem em disco.",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-bento-monteiro]]"
+ ]
+}

@@ -1,0 +1,174 @@
+{
+  "checked_at": "2026-10-22",
+  "issue": "01",
+  "file": "01-czerczerse.md",
+  "place": "Czerczerse",
+  "dehergne_year": 1794,
+  "region": "Belarus (Rogachev district, Homiel region)",
+  "country": "Belarus",
+  "identified_chinese": "Чечерск / Chachersk",
+  "wikidata_id": "Q867722",
+  "queries": [
+    {
+      "name": "Чечерск",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hgr_619",
+          "name": "Чечерск",
+          "transcription": "Chechersk",
+          "years": "1785 ~ 1796",
+          "feature_type": "местечко (mestechko)",
+          "parent_name": "Рогачевский уезд (Rogachevskii uezd)",
+          "lat": 52.9164,
+          "lon": 30.9179,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Chechersk",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hgr_619",
+          "name": "Чечерск",
+          "transcription": "Chechersk",
+          "years": "1785 ~ 1796",
+          "feature_type": "местечко (mestechko)",
+          "parent_name": "Рогачевский уезд (Rogachevskii uezd)",
+          "lat": 52.9164,
+          "lon": 30.9179,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Czeczersk",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Czerczerse",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Chachersk",
+      "year": 1794,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Чечерск",
+      "year": 1794,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hgr_619",
+          "name": "Чечерск",
+          "transcription": "Chechersk",
+          "years": "1785 ~ 1796",
+          "feature_type": "местечко (mestechko)",
+          "parent_name": "Рогачевский уезд (Rogachevskii uezd)",
+          "lat": 52.9164,
+          "lon": 30.9179,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Rogachev",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 2,
+      "hits": [
+        {
+          "sys_id": "hgr_399",
+          "name": "Рогачев",
+          "transcription": "Rogachev",
+          "years": "1785 ~ 1796",
+          "feature_type": "город (gorod)",
+          "parent_name": "Рогачевский уезд (Rogachevskii uezd)",
+          "lat": 53.0934,
+          "lon": 30.0495,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_141",
+          "name": "Рогачевский уезд",
+          "transcription": "Rogachevskii uezd",
+          "years": "1785 ~ 1796",
+          "feature_type": "уезд (uezd)",
+          "parent_name": "Могилевское Наместничество (Mogilevskoe Namestnichestvo)",
+          "lat": 53.0934,
+          "lon": 30.0495,
+          "data_source": "HGR"
+        }
+      ]
+    }
+  ],
+  "best_match": {
+    "sys_id": "hgr_619",
+    "name": "Чечерск",
+    "transcription": "Chechersk",
+    "feature_type": "местечко (mestechko)",
+    "english": "town",
+    "years": "1785 ~ 1796",
+    "parent": "Рогачевский уезд (Rogachevskii uezd)",
+    "lat": 52.9164,
+    "lon": 30.9179,
+    "data_source": "HGR",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hgr_619",
+    "present_location": "Čačersk, Homiel Province, Belarus",
+    "parents": [
+      {
+        "name": "Рогачевский уезд",
+        "transcribed": "Rogachevskii uezd",
+        "parent_id": "hgr_141",
+        "begin": "1785",
+        "end": "1796"
+      }
+    ],
+    "spellings": [
+      "Чечерскъ",
+      "Чечерск",
+      "Chechersk"
+    ],
+    "source_note": "ЧЕЧЕРСКЪ, мѣстечко Могилевскаго Намѣстничества въ уѣздѣ города Рогачева…"
+  },
+  "wikidata": {
+    "id": "Q867722",
+    "label": "Chachersk / 察車爾斯克",
+    "lat": 52.916666666667,
+    "lon": 30.916666666667
+  },
+  "dist_km": 0.09,
+  "verdict": "confirmed",
+  "verdict_note": "TGAZ HGR records Чечерск (Chechersk) as a mestechko of Rogachev uezd, Mogilev namestnichestvo, 0.09 km from the Wikidata point; matches the issue's Chachersk/Rogachev identification.",
+  "notes": "HGR layer 1785-1796, inside the 1794 death date's period. TGAZ spells the town Чечерск/Chechersk, not Dehergne's Czerczerse/Czeczersk; the parent unit and present_location (Homiel, Belarus) match the issue. The --year facet behaved inconsistently for the Latin spelling (0 hits) but returned the record for the Cyrillic query."
+}

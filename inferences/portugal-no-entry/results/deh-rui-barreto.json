@@ -1,0 +1,56 @@
+{
+ "id": "deh-rui-barreto",
+ "name": "Rui Barreto",
+ "lugar": "Coimbra",
+ "data": "1568-12-28",
+ "confianca": "média",
+ "sugestao_tabela": "Coimbra (15681228)",
+ "validacao": "confirmada (lugar e data): a notícia editorial da Documenta Indica XI diz que entrou a 28 de dezembro de 1568 e que estudou casos em Coimbra; os catálogos de 1576 e 1577 colocam-no no Colégio de Coimbra, na classe de «Casos»",
+ "resumo": "Rui Barreto (Ruy, Ruiz, Rodericus), natural de Mora (diocese de Évora), entrou na Companhia a 28 de dezembro de 1568. A Documenta Indica XI declara a data e diz que «em Coimbra estudou casos de consciência», e os catálogos da província de Portugal de 1576 (doc 1) e de 1577 (doc 27) listam-no no Colégio de Coimbra, entre os que ouvem «Casos» — a mesma casa e a mesma matéria. A sugestão «Coimbra» da tabela fica confirmada. A reserva é que o vínculo a Coimbra é a casa onde estudou logo depois da entrada, não uma fórmula explícita «entrou em Coimbra».",
+ "biografia": "Natural de Mora, diocese de Évora, 1552. Entrou na Companhia a 28 de dezembro de 1568 e estudou casos de consciência em Coimbra; em 1576 e 1577 continua no Colégio de Coimbra, na classe de Casos. Embarcou, já sacerdote, no Chagas a 4 de abril de 1579 (W 206, viagem 26). Foi procurador nas Índias (1587), esteve no Japão (1594), em Nagasaki (1597) e em Macau (1610). Emitou os votos de coadjutor espiritual em junho de 1590 (JS 25, 32v). Morreu em 1611, a caminho do Japão, vítima de naufrágio no Fukien, morto por piratas (DI XI, 24). Dehergne assinala que é distinto de Rui Barreto, alcaide-mor de Faro.",
+ "analise": [
+  {
+   "titulo": "Verificação no catálogo de Coimbra de 1 de Janeiro de 1569 (resultado: negativo com reserva)",
+   "texto": "O catálogo de Coimbra de 1 de Janeiro de 1569 (LUS. 43 II a, f. 345, título «Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.») lista a comunidade por cursos e, no fólio seguinte (f. 346 = p. 349), os «**Novitii**» dessa casa — 25 nomes. **Rui Barreto não está entre eles.**\n\nComo ler este negativo: (a) se a data de 28 de Dezembro de 1568 é exacta, ele tinha quatro dias de noviciado quando o catálogo foi feito — um noviço acabado de entrar pode ainda não estar inscrito na lista; (b) o próprio Dehergne admite a variante «E. 28 déc. 1568, ou 1572», e nesse caso o catálogo de 1569 é anterior à entrada. O teste, portanto, não refuta Coimbra, mas também não a confirma: mostra apenas que ele não era um noviço já estabelecido em Coimbra em 1 de Janeiro de 1569.\n\n— ARSI, LUS. 43 II a, ff. 345-346 — imagens `LUS. 43 II a/345.jpg` e `346.jpg` · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg\"`"
+  },
+  {
+   "titulo": "A entrada na Companhia segundo a Documenta Indica",
+   "texto": "A notícia biográfica de Rodericus Barreto abre a Introdução geral do volume XI da Documenta Indica (que edita precisamente a viagem de 1579) e liga a data de entrada ao estudo em Coimbra:\n\n> «P[at]er Rodericus Barreto, natus in Mora (Évora) a. 1552, Societati se adiunxit die 28 Decembris 1568; Conimbricae casibus conscientiae studuit; infirma valetudine utens, inde a. 1579 neosacerdos iter indicum coepit.»\n\n— *Documenta Indica* XI (1577-1580) (doc 82), p. 56 (impr. 24*) — edited (`documenta-indica-ocr`) · `pha page 82 56 --edited`\n\nA construção latina («entrou a 28 de dezembro de 1568; em Coimbra estudou casos») situa Coimbra imediatamente depois da entrada, e é a casa onde o encontraremos até 1577."
+  },
+  {
+   "titulo": "Nos catálogos: Colégio de Coimbra, classe de Casos",
+   "texto": "O catálogo trienal de 1577 descreve o Colégio de Coimbra e, na rubrica «Casos», alinha Rui Barreto com outros estudantes de moral:\n\n> «Casos. P. Lopo de Abrunhosa — Leitor / P. Manuel da Costa — Leitor / João Baptista. / Diogo da Costa — subdiacono. / António Perez. / Rui Barreto. / Airas Botelho. / Luís Henriques.»\n\n— *Catálogo da província de Portugal, 1577* (doc 27), p. 4 (fólio 175) — edited (`jesuit-cat4`) · `pha page 27 4 --edited`\n\nNo catálogo de 1576, o mesmo grupo de «Casos» (Lopo de Abreu, Manuel da Costa, João Baptista, Diogo da Costa, Lourenço de Sá, António Perez, Rui Barreto, Aires Botelho) já aparece, embora o cabeçalho da casa não seja legível nessa página — *Catálogo da província de Portugal, 1576* (doc 1), p. 3 — edited (`jesuit-cat4`) · `pha page 1 3 --edited`. A identidade do grupo com o de 1577 (Coimbra) confirma a casa."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "ARSI, *Lus. 43 II a*, f. 345 (p. 348 impressa) — título «**Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.**»; f. 346 (p. 349) — lista dos «**Novitii**» de Coimbra (25 nomes: Balthasar …, Franciscus Guernet, Christophorus Simend, Georgius/Sebastianus/Gaspar Fernandes, Gaspar Siqueira, Petrus Lopes, Jacobus a Valle, Antonius Botelhus, Joannes a Gouvea, Petrus Teixeira, Christophorus/Andreas Pereira, Simon Couting, Petrus Alvares, Innocentius a Matos, Raphael Carneiro, Emanuel Fernandes, Franciscus Lopes Hisp., Andreas Gonçalves, Joannes ab Oliveira, Antonius Carvalhus) — **Rui Barreto não consta**",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/346.jpg\"",
+   "o_que_prova": "verificação da atribuição a Coimbra: o catálogo de Coimbra de 1 de Janeiro de 1569 não o inclui entre os noviços — negativo com reserva (entrada de 28 Dez. 1568, quatro dias antes; ou variante de 1572)",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "*Documenta Indica* XI (1577-1580) (doc 82), p. 56 (impr. 24*) — edited (`documenta-indica-ocr`) · `pha page 82 56 --edited`",
+   "comando": "pha page 82 56 --edited",
+   "o_que_prova": "entrou na Companhia a 28 de dezembro de 1568 e estudou casos de consciência em Coimbra",
+   "forca": "direta"
+  },
+  {
+   "citacao": "*Catálogo da província de Portugal, 1577* (doc 27), p. 4 (fólio 175) — edited (`jesuit-cat4`) · `pha page 27 4 --edited`",
+   "comando": "pha page 27 4 --edited",
+   "o_que_prova": "em 1577, no Colégio de Coimbra, Rui Barreto figura na lista dos que ouvem «Casos» — a mesma matéria que a Documenta Indica lhe atribui em Coimbra",
+   "forca": "indireta forte"
+  },
+  {
+   "citacao": "*Catálogo da província de Portugal, 1576* (doc 1), p. 3 — edited (`jesuit-cat4`) · `pha page 1 3 --edited`",
+   "comando": "pha page 1 3 --edited",
+   "o_que_prova": "em 1576 aparece no mesmo grupo de «Casos» que em 1577 (Lopo de Abreu, Manuel da Costa, João Baptista, Diogo da Costa, António Perez, Aires Botelho), o que reforça a casa de Coimbra",
+   "forca": "indireta"
+  }
+ ],
+ "nao_encontrado": "Verificação feita no catálogo de Coimbra de 1 de Janeiro de 1569 (LUS. 43 II a, ff. 345-346): não consta entre os 25 «Novitii» da casa. Negativo com reserva — entrada de 28 Dez. 1568, quatro dias antes do catálogo, ou variante de 1572 — pelo que não refuta a atribuição, mas também não a confirma; continua a assentar na notícia editorial da Documenta Indica XI («estudou casos em Coimbra») e nos catálogos de 1576-1577, que dão residência, não noviciado.",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-rui-barreto]]"
+ ]
+}

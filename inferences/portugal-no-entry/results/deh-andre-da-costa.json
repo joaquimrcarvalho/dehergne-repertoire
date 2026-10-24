@@ -1,0 +1,52 @@
+{
+  "id": "deh-andre-da-costa",
+  "name": "André da Costa",
+  "lugar": null,
+  "data": null,
+  "confianca": "nenhuma",
+  "sugestao_tabela": "",
+  "validacao": "lugar não estabelecido: o fólio citado por Dehergne (Lus. 46, 212v, n.º 528) pertence, segundo o índice do códice, à secção do Colégio do Porto do catálogo de 1690 (residência); as listas de noviços não o incluem",
+  "resumo": "O lugar de entrada não fica estabelecido. Dehergne cita «Lus. 46, 212v n.º 528»: segundo a tabela da folha de guarda, a p. 212 do catálogo de 1690 está na secção do Colégio do Porto (Braga em 211v, Porto em 212). É uma lista de residência em 1690, cujo número de anos de Companhia (12) deu o ano da entrada (1678) mas não a casa. Nas listas de noviços que li não figura nenhum «Andreas de Costa» que corresponda: em 1678 (Colégio de Coimbra, p. 8) não aparece; na Domus Probationis de 1681 (pp. 70-71) há um homónimo, «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446), entrado cerca de 1680 e portanto distinto do nosso, que em 1690 tinha 12 anos de Companhia.",
+  "biografia": "André da Costa, português, natural de Braga (1662). Entrou na Companhia em 1678. Sacerdote c. 1693; embarcou para a China em 1694 (Wicki 1334, 117.ª expedição; JS 134, 378v), mas passou à província de Goa: professou os 4 votos no noviciado de Choram (Goa) a 15 de Agosto de 1712 (Lus. 31, 188) e morreu em «Cuamani», província de Goa, a 28 de Julho de 1722 (HS 51, 33). Não está nos catálogos da China, mas nos de Goa.",
+  "analise": [
+    {
+      "titulo": "1. O que Dehergne diz e cita",
+      "texto": "«N. Braga, 1662 -E. 1678 (Lus. 46, 212v n.º 528). Emb. 1694 pour la Chine (W 1334., JS 134, 378v). P. v. 1693. V. au noviciat de Choram (province de Goa), 15 août 1712… M. « Cuamani », 28 juill. 1722 (HS 51, 33), province de Goa. N'est pas aux catal. de Chine, mais a ceux de Goa.» — a citação de entrada é o catálogo de 1690, onde o número 528 é a referência interna (Catalogus II) e a p. 212 uma lista de casas."
+    },
+    {
+      "titulo": "2. As listas de noviços",
+      "texto": "A lista «Fratres Novitii» do Colégio de Coimbra em 1678 (Lus. 46, p. 8, n.os 220-236) não inclui nenhum «Andreas de Costa»; se a sua entrada foi posterior ao catálogo (como acontece com os outros 1678 da lista de Dehergne), a lista contemporânea — a de 1679/1680 — não existe. Na lista da Domus Probationis de 1681 há um «Fr. Andreas de Costa, Bracharensis» (n.º 446) com 21 meses de Companhia (entrada c. 1680), que não pode ser o nosso (teria 30 meses), mas mostra a frequência do nome."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+      "o_que_prova": "estrutura do códice por casas: 1681 «Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»",
+      "forca": "indireta (instrumento de navegação do códice)"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
+      "o_que_prova": "em 1678 os noviços da província estavam no Colégio de Coimbra: 17 noviços com «Societ. mens.» de 4 a 17 meses, nenhum deles Carvalho, Simões ou Costa",
+      "forca": "direta (teor da lista de noviços de 1678)"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg\"",
+      "o_que_prova": "em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos",
+      "forca": "direta (teor da lista de noviços de 1681)"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 204 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-c`) · `python3 tools/packet.py deh-andre-da-costa`",
+      "comando": "python3 tools/packet.py deh-andre-da-costa",
+      "o_que_prova": "texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita",
+      "forca": "indireta (fonte da data)"
+    }
+  ],
+  "nao_encontrado": "Procurou-se: (1) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus. 46, p. 8) — não figura; (2) a lista de noviços da Domus Probationis de 1681 (Lus. 46, pp. 70-71) — só um homónimo, entrado c. 1680; (3) o fólio 212v do catálogo de 1690, citado por Dehergne — não foi aberto nesta missão, mas a tabela do índice do códice coloca-o na secção do Colégio do Porto (lista de residência); (4) buscas no pha por «André da Costa» — nenhuma notícia com a casa de entrada.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-andre-da-costa]]"
+  ]
+}

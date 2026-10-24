@@ -1,0 +1,429 @@
+{
+  "issue": "07",
+  "file": "07-lao-chan-oua-hou-kouang.md",
+  "place": "Lao chan oua, Hou-kouang",
+  "dehergne_year": 1759,
+  "region": "Huguang / Hubei",
+  "country": "China",
+  "identified_chinese": "老山洼 (candidate reading only; not identified)",
+  "wikidata_id": "Q2235155",
+  "queries": [
+    {
+      "name": "老山洼",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "老山窪",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "老山凹",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "牢山",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Laoshanwa",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Laoshan",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_19832",
+          "name": "劳山镇",
+          "transcription": "Laoshanzhen",
+          "years": "1820 ~ 1820",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "延安府 (Yan'an Fu)",
+          "lat": 36.35811,
+          "lon": 109.38454,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "老山",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "老山湾",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "老山窝",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "老山口",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "汉阳府",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 14,
+      "hits": [
+        {
+          "sys_id": "hvd_105066",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1277 ~ 1375",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_34336",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1277 ~ 1375",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97882",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1277 ~ 1375",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105007",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1380 ~ 1728",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_34302",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1380 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97880",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1380 ~ 1728",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105008",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1729 ~ 1762",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97881",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1729 ~ 1762",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105009",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1763 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97833",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1763 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "武昌府",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 11,
+      "hits": [
+        {
+          "sys_id": "hvd_34300",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1364 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 114.30666,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97872",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1364 ~ 1375",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105003",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1364 ~ 1375",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 114.30666,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97874",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1376 ~ 1379",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105001",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1376 ~ 1379",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 114.30666,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97865",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1380 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105002",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1380 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.57367,
+          "lon": 114.30666,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_1958",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.54139,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_9613",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "湖北 (Hubei)",
+          "lat": 30.54139,
+          "lon": 114.31919,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_120172",
+          "name": "武昌府",
+          "transcription": "Wuchang Fu",
+          "years": "1911 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "湖北 (Hubei)",
+          "lat": 30.56069,
+          "lon": 114.30573,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "汉阳府",
+      "year": 1759,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 3,
+      "hits": [
+        {
+          "sys_id": "hvd_34302",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1380 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_105008",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1729 ~ 1762",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 114.26899,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_97881",
+          "name": "汉阳府",
+          "transcription": "Hanyang Fu",
+          "years": "1729 ~ 1762",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 30.55224,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    }
+  ],
+  "best_match": null,
+  "parent_matches": [
+    {
+      "sys_id": "hvd_34302",
+      "name": "汉阳府",
+      "feature_type": "府 (fu)",
+      "years": "1380 ~ 1911",
+      "lat": 30.55224,
+      "lon": 114.26899,
+      "present_location": "今湖北武汉市汉阳"
+    },
+    {
+      "sys_id": "hvd_34300",
+      "name": "武昌府",
+      "feature_type": "府 (fu)",
+      "years": "1364 ~ 1911",
+      "lat": 30.57367,
+      "lon": 114.30666,
+      "present_location": "今湖北武汉市武昌"
+    }
+  ],
+  "wikidata": {
+    "id": "Q2235155",
+    "label": "Huguang / 湖廣省",
+    "lat": null,
+    "lon": null
+  },
+  "dist_km": null,
+  "verdict": "not-in-tgaz",
+  "verdict_note": "No village record matches any candidate reading: 老山洼 / 老山窪 / 老山凹 / 牢山 / 老山 / Laoshanwa all return 0; the only 'Laoshan' hit is 劳山镇 in distant 延安府 (Shaanxi). TGAZ neither confirms nor rejects the 老山洼 inference.",
+  "notes": "TGAZ has village-level (村鎮) records only for its 1820/1911 layers; the Huguang prefectures are present (汉阳府 hvd_34302, 武昌府 hvd_34300), but the source gives only the province, so no county-level parent can be attached to the vow place.",
+  "checked_at": "2026-10-22"
+}

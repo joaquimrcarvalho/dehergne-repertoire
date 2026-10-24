@@ -1,0 +1,319 @@
+{
+  "issue": "32",
+  "file": "32-yean-sam-perto-do-monte-chamado-da-cruz-yenping-fu.md",
+  "place": "Yean-sam, perto do monte chamado da Cruz, Yenping, Fukien",
+  "dehergne_year": 1649,
+  "region": "Fujian",
+  "country": "China",
+  "identified_chinese": "延平府 (Yean-sam / 十字山 not identified)",
+  "wikidata_id": "Q1337959",
+  "queries": [
+    {
+      "name": "延平府",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 8,
+      "hits": [
+        {
+          "sys_id": "hvd_32131",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1368 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "福建行省 (Fujian Xingshe)",
+          "lat": 26.64217,
+          "lon": 118.16918,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90017",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1368 ~ 1448",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90018",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1449 ~ 1470",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90019",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1471 ~ 1535",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90021",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1536 ~ 1733",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90022",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1734 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_2003",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 0.0,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_195170",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1911 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "福建 (Fujian)",
+          "lat": 0.0,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "延平",
+      "year": 1649,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 2,
+      "hits": [
+        {
+          "sys_id": "hvd_32131",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1368 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "福建行省 (Fujian Xingshe)",
+          "lat": 26.64217,
+          "lon": 118.16918,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90021",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1536 ~ 1733",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "Yanping",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 21,
+      "hits": [
+        {
+          "sys_id": "hvd_154473",
+          "name": "岩平",
+          "transcription": "Yanping",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "西隆州 (Xilong Zhou)",
+          "lat": 24.80352,
+          "lon": 105.0405,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_159011",
+          "name": "烟坪",
+          "transcription": "Yanping",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "永善县 (Yongshan Xian)",
+          "lat": 27.56779,
+          "lon": 103.3223,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_32131",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1368 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "福建行省 (Fujian Xingshe)",
+          "lat": 26.64217,
+          "lon": 118.16918,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90017",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1368 ~ 1448",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90018",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1449 ~ 1470",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90019",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1471 ~ 1535",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90021",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1536 ~ 1733",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_90022",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1734 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 26.64217,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_2003",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1820 ~ 1820",
+          "feature_type": "府 (fu)",
+          "parent_name": "",
+          "lat": 0.0,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_195170",
+          "name": "延平府",
+          "transcription": "Yanping Fu",
+          "years": "1911 ~ 1911",
+          "feature_type": "府 (fu)",
+          "parent_name": "福建 (Fujian)",
+          "lat": 0.0,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "十字山",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": {
+    "sys_id": "hvd_32131",
+    "name": "延平府",
+    "transcription": "Yanping Fu",
+    "feature_type": "fu",
+    "english": "prefecture",
+    "years": "1368 ~ 1911",
+    "parent": "福建行省, 福建布政使司, 福建省",
+    "lat": 26.64217,
+    "lon": 118.16918,
+    "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/hvd_32131",
+    "present_location": "福建省南平市",
+    "parents": [
+      {
+        "name": "福建行省",
+        "transcribed": "Fujian Xingshe",
+        "parent_id": "hvd_30018",
+        "begin": "1368",
+        "end": "1375"
+      },
+      {
+        "name": "福建布政使司",
+        "transcribed": "Fujian Buzheng",
+        "parent_id": "hvd_30019",
+        "begin": "1376",
+        "end": "1644"
+      },
+      {
+        "name": "福建省",
+        "transcribed": "Fujian Sheng",
+        "parent_id": "hvd_30012",
+        "begin": "1645",
+        "end": "1911"
+      }
+    ]
+  },
+  "wikidata": {
+    "id": "Q1337959",
+    "label": "Yanping District / 延平区",
+    "lat": 26.63958,
+    "lon": 118.1718
+  },
+  "dist_km": 0.39,
+  "verdict": "partially-confirmed",
+  "verdict_note": "TGAZ confirms 延平府 (prefecture, 1368–1911; present_location '福建省南平市'; 0.39 km from Q1337959 延平区), the prefectural anchor of the issue, but has no record of the village 'Yean-sam' nor of 十字山 (0 hits). The issue's own conclusion — only the Yenping anchor is justified — stands.",
+  "notes": "Village-level TGAZ coverage exists only for the 1820 and 1911 layers; the 1649 death place 'Yean-sam' (attested only in Dehergne's quotation of ARSI JS 49-V-13, f. 483v) is not a TGAZ record.",
+  "checked_at": "2026-10-22"
+}

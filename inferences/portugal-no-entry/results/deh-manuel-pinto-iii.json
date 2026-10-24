@@ -1,0 +1,49 @@
+{
+  "id": "deh-manuel-pinto-iii",
+  "name": "Manuel Pinto (III)",
+  "lugar": "Coimbra (noviciado do Colégio de Coimbra)",
+  "data": "1704-12-30",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido por prova directa (lista «Novitii Scholastici» de Coimbra, catálogo de 1705); identificação firmada pela concordância de lugar de origem (Nespereira), diocese (Viseu), ano de nascimento (1690) e data de entrada com a f. 133 citada por Dehergne",
+  "resumo": "Na lista «Novitii Scholastici» da secção de Coimbra do catálogo de 1705 (ARSI Lus. 47, f. 73) lê-se, com o n.º 228: «Fr. Emanuel Pin[t]o ex oppido Nespereira, Dioec. Viseensi, natus an. 1690, ingressus Societ. 30. Decemb. an. 1704. Vires mediocres». A f. 133 do catálogo de 1711 (secção do Colégio de Évora, onde então estudava filosofia) repete a mesma data e os mesmos dados de origem — é a folha citada por Dehergne para a data. O noviciado foi feito em Coimbra, onde entrou a 30 de Dezembro de 1704.",
+  "biografia": "Manuel Pinto (III), português, nome chinês Ping To Ma-no (Mou, Mou Jo-ché), nasceu em Nespereira, diocese de Viseu, a 4 de Agosto de 1690. Entrou na Companhia a 30 de Dezembro de 1704; embarcou no S. Ana a 14 de Março de 1716 (W 1600) e chegou a Macau a 31 de Agosto. Missionário na China de 1719 a 1729 (em Agosto de 1720 em Sungkiang), tornou-se a 23 de Fevereiro de 1728 o primeiro superior da nova casa de S. José de Macau; professou os 4 votos em Sungkiang a 15 de Agosto de 1723 (Lus. 14, 224). Em 1737 estava no seminário de Macau e morreu em Macau a 11 de Junho de 1743 (AHU ms 1659; Pfister 663).",
+  "analise": [
+    {
+      "titulo": "1. A prova: noviço de Coimbra (catálogo de 1705, f. 73)",
+      "texto": "A f. 73 continua a lista «Novitii Scholastici» da secção de Coimbra do catálogo de 1705; o n.º 228 é:\n\n> Fr. Emanuel Pin[t]o ex oppido Nespereira, Dioec. Viseensi, natus an. 1690, ingressus Societ. 30. Decemb. an. 1704. Vires mediocres. (ARSI Lus. 47, f. 73)\n\nO topónimo (Nespereira), a diocese (Viseu), o ano de nascimento (1690) e a data de entrada (30 de Dezembro de 1704) coincidem com a notícia de Dehergne para Manuel Pinto (III) (n.º 647). O noviciado foi feito em Coimbra.",
+      "fonte": "ARSI Lus. 47, f. 73"
+    },
+    {
+      "titulo": "2. A folha citada por Dehergne (f. 133, catálogo de 1711)",
+      "texto": "Em 1711 Pinto estava no Colégio de Évora, e é aí, na f. 133, n.º 343, que Dehergne leu a data: «Fr. Emanuel ... ex oppido Nespereyra, Dioec. Vizeensi, natus ... 1690, ingressus Societ. 30. Decemb. 1704», estudando então filosofia. Trata-se de uma lista de residência — prova a data, não a casa de entrada; a casa de entrada é a de Coimbra, atestada pela lista de noviços de 1705. O apelido está escrito de forma ambígua no manuscrito (pode ler-se Pinto/Pinho, e noutra passagem Lima), pelo que a identificação assenta nos restantes dados, todos concordantes.",
+      "fonte": "ARSI Lus. 47, f. 133"
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 73, n.º 228 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg\"",
+      "o_que_prova": "«Fr. Emanuel Pin[t]o ex oppido Nespereira, Dioec. Viseensi, natus an. 1690, ingressus Societ. 30. Decemb. an. 1704. Vires mediocres» — noviço de Coimbra, entrada a 30 de Dezembro de 1704",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 133, n.º 343 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg\"",
+      "o_que_prova": "mesmos dados de origem (Nespereira, diocese de Viseu, n. 1690) e mesma data de entrada (30 de Dezembro de 1704); é a folha citada por Dehergne, mas é lista de residência",
+      "forca": "direta quanto à data"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 244, n.º 647 « Pinto, Manuel (port.) (III) » — edited (`french-ocr`) · `pha page 65 244 --edited`",
+      "comando": "pha page 65 244 --edited",
+      "o_que_prova": "«N. Nespereira, d. de Viseu, 4 août 1690 -E. 30 déc. 1704 (Lus. 47, 133)» — notícia-base, com o lugar em branco",
+      "forca": "indireta (fonte da data)"
+    }
+  ],
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-manuel-pinto-iii]]",
+    "[[Missionários com local de entrada desconhecido - referências LUS]]"
+  ],
+  "nao_encontrado": "O pha não tem catálogos portugueses posteriores a 1625. Procurou-se «Manuel Pinto», «Manoel Pinto» e «Emanuel Pinto» no arquivo: além da própria notícia de Dehergne e das entradas de Wicki (doc 66), só se encontraram homónimos dos séculos XVI e XVII (doc 18, Schütte; doc 87, Monumenta Brasiliae; doc 68/80/82, Documenta Indica) e um «Fr. Emanuel Pinto» de Vila Nova, diocese de Coimbra, que entrou a 8 de Julho de 1699 (Lus. 47, f. 16, n.º 224) — pessoa diferente."
+}

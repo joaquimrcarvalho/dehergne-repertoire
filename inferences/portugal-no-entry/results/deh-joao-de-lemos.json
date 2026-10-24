@@ -1,0 +1,68 @@
+{
+  "id": "deh-joao-de-lemos",
+  "name": "João de Lemos",
+  "lugar": "Coimbra (Noviciado de Coimbra)",
+  "data": "1726-06-02",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido em fonte primária (registo provincial de entradas, confirmado pelo apêndice impresso n.º 654)",
+  "resumo": "O registo provincial das entradas dá a casa: «Joam de Lemos n.º de Quintella Bispado de Lamego entrou no Noviciado de Coimbra aos 2 de Junho de 1726. baptizado a 6 de Out.º de 1709» (BNP, Pombalina 231, f. 103v; imagem `hires_000214.jpg`); o apêndice impresso do mesmo registo (n.º 654) repete «Coimbra — 2 junho». O lugar de entrada é **Coimbra**, e não Lisboa ou Évora.",
+  "biografia": "João de Lemos nasceu em Quintela (Guintella), diocese de Lamego, a 6 de Outubro de 1709 (JS 25, 283v diz 21 de Setembro de 1709). Entrou na Companhia a 2 de Junho de 1726. Embarcou para Goa a 4 de Abril de 1730 (W 1744), depois para o Japão a 25 de Abril de 1732 (W 1799) e enfim « ad Sinas missus » cerca de 1733. Em 1737 estava em Macau, estudando teologia. Já não figura nos catálogos do Japão de 1742 nem no da China de 1741.",
+  "analise": [
+    {
+      "titulo": "A data e a sua fonte",
+      "texto": "A notícia do Dehergne, tal como está na base Timelink, diz:\n\n> `Lemos, João de (port.) P. 463 N. Guintella, d. de Lamego, 6 oct. 1709 -E. 2 juin 1726 (Lus. 47, 330v). Emb. pour Goa, 4 avril 1730 (W 1744)., pour le Japon, 25 avril 1732 (W 1799)., enfin « ad Sinas missus » v. 1733 (JS 184, 176). En 1737, il est à Macao (JS 134, 434), en théologie. JS 25, 283v le dit N. 21 sept. 1709, E. 2 juill. 1726.`\n\n— Joseph Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 463 na base Timelink (atributo `dehergne/obs`) · `python3 tools/packet.py deh-joao-de-lemos`\n\nO fólio citado (Lus. 47, 330v) é o catálogo trienal de 1726, como mostra o índice dactilografado do próprio códice: « Lus. 47, 1-349 — Catalogi triennales Prov. Lus. 1700-1726 » (ARSI, Lus. 47, f. 000v)."
+    },
+    {
+      "titulo": "Onde se procurou o lugar — e porque não se determina",
+      "texto": "O Dehergne define o seu campo « E. » como « Date d'entrée au noviciat » e declara que indica « la ville où il fait son noviciat » sempre que a conhece (doc 65, p. 16, pág. impressa XIV); para esta pessoa deixou o lugar em branco, e nenhuma das obras impressas consultadas o preenche: Pfister não tem notícia dele, Backer-Sommervogel também não, Franco, *Imagem da virtude* (noviciados de Lisboa, Évora e Coimbra, 1714-1719) só trata de noviços do século XVI-XVII e a sua entrada (1726) é posterior à fundação do Noviciado das Missões de Arroios, aberto a 27 de Abril de 1735 (doc 64, pp. 165-167). Em 1726 os noviciados existentes eram os de Lisboa (Monte Olivete), Coimbra e Évora, mas a fonte que poderia dizer qual deles o recebeu — o fólio 330v do códice Lus. 47 — não está na digitalização de trabalho, que termina no f. 252 (imagem `LUS. 47/252.jpg`). Este ponto ficou, porém, resolvido pelo registo provincial de entradas (BNP, Pombalina 231, f. 103v (imagem hires_000214.jpg)): ver a secção «A entrada na Companhia»."
+    },
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O registo provincial das entradas dá a casa: «Joam de Lemos n.º de Quintella Bispado de Lamego entrou no Noviciado de Coimbra aos 2 de Junho de 1726. baptizado a 6 de Out.º de 1709» (BNP, Pombalina 231, f. 103v; imagem `hires_000214.jpg`); o apêndice impresso do mesmo registo (n.º 654) repete «Coimbra — 2 junho». O lugar de entrada é **Coimbra**, e não Lisboa ou Évora."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 463 (João de Lemos) na base Timelink, atributo `dehergne/obs`",
+      "comando": "python3 tools/packet.py deh-joao-de-lemos",
+      "o_que_prova": "data de entrada 2 de Junho de 1726, com a cota Lus. 47, 330v",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice « Lus. 47, 1-349 — Catalogi triennales Prov. Lus. 1700-1726 » (imagem `LUS. 47/000v.jpg`) — manuscrito lido em imagem",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
+      "o_que_prova": "o códice Lus. 47 contém os catálogos trienais da província de Portugal de 1700 a 1726 (ff. 1-349) — portanto o fólio 330v citado pelo Dehergne para a entrada de João de Lemos existe no volume, mas não na digitalização de trabalho, que termina no f. 252",
+      "forca": "negativa"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine de 1552 à 1800* (doc 65), p. 16 = pág. impressa XIV, « E. = Date d'entrée au noviciat. Nous indiquons la ville où il fait son noviciat et la province jésuite qui l'accueille » — raw (`ocr`) · `pha page 65 16`",
+      "comando": "pha page 65 16",
+      "o_que_prova": "o campo « E. » do Dehergne é, por definição, a data de entrada no noviciado, e o autor indica a cidade do noviciado sempre que a conhece; para as 12 pessoas deste lote deixou só a data, logo não tinha a cidade",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), pp. 165-168 = cap. « I — O Noviciado do Oriente » — raw (`ocr`) · `pha page 64 195`, `pha page 64 196`, `pha page 64 197`, `pha page 64 198`",
+      "comando": "pha page 64 196 ; pha page 64 197",
+      "o_que_prova": "em 1726-1738 havia em Portugal três noviciados de província (Lisboa/Monte Olivete, anexo ao Colégio de Coimbra, anexo ao de Évora) e, desde 27 de Abril de 1735, o Noviciado das Missões da Índia (Arroios, Lisboa), criado para as missões de Goa, Malabar, Japão e China",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), f. 103v (imagem `hires_000214.jpg`) — leitura directa do manuscrito",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000214.jpg\"",
+      "o_que_prova": "o lugar de entrada na Companhia: «Joam de Lemos n.º de Quintella Bispado de Lamego entrou no Noviciado de Coimbra aos 2 de Junho de 1726. baptizado a 6 de Out.º de 1709.» — entrada no noviciado de Coimbra",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Catalogus Provinciae Lusitanae ineunte anno MCMX* (1911), apêndice «Catalogo dos sojeitos que entraram em a Companhia de Jesus na Provincia de Portugal 1711-1758», n.º 654 — edição impressa (texto extraído em results/_scratch/appendix.txt)",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/LUSITANIAE_1911.pdf\"",
+      "o_que_prova": "o mesmo assento, impresso com coluna NOVICIADO (n.º 654): confirma a casa e a data lidas no manuscrito",
+      "forca": "direta"
+    }
+  ],
+  "nao_encontrado": "O caso fica resolvido. Nota: o fólio citado por Dehergne para a data (ARSI, Lus. 47, f. 330v) continua fora da digitalização de trabalho (que termina no f. 252), mas o registo provincial de entradas — fonte primária directa — dá a casa (Coimbra) e repete a data (2 de Junho de 1726).",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-joao-de-lemos]]"
+  ]
+}

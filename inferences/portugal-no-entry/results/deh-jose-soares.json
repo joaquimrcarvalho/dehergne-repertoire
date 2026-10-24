@@ -1,0 +1,56 @@
+{
+  "id": "deh-jose-soares",
+  "name": "José Soares",
+  "lugar": null,
+  "data": null,
+  "confianca": "nenhuma",
+  "sugestao_tabela": "",
+  "validacao": "lugar não estabelecido: nenhuma das listas de noviços que sobrevivem para o período (1675, 1678, 1681, 1685) o inclui; a data (Março de 1673) só é conhecida pelas fontes JS que Dehergne cita",
+  "resumo": "O lugar de entrada não fica estabelecido. As listas de noviços portuguesas que sobrevivem não o incluem: o catálogo de 1675 (ARSI Lus. 45, secção do Colégio de Coimbra, pp. 450-451, 21 noviços com «Societ. N menses») e o de 1678 (ARSI Lus. 46, p. 8, «Fratres Novitii», n.os 220-236) são as únicas listas de noviços dos anos 1673-1678 e em nenhuma figura. O índice do catálogo de 1675 (Lus. 45, pp. 483-487), composto por nome próprio, não regista nenhum «Josephus Suarez/Soares» nas páginas que li. Para a data, Dehergne cita apenas JS 26, 55 e JS 134, 380 (catálogos da missão da China), códices que não existem no arquivo pha nem nas digitalizações disponíveis.",
+  "biografia": "José Soares (Suarez), português, natural de Santa Comba Dão, diocese de Coimbra (15 de Fevereiro de 1656). Entrou na Companhia em Março de 1673 (15, 23 ou 25 de Março, segundo as três variantes que Dehergne cita). Embarcou no Santo António a 4 de Abril de 1680 (Wicki 1197, 103.ª expedição) e chegou a Macau no mesmo ano. Esteve em Xangai (1684), Yangzhou (1685) e Pequim (1688), onde foi reitor do colégio (1692-1697); distribuiu socorros na fome de 1704, converteu os príncipes Sourniama e foi vice-provincial da China (1707-1711); em 1716 estava na Grande Muralha. Professou os 4 votos em Pequim a 15 de Agosto de 1690. Morreu em Pequim a 14 de Setembro de 1736.",
+  "analise": [
+    {
+      "titulo": "1. O que Dehergne diz e cita",
+      "texto": "«N. Santa Comba Dão, dioc. de Coïmbre, 15 févr. 1656 (JS 134, 397v). E. en mars 1673 (le 15, JS 26, 55., le 23., le 25, JS 134, 380).» — Dehergne não cita para a entrada nenhum catálogo português, apenas os catálogos da missão da China (JS), que não dão a casa do noviciado."
+    },
+    {
+      "titulo": "2. As listas de noviços dos anos 1673-1678 não o incluem",
+      "texto": "Só duas listas de noviços portuguesas cobrem 1673-1678: a do catálogo de 1675, no fim da secção do Colégio de Coimbra (Lus. 45, p. 451, n.os 201-221), e a do catálogo de 1678, também no fim da secção de Coimbra (Lus. 46, p. 8, «Fratres Novitii», n.os 220-236). Li ambas integralmente: nenhum «Josephus Suarez/Soares» figura nelas. Note-se que um noviço entrado em Março de 1673 já teria completado os dois anos de noviciado quando o catálogo de 1675 foi feito — mas continuaria a constar da secção da casa onde estudava, e não consta do índice do catálogo."
+    },
+    {
+      "titulo": "3. O que se procurou e não existe",
+      "texto": "O índice do catálogo de 1675 (pp. 483-487) não apresenta nenhum «Josephus Suarez/Soares» nas páginas que li (o índice é alfabético pelo nome próprio, e as entradas «Josephus …» que identifiquei são Lopes, Amney, a Cunha, Sessa, Duarte, Borges). Não há, nas digitalizações, catálogos portugueses de 1673, 1674, 1676, 1677, 1679 ou 1680; o códice Lus. 45 termina no catálogo de 1675 e o Lus. 46 começa no de 1678. O arquivo pha não tem os códices JS citados por Dehergne nem catálogos portugueses posteriores a 1625."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 45, pp. 450-451, secção do Colégio de Coimbra do catálogo de 1675: «Frat.» juniores (n.os 158-200) e noviços com «Societ. N menses» (n.os 201-221) — imagens `LUS. 45/450.jpg`, `LUS. 45/450v.jpg` e `LUS. 45/451.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg\"",
+      "o_que_prova": "em 1675 os noviços estavam no Colégio de Coimbra (21 noviços, «fuit 2 menses» a «fuit 22 menses»); nenhum deles é José de Almeida, José Soares ou Simão Pinto",
+      "forca": "direta (existência e teor da lista de noviços de 1675)"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
+      "o_que_prova": "em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa",
+      "forca": "direta (existência e teor da lista de noviços de 1678)"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 45, índice do catálogo de 1675, pp. 483-487, formato «nome — n. [número] — Fol. [fólio]» — imagens `LUS. 45/483.jpg` a `LUS. 45/487.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/486.jpg\"",
+      "o_que_prova": "o índice é alfabético pelo **nome próprio** (A = Antonius/Andreas/Augustinus, J = Jacobus/Joannes/Josephus/Julianus, S = Sebastianus/Stephanus/Simon…) e remete para número e fólio internos; nas páginas lidas não identifiquei nenhum «Josephus de Almeyda», «Josephus Suarez/Soares» nem «Simon Pinto»",
+      "forca": "indireta (busca negativa)"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 796 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-s`) · `python3 tools/packet.py deh-jose-soares`",
+      "comando": "python3 tools/packet.py deh-jose-soares",
+      "o_que_prova": "texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita",
+      "forca": "indireta (fonte da data)"
+    }
+  ],
+  "nao_encontrado": "Procurou-se: (1) o índice do catálogo de 1675 (Lus. 45, pp. 483-487) — nenhum «Josephus Suarez/Soares» nas páginas lidas; (2) a lista de noviços do Colégio de Coimbra de 1675 (Lus. 45, pp. 450-451) — não figura; (3) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus. 46, p. 8) — não figura; (4) a lista de noviços da Domus Probationis de 1681 (Lus. 46, pp. 70v-71) — não figura (e seria tardia); (5) buscas no arquivo pha por «Soares» e «Suarez» — só homónimos dos séculos XVI-XVII; (6) os códices JS 26 e JS 134, citados por Dehergne para a data, não existem no arquivo nem nas digitalizações de trabalho.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-jose-soares]]"
+  ]
+}

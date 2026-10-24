@@ -1,0 +1,41 @@
+{
+  "id": "deh-joao-lopes",
+  "name": "João Lopes",
+  "lugar": "Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)",
+  "data": "1688-03-16",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido: inscrito como noviço («Soc. ingressus est») na secção «Domus Probationis» do catálogo de 1690, com a data explícita",
+  "resumo": "No catálogo trienal de 1690 (ARSI, Lus. 46) a secção «Domus Probationis» (cabeçalho no f. 206, imagem `LUS. 46/205.jpg`; a mesma casa é chamada «Domus Probationis Ulyssipon.» no catálogo de 1681, f. 70v) abre com os seus religiosos e segue-se a lista dos noviços, ordenada pelas datas de entrada. Aí se lê, no f. 207: Fr. Joanni Lopez ex Familia Salgado, Diæc. Lamecensi 17. laborat an. 18. Soc. ingressus est 16 Martii an. 1688. studebat Dialecticæ.",
+  "biografia": "João Lopes, natural do Sabugal, diocese de Lamego (n. 1673), entrou na Companhia a 16 de Março de 1688 na Casa de Provação de Lisboa. Destinado à missão da China em 1692, embarcou nesse ano ainda não sacerdote (W 1315). Dehergne nota que o catálogo de Goa de 1694 cita outro P. João Lopes, natural de 1642 e entrado em Goa em 1658 — homónimo a não confundir.",
+  "analise": [
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O catálogo de 1690 (Lus. 46, f. 207) inscreve-o na lista dos noviços da Casa de Provação com a data explícita:\n\n> «370 / Fr. Joanni Lopez ex Familia Salgado, Diæc. Lamecensi 17. laborat an. 18. Soc. ingressus est 16 Martii an. 1688. studebat Dialecticæ.» (Lus. 46, f. 207)\n\nA naturalidade (Sabugal, diocese de Lamego), a idade (17 anos em 1690, tendo nascido em 1673) e a data (16 de Março de 1688) coincidem com a notícia do Dehergne («N. 1673, Sabugal, dioc. de Lamego -E. 16 mars 1688 (Lus. 46, 207)»). A lista é a dos noviços daquela casa no ano seguinte à entrada, pelo que o lugar de entrada é a Casa de Provação de Lisboa."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 207 (catálogo trienal da província de Portugal, 1690), lista de noviços da «Domus Probationis», n.º 370: «Fr. Joanni Lopez ex Familia Salgado, Diæc. Lamecensi 17. laborat an. 18. Soc. ingressus est 16 Martii an. 1688. studebat Dialecticæ.» — manuscrito ARSI lido directamente na imagem digital",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/206.jpg\"",
+      "o_que_prova": "que era noviço da Casa de Provação e a data exacta da entrada na Companhia",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 206 (catálogo de 1690): cabeçalho «Domus Probationis» a seguir aos religiosos da casa anterior; e ARSI, *Lusitania* 46, f. 70v (catálogo de 1681), onde a mesma casa é expressamente «Domus Probationis Ulyssipon.» (n.º 427, P. Vicente Leyrera, «modo Rector Domus Probationis Ulyssipon.») — manuscrito ARSI lido em imagem digital",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg\"",
+      "o_que_prova": "que a casa em cuja lista de noviços foi inscrito é a Casa de Provação de Lisboa",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine*, s.v. «Lopes, João», notícia integral na base Timelink",
+      "comando": "python3 tools/packet.py deh-joao-lopes",
+      "o_que_prova": "a mesma data de entrada e a citação «Lus. 46, 207»",
+      "forca": "indireta"
+    }
+  ],
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-joao-lopes]]"
+  ]
+}

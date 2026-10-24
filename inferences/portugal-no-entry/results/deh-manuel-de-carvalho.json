@@ -1,0 +1,36 @@
+{
+  "id": "deh-manuel-de-carvalho",
+  "name": "Manuel de Carvalho",
+  "lugar": "Coimbra (Noviciado de Coimbra)",
+  "data": "1724-04-02",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "novo",
+  "resumo": "Manuel de Carvalho (III), natural de Porto de Mós, bispado de Leiria, entrou no Noviciado de Coimbra para estudante a 2 de Abril de 1724, dia em que foi baptizado a 19 de Janeiro de 1710. O registo provincial de 1711-1758 (BNP, Pombalina 231) di-lo expressamente, com o nome de baptismo «Manoel Alvarez de Carvalho».",
+  "biografia": "N. Porto de Mós, diocese de Leiria, 14 (ou 19) de Janeiro de 1710. Noviciado de Coimbra desde 2-IV-1724. Embarcou para o Japão em 1732 (Wicki n.º 1800, como noviço). Missionário no Tonquim de 1736 a 1750, tomou os votos de coadjutor espiritual em Làngòi (Tonquim) a 12-XI-1741, passou depois à China. Preso em Macau a 5-VII-1762, encarcerado no forte de S. Julião (Lisboa) a 19-X-1764 e deportado para Itália a 9-VII-1767; morreu em Urbania a 23 de Março de 1787.",
+  "analise": [
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O registo provincial (BNP, Pombalina 231), nas folhas da letra M, ano de 1724:\n\n> «Manoel de Carvalho olim Manoel Alvarez de Carvalho n.º da V.ª de Porto de Moz Bisp.º de Leyria f.º leg.º de Alexandre Ferreyra e de Guiomar da Conceição; entrou no Noviciado de Coimbra p.ª Estudante aos 2 de Abril de 1724; foi baptizado aos 19 de Jan.º de 1710.»\n\n(imagem 273 da digitalização da BNP). O registo dá a casa — **Noviciado de Coimbra** — e a data exacta, que coincide com a que Dehergne tirara de ARSI Lus. 47, f. 309 e Lus. 48, f. 20v (2 de Abril de 1724). A naturalidade (Porto de Mós, diocese de Leiria) e o ano de baptismo (1710) confirmam a identificação. O baptismo a 19 de Janeiro explica a divergência entre a data de nascimento de Dehergne (14 de Janeiro) e a do registo."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Registo da Província de Portugal, «Catalogo dos Sogeitos que entrarão em a Comp.ª de Jesus na Provincia de Portugal: Começa em Jan.º de 1711» (BNP, Pombalina 231), folhas da letra M, ano de 1724 (imagem 273 da digitalização) — manuscrito lido directamente na imagem",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000273.jpg\"",
+      "o_que_prova": "entrada no Noviciado de Coimbra, para estudante, a 2 de Abril de 1724; natural de Porto de Mós, bispado de Leiria",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), aviso 150 — p. 100 ss.",
+      "comando": "pha page 65 100 --edited",
+      "o_que_prova": "«E. 2 avril 1724 (Lus. 47, 309, 48, 20v)» — a data fica confirmada; a casa não vinha indicada",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "ARSI Lus. 47 posteriores ao fólio 252 e Lus. 48 não estão em disco; o apêndice impresso de 1711-1758 que os transcreve só está disponível para as letras A-J (volumes de 1910 e 1911), faltando a parte M-Z.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-manuel-de-carvalho]]"
+  ]
+}

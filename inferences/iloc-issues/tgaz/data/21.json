@@ -1,0 +1,257 @@
+{
+ "issue": "21",
+ "file": "21-shaohing.md",
+ "place": "Shaohing",
+ "dehergne_year": 1706,
+ "region": "Zhejiang / Shaoxing fu",
+ "country": "China",
+ "identified_chinese": "紹興府 / 紹興 (Shaoxing)",
+ "wikidata_id": "Q42666",
+ "queries": [
+  {
+   "name": "紹興",
+   "year": null,
+   "feature_type": null,
+   "source": null,
+   "total": 10,
+   "hits": [
+    {
+     "sys_id": "hvd_32187",
+     "name": "绍兴府",
+     "transcription": "Shaoxing Fu",
+     "years": "1131 ~ 1275",
+     "feature_type": "府 (fu)",
+     "parent_name": "两浙东路 (Liangzhedong Lu)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    },
+    {
+     "sys_id": "hvd_32185",
+     "name": "绍兴府",
+     "transcription": "Shaoxing Fu",
+     "years": "1367 ~ 1911",
+     "feature_type": "府 (fu)",
+     "parent_name": "江南行省 (Jiangnan Xings)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    },
+    {
+     "sys_id": "hvd_32186",
+     "name": "绍兴路",
+     "transcription": "Shaoxing Lu",
+     "years": "1276 ~ 1366",
+     "feature_type": "路 (lu)",
+     "parent_name": "江淮行省 (Jianghuai Xing)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "紹興府",
+   "year": 1706,
+   "feature_type": null,
+   "source": null,
+   "total": 2,
+   "hits": [
+    {
+     "sys_id": "hvd_32185",
+     "name": "绍兴府",
+     "transcription": "Shaoxing Fu",
+     "years": "1367 ~ 1911",
+     "feature_type": "府 (fu)",
+     "parent_name": "江南行省 (Jiangnan Xings)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "Shaoxing",
+   "year": null,
+   "feature_type": null,
+   "source": null,
+   "total": 10,
+   "hits": [
+    {
+     "sys_id": "hvd_32185",
+     "name": "绍兴府",
+     "transcription": "Shaoxing Fu",
+     "years": "1367 ~ 1911",
+     "feature_type": "府 (fu)",
+     "parent_name": "江南行省 (Jiangnan Xings)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "Shanyin",
+   "year": null,
+   "feature_type": null,
+   "source": null,
+   "total": 12,
+   "hits": [
+    {
+     "sys_id": "hvd_40762",
+     "name": "山阴县",
+     "transcription": "Shanyin Xian",
+     "years": "815 ~ 1911",
+     "feature_type": "县 (xian)",
+     "parent_name": "越州 (Yue Zhou)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "Ciquione",
+   "year": null,
+   "feature_type": null,
+   "source": null,
+   "total": 0,
+   "hits": []
+  },
+  {
+   "name": "Shaoshing",
+   "year": null,
+   "feature_type": null,
+   "source": null,
+   "total": 0,
+   "hits": []
+  },
+  {
+   "name": "紹興府",
+   "year": 1586,
+   "feature_type": null,
+   "source": null,
+   "total": 2,
+   "hits": [
+    {
+     "sys_id": "hvd_32185",
+     "name": "绍兴府",
+     "transcription": "Shaoxing Fu",
+     "years": "1367 ~ 1911",
+     "feature_type": "府 (fu)",
+     "parent_name": "江南行省 (Jiangnan Xings)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    },
+    {
+     "sys_id": "hvd_90439",
+     "name": "绍兴府",
+     "transcription": "Shaoxing Fu",
+     "years": "1367 ~ 1810",
+     "feature_type": "府 (fu)",
+     "parent_name": "",
+     "lat": 30.00451,
+     "lon": 0.0,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "山陰縣",
+   "year": 1586,
+   "feature_type": null,
+   "source": null,
+   "total": 2,
+   "hits": [
+    {
+     "sys_id": "hvd_40762",
+     "name": "山阴县",
+     "transcription": "Shanyin Xian",
+     "years": "815 ~ 1911",
+     "feature_type": "县 (xian)",
+     "parent_name": "越州 (Yue Zhou)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    },
+    {
+     "sys_id": "hvd_95059",
+     "name": "山阴县",
+     "transcription": "Shanyin Xian",
+     "years": "1266 ~ 1911",
+     "feature_type": "县 (xian)",
+     "parent_name": "应州 (Ying Zhou)",
+     "lat": 39.44044,
+     "lon": 112.94273,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "會稽縣",
+   "year": 1586,
+   "feature_type": null,
+   "source": null,
+   "total": 1,
+   "hits": [
+    {
+     "sys_id": "hvd_40763",
+     "name": "会稽县",
+     "transcription": "Guiji Xian",
+     "years": "589 ~ 1911",
+     "feature_type": "县 (xian)",
+     "parent_name": "吴州 (Wu Zhou)",
+     "lat": 30.00451,
+     "lon": 120.57826,
+     "data_source": "CHGIS"
+    }
+   ]
+  },
+  {
+   "name": "Cixi",
+   "year": 1586,
+   "feature_type": null,
+   "source": null,
+   "total": 1,
+   "hits": [
+    {
+     "sys_id": "hvd_40732",
+     "name": "慈谿县",
+     "transcription": "Cixi Xian",
+     "years": "1418 ~ 1911",
+     "feature_type": "县 (xian)",
+     "parent_name": "宁波府 (Ningpo Fu)",
+     "lat": 29.97919,
+     "lon": 121.4442,
+     "data_source": "CHGIS"
+    }
+   ]
+  }
+ ],
+ "best_match": {
+  "sys_id": "hvd_32185",
+  "name": "绍兴府",
+  "transcription": "Shaoxing Fu",
+  "feature_type": "fu",
+  "english": "superior prefecture",
+  "years": "1367 ~ 1911",
+  "parent": "浙江省 (Zhejiang Sheng), 1645-1911",
+  "lat": 30.00451,
+  "lon": 120.57826,
+  "data_source": "CHGIS",
+  "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_32185",
+  "present_location": "今浙江绍兴市"
+ },
+ "wikidata": {
+  "id": "Q42666",
+  "label": "Shaoxing 紹興市",
+  "lat": 30.0,
+  "lon": 120.58333333333
+ },
+ "dist_km": 0.7,
+ "verdict": "confirmed",
+ "verdict_note": "TGAZ records 紹興府 (府, 1367-1911, Zhejiang) at the same point as Q42666 (0.7 km); name, level and province match the issue.",
+ "notes": "The 1131-1275 fu and 1276-1366 lu records plus the 附郭 山陰縣 (815-1911) confirm a continuous prefectural seat. Alias Ciquione (Almeida, 1586): TGAZ has 0 hits for Ciquione/Shaoshing/Shaohing (European spellings are not indexed); read through Dehergne's gloss the alias resolves to 紹興府 hvd_32185 (2 hits with year=1586), with the 附郭 counties 山陰縣 hvd_40762 and 會稽縣 hvd_40763 on the same point; village-level check impossible for 1586 (村鎮 layer only 1820/1911). TGAZ also places 慈谿县 hvd_40732 under 寧波府 Ningpo Fu, independently contradicting the Q706161 anchor on the 1586 Ciquione line.",
+ "checked_at": "2026-10-22"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "deh-goncalo-de-oliveira",
+ "name": "Gonçalo de Oliveira",
+ "lugar": "Coimbra (Colégio de Coimbra) — atribuição provisória",
+ "data": "1637 (Pfister/Dehergne) ou 1638 (o catálogo de 1645 dá-lhe «Societ. 7»)",
+ "confianca": "baixa",
+ "sugestao_tabela": "Coimbra; BD: ?/16370000",
+ "validacao": "atribuição provisória a Coimbra: a entrada de 1645 está em f. 646, n.º 484, e a leitura regressiva encontra o cabeçalho «Collegium Conimbricense» em f. 643v (n.º 401), sem outro cabeçalho de casa até ao n.º 502 (ff. 644-646). **Ressalva:** são 7 anos de Companhia, a lista é de irmãos coadjutores e não declara noviciado, e o próprio Dehergne duvidava da identificação («Serait-ce le même?»).",
+ "resumo": "Dehergne dá-o nascido em 1619 e entrado em 1637 «selon Pf.», sem lugar. No catálogo de 1645 (Lus. 44 II, f. 646, n.º 484) está «Fr. Gundisalus de Oliv.ra … an. 22. Societ. 7. viribus mediocr.», isto é, 22 anos e 7 de Companhia — entrada c. 1638. A leitura regressiva até ao cabeçalho de casa leva ao «Collegium Conimbricense» de f. 643v (n.º 401), sem outro cabeçalho até ao n.º 502: propõe-se **Coimbra** como lugar de entrada, com confiança **baixa**. Ressalvas: são 7 anos de Companhia (residência, não noviciado), a lista é de irmãos coadjutores e o próprio Dehergne duvidava da identificação.",
+ "biografia": "Gonçalo de Oliveira, com o nome chinês Lin Kong-sa, nasceu em 1619 (ou em 1623, se for o homem do catálogo de 1645) e entrou na Companhia em 1637 segundo Pfister, ou em 1638 segundo o catálogo de 1645 (Dehergne, n.º 595). Embarcou no Capitaina a 23 de Março de 1655 (Wicki n.º 988) e chegou a Nanquim a 29 de Junho de 1657, onde morreu a 26 de Julho do mesmo ano, segundo a anual de 1657 de Gabriel de Magalhães; a História Societatis dá a sua morte em 29 de Setembro de 1658, na China. Dehergne deixou expressa a dúvida sobre se o «Gondiçalus de Oliveira» do catálogo de 1645, natural de Ovar, diocese de Lisboa, nascido em 1623 e entrado em 1638, seria o mesmo homem.",
+ "analise": [
+  {
+   "titulo": "A casa: leitura regressiva de f. 646 ao cabeçalho de f. 643v (com ressalva)",
+   "texto": "A entrada está em f. 646, n.º 484, numa série de irmãos («Fr.»). Lendo para trás, o cabeçalho de casa mais próximo é «**Collegium Conimbricense**» no alto de f. 643v (n.º 401); entre esse fólio e f. 646 (ff. 643v-644, 644v-645, 645v-646) não aparece outro cabeçalho.\n\n— ARSI Lus. 44 II, f. 646, n.º 484; f. 643v (cabeçalho) — imagens `0645v-0646.jpg`, `0643v-0644.jpg` · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0643v-0644.jpg\"`\n\n**Ressalva:** o catálogo é uma lista de residência; com 7 anos de Companhia, a casa de 1645 não é necessariamente a do noviciado. A atribuição fica, por isso, em confiança baixa."
+  },
+  {
+   "titulo": "1. A notícia de Dehergne não dá lugar e encaminha para um homónimo",
+   "texto": "A notícia do Répertoire diz apenas: «N. 1619 et E. 1637 selon Pf. (...) Nous trouvons un Gondiçalus de Oliveira N. à Ouvem, d. de Lisbonne, 1623 et E. en 1638 (Lus. 44 II, 646). Serait-ce le même?» — Dehergne, Répertoire, n.º 595 (atributo `dehergne/obs` da base Timelink). A citação «Lus. 44 II, 646» é o único fólio ARSI que ele associa a esta personagem."
+  },
+  {
+   "titulo": "2. O que diz o fólio 646 (catálogo de 1645)",
+   "texto": "O fólio 646 pertence ao catálogo primeiro da província de Portugal de 1645 (que abre no f. 630, segundo o inventário das digitalizações). No meio de uma lista de irmãos («Fr.») enumerados com a naturalidade, a idade, os anos de Companhia e as forças, lê-se:\n\n> 484. Fr. Gundisalus de Oliv.ra natus [Ovar?] Duc. Ulixb. an. 22. Societ. 7. viribus mediocr.\n\n— ARSI, Lus. 44 II, f. 646, n.º 484, catálogo primeiro da província de Portugal, 1645; manuscrito lido na imagem digitalizada (LUS. 44 II_continuação.../0645v-0646.jpg).\n\nOs números dão o que Dehergne leu: 1645 − 22 = 1623 (nascimento) e 1645 − 7 = 1638 (entrada). A diocese é a de Lisboa («Ulixb.» = Ulixbonensis), o que concorda com o «d. de Lisbonne» e com a leitura «Ouvem/Ovar» que Dehergne propôs. Mas o assento não diz onde entrou nem a que casa pertence a lista (a página não traz título de casa e o fólio anterior, com o cabeçalho, não foi lido). Acresce que estes «Fr.» são irmãos ainda não sacerdotes, ao passo que o missionário de Nanquim era padre em 1655-1657 — o que torna a identificação, no mínimo, problemática."
+  },
+  {
+   "titulo": "3. Onde poderia ter entrado, e o que falta",
+   "texto": "Se a entrada se deu em 1637-1638, já depois de 1630: por carta de António Franco, extintos em 1619 os noviciados de Coimbra e Évora, todos os noviços foram reunidos no Monte Olivete de Lisboa e só em 1630 (Abril, provincial Diogo Monteiro) se mandaram noviços «pera os dous Collegios» — Franco, Imagem da virtude... Coimbra (doc 54), p. 25. Nessa década o noviciado fazia-se, portanto, em Coimbra ou em Évora. Sem qualquer indicação de casa — e sendo incerta até a identidade — não é possível escolher. A sugestão «Coimbra» fica, por isso, sem apoio."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "ARSI Lus. 44 II, f. 643v, n.º 401 — cabeçalho «Collegium Conimbricense»; sem outro cabeçalho entre f. 643v e f. 646",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0643v-0644.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0645v-0646.jpg\"",
+   "o_que_prova": "situa o n.º 484 (f. 646) na secção de Coimbra — atribuição provisória",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "ARSI, *Lus. 44 II*, f. 646, n.º 484 (catálogo primeiro da província de Portugal, 1645; o catálogo abre no f. 630) — manuscrito ARSI lido directamente na imagem digitalizada",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0645v-0646.jpg\"",
+   "o_que_prova": "«484. Fr. Gundisalus de Oliv.ra natus [Ovar?] Duc. Ulixb. an. 22. Societ. 7. viribus mediocr.» — natural da diocese de Lisboa, 22 anos e 7 anos de Companhia em 1645 (nascimento c. 1623, entrada c. 1638), numa lista de irmãos que não nomeia a casa nem o lugar de entrada",
+   "forca": "direta"
+  },
+  {
+   "citacao": "Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited`",
+   "comando": "pha page 54 25 --edited",
+   "o_que_prova": "em 1619 os noviciados de Coimbra e Évora foram extintos, com todos os noviços reunidos no Monte Olivete de Lisboa; em 1630 voltaram noviços «pera os dous Collegios» — em 1637-1638 o noviciado era em Coimbra ou em Évora",
+   "forca": "inferencia"
+  },
+  {
+   "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 595 na base Timelink (atributo `dehergne/obs`)",
+   "comando": "python3 tools/packet.py deh-goncalo-de-oliveira",
+   "o_que_prova": "«N. 1619 et E. 1637 selon Pf. (...) Nous trouvons un Gondiçalus de Oliveira N. à Ouvem, d. de Lisbonne, 1623 et E. en 1638 (Lus. 44 II, 646). Serait-ce le même?» — a dúvida do próprio autor sobre a identificação do homem do fólio 646",
+   "forca": "indireta"
+  }
+ ],
+ "nao_encontrado": "Fica a ressalva: o catálogo de 1645 é uma lista de residência, a lista é de irmãos coadjutores e não declara noviciado; com 7 anos de Companhia, a casa de 1645 não prova a casa de entrada. Dehergne duvidava da própria identificação («Serait-ce le même?»), pelo que a atribuição a Coimbra é provisória (confiança baixa).",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-goncalo-de-oliveira]]",
+  "[[ARSI Lusitania 44 II - 1614 - 1645]]",
+  "[[Jesuitas - Portugal - 1619-1630 - Noviciado Monte do Olivete]]"
+ ]
+}

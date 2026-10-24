@@ -1,0 +1,78 @@
+{
+ "id": "deh-inacio-lopes",
+ "name": "Inácio Lopes",
+ "lugar": "Coimbra (Colégio de Coimbra)",
+ "data": "1681 (o catálogo de 1685 dá-lhe os anos de Companhia indicados)",
+ "confianca": "média",
+ "sugestao_tabela": "",
+ "validacao": "atribuído a Coimbra pelo método da casa: a entrada aparece em f. 127, n.º 168 do catálogo de 1685, e a leitura para trás até ao cabeçalho de casa encontra o «Collegium Conimbricense» no fim de f. 121 (o índice datilografado de f. 000v confirma: Coimbra 1685 = ff. 121-129v, S. Fé a partir de 129v).",
+ "resumo": "Aparece no catálogo de 1685, em f. 127, n.º 168, com os anos de Companhia que remetem para a entrada em 1681. A leitura regressiva até ao cabeçalho de casa situa-o no **Colégio de Coimbra** (o índice do códice, f. 000v, dá Coimbra = 121 e S. Fé = 129v). Coimbra é assim o lugar de entrada, com confiança média: o catálogo prova a residência na casa três a quatro anos após a entrada, não declara o noviciado.",
+ "biografia": "Inácio Lopes, português, natural de Braga (21 de Dezembro de 1662). Entrou na Companhia em 1681. Em 1693 estava no primeiro ano de Teologia em Coimbra. Embarcou em 1694 como sacerdote (Wicki 1336, 117.ª expedição) e, segundo JS 134, 378v, «solvit in Indiam ad provinciam Sinensem»; não consta do catálogo da China de 1697 (JS 134, 380).",
+ "analise": [
+  {
+   "titulo": "A casa: leitura regressiva de f. 127 até ao cabeçalho de f. 121",
+   "texto": "O catálogo trienal de 1685 está organizado por casas. A entrada está em f. 127, n.º 168 («Fr. Ignatius Lopes … societ. 4 (coorte de 1681, Colégio de Coimbra)»). Lendo para trás a partir dessa página, o cabeçalho de casa encontra-se no fim de **f. 121** («Collegium Conimbricense»); o índice datilografado do códice, em **f. 000v**, confirma a correspondência — 1685: Conimbricens. C. 121, S. Felicis R. 129v, Eborens. C. 136. A página está portanto dentro da secção de Coimbra.\n\n— ARSI Lus. 46, f. 127, n.º 168 e f. 121 + f. 000v — imagens `126.jpg`, `120.jpg`, `000v.jpg` · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg\"`"
+  },
+  {
+   "titulo": "1. O que Dehergne diz e cita",
+   "texto": "«N. 21 déc. 1662, Braga -E. 1681 (Lus. 46, 127). En 1693 était en première année de théologie à Coïmbre. Emb. en 1694, étant P. (W 1336)., « solvit in Indiam ad provinciam Sinensem », 1694 (JS 134, 378v). Il n'est pas au catal. de Lus. 46 de 1697…» — o fólio 127 é o do catálogo de 1685."
+  },
+  {
+   "titulo": "2. A leitura das pp. 127-128 do catálogo de 1685",
+   "texto": "Li as duas páginas (imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg`): n.os 168-183 (p. 127) e 184-196 (p. 128), todos irmãos («Fr.») do Colégio de Coimbra com idade e anos de Companhia — Emilianus Machado, Alexander de Queyroz, Antonius de Barros (n.º 170), Sebastianus …, Michael de Azevedo, Andreas Suares, Antonius de Sylveira, Abraham Fonseca, Antoninus Moreyra, Gabriel Ferdinandez, Josephus Cabral, Henricus …, Jacobus Ribeiro, Jacob Lanzola, Jacobus …, Joannes Andres, e depois os coadjutores espirituais e temporais. Nenhum «Ignatius Lopes»."
+  },
+  {
+   "titulo": "3. As listas de noviços",
+   "texto": "A lista da Domus Probationis de 1681 (Lus. 46, pp. 70-71, n.os 444-468) é anterior à entrada de Inácio Lopes (1681, mês desconhecido) e não o inclui. A lista «Fratres Novitii» de 1685 (Lus. 46, pp. ~139v-140) cobre entradas de Agosto de 1682 a Fevereiro de 1685 — posteriores ao fim do seu noviciado (1681-1683). A entrada de 1681-1683 não é coberta por nenhuma lista de noviços existente."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "ARSI Lus. 46, f. 127, n.º 168 (catálogo de 1685) — «Fr. Ignatius Lopes … societ. 4 (coorte de 1681, Colégio de Coimbra)»",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg\"",
+   "o_que_prova": "regista-o com os anos de Companhia que datam a entrada; a casa vem do cabeçalho que precede a secção",
+   "forca": "direta (data) / indireta (lugar)"
+  },
+  {
+   "citacao": "ARSI Lus. 46, f. 121 (fim) — cabeçalho «Collegium Conimbricense»; f. 000v — índice datilografado: 1685 «Conimbricens. C. 121 … S. Felicis R. 129v»",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+   "o_que_prova": "situa as entradas de f. 127-127v dentro da secção do Colégio de Coimbra",
+   "forca": "direta"
+  },
+  {
+   "citacao": "ARSI, *Lusitania* 46, pp. 127-128 (secção do Colégio de Coimbra do catálogo de 1685), n.os 168-196 — imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg` (manuscrito lido directamente)",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg\"",
+   "o_que_prova": "lista de juniores «Fr.» de Coimbra em 1685, com idade e anos de Companhia: n.º 170 «Fr. Antonius de Barros … Societ. 4» e n.º 186 «Fr. Emmanuel da Matta, Ulyssipon., an. 17, Societ. ad 3um, studet humanit.»; não figura nenhum «Ignatius Lopes»",
+   "forca": "direta quanto à residência em 1685"
+  },
+  {
+   "citacao": "ARSI, *Lusitania* 46, f. 000v (índice datilografado: «1685») e p. 121 (início da secção do Colégio de Coimbra do catálogo de 1685) — imagens `LUS. 46/000v.jpg` e `LUS. 46/120.jpg` (tabela e manuscrito lidos directamente)",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg\"",
+   "o_que_prova": "as folhas 121-129 são a secção do Colégio de Coimbra do catálogo de 1685",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente)",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg\"",
+   "o_que_prova": "em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos",
+   "forca": "direta (teor da lista de noviços de 1681)"
+  },
+  {
+   "citacao": "ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente)",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+   "o_que_prova": "estrutura do códice por casas: 1681 «Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»",
+   "forca": "indireta (instrumento de navegação do códice)"
+  },
+  {
+   "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 489 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-l`) · `python3 tools/packet.py deh-inacio-lopes`",
+   "comando": "python3 tools/packet.py deh-inacio-lopes",
+   "o_que_prova": "texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita",
+   "forca": "indireta (fonte da data)"
+  }
+ ],
+ "nao_encontrado": "Procurou-se: (1) as pp. 127-128 do catálogo de 1685 (imagens `LUS. 46/126.jpg` e `126v.jpg`), lidas integralmente — nenhum Ignatius Lopes; (2) a lista de noviços da Domus Probationis de 1681 (Lus. 46, pp. 70-71) — não figura; (3) a lista «Fratres Novitii» de 1685 (Lus. 46, pp. ~139v-140) — não figura (fora do período do seu noviciado); (4) o registo de noviços de 1690 (Lus. 46, p. ~207v) — tardio; (5) buscas no pha por «Inácio Lopes»/«Ignatius Lopes» — as notas do arquivo só registam a estadia em Coimbra em 1693 (fonte Dehergne) e um «Antoine Lopes» de 1684 no noviciado de Coimbra citado por Pfister, que não é esta personagem. A casa foi determinada pelo método regressivo (cabeçalho de f. 121 + índice de f. 000v); o catálogo é uma lista de residência e não declara o noviciado.",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-inacio-lopes]]"
+ ]
+}

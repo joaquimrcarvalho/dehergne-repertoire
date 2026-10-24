@@ -1,0 +1,50 @@
+{
+  "volume_folder": [
+    "LUS. 40 a"
+  ],
+  "volume_note": "ARSI Lusitania 40",
+  "index_sources": [],
+  "catalogues": [
+    {
+      "year": "1741",
+      "type": "T1",
+      "title": "Catalogus Personarum et Officiorum Provinciae Lusitanae — 1741",
+      "description": "Catálogo de pessoas e ofícios da Província de Portugal para 1741 (LUS.40a, fólios 1-8): lista por casas, com nome, naturalidade, nascimento, entrada e ofício.",
+      "local": "Portugal",
+      "folio_start": "1",
+      "folio_end": "8v",
+      "note": "1741-T1-LUS-40a-1",
+      "verified": true,
+      "evidence": "LUS.40a/001.jpg: título «Catalogus Personarum … Provinciae Lusitanae … 1741» seguido de «Domus S. Roque…» e das primeiras entradas numeradas.",
+      "already_existed": false
+    },
+    {
+      "year": "1742",
+      "type": "T1",
+      "title": "Catalogus Personarum et Officiorum Provinciae Lusitanae — 1742",
+      "description": "Catálogo de pessoas e ofícios da Província de Portugal para 1742 (LUS.40a, fólios 9-18).",
+      "local": "Portugal",
+      "folio_start": "9",
+      "folio_end": "18v",
+      "note": "1742-T1-LUS-40a-9",
+      "verified": true,
+      "evidence": "LUS.40a/009.jpg: página de título «Catalogus Personarum et Officiorum Provinciae Lusitanae … 1742», seguida de «Domus Professa Ulixipone» e das primeiras entradas (P. Ignatius de Abreu Barreto…).",
+      "already_existed": false
+    },
+    {
+      "year": "1741",
+      "type": "T5A",
+      "title": "Index Nominum Numerus et AEtas (índice dos catálogos de 1741 e 1742)",
+      "description": "Índice alfabético de nomes com número e idade, no fim do volume LUS.40a (fólios 19-21); cobre os catálogos de 1741 e 1742.",
+      "local": "Portugal",
+      "folio_start": "19",
+      "folio_end": "21",
+      "note": "1741-1742-T5A-LUS-40a-19",
+      "verified": true,
+      "evidence": "LUS.40a/019.jpg: título «Index Nominum Numerus et AEtas» com a letra A («Almeida…»); 020.jpg continua o índice (letras A…); 021.jpg tem as últimas letras (T, N, R, P, V, S, B).",
+      "already_existed": false
+    }
+  ],
+  "unaccounted": "000.jpg = capa moderna da pasta (não faz parte do volume).",
+  "gaps": ""
+}

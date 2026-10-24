@@ -1,0 +1,52 @@
+{
+  "issue": "26",
+  "file": "26-tang-kia-hiang.md",
+  "place": "T'ang-kia-hiang",
+  "dehergne_year": 1787,
+  "region": "Kiangnan / Songjiang fu",
+  "country": "China",
+  "identified_chinese": "湯家巷 / 唐家巷 (chrétienté; characters uncertain); parent 松江府",
+  "wikidata_id": "Q11104671",
+  "queries": [
+    {"name": "唐家巷", "year": null, "feature_type": null, "source": null,
+     "total": 0, "hits": []},
+    {"name": "湯家巷", "year": null, "feature_type": null, "source": null,
+     "total": 0, "hits": []},
+    {"name": "汤家巷", "year": null, "feature_type": null, "source": null,
+     "total": 0, "hits": []},
+    {"name": "Tangjiaxiang", "year": null, "feature_type": null, "source": null,
+     "total": 0, "hits": []},
+    {"name": "唐家巷", "year": null, "feature_type": null, "source": null,
+     "parent": "松江府", "total": 0, "hits": []},
+    {"name": "湯家巷", "year": null, "feature_type": null, "source": null,
+     "parent": "松江府", "total": 0, "hits": []},
+    {"name": "唐家", "year": null, "feature_type": null, "source": null,
+     "total": 27,
+     "hits": [
+       {"sys_id": "hvd_159352", "name": "唐家", "transcription": "Tangjia", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "镇南州 (Zhennan Zhou)", "lat": 25.33749, "lon": 101.15128, "data_source": "CHGIS"},
+       {"sys_id": "hvd_132183", "name": "唐家坝", "transcription": "Tangjiaba", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "宁羌州 (Ningqiang Zhou)", "lat": 32.93984, "lon": 106.53465, "data_source": "CHGIS"},
+       {"sys_id": "hvd_130391", "name": "唐家村", "transcription": "Tangjiacun", "years": "1911 ~ 1911", "feature_type": "村镇 (cun zhen)", "parent_name": "怀远县 (Huaiyuan Xian)", "lat": 32.87024, "lon": 116.92819, "data_source": "CHGIS"}
+     ]},
+    {"name": "松江府", "year": 1787, "feature_type": null, "source": null,
+     "total": 2,
+     "hits": [
+       {"sys_id": "hvd_32439", "name": "松江府", "transcription": "Songjiang Fu", "years": "1328 ~ 1911", "feature_type": "府 (fu)", "parent_name": "浙江行省 (ZheJiang Xings)", "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS"}
+     ]}
+  ],
+  "best_match": {"sys_id": "hvd_32439", "name": "松江府",
+    "transcription": "Songjiang Fu", "feature_type": "fu",
+    "english": "superior prefecture", "years": "1328 ~ 1911",
+    "parent": "江南省 (1645-1666) → 江蘇省 (1667-1911)",
+    "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_32439",
+    "present_location": "今上海市松江县"},
+  "wikidata": {"id": "Q11104671", "label": "Songjiang Fu 松江府",
+               "lat": 31.009475833333333, "lon": 121.1077575},
+  "wikidata_alt": {"id": "Q662380", "label": "Songjiang 松江區",
+                   "lat": 31.005833333333, "lon": 121.23333333333, "dist_km": 0.68},
+  "dist_km": 11.43,
+  "verdict": "partially-confirmed",
+  "verdict_note": "TGAZ confirms 松江府 (hvd_32439, 1328-1911) but has no record of the chrétienté 湯家巷/唐家巷: all four name variants return 0, as do the --parent 松江府 facets. No village-level coordinate exists to compare.",
+  "notes": "The broad 唐家 prefix search returns 27 villages, none under 松江府 or in Jiangnan. 湯/唐 reading remains open; TGAZ neither confirms nor rejects it.",
+  "checked_at": "2026-10-22"
+}

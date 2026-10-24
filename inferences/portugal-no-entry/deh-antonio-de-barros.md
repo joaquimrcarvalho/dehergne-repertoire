@@ -1,0 +1,125 @@
+---
+title: António de Barros — lugar de entrada
+person_id: deh-antonio-de-barros
+name: António de Barros
+dehergne_no: 81
+nationality: Portugal
+entry_place: Coimbra (Colégio de Coimbra)
+entry_date: 1681-06-12 (o catálogo de 1685 dá-lhe os anos de Companhia indicados)
+confidence: média
+source: "[[0 Portugal no entry]]"
+created: 2026-10-19
+tags: [dehergne, jesuita-entrada, portugal, china]
+---
+
+# António de Barros (`deh-antonio-de-barros`)
+
+**Lugar de entrada: Coimbra (Colégio de Coimbra)** — 1681-06-12 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) (confiança: **média**).
+
+Aparece no catálogo de 1685, em f. 127, n.º 170, com os anos de Companhia que remetem para a entrada em 1681-06-12. A leitura regressiva até ao cabeçalho de casa situa-o no **Colégio de Coimbra** (o índice do códice, f. 000v, dá Coimbra = 121 e S. Fé = 129v). Coimbra é assim o lugar de entrada, com confiança média: o catálogo prova a residência na casa três a quatro anos após a entrada, não declara o noviciado.
+
+## Identificação
+
+| | |
+|---|---|
+| id Timelink | `deh-antonio-de-barros` |
+| Dehergne | nº 81 |
+| Nacionalidade | Portugal |
+| Fonte (.cli) | `dehergne-b` (linha 405) |
+| `jesuita-entrada` na base | `?` / 16810612 |
+| Embarque | 16940000 |
+| Ficha Obsidian | `/Users/jrc/jrc-notes/04 Biographies/dehergne/deh-antonio-de-barros.md` |
+
+| | valor |
+|---|---|
+| Dehergne, entrada (`E.`) | 12 juin 1681 |
+| Base Timelink (actual) | `?` / 16810612 |
+| Tabela Obsidian (sugestão) | — |
+| **Proposta desta nota** | **Coimbra (Colégio de Coimbra)** — 1681-06-12 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) (média) |
+
+## 1. Notícia de Dehergne (base Timelink)
+
+> Barros, António de (port.) (I) P. 81 Long Ngan-tang Ngan-Kouo (Pf.., JS 170, 326: Lum Ngan Que). N. 21 oct. 1664, Arcos de Valdeves, d. de Braga « Bracharensis ». E. 12 juin 1681 (JS 134, 398v., Lus. 46, 127). Emb. 1694 (W 1335)., arr. Goa 1694 (Goa 27, 110)., oct. 1697, Pékin., 1700, Sian (Si-ngan fou)., juill. 1701, Pékin. K'ang hi l'envoie à Rome, il quitte Pékin, 17 oct. 1706 et Canton, 4 janv. 1707 (SF V 518 et VI 678). V. Pékin, 3 déc. 1701, pr. (Lus. 12, 127). M. 2 janv. 1708 (HS 50, 74 et 51, 14)., 20 janv. 1708, naufrage, en mer, en face d'Arcos de Valdeves (Franco, Synopsis, p. 431), à l'entrée du rio de Ancora, Caminha, dit A. Casimiro dans l'encyclop. Verbo. Pf. 485., Verbo (A. Casimiro).
+
+Dehergne (doc 65, nº 81) — ver `/Users/jrc/jesuit-archive/dropbox/collections/reference-works/Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf`.
+
+## 2. Biografia
+
+António de Barros (I), português, natural de Arcos de Valdevez, diocese de Braga (21 de Outubro de 1664). Entrou na Companhia a 12 de Junho de 1681 (JS 134, 398v). Em 1685 estudava Teologia em Coimbra. Embarcou em 1694 (Wicki 1335, 117.ª expedição), chegou a Goa no mesmo ano, estava em Pequim em Outubro de 1697 e em Xian (Si-ngan fou) em 1700, voltando a Pequim em Julho de 1701. Kangxi enviou-o a Roma: partiu de Pequim a 17 de Outubro de 1706 e de Cantão a 4 de Janeiro de 1707. Professou os 4 votos em Pequim a 3 de Dezembro de 1701 (Lus. 12, 127). Morreu a 2 de Janeiro de 1708, no naufrágio à entrada do rio Âncora, Caminha (Franco, *Synopsis*, 431).
+
+## 3. Cronologia (base Timelink)
+
+| Data | Atributo | Valor |
+|---|---|---|
+| — | `jesuita-estatuto` | Padre |
+| — | `nacionalidade` | Portugal |
+| — | `nome-chines` | Long Ngan-tang Ngan-Kouo |
+| 1664-10-21 | `nascimento` | Arcos de Valdevez, diocese de Braga |
+| 1664-10-21 | `nascimento (wikidata)` | [Q490302](https://www.wikidata.org/wiki/Q490302) |
+| 1681-06-12 | `jesuita-entrada` | ? |
+| 1694 | `embarque` | ? |
+| 1694 | `estadia` | Goa |
+| 1694 | `estadia (wikidata)` | [Q1171](https://www.wikidata.org/wiki/Q1171) |
+| 1694 | `wicky` | 1335 |
+| 1694 | `wicky-viagem` | 117 |
+| 1697-10 | `estadia` | Pequim |
+| 1697-10 | `estadia (wikidata)` | [Q956](https://www.wikidata.org/wiki/Q956) |
+| 1700 | `estadia` | Sian (Si-ngan fou) |
+| 1700 | `estadia (wikidata)` | [Q5826](https://www.wikidata.org/wiki/Q5826) |
+| 1701-07 | `estadia` | Pequim |
+| 1701-07 | `estadia (wikidata)` | [Q956](https://www.wikidata.org/wiki/Q956) |
+| 1701-12-03 | `jesuita-votos` | 4V |
+| 1701-12-03 | `jesuita-votos-local` | Pequim |
+| 1701-12-03 | `jesuita-votos-local (wikidata)` | [Q956](https://www.wikidata.org/wiki/Q956) |
+| 1706-10-17 | `partida` | Roma |
+| 1706-10-17 | `partida (wikidata)` | [Q220](https://www.wikidata.org/wiki/Q220) |
+| 1707-01-04 | `estadia` | Cantão |
+| 1707-01-04 | `estadia (wikidata)` | [Q16572](https://www.wikidata.org/wiki/Q16572) |
+| 1708-01-02 | `morte` | Rio Âncora |
+| 1708-01-02 | `morte (wikidata)` | [Q10362954](https://www.wikidata.org/wiki/Q10362954) |
+
+## 4. Verificação no arquivo pha
+
+### 4.1 A casa: leitura regressiva de f. 127 até ao cabeçalho de f. 121
+
+O catálogo trienal de 1685 está organizado por casas. A entrada está em f. 127, n.º 170 («Fr. Antonius de Barros, Ex Villa Arcos de Valdevez, Diæc. Bracharensis, societ. 4»). Lendo para trás a partir dessa página, o cabeçalho de casa encontra-se no fim de **f. 121** («Collegium Conimbricense»); o índice datilografado do códice, em **f. 000v**, confirma a correspondência — 1685: Conimbricens. C. 121, S. Felicis R. 129v, Eborens. C. 136. A página está portanto dentro da secção de Coimbra.
+
+— ARSI Lus. 46, f. 127, n.º 170 e f. 121 + f. 000v — imagens `126.jpg`, `120.jpg`, `000v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg"`
+
+### 4.2 1. A prova da data: a p. 127 do catálogo de 1685
+
+A p. 127 pertence à secção do Colégio de Coimbra do catálogo de 1685 (índice do códice: «Conimbricens. C 121 … S. Felicis R 129v»). Com o n.º 170 lê-se «Fr. Antonius de Barros. Ex Villa Arcos de [Valdevez]. Bracharensis. an. 2?. Societ. 4. viribus bonis. Dat operam … Theol.» — «Societ. 4» em 1685 → entrada em 1681, o que confirma a data de Dehergne (12 de Junho de 1681, colhida em JS 134, 398v) e mostra-o, quatro anos depois, a estudar Teologia em Coimbra. É residência, não noviciado.
+
+### 4.3 2. As listas de noviços
+
+A lista da Domus Probationis de 1681 (Lus. 46, pp. 70-71) só contém os noviços presentes no momento do catálogo, feito antes de 26 de Março de 1681 (data em que Manuel Carvalho embarcou, e que o catálogo ainda o dá em Coimbra); António de Barros entrou a 12 de Junho, três meses depois. A lista «Fratres Novitii» do catálogo de 1685 (Lus. 46, pp. ~139v-140) cobre entradas de 22 de Agosto de 1682 a 5 de Fevereiro de 1685 — todas posteriores ao fim do seu noviciado (1681-1683). O noviciado de 1681-1683 não é coberto por nenhuma lista existente.
+
+### O que não foi encontrado
+
+Procurou-se: (1) a lista de noviços da Domus Probationis de 1681 (Lus. 46, pp. 70-71) — não figura (entrou depois de o catálogo estar feito); (2) a lista «Fratres Novitii» de 1685 (Lus. 46, pp. ~139v-140) — não figura (fora do período); (3) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus. 46, p. 8) — anterior, sem interesse; (4) buscas no pha por «António de Barros» — só o António de Barros de Vila Verde, noviço em 1600 (notas de coimbra-jesuitas), homónimo antigo. A casa foi determinada pelo método regressivo (cabeçalho de f. 121 + índice de f. 000v); o catálogo é uma lista de residência e não declara o noviciado.
+
+## 5. Evidência
+
+- ARSI Lus. 46, f. 127, n.º 170 (catálogo de 1685) — «Fr. Antonius de Barros, Ex Villa Arcos de Valdevez, Diæc. Bracharensis, societ. 4» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg"` · prova direta (data) / indireta (lugar)
+  - regista-o com os anos de Companhia que datam a entrada; a casa vem do cabeçalho que precede a secção
+- ARSI Lus. 46, f. 121 (fim) — cabeçalho «Collegium Conimbricense»; f. 000v — índice datilografado: 1685 «Conimbricens. C. 121 … S. Felicis R. 129v» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova direta
+  - situa as entradas de f. 127-127v dentro da secção do Colégio de Coimbra
+- ARSI, *Lusitania* 46, pp. 127-128 (secção do Colégio de Coimbra do catálogo de 1685), n.os 168-196 — imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta quanto à residência em 1685
+  - lista de juniores «Fr.» de Coimbra em 1685, com idade e anos de Companhia: n.º 170 «Fr. Antonius de Barros … Societ. 4» e n.º 186 «Fr. Emmanuel da Matta, Ulyssipon., an. 17, Societ. ad 3um, studet humanit.»; não figura nenhum «Ignatius Lopes»
+- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
+  - em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos
+- ARSI, *Lusitania* 46, pp. ~139v-140, cabeça «Fratres Novitii» no n.º 474 e registo dos noviços n.os 474-491, com «Societ. … dedit die …» / «Intravit Societatem die …» (secção da Domus Probationis do catálogo de 1685) — imagens `LUS. 46/138v.jpg` e `LUS. 46/139.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg"` · prova direta (teor da lista de noviços de 1685)
+  - os noviços da Domus Probationis de Lisboa em 1685 tinham entrado entre 22 de Agosto de 1682 (n.º 477) e 5 de Fevereiro de 1685 (n.º 490); nenhum é Lopes, Dias, Barros ou Mata
+- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
+  - estrutura do códice por casas: 1681 «Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 81 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-b`) · `python3 tools/packet.py deh-antonio-de-barros` · `python3 tools/packet.py deh-antonio-de-barros` · prova indireta (fonte da data)
+  - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
+
+## 6. Referências
+
+- [[0 Portugal no entry]]
+- [[deh-antonio-de-barros]]
+
+---
+
+Ver também: [[0 Portugal no entry]]

@@ -1,0 +1,161 @@
+{
+  "checked_at": "2026-10-22",
+  "issue": "12",
+  "file": "12-mscislaviae.md",
+  "place": "Mscislaviae",
+  "dehergne_year": 1798,
+  "region": "Belarus (Mogilev region)",
+  "country": "Belarus",
+  "identified_chinese": "Мстиславль / Mstsislaw",
+  "wikidata_id": "Q744167",
+  "queries": [
+    {
+      "name": "Mstislavl",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hgr_390",
+          "name": "Мстиславль",
+          "transcription": "Mstislavl'",
+          "years": "1785 ~ 1796",
+          "feature_type": "город (gorod)",
+          "parent_name": "Мстиславский уезд (Mstislavskii uezd)",
+          "lat": 54.0185,
+          "lon": 31.7217,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Мстиславль",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hgr_390",
+          "name": "Мстиславль",
+          "transcription": "Mstislavl'",
+          "years": "1785 ~ 1796",
+          "feature_type": "город (gorod)",
+          "parent_name": "Мстиславский уезд (Mstislavskii uezd)",
+          "lat": 54.0185,
+          "lon": 31.7217,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Mstislav",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 2,
+      "hits": [
+        {
+          "sys_id": "hgr_390",
+          "name": "Мстиславль",
+          "transcription": "Mstislavl'",
+          "years": "1785 ~ 1796",
+          "feature_type": "город (gorod)",
+          "parent_name": "Мстиславский уезд (Mstislavskii uezd)",
+          "lat": 54.0185,
+          "lon": 31.7217,
+          "data_source": "HGR"
+        },
+        {
+          "sys_id": "hgr_128",
+          "name": "Мстиславский уезд",
+          "transcription": "Mstislavskii uezd",
+          "years": "1785 ~ 1796",
+          "feature_type": "уезд (uezd)",
+          "parent_name": "Могилевское Наместничество (Mogilevskoe Namestnichestvo)",
+          "lat": 54.0185,
+          "lon": 31.7217,
+          "data_source": "HGR"
+        }
+      ]
+    },
+    {
+      "name": "Mscislaviae",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Mscislaw",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Mstislavl",
+      "year": 1798,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    },
+    {
+      "name": "Мстиславль",
+      "year": 1798,
+      "feature_type": null,
+      "source": null,
+      "parent": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": {
+    "sys_id": "hgr_390",
+    "name": "Мстиславль",
+    "transcription": "Mstislavl'",
+    "feature_type": "город (gorod)",
+    "english": "town",
+    "years": "1785 ~ 1796",
+    "parent": "Мстиславский уезд (Mstislavskii uezd)",
+    "lat": 54.0185,
+    "lon": 31.7217,
+    "data_source": "HGR",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hgr_390",
+    "present_location": "Mstsislaw, Mogilev Province, Belarus",
+    "parents": [
+      {
+        "name": "Мстиславский уезд",
+        "transcribed": "Mstislavskii uezd",
+        "parent_id": "hgr_128",
+        "begin": "1785",
+        "end": "1796"
+      }
+    ],
+    "spellings": [
+      "Мстиславль",
+      "Mstislavl'"
+    ],
+    "source_note": "МСТИСЛАВЛЬ, городъ Могилевскаго Намѣстничества…"
+  },
+  "wikidata": {
+    "id": "Q744167",
+    "label": "Mscislaŭ / 姆斯齊斯拉夫",
+    "lat": 54.0196,
+    "lon": 31.7247
+  },
+  "dist_km": 0.23,
+  "verdict": "confirmed",
+  "verdict_note": "TGAZ HGR records Мстиславль as a town (город) of Mstislavskii uezd, Mogilev namestnichestvo, 0.23 km from the Wikidata point; matches the issue's Mscislaŭ identification.",
+  "notes": "HGR layer 1785-1796; the 1798 death is just outside the HGR span, so the year-filtered queries return 0 while the unfiltered queries return the record. Latin forms Mscislaviae/Mscislaw and the Belarusian form Мсціслаў are absent; TGAZ carries the standard Russian spelling."
+}

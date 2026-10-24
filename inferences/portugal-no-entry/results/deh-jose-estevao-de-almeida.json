@@ -1,0 +1,65 @@
+{
+  "id": "deh-jose-estevao-de-almeida",
+  "name": "José Estêvão de Almeida",
+  "lugar": "Lisboa (Casa de Provação do Monte Olivete)",
+  "data": "1628",
+  "confianca": "média",
+  "sugestao_tabela": "? (sem sugestão de lugar na tabela)",
+  "validacao": "sem sugestão a corrigir: propõe-se Lisboa. A entrada deu-se em Portugal em 1628 e entre 1619 e 1630 a província tinha um único noviciado, a Casa de Provação do Monte Olivete, em Lisboa (Franco, Coimbra I, p. 25). Não foi encontrada prova nominal (o catálogo de 1628 não existe no pha).",
+  "resumo": "Dehergne e Pfister concordam: entrou na Companhia em 1628 e embarcou para a Índia a 3 de abril de 1629 ainda noviço (Wicki n.º 773: «Ir. José de Almeida, Novize, Port.»). Como entre 1619 e 1630 o único noviciado da província portuguesa era a Casa de Provação do Monte Olivete, em Lisboa, o lugar de entrada é Lisboa — com a reserva de que não se encontrou nenhum catálogo de 1628/1629 neste arquivo que o nomeie como noviço daquela casa.",
+  "biografia": "José Estêvão de Almeida (Joseph Dalmeida; chinês Mei Kao Yun-Tiao, Yue-Ts'ing; também Stephanus Almeida Fan) nasceu em 1612 (Pfister: 1611) em Esgueira, diocese de Coimbra. Entrou na Companhia em 1628 e a 3 de abril de 1629 embarcou para o Oriente no Sacramento, ainda noviço (W 773). Chegou à China por volta de 1640-1641 e trabalhou em Sian (Si-ngan fou), Shensi (1640), Puchow, Shansi (1645) e depois em Pequim. Morreu em 1647 — segundo Dehergne em data incerta; Pfister diz que foi massacrado perto de Nanchang durante a guerra civil (1644).",
+  "analise": [
+    {
+      "titulo": "O que dizem as fontes sobre a entrada",
+      "texto": "Dehergne:\n\n> «N. 1612, Esgueira (JS 134, 320) -E. 1628. Emb. étant novice, sur le Sacramento, 3 avril 1629 (W 773: José de A.)»\n\nDehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 47 — edited (`french-ocr`) · `pha page 65 47 --edited`.\n\nPfister, na notícia n.º 86:\n\n> «86. LE P. JOSEPH-ÉTIENNE D'ALMEIDA. MEI KAO YUN-TIAO. N. 1611. — E. 1628. — A. 1640. — Scol. — M. près de Nan-tch'ang fou.»\n\nPfister, *Notices biographiques…* t. I (doc 47), p. 287 — edited (`french-ocr`) · `pha page 47 287 --edited`. Nem Dehergne nem Pfister indicam o lugar.\n\nWicki, na lista dos que embarcaram na 67.ª armada (1629): «773. Ir. José de Almeida, Novize, Port.» — Wicki, *Liste der Jesuiten-Indienfahrer* (doc 66), p. 47 — edited (`wicki-indienfahrer-1967`) · `pha page 66 47 --edited`. E, no comentário: «No. 773: - Lit.: Pfister: No. 86 (Joseph-Étienne)» — doc 66, p. 127 · `pha page 66 127 --edited`. A palavra «Novize» é decisiva: em abril de 1629 ele estava ainda no noviciado."
+    },
+    {
+      "titulo": "O noviciado único da província (1619-1630): Lisboa, Monte Olivete",
+      "texto": "Franco data a fusão dos noviciados com precisão:\n\n> «No anno de mil seiscentos, & dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa, que entaõ começou a ser habitada. Porem no anno de mil seiscentos, & trinta … se mandaram pera os dous Collegios alguns Noviços…»\n\nFranco, *Imagem da virtude… Coimbra* I (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited`.\n\nA mesma casa é chamada «Caza da Provação da Companhia de JESV do Monte Olivete» numa carta de 2 de dezembro de 1619 transcrita por Franco (doc 55, p. 648 · `pha page 55 648 --edited`). Quem entrou na província de Portugal em 1628 entrou, portanto, em Lisboa. Um noviço de 1628 embarcado em abril de 1629 seria retirado do noviciado do Monte Olivete — o que é coerente com o embarque em Lisboa."
+    },
+    {
+      "titulo": "O que falta",
+      "texto": "Não há no pha nenhum catálogo português entre 1611 e 1625, nem qualquer catálogo de 1628, 1629 ou 1632: os docs 1, 2, 4, 27-37 vão de 1566 a 1610 e o doc 28 é o catálogo de 1625. O catálogo trienal de 1628 (ARSI, Lus. 44 II, ff. 441-473) existe apenas como imagens no disco do utilizador; nas páginas que dele se leram (f. 450v ss., colégio de Coimbra) Almeida não aparece, o que é natural se ele era então noviço da Casa de Provação, cuja secção fica em fólios anteriores desse catálogo, não lidos. A conclusão assenta, por isso, na regra do noviciado único e não numa prova nominal."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 47 — edited (`french-ocr`)",
+      "comando": "pha page 65 47 --edited",
+      "o_que_prova": "«N. 1612, Esgueira -E. 1628. Emb. étant novice, sur le Sacramento, 3 avril 1629 (W 773)»: entrada em 1628, sem lugar indicado.",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Pfister, *Notices biographiques…* t. I (doc 47), p. 287 — edited (`french-ocr`)",
+      "comando": "pha page 47 287 --edited",
+      "o_que_prova": "Notícia n.º 86: «N. 1611. — E. 1628. — A. 1640. — Scol.» — entrada em 1628, sem lugar.",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer* (doc 66), p. 47 — edited (`wicki-indienfahrer-1967`)",
+      "comando": "pha page 66 47 --edited",
+      "o_que_prova": "«773. Ir. José de Almeida, Novize, Port.» na armada de 1629: era noviço no momento do embarque, o que situa a entrada poucos meses antes e dentro da vigência do noviciado único de Lisboa.",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer* (doc 66), p. 127 — edited (`wicki-indienfahrer-1967`)",
+      "comando": "pha page 66 127 --edited",
+      "o_que_prova": "O comentário de Wicki remete para Pfister n.º 86 («Joseph-Étienne»), fixando a identificação da personagem.",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude… Coimbra* I (doc 54), p. 25 — edited (`franco-imagem-virtude`)",
+      "comando": "pha page 54 25 --edited",
+      "o_que_prova": "Entre 1619 e 1630 todos os noviços da província estavam reunidos na casa do Monte Olivete, em Lisboa; o lugar de entrada de um noviço de 1628 é, portanto, Lisboa.",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude… Coimbra* II (doc 55), p. 648 — edited (`franco-imagem-virtude`)",
+      "comando": "pha page 55 648 --edited",
+      "o_que_prova": "A «Caza da Provação» é expressamente localizada no Monte Olivete, em Lisboa (carta de 2 dez. 1619).",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "Nenhum catálogo português de 1628, 1629 ou 1632 existe no pha (a série salta de 1610, doc 37, para 1625, doc 28); os catálogos ARSI Lus. 44 II de 1628 (ff. 441-473) e 1633 (ff. 481-511) existem só como imagens no disco do utilizador e não foram varridos fólio a fólio. Não se encontrou nenhuma menção a «Esgueira», a «José Estêvão de Almeida» ou a «Joseph de Almeida» como noviço em qualquer página do pha.",
+  "refs_obsidian": ["[[0 Portugal no entry]]", "[[deh-jose-estevao-de-almeida]]", "[[Jesuitas - Portugal - 1619-1630 - Noviciado Monte do Olivete]]"]
+}

@@ -1,0 +1,129 @@
+---
+title: José de Almeida — lugar de entrada
+person_id: deh-jose-de-almeida-ii
+name: José de Almeida
+dehergne_no: 21
+nationality: Portugal
+entry_place: Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)
+entry_date: 1684-04-16
+confidence: média
+source: "[[0 Portugal no entry]]"
+created: 2026-10-19
+tags: [dehergne, jesuita-entrada, portugal, china]
+---
+
+# José de Almeida (`deh-jose-de-almeida-ii`)
+
+**Lugar de entrada: Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)** — 1684-04-16 (confiança: **média**).
+
+No catálogo primeiro da província de Portugal de 1685 (ARSI Lus. 46), a lista «Fratres Novitii» que fecha a secção da «Domus Probationis Ulyssiponensis» — o noviciado de Lisboa — regista, com o n.º 484: «Fr. Josephus de Almeyda. Ulyssiponensis. an. 20 … Societ. … dedit die 16. Aprilis 1684. Viribus bonis.» É exactamente a data (16 de Abril de 1684) que Dehergne registou a partir do catálogo da missão da China (JS 25, 278) para esta personagem. O lugar de entrada é, portanto, o noviciado de Lisboa, e a data não é 1673: o «E. 1673» da base vem de Lus. 46, 196v (catálogo de 1690, secção do Colégio de Coimbra) e corresponde, ao que tudo indica, ao homónimo mais velho inscrito no mesmo catálogo de 1685 (p. 137v, n.º 422: «Fr. Josephus de Almeyda, Ulyssiponensis, an. 27, Societ. 12»).
+
+## Identificação
+
+| | |
+|---|---|
+| id Timelink | `deh-jose-de-almeida-ii` |
+| Dehergne | nº 21 |
+| Nacionalidade | Portugal |
+| Fonte (.cli) | `dehergne-a` (linha 558) |
+| `jesuita-entrada` na base | `?` / 16730000 |
+| Embarque | 16900408 |
+| Ficha Obsidian | `/Users/jrc/jrc-notes/04 Biographies/dehergne/deh-jose-de-almeida-ii.md` |
+
+| | valor |
+|---|---|
+| Dehergne, entrada (`E.`) | 1673 |
+| Base Timelink (actual) | `?` / 16730000 |
+| Tabela Obsidian (sugestão) | — |
+| **Proposta desta nota** | **Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)** — 1684-04-16 (média) |
+
+## 1. Notícia de Dehergne (base Timelink)
+
+> Almeida (Almeyda), José de (port.) (II) P. 21 Fan Jo-chô (Pf.)., Lou (BN: ms. fr. 25057 p. 804: Lu)., Li (Rel. e Patr. 1964 n° 14 p. 32)., douteux. N. 1658, Lisbonne -E. 1673 (Lus. 46, 196v). (Selon JS 25, 278 N. 19 mars 1663 -E. 16 avr. 1684). Emb. 8 avril 1690 (W 1278). A. 1695., Hainan 1700-1704 (JS 134, 434)., Macao 1704., 1712 et 1717, Canton., à la persécution de 1724 part au Siam. P. entre 1685 et 1690. V. 15 août 1699, Macao, pr. des 3 voeux (Lus. 18, 75., JS 25, 276v le dit c. spir., à tort). M. 19 janv. 1740, Macao (AHU ms 1659, f° 113v). Pf. 558.
+
+Dehergne (doc 65, nº 21) — ver `/Users/jrc/jesuit-archive/dropbox/collections/reference-works/Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf`.
+
+## 2. Biografia
+
+José de Almeida (Almeyda), português, natural de Lisboa (19 de Março de 1663 segundo o catálogo da missão da China JS 25, 278; a base, seguindo Dehergne, dá 1658 — ver o homónimo abaixo). Entrou na Companhia a 16 de Abril de 1684, no noviciado de Lisboa. Sacerdote entre 1685 e 1690, embarcou a 8 de Abril de 1690 (Wicki 1278, 113.ª expedição); estava na China em 1695, em Hainan em 1700-1704, em Macau em 1704, 1712 e 1717 e em Cantão; professou os três votos em Macau a 15 de Agosto de 1699. Com a perseguição de 1724 passou ao Sião. Morreu em Macau a 19 de Janeiro de 1740 (Pfister 558).
+
+## 3. Cronologia (base Timelink)
+
+| Data | Atributo | Valor |
+|---|---|---|
+| — | `jesuita-estatuto` | Padre |
+| — | `nacionalidade` | Portugal |
+| — | `nome-chines` | Fan Jo-chö |
+| — | `nome-chines` | Lou |
+| — | `nome-chines` | Lu |
+| — | `nome-chines` | Li |
+| 1658 | `nascimento` | Lisboa |
+| 1658 | `nascimento (wikidata)` | [Q597](https://www.wikidata.org/wiki/Q597) |
+| 1673 | `jesuita-entrada` | ? |
+| 1685 | `jesuita-ordenacao-padre` | ? |
+| 1690 | `jesuita-ordenacao-padre` | ? |
+| 1690-04-08 | `embarque` | ? |
+| 1690-04-08 | `wicky` | 1278 |
+| 1690-04-08 | `wicky-viagem` | 113 |
+| 1695 | `chegada` | ? |
+| 1699-08-15 | `jesuita-votos` | 3V |
+| 1699-08-15 | `jesuita-votos-local` | Macau |
+| 1699-08-15 | `jesuita-votos-local (wikidata)` | [Q14773](https://www.wikidata.org/wiki/Q14773) |
+| 1700 | `estadia` | Hainan |
+| 1700 | `estadia (wikidata)` | [Q42200](https://www.wikidata.org/wiki/Q42200) |
+| 1704 | `estadia` | Hainan |
+| 1704 | `estadia` | Macau |
+| 1704 | `estadia (wikidata)` | [Q42200](https://www.wikidata.org/wiki/Q42200) |
+| 1704 | `estadia (wikidata)` | [Q14773](https://www.wikidata.org/wiki/Q14773) |
+| 1712 | `estadia` | Cantão |
+| 1712 | `estadia (wikidata)` | [Q16572](https://www.wikidata.org/wiki/Q16572) |
+| 1717 | `estadia` | Cantão |
+| 1717 | `estadia (wikidata)` | [Q16572](https://www.wikidata.org/wiki/Q16572) |
+| 1724 | `partida` | Sião |
+| 1724 | `partida (wikidata)` | [Q869](https://www.wikidata.org/wiki/Q869) |
+| 1740-01-19 | `morte` | Macau |
+| 1740-01-19 | `morte (wikidata)` | [Q14773](https://www.wikidata.org/wiki/Q14773) |
+
+## 4. Verificação no arquivo pha
+
+### 4.1 1. A prova: a lista de noviços da Domus Probationis (catálogo de 1685)
+
+O catálogo de 1685 abre a secção da «Domus Probationis» (noviciado de Lisboa) e fecha-a com as listas dos seus noviços, que aí são inscritos com a data exacta da entrada. A p. 140 (imagem `LUS. 46/139.jpg`), com o n.º 484, lê-se:
+
+> Fr. Josephus de Almeyda. Ulyssiponensis. an. 20 … Societ. … dedit die 16. Aprilis 1684. Viribus bonis.
+
+O «dedit» é «Societati nomen dedit» (deu o nome à Companhia), a fórmula de entrada usada nesta lista, como se vê nos números vizinhos («… Novitius … Intravit Societatem die 20. Aprilis 1683», n.º 481). Estando a lista dentro da secção da Domus Probationis Ulyssiponensis — que, segundo o índice datilografado do códice, ocupa as pp. 138-140v, imediatamente antes do Colégio de Braga (140v) —, o lugar de entrada é Lisboa.
+
+### 4.2 2. A data: 16 de Abril de 1684, a que Dehergne já tinha colhido no catálogo da China
+
+A notícia de Dehergne diz: «N. 1658, Lisbonne -E. 1673 (Lus. 46, 196v). (Selon JS 25, 278 N. 19 mars 1663 -E. 16 avr. 1684)». O registo de noviços confirma o segundo conjunto de dados — entrada a 16 de Abril de 1684, idade de 20 anos em 1685 (nascimento em 1663) — e desmente o primeiro (E. 1673), que Dehergne tirou do catálogo de 1690 e que não indica casa nenhuma.
+
+### 4.3 3. O homónimo: dois «Josephus de Almeyda» de Lisboa no mesmo catálogo
+
+No mesmo catálogo de 1685 aparece um segundo «Josephus de Almeyda», mais velho, na p. ~137v (imagem `LUS. 46/136v.jpg`), n.º 422: «Fr. Josephus de Almeyda, Ulyssiponensis, an. 27, Societ. 12, viribus bonis, docet …» — com 12 anos de Companhia em 1685, isto é, entrado em 1673 e nascido em 1658: precisamente o «N. 1658 … E. 1673» que a base Timelink atribui a `deh-jose-de-almeida-ii`. Dehergne marcou esta personagem «(II)» e «douteux», hesitando entre os dois. A data de 16 de Abril de 1684 provém, porém, do catálogo da **missão da China** (JS 25, 278), a fonte que descreve o missionário embarcado em 1690 e morto em Macau em 1740 — é essa a identificação aqui seguida, com a reserva expressa em `confianca: média`.
+
+### O que não foi encontrado
+
+O fólio que Dehergne cita para a data de 1673 (Lus. 46, 196v — catálogo de 1690, secção do Colégio de Coimbra segundo o índice do códice) não foi localizado com segurança nesta digitalização: a numeração dos ficheiros afasta-se da foliação selada no interior do códice, e nas páginas que li em torno dessa zona (imagem `LUS. 46/195v.jpg`, n.os 102-116, «Fr.» scholastici) não figura nenhum «Josephus de Almeyda». Não existe em Lus. 45 nenhuma lista de noviços do noviciado de Lisboa e o registo de noviços de 1690 (imagem `LUS. 46/207v.jpg`) só cobre entradas de 1689-1690.
+
+## 5. Evidência
+
+- ARSI, *Lusitania* 46, p. 140, n.º 484 (registo dos noviços da «Domus Probationis» no catálogo de 1685) — imagem `LUS. 46/139.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg"` · prova direta
+  - «Fr. Josephus de Almeyda. Ulyssiponensis. an. 20 … dedit die 16. Aprilis 1684. Viribus bonis.» — noviço da Domus Probationis de Lisboa, entrada a 16 de Abril de 1684
+- ARSI, *Lusitania* 46, p. ~137v, n.º 422 (catálogo de 1685) — imagem `LUS. 46/136v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/136v.jpg"` · prova direta (para o homónimo)
+  - «Fr. Josephus de Almeyda, Ulyssiponensis, an. 27, Societ. 12, viribus bonis, docet …» — homónimo mais velho, entrado c. 1673, que explica o «N. 1658 / E. 1673» da base
+- ARSI, *Lusitania* 46, p. ~140, cabeça «Fratres Novitii» no n.º 474, com noviços datados de Agosto de 1682 a 1683 (catálogo de 1685) — imagem `LUS. 46/138v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/138v.jpg"` · prova indireta (contexto da prova)
+  - a lista «Fratres Novitii» (onde está o n.º 484) insere-se no fim da secção da Domus Probationis e regista as entradas desde 1682
+- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» (uma coluna por ano, uma linha por casa) — imagem `LUS. 46/000v.jpg` (manuscrito/tabela lida directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
+  - estrutura do códice: cada catálogo está organizado por casas; para 1678 «Conimbricens. C 2v … D.Prb 14»; para 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; para 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; para 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 21 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-a`) · `python3 tools/packet.py deh-jose-de-almeida-ii` · `python3 tools/packet.py deh-jose-de-almeida-ii` · prova indireta (fonte da data)
+  - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
+
+## 6. Referências
+
+- [[0 Portugal no entry]]
+- [[deh-jose-de-almeida-ii]]
+
+---
+
+Ver também: [[0 Portugal no entry]]

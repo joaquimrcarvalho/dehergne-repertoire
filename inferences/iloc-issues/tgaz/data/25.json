@@ -1,0 +1,49 @@
+{
+  "issue": "25",
+  "file": "25-sum-kiam-casa-de-um-cristao.md",
+  "place": "Sum Kiam (casa de um cristão)",
+  "dehergne_year": 1732,
+  "region": "Kiangnan / Songjiang fu",
+  "country": "China",
+  "identified_chinese": "松江府 (Songjiang Fu)",
+  "wikidata_id": "Q11104671",
+  "queries": [
+    {"name": "松江", "year": null, "feature_type": null, "source": null,
+     "total": 8,
+     "hits": [
+       {"sys_id": "hvd_32438", "name": "松江府", "transcription": "Songjiang Fu", "years": "1292 ~ 1325", "feature_type": "府 (fu)", "parent_name": "浙江行省 (ZheJiang Xings)", "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS"},
+       {"sys_id": "hvd_32439", "name": "松江府", "transcription": "Songjiang Fu", "years": "1328 ~ 1911", "feature_type": "府 (fu)", "parent_name": "浙江行省 (ZheJiang Xings)", "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS"}
+     ]},
+    {"name": "松江府", "year": 1732, "feature_type": null, "source": null,
+     "total": 2,
+     "hits": [
+       {"sys_id": "hvd_32439", "name": "松江府", "transcription": "Songjiang Fu", "years": "1328 ~ 1911", "feature_type": "府 (fu)", "parent_name": "浙江行省 (ZheJiang Xings)", "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS"}
+     ]},
+    {"name": "Songjiang", "year": null, "feature_type": null, "source": null,
+     "total": 8,
+     "hits": [
+       {"sys_id": "hvd_32439", "name": "松江府", "transcription": "Songjiang Fu", "years": "1328 ~ 1911", "feature_type": "府 (fu)", "parent_name": "浙江行省 (ZheJiang Xings)", "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS"}
+     ]},
+    {"name": "華亭", "year": null, "feature_type": null, "source": null,
+     "total": 22,
+     "hits": [
+       {"sys_id": "hvd_40495", "name": "华亭县", "transcription": "Huating Xian", "years": "1278 ~ 1911", "feature_type": "县 (xian)", "parent_name": "嘉兴路 (Jiaxing Lu)", "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS"}
+     ]}
+  ],
+  "best_match": {"sys_id": "hvd_32439", "name": "松江府",
+    "transcription": "Songjiang Fu", "feature_type": "fu",
+    "english": "superior prefecture", "years": "1328 ~ 1911",
+    "parent": "江南省 (1645-1666) → 江蘇省 (1667-1911)",
+    "lat": 31.00948, "lon": 121.22764, "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_32439",
+    "present_location": "今上海市松江县"},
+  "wikidata": {"id": "Q11104671", "label": "Songjiang Fu 松江府",
+               "lat": 31.009475833333333, "lon": 121.1077575},
+  "wikidata_alt": {"id": "Q662380", "label": "Songjiang 松江區",
+                   "lat": 31.005833333333, "lon": 121.23333333333, "dist_km": 0.68},
+  "dist_km": 11.43,
+  "verdict": "confirmed",
+  "verdict_note": "TGAZ records 松江府 (府, 1328-1911; Jiangnan/Jiangsu) at the Songjiang seat; 11.4 km from Q11104671 and 0.7 km from Q662380. Confirms Sum Kiam = Songjiang fu.",
+  "notes": "Year-filtered 1732 query returns hvd_32439. TGAZ does not index the Romanised form 'Sum Kiam', so the Chinese 松江府 is the query.",
+  "checked_at": "2026-10-22"
+}

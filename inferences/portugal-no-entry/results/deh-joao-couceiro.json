@@ -1,0 +1,56 @@
+{
+ "id": "deh-joao-couceiro",
+ "name": "João Couceiro",
+ "lugar": null,
+ "data": "1649 (ano indicado por Dehergne, com a cota Lus. 45, 180 — cota ausente deste arquivo)",
+ "confianca": "nenhuma",
+ "sugestao_tabela": "Coimbra (valor da coluna «jesuita-entrada» da tabela [[0 Portugal no entry]]; o nome não tem sugestão apensa)",
+ "validacao": "NÃO confirmada. A sugestão «Coimbra» não tem apoio documental neste arquivo: nenhuma página diz onde entrou. O apelido é raríssimo — em todo o arquivo (82 mil páginas) há apenas 33 blocos de texto com «Couceiro», e nenhum deles se refere a este homem, salvo as listas de embarque e a de mortos. Só o indício geográfico (Tentúgal, diocese de Coimbra) apontaria Coimbra.",
+ "resumo": "Nada no arquivo localiza a entrada deste missionário, que morreu cedo, em Goa, por volta de 1660. Dehergne indica «-E. 1649 (Lus. 45, 180)»; o volume existe nas digitalizações locais (`LUS. 45/`, 978 imagens, ff. 0-487v) e o fólio 180 (citado por Dehergne) foi lido, sem que ele aí apareça; as duas únicas outras fontes que o nomeiam (Wicki, n.º 1041; Pfister, na lista dos mortos antes de chegar à China) só dão o embarque de 1657 e a morte. O apelido Couceiro só ocorre 33 vezes em todo o arquivo, sempre em pessoas alheias.",
+ "biografia": "João Couceiro nasceu em Tentúgal (Tancugal), diocese de Coimbra, em 1633. Segundo Dehergne, entrou na Companhia em 1649. Embarcou a 4 de Abril de 1657 no *Bom Jesus* (W 1041); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Morreu por volta de 1660, em Goa (Dehergne; não consta de HS 48). Pfister inclui-o entre os dezoito missionários destinados à China que morreram antes de a alcançar: «enfin, en 1659, à Goa, Jean Couceiro, Antoine Preto, Jean de Figueredo, François Velho et le Fr. coadjuteur Amator Fernandes, tous portugais» (doc 47, p. 368).",
+ "analise": [
+  {
+   "titulo": "O que Dehergne diz — e o que falta",
+   "texto": "> «Couceiro, Joäo (port.) P. 220 — N. Tancugal, 1633 **-E. 1649 (Lus. 45, 180)**. Emb. 4 avr. 1657 sur le Bom Jesus (W 1041); en 1660, était à Goa, mais sujet de la vice-province de Chine (JS 134, 344). M. v. 1660, à Goa (pas dans HS 48). Pf. 329; GABIANI cité par Pf.»\n\n— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 104 — edited (`french-ocr`) · `pha page 65 104 --edited`\n\nA cota «Lus. 45, 180» — a única fonte do ano de entrada — **não existe neste arquivo**: de Lus. 45 não há nada digitalizado (só Lus. 44 I f. 214 = doc 36, 1606, e Lus. 44 II f. 410 = doc 28, 1625). O arquivo não permite ler nem o ano nem o lugar."
+  },
+  {
+   "titulo": "Tudo o que o arquivo diz dele",
+   "texto": "> «89. Aussendung: 1657, Abfahrt 4. April im Schiff S. Lourenço das Almas … 1041. P. João Couceiro, Port.»\n\n— Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 55 — edited · `pha page 66 55`\n\n> «…enfin, en 1659, à Goa, Jean Couceiro, Antoine Preto, Jean de Figueredo, François Velho et le Fr. coadjuteur Amator Fernandes, tous portugais.»\n\n— Pfister, *Notices…* t. 1 (doc 47), p. 368 (impressa 329) — edited (`french-ocr`) · `pha page 47 368 --edited`\n\nÉ tudo. A vida não é tratada por Franco (nos quatro volumes — docs 52 a 55 — o apelido «Couceiro» não aparece uma única vez), nem por Schütte (doc 18: zero ocorrências), nem nas colecções documentais (docs 40, 41, 67, 89-92, 58-64). Não há aqui catálogo português posterior a 1625."
+  },
+  {
+   "titulo": "Homónimos (os únicos «Couceiro» do arquivo)",
+   "texto": "O arquivo regista 33 blocos com «Couceiro» em 82 mil páginas; nenhum é este homem, à excepção das duas listas acima. Entre eles: **João Pereira Couceiro**, natural de Lisboa, que tomou o hábito de São Francisco (?) em Goa e entrou a 31 de Outubro de 1629 — «Fr. João de S. Agostinho, ou Pereira, que se chamava João Pereira Couceiro, natural de Lisboa, freguesia de S. Nicolau, de 22 anos: entrou a 31 de Outubro de 1629» (doc 40, p. 499); e **José Couceiro**, irmão embarcado em 1708 (W 1502; doc 66, p. 70). Nenhum deles é o jesuíta de Tentúgal. Note-se que, precisamente por o apelido ser raro, a ausência de qualquer vida ou catálogo que o mencione é significativa."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 104, verbete «Couceiro, Joäo» — edited (`french-ocr`)",
+   "comando": "pha page 65 104 --edited",
+   "o_que_prova": "estado da questão: E. 1649 «(Lus. 45, 180)», lugar em branco; embarque em 1657 (W 1041) e morte em Goa c. 1660",
+   "forca": "contextual"
+  },
+  {
+   "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 55, n.º 1041 — edited",
+   "comando": "pha page 66 55",
+   "o_que_prova": "embarque de 4 de Abril de 1657 (89.ª expedição); nada sobre a entrada na Companhia",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "Pfister, *Notices biographiques…*, t. 1 (doc 47), p. 368 — edited (`french-ocr`)",
+   "comando": "pha page 47 368 --edited",
+   "o_que_prova": "situa-o entre os que morreram em Goa em 1659, antes de chegar à China; sem dados de noviciado",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "*Documentação para a história das missões do padroado português do Oriente*, vol. XI (doc 40), p. 499 — edited",
+   "comando": "pha page 40 499 --edited",
+   "o_que_prova": "NEGATIVA: o único outro «Couceiro» com relevo no arquivo é um frade de Goa (João Pereira Couceiro, entrado em 1629) — homónimo",
+   "forca": "negativa"
+  }
+ ],
+ "nao_encontrado": "O apelido é raríssimo: uma varredura completa da base do arquivo (339 232 blocos de texto, 136 documentos) devolve apenas 33 blocos com «Couceiro» (e zero com «Couçeiro», «Coceiro», «Couceyro»). Desses, os únicos relativos a este homem são a lista de embarque de Wicki (n.º 1041) e a lista de mortos de Pfister — nenhum dá o lugar de entrada. Verificaram-se ainda: «João Couceiro», «Joam Couceiro», «Ioão Couceiro», «Juan Couceiro»; Franco *Imagem da virtude* nos quatro volumes (docs 52-55: zero ocorrências do apelido); Franco *Synopsis* (doc 16: zero); Schütte (doc 18: zero); Dehergne (doc 65); Wicki (doc 66); Pfister (docs 47 e 50); *Memorial das missões* (doc 67); *Documentação… do Oriente* (docs 40 e 41); Rodrigues (docs 58-64); e a nota do arquivo [[novicos-de-coimbra]] (onde ele não figura na Tabela A das 216 vidas de Franco, nem nos «não declaram o lugar de entrada»). Fonte citada por Dehergne — ARSI Lus. 45, f. 180 — inexistente neste arquivo (não há nenhum Lus. 45).",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-joao-couceiro]]"
+ ]
+}

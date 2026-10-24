@@ -1,0 +1,41 @@
+{
+  "id": "deh-antonio-de-mursia",
+  "name": "António de Mursia",
+  "lugar": "Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)",
+  "data": "1688-06-12",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido: inscrito como noviço («Soc. ingressus est») na secção «Domus Probationis» do catálogo de 1690, com a data explícita",
+  "resumo": "No catálogo trienal de 1690 (ARSI, Lus. 46) a secção «Domus Probationis» (cabeçalho no f. 206, imagem `LUS. 46/205.jpg`; a mesma casa é chamada «Domus Probationis Ulyssipon.» no catálogo de 1681, f. 70v) abre com os seus religiosos e segue-se a lista dos noviços, ordenada pelas datas de entrada. Aí se lê, no f. 207: Fr. Antonio de Mursia ex Rasto, Diæc. Bracharensi. ætatis 20. laborat an. Soc. ingressus est 12 Junii an. 1688. dabat operam Dialecticæ.",
+  "biografia": "António de Mursia (Murcea), natural de Rasto, diocese de Braga (n. 1670), entrou na Companhia a 12 de Junho de 1688 na Casa de Provação de Lisboa. Embarcou para a China em 1693 no *S. Francisco Borja* (W 1323), navio que teve de voltar atrás; era sacerdote e morreu durante a viagem.",
+  "analise": [
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O catálogo de 1690 (Lus. 46, f. 207) inscreve-o na lista de noviços da Casa de Provação:\n\n> «381 / Fr. Antonio de Mursia ex Rasto(?), Diæc. Bracharensi. ætatis 20. laborat an. [...] Soc. ingressus est 12 Junii an. 1688. dabat operam Dial[ecticæ].» (Lus. 46, f. 207)\n\nA diocese de Braga, a naturalidade (Rasto) e a data (12 de Junho de 1688) coincidem com a notícia do Dehergne («N. Rasto, d. de Braga, 1670 -E. 12 juin 1688 (Lus. 46, 207)»), e confirmam-na quanto ao dia e ao lugar."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 207 (catálogo trienal da província de Portugal, 1690), lista de noviços da «Domus Probationis», n.º 381: «Fr. Antonio de Mursia ex Rasto, Diæc. Bracharensi. ætatis 20. laborat an. Soc. ingressus est 12 Junii an. 1688. dabat operam Dialecticæ.» — manuscrito ARSI lido directamente na imagem digital",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/206.jpg\"",
+      "o_que_prova": "que era noviço da Casa de Provação e a data exacta da entrada na Companhia",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 206 (catálogo de 1690): cabeçalho «Domus Probationis» a seguir aos religiosos da casa anterior; e ARSI, *Lusitania* 46, f. 70v (catálogo de 1681), onde a mesma casa é expressamente «Domus Probationis Ulyssipon.» (n.º 427, P. Vicente Leyrera, «modo Rector Domus Probationis Ulyssipon.») — manuscrito ARSI lido em imagem digital",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg\"",
+      "o_que_prova": "que a casa em cuja lista de noviços foi inscrito é a Casa de Provação de Lisboa",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine*, s.v. «Mursia (Murcea), Antonio de», notícia integral na base Timelink",
+      "comando": "python3 tools/packet.py deh-antonio-de-mursia",
+      "o_que_prova": "a mesma data de entrada e a citação «Lus. 46, 207»",
+      "forca": "indireta"
+    }
+  ],
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-antonio-de-mursia]]"
+  ]
+}

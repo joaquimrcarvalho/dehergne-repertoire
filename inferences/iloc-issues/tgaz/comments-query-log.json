@@ -1,0 +1,1496 @@
+[
+  {
+    "issue": "2",
+    "name": "羅浮",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "1"
+  },
+  {
+    "issue": "2",
+    "name": "Luofu",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "2"
+  },
+  {
+    "issue": "2",
+    "name": "羅浮洞",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "0"
+  },
+  {
+    "issue": "2",
+    "name": "欽州",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "25"
+  },
+  {
+    "issue": "2",
+    "name": "防城",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "3"
+  },
+  {
+    "issue": "4",
+    "name": "茶园沟",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "4",
+    "name": "茶園溝",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "4",
+    "name": "Chayuangou",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "4",
+    "name": "茶园",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 10
+  },
+  {
+    "issue": "4",
+    "name": "茶园",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "谷城县",
+    "expected_total": 0
+  },
+  {
+    "issue": "4",
+    "name": "谷城",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "4",
+    "name": "谷城",
+    "year": 1759,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "4",
+    "name": "紫金",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "谷城县",
+    "expected_total": 1
+  },
+  {
+    "issue": "4",
+    "name": "襄阳府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 11
+  },
+  {
+    "issue": "27",
+    "name": "三橋",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "27",
+    "name": "三桥",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "高安县",
+    "expected_total": 0
+  },
+  {
+    "issue": "27",
+    "name": "三桥",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "瑞州府",
+    "expected_total": 0
+  },
+  {
+    "issue": "27",
+    "name": "瑞州府",
+    "year": 1741,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "27",
+    "name": "高安县",
+    "year": 1741,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "29",
+    "name": "鄖西",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "4"
+  },
+  {
+    "issue": "29",
+    "name": "鄖陽府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "6"
+  },
+  {
+    "issue": "29",
+    "name": "Yunxi",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "19"
+  },
+  {
+    "issue": "30",
+    "name": "山西",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "6"
+  },
+  {
+    "issue": "30",
+    "name": "Shanxi",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "36"
+  },
+  {
+    "issue": "30",
+    "name": "山西布政使司",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "1"
+  },
+  {
+    "issue": "33",
+    "name": "嘉定",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "12"
+  },
+  {
+    "issue": "33",
+    "name": "嘉定縣",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "3"
+  },
+  {
+    "issue": "33",
+    "name": "Kiating",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "0"
+  },
+  {
+    "issue": "33",
+    "name": "太倉",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "6"
+  },
+  {
+    "issue": "38",
+    "name": "通州",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 22
+  },
+  {
+    "issue": "38",
+    "name": "通州",
+    "year": null,
+    "feature_type": "zhou",
+    "source": null,
+    "parent": null,
+    "expected_total": 5
+  },
+  {
+    "issue": "38",
+    "name": "通州",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "顺天府",
+    "expected_total": 2
+  },
+  {
+    "issue": "38",
+    "name": "通州",
+    "year": 1767,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "38",
+    "name": "Tongzhou",
+    "year": 1767,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "38",
+    "name": "通縣",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "38",
+    "name": "南通",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "老山洼",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "老山窪",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "老山凹",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "牢山",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "Laoshanwa",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "Laoshan",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "42",
+    "name": "老山",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "老山湾",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "老山窝",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "老山口",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "42",
+    "name": "汉阳府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 14
+  },
+  {
+    "issue": "42",
+    "name": "武昌府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 11
+  },
+  {
+    "issue": "42",
+    "name": "汉阳府",
+    "year": 1759,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "43",
+    "name": "呂家莊",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "43",
+    "name": "Shulu",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "43",
+    "name": "束鹿縣",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 5
+  },
+  {
+    "issue": "43",
+    "name": "Shulu",
+    "year": 1744,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "43",
+    "name": "呂家莊",
+    "year": 1744,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "48",
+    "name": "白家",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 50
+  },
+  {
+    "issue": "48",
+    "name": "白家",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "信丰县",
+    "expected_total": 0
+  },
+  {
+    "issue": "48",
+    "name": "白家村",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "信丰县",
+    "expected_total": 0
+  },
+  {
+    "issue": "48",
+    "name": "白家堡",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "信丰县",
+    "expected_total": 0
+  },
+  {
+    "issue": "48",
+    "name": "白加",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "48",
+    "name": "信豐",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 4
+  },
+  {
+    "issue": "48",
+    "name": "信豐",
+    "year": 1696,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "48",
+    "name": "贛州府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 9
+  },
+  {
+    "issue": "48",
+    "name": "白家",
+    "year": 1696,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "49",
+    "name": "臨江府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 7
+  },
+  {
+    "issue": "49",
+    "name": "临江府",
+    "year": 1787,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "49",
+    "name": "Linjiang",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 49
+  },
+  {
+    "issue": "49",
+    "name": "清江县",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 16
+  },
+  {
+    "issue": "49",
+    "name": "清江县",
+    "year": 1787,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "49",
+    "name": "白埠",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "49",
+    "name": "白埠",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "临江府",
+    "expected_total": 0
+  },
+  {
+    "issue": "49",
+    "name": "北埠",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "49",
+    "name": "百步",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "49",
+    "name": "百步",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "临江府",
+    "expected_total": 0
+  },
+  {
+    "issue": "49",
+    "name": "裴埠",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "50",
+    "name": "柏泉",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "50",
+    "name": "柏泉山",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "50",
+    "name": "柏泉",
+    "year": 1740,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "50",
+    "name": "茅廟集",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "50",
+    "name": "茅庙集",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "50",
+    "name": "Baiquan",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 7
+  },
+  {
+    "issue": "50",
+    "name": "漢陽府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 10
+  },
+  {
+    "issue": "50",
+    "name": "漢陽府",
+    "year": 1740,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "50",
+    "name": "漢陽縣",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 7
+  },
+  {
+    "issue": "51",
+    "name": "金川",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "51",
+    "name": "金川县",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "51",
+    "name": "Jinchuan",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 4
+  },
+  {
+    "issue": "51",
+    "name": "大金川",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "51",
+    "name": "小金川",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "51",
+    "name": "金川",
+    "year": 1774,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "51",
+    "name": "懋功",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 7
+  },
+  {
+    "issue": "51",
+    "name": "懋功",
+    "year": 1774,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "51",
+    "name": "绥靖",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "51",
+    "name": "崇化",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 5
+  },
+  {
+    "issue": "51",
+    "name": "抚边",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "51",
+    "name": "章谷",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 4
+  },
+  {
+    "issue": "55",
+    "name": "三橋",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "55",
+    "name": "三桥",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "高安县",
+    "expected_total": 0
+  },
+  {
+    "issue": "55",
+    "name": "三桥",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "瑞州府",
+    "expected_total": 0
+  },
+  {
+    "issue": "55",
+    "name": "瑞州府",
+    "year": 1741,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "55",
+    "name": "高安县",
+    "year": 1741,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "56",
+    "name": "紹興",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 10
+  },
+  {
+    "issue": "56",
+    "name": "紹興府",
+    "year": 1706,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "56",
+    "name": "Shaoxing",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 10
+  },
+  {
+    "issue": "56",
+    "name": "Shanyin",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 12
+  },
+  {
+    "issue": "56",
+    "name": "Ciquione",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "56",
+    "name": "Shaoshing",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "56",
+    "name": "紹興府",
+    "year": 1586,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "56",
+    "name": "山陰縣",
+    "year": 1586,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "56",
+    "name": "會稽縣",
+    "year": 1586,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "56",
+    "name": "Cixi",
+    "year": 1586,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "57",
+    "name": "湘潭",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 9
+  },
+  {
+    "issue": "57",
+    "name": "湘潭縣",
+    "year": 1706,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "57",
+    "name": "Xiangtan",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 15
+  },
+  {
+    "issue": "57",
+    "name": "長沙府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 8
+  },
+  {
+    "issue": "58",
+    "name": "小寨子",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "58",
+    "name": "小寨",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 11
+  },
+  {
+    "issue": "58",
+    "name": "小寨子",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "城固縣",
+    "expected_total": 0
+  },
+  {
+    "issue": "58",
+    "name": "小寨子",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "漢中府",
+    "expected_total": 0
+  },
+  {
+    "issue": "58",
+    "name": "城固",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 5
+  },
+  {
+    "issue": "58",
+    "name": "城固",
+    "year": 1657,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "唐家巷",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "湯家巷",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "汤家巷",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "Tangjiaxiang",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "唐家巷",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "松江府",
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "湯家巷",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "松江府",
+    "expected_total": 0
+  },
+  {
+    "issue": "61",
+    "name": "唐家",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 27
+  },
+  {
+    "issue": "61",
+    "name": "松江府",
+    "year": 1787,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "62",
+    "name": "茶园沟",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "62",
+    "name": "茶園溝",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "62",
+    "name": "Chayuangou",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "62",
+    "name": "茶园",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 10
+  },
+  {
+    "issue": "62",
+    "name": "茶园",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "谷城县",
+    "expected_total": 0
+  },
+  {
+    "issue": "62",
+    "name": "谷城",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "62",
+    "name": "谷城",
+    "year": 1759,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "62",
+    "name": "紫金",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": "谷城县",
+    "expected_total": 1
+  },
+  {
+    "issue": "62",
+    "name": "襄阳府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 11
+  },
+  {
+    "issue": "63",
+    "name": "常熟",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "6"
+  },
+  {
+    "issue": "63",
+    "name": "Changshu",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "8"
+  },
+  {
+    "issue": "63",
+    "name": "唐市",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "3"
+  },
+  {
+    "issue": "63",
+    "name": "東港",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "4"
+  },
+  {
+    "issue": "63",
+    "name": "塘橋",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": "2"
+  },
+  {
+    "issue": "64",
+    "name": "Saratov",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "64",
+    "name": "Саратов",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "64",
+    "name": "Саратов",
+    "year": 1795,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "64",
+    "name": "Saratov",
+    "year": 1805,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Tonkosz",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Tonkoszorowka",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Тонкошуровка",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Mariental",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Мариенталь",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Sovetskoye",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "64",
+    "name": "Советское",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "65",
+    "name": "武昌府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 11
+  },
+  {
+    "issue": "65",
+    "name": "武昌府",
+    "year": null,
+    "feature_type": "fu",
+    "source": null,
+    "parent": null,
+    "expected_total": 11
+  },
+  {
+    "issue": "65",
+    "name": "Wuchang",
+    "year": null,
+    "feature_type": "fu",
+    "source": null,
+    "parent": null,
+    "expected_total": 14
+  },
+  {
+    "issue": "65",
+    "name": "武昌府",
+    "year": 1767,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 3
+  },
+  {
+    "issue": "65",
+    "name": "湖北",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "67",
+    "name": "延平府",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 8
+  },
+  {
+    "issue": "67",
+    "name": "延平",
+    "year": 1649,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 2
+  },
+  {
+    "issue": "67",
+    "name": "Yanping",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 21
+  },
+  {
+    "issue": "67",
+    "name": "十字山",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 0
+  },
+  {
+    "issue": "68",
+    "name": "右玉",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 6
+  },
+  {
+    "issue": "68",
+    "name": "右玉",
+    "year": 1727,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "68",
+    "name": "右玉卫",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 1
+  },
+  {
+    "issue": "68",
+    "name": "Youyu",
+    "year": null,
+    "feature_type": null,
+    "source": null,
+    "parent": null,
+    "expected_total": 13
+  }
+]

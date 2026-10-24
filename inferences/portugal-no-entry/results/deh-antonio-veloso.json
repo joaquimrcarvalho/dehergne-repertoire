@@ -1,0 +1,72 @@
+{
+  "id": "deh-antonio-veloso",
+  "name": "António Veloso",
+  "lugar": "Coimbra (Colégio de Jesus — noviciado)",
+  "data": "1615-09-02",
+  "confianca": "alta",
+  "sugestao_tabela": "Coimbra 1619 (valor na tabela: Coimbra, 16150902)",
+  "validacao": "confirmada quanto ao lugar e à data; o «1619» da sugestão é a casa de residência no catálogo em que Dehergne o encontrou (Lus. 44 II, 361), não a entrada — em 1617 era ainda noviço em Coimbra",
+  "resumo": "No catálogo breve da província de Portugal de 1617 (ARSI, Lus. 39, fol. 97) António Veloso aparece na lista «Irmãos Nouiços Estudantes» do Colégio de Coimbra, cerca de 16 meses depois da entrada de 2 de Setembro de 1615 indicada por Dehergne. Sendo noviço na comunidade do Colégio de Coimbra, o seu noviciado — e portanto a entrada — foi em Coimbra.",
+  "biografia": "Nasceu em Braga em 1597. Entrou na Companhia a 2 de Setembro de 1615 (Dehergne, Lus. 44 II, 361); em 1617 era noviço em Coimbra. Embarcou para a Índia a 25 de Março de 1624 (W 709), foi reitor de Cochim e procurador-geral das províncias orientais; em 1652 foi a Roma como procurador, regressando com a patente de visitador da China e do Japão (22 de Janeiro de 1656) e embarcando de novo a 4 de Abril de 1657 no S. Lourenço das Almas como procurador da província de Cochim (W 1014a). Morreu durante a viagem, em Julho de 1657.",
+  "analise": [
+    {
+      "titulo": "Noviço do Colégio de Coimbra em 1617",
+      "texto": "O catálogo breve de 1617, na parte do Colégio de Coimbra (fol. 97), tem, sob o título «Irmãos Nouiços Estudantes»: «...João Cabral, Antº Veloso, Frº de Faria...». Tendo entrado a 2 de Setembro de 1615 e durando o noviciado dois anos, em Janeiro de 1617 era ainda noviço — e o catálogo coloca-o precisamente entre os noviços do Colégio de Coimbra: é a prova do lugar de entrada. Página lida diretamente na imagem ARSI (Lus. 39, spread 96-97); o mesmo é dito na nota do vault [[Coimbra Entry Changes]]."
+    },
+    {
+      "titulo": "O «1619» da tabela é residência",
+      "texto": "Dehergne cita Lus. 44 II, 361 para a entrada de 2 de Setembro de 1615; a nota do vault descreve esse fólio como o catálogo do Colégio de Coimbra de 1619, onde Veloso figura entre os cursistas. Um catálogo de 1619 mostra onde estava quatro anos depois da entrada, não onde entrou. A prova de Coimbra é a sua condição de noviço em 1617."
+    },
+    {
+      "titulo": "Homónimos a não confundir",
+      "texto": "Em 1588, no catálogo de Goa, há um «Antonio Veloso, português, de Vila Nova de Gaia, diocese do Porto, 23 anos e meio, cinco anos da Companhia, estuda latim» (Documenta Indica, doc 90, p. 260) — é outro homem, muito mais velho (teria nascido c. 1565) e da diocese do Porto, não o nosso, de Braga, nascido em 1597. Há ainda um terceiro «Antonio Veloso» de Viana, arcebispado de Braga, com 4 anos de Companhia em 1593 (Documenta Indica, doc 91, pp. 1046 e 1056 — não verificado nesta passagem)."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 39, imagem `LUS. 39/096.jpg` (spread 96v+97; fólio de trabalho «97»), catálogo breve da província de Portugal de 1617, secção do Colégio de Coimbra — título «¶ Irmãos Nouiços Estudantes ¶», com o n.º marginal 180 na página: «Ir João Cabral / Ir Ant.º Veloso»",
+      "comando": "ler a imagem \"/Users/jrc/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg\" (terço superior da página direita)",
+      "o_que_prova": "António Veloso era noviço do Colégio de Coimbra em 1617, dois anos depois da entrada de 2 de Setembro de 1615 — prova direta de que o noviciado (e a entrada) foi em Coimbra; na mesma lista está João Cabral, com quem embarcaria em 1624",
+      "forca": "direta (noviço nomeado na casa do noviciado, dentro do biénio de 1615-1617); lida por mim na imagem ARSI, não numa página pha"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 325, entrada n.º 880 «Veloso (Velloso, forme ancienne du nom), Anténio (port.) P.» — edited (`french-ocr`)",
+      "comando": "pha page 65 325 --edited",
+      "o_que_prova": "«N. Braga, 1597 - E. 2 sept. 1615 (Lus. 44 II, 361). Emb. 25 mars 1624 pour les Indes (W 709)...» — a data de entrada que o catálogo de 1617 confirma",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 44 II, imagem `LUS. 44 II/361.jpg` (catálogo de maio de 1619, Colégio de Jesus de Coimbra, f. 357 ss.), n.os 105-121",
+      "comando": "ler as imagens \"/Users/jrc/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/360v.jpg\" e \".../LUS. 44 II/361.jpg\"",
+      "o_que_prova": "em 1619 os noviços de Coimbra de 1617 aparecem como irmãos cursistas do mesmo colégio, com 3-5 anos de Companhia (Silvestre Cardoso, André Saraiva, Miguel Brandão, Gaspar de Macedo, Pero Barroso, Vicente Metela, Diogo de Novais, Bernardo Botto); é o fólio 361 que Dehergne cita para a data de 2 de Setembro de 1615 — a página direita, onde estará a entrada nominal de Veloso, está mal captada na digitalização",
+      "forca": "indireta (corrobora Coimbra em 1619 e a data citada por Dehergne)"
+    },
+    {
+      "citacao": "Josef Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 45 — raw (`wicki-indienfahrer-1967`) · `pha page 66 45`",
+      "comando": "pha page 66 45",
+      "o_que_prova": "«709. P. António Veloso, Pott. ... 711. P. Joào Cabral, Port.» na 62.ª expedição (1624, partida a 25 de Março) — confirma o indivíduo e o embarque citado por Dehergne (W 709), na mesma frota de João Cabral",
+      "forca": "indireta (embarque)"
+    },
+    {
+      "citacao": "António Franco, *Imagem da virtude ... no Real Collegio de Jesus de Coimbra* I (doc 54), p. 25 — raw/edited (`franco-imagem-virtude`) · `pha page 54 25`",
+      "comando": "pha page 54 25",
+      "o_que_prova": "em 1619 foram suprimidos os noviciados de Coimbra e Évora (noviços reunidos em Lisboa, Monte Olivete) e restaurados em 1630 — logo o noviciado de Coimbra existia em 1615-1617, período da entrada de Veloso",
+      "forca": "indireta (enquadramento institucional)"
+    },
+    {
+      "citacao": "*Documenta Indica* XII (doc 90), p. 260, catálogo de Goa de 31 de Dezembro de 1588, n.º 76 — edited (`documenta-indica-ocr`)",
+      "comando": "pha page 90 260 --edited",
+      "o_que_prova": "documenta o homónimo «Antonio Veloso» de Vila Nova de Gaia, 23 anos e meio, cinco anos de Companhia em 1588 — a não confundir com o António Veloso de Braga, n. 1597",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "Não estão no pha os catálogos citados por Dehergne (Lus. 39, 1617 — imagem ARSI `LUS. 39/096.jpg`; Lus. 44 II, 361 = Coimbra, 1619 — imagem ARSI `LUS. 44 II/361.jpg`, cuja página direita está mal captada), que só existem como digitalizações ARSI fora do arquivo; a colecção jesuit-catalogues do pha não tem catálogos entre 1610 e 1625. Não há nenhuma fórmula explícita do tipo «ingressus est Conimbricae» para Veloso: o dia 2 de Setembro de 1615 é o que Dehergne colheu do catálogo de Coimbra de 1619 (verificado em pha doc 65, p. 325) e o lugar assenta na sua condição de noviço do Colégio de Coimbra em 1617. Procurou-se «António Veloso», «Antonio Veloso», «António Velloso», «Antonio Vellozo» e «Antonius Velosus» em todo o arquivo: só aparecem o homónimo de Gaia (século XVI) e os rols de embarque de 1624 e 1657.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-antonio-veloso]]",
+    "[[Coimbra Entry Changes]]",
+    "[[1617-T4-LUS-39-95]]",
+    "[[1619-T1-LUS-44II-349]]",
+    "[[Missionários com local de entrada desconhecido - referências LUS]]"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "deh-luis-de-sequeira",
+  "name": "Luís de Sequeira",
+  "lugar": null,
+  "data": "1709-09-01",
+  "confianca": "nenhuma",
+  "sugestao_tabela": "",
+  "validacao": "data estabelecida (ARSI Lus. 47, f. 196v); casa NÃO estabelecida — entrada anterior a Janeiro de 1711",
+  "resumo": "Dehergne tira a data de ARSI Lus. 47, f. 196v (1 de Setembro de 1709, e não 7). Como essa entrada é anterior a Janeiro de 1711, não consta do registo provincial das entradas portuguesas (BNP, Pombalina 231), que começa exactamente em 1711, nem do seu apêndice impresso — que, aliás, só publica os primeiros nomes de A a J e portanto nunca incluiria um «Luís». Cuidado com o homónimo: a *História da Companhia* (doc 64, p. 260, nota 5) fala de um «Luís de Sequeira, de Elvas, onde nasceu a 22 de Dezembro de 1708, e entrou na Companhia a 17 de Outubro de 1726» — este último, sim, seria do âmbito do registo, mas não é o nosso.",
+  "biografia": "N. Carcavelos, 4 de Dezembro de 1693. Entrou na Companhia a 1 de Setembro de 1709 (ARSI Lus. 47, f. 196v). Mestre em Artes. Embarcou para a China em 1725 (Wicki n.º 1690) e chegou a 26 de Agosto de 1726. Em 1729 no Hou-kouang. Tomou os 4 votos a 2 de Fevereiro de 1727. Reitor do colégio de Macau em 1743 e vice-provincial da China em 1745-Janeiro de 1749 e em 1751-1752. Preso em Macau a 5 de Julho de 1762 e embarcado a 5 de Novembro para as prisões de Lisboa. Morreu «in mari» a 12 de Fevereiro de 1763, no porto de Talicheri (Tellicherry), na costa do Malabar. Pfister 698.",
+  "analise": [
+    {
+      "titulo": "A data, o homónimo e a falta da casa",
+      "texto": "Dehergne (aviso 761) escreve: «E. 1 Sept. 1709 (Lus. 47, 196v) et non le 7 (JS 134, 440)» — a data vem do catálogo trienal; a casa não. A *História da Companhia…* t. IV/1 (doc 64), p. 260, nota 5, dá um **homónimo** que importa não confundir:\n\n> «Luís de Sequeira, de E[l]vas, onde nasceu a 22 de Dezembro de 1708, e entrou na Companhia a 17 de Outubro de 1726. Ensinou Letras humanas.»\n\nO nosso Sequeira nasceu em Carcavelos a 4 de Dezembro de 1693 e entrou em 1709. A página de ARSI Lus. 47 com a data (f. 196v) foi lida em imagem (196v.jpg): é o catálogo trienal da província, com os assentos numerados por pessoa, dando naturalidade, diocese, ano de nascimento e o ano/dia do «ingressus» — mas não a casa, que o catálogo não indica. Não se atribui lugar."
+    },
+    {
+      "titulo": "O registo provincial de entradas (BNP, Pombalina 231) e o apêndice impresso",
+      "texto": "Dehergne tira a data de ARSI Lus. 47, f. 196v (1 de Setembro de 1709, e não 7). Como essa entrada é anterior a Janeiro de 1711, não consta do registo provincial das entradas portuguesas (BNP, Pombalina 231), que começa exactamente em 1711, nem do seu apêndice impresso — que, aliás, só publica os primeiros nomes de A a J e portanto nunca incluiria um «Luís». Cuidado com o homónimo: a *História da Companhia* (doc 64, p. 260, nota 5) fala de um «Luís de Sequeira, de Elvas, onde nasceu a 22 de Dezembro de 1708, e entrou na Companhia a 17 de Outubro de 1726» — este último, sim, seria do âmbito do registo, mas não é o nosso."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), aviso 761 — p. 284",
+      "comando": "python3 tools/packet.py deh-luis-de-sequeira  (aviso de Dehergne transcrito do campo obs da base Timelink; a página de doc 65 correspondente, p. 284, foi vista em pha_research/hint)",
+      "o_que_prova": "«E. 1 Sept. 1709 (Lus. 47, 196v) et non le 7 (JS 134, 440)» — data, não casa",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI Lus. 47, f. 196v (imagem LUS. 47/196v.jpg) — leitura directa da imagem (manuscrito)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/196v.jpg\"",
+      "o_que_prova": "é o catálogo trienal da província, com assentos numerados (n.os 246-259 na página), que dão «in ingressu / ingress.» com ano e dia mas **nunca a casa**",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "F. Rodrigues, *História da Companhia…* t. IV/1 (doc 64), p. 260, nota 5 — raw",
+      "comando": "python3 results/_scratch/q.py \"Sequeira\" 64 --ctx 320",
+      "o_que_prova": "identifica um homónimo (Luís de Sequeira de Elvas, n. 1708, E. 1726) — a não confundir com este",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), apêndice impresso in ARSI 1910 (n.os 1-351) e 1911 (n.os 352-940) — edição impressa",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/LUSITANIAE_1910.pdf\" ; open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/LUSITANIAE_1911.pdf\"",
+      "o_que_prova": "o apêndice do registo só publica os primeiros nomes de A a J (1910: A-E; 1911: F-J); nenhum «Luís» pode figurar nele — confirmação indirecta da impossibilidade de encontrar aqui esta pessoa",
+      "forca": "negativa"
+    },
+    {
+      "citacao": "BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), fólio de título (imagem `hires_000009.jpg`) — leitura directa do manuscrito",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000009.jpg\"",
+      "o_que_prova": "«Catalogo dos Sogeitos que entrarão em a Comp.ª de Jesus na Provincia de Portugal. Começa em Jan.º de 1711. Tem folhas 247» — fixa o âmbito cronológico do registo",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), 510 imagens digitais (`hires_000011.jpg`–`hires_000510.jpg`) — leitura directa; ausência verificada",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000011.jpg\" ; open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000510.jpg\"",
+      "o_que_prova": "o registo abre em «Começa em Jan.º de 1711» (fólio de título, imagem hires_000009.jpg): nenhuma entrada anterior a Janeiro de 1711 pode figurar nele",
+      "forca": "negativa"
+    }
+  ],
+  "nao_encontrado": "Procurou-se: (a) o registo provincial de entradas 1711-1758 (BNP, Pombalina 231) — fora do âmbito, começa em 1711; (b) o seu apêndice impresso (1910/1911), que só cobre os primeiros nomes A-J e por isso não pode conter nenhum «Luís»; (c) doc 64 — apenas o homónimo de Elvas (E. 1726); (d) Pfister (docs 47 e 50) e Backer-Sommervogel (docs 138-149) — só datas e viagens. Falta o catálogo da província de 1709-1711 e os livros de noviços de Lisboa/Coimbra/Évora.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-luis-de-sequeira]]"
+  ]
+}

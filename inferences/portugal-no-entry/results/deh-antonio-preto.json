@@ -1,0 +1,62 @@
+{
+  "id": "deh-antonio-preto",
+  "name": "António Preto",
+  "lugar": "Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca",
+  "data": "1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia)",
+  "confianca": "baixa",
+  "sugestao_tabela": "campo «suggestion» vazio; a coluna je_table da tabela Obsidian traz «Coimbra», sem prova documental citada",
+  "validacao": "Não confirmada. O catálogo de 1655 (Lus. 45, f. 180) mostra-o no Colégio de Coimbra com 4 anos de Companhia (entrada ~1651, e não 1650 como diz Dehergne). O lugar «Coimbra» é apenas inferência: era a casa de noviciado e de estudos do norte, mas Preto é natural da Golegã (arcebispado de Lisboa) e o arquivo mostra pelo menos um conterrâneo seu entrando no noviciado de Évora (Franco, doc 52, p. 701) — a inferência regional é insegura.",
+  "resumo": "O Dehergne dá-lhe entrada em 1650 sem lugar. A única prova coeva que encontrei é o catálogo de 1655 (Lus. 45, f. 180), que o coloca no Colégio de Coimbra com 4 anos de Companhia — logo entrada em 1651, e não em 1650. Como não existe lista de noviços para 1650-1651 neste volume, o lugar de entrada não fica estabelecido; a hipótese mais provável é Coimbra (casa de noviciado do norte, onde foi estudante), mas Lisboa (Casa de Provação, noviciado da região de origem) não pode ser excluída.",
+  "biografia": "Nasceu na Golegã em 1634 («Golegam»). Entrou na Companhia em 1650 (Dehergne; o catálogo de 1655 dá-lhe 4 anos de Companhia) e em 1655 estudava filosofia no Colégio de Coimbra. Embarcou para a China no Bom Jesus da Vidigueira a 4 de Abril de 1657 (W 1044, viagem 89). Em 1660 estava em Goa, mas era súbdito da vice-província da China (JS 134, 344). Morreu em Goa a 13 de Outubro de 1660 (JS 48, 10v). O Pfister (Pf. 329) fá-lo morrer em 1659.",
+  "analise": [
+    {
+      "titulo": "O Dehergne não dá lugar",
+      "texto": "> «Preto, Antonio (port.) P. 662 N. 1634, « Golegam » (Lus. 45, 180). -E. 1650 (Goa 25, 171, catal. de 1659)…»\n\n— Dehergne, *Répertoire* (doc 65), p. 249 — raw · `pha page 65 249`\n\nA cota «Lus. 45, 180» é o catálogo de 1655, secção do Colégio de Coimbra."
+    },
+    {
+      "titulo": "A prova coeva (residência, não noviciado)",
+      "texto": "> «93. Fr. Antonius Preto. Golegam. 21. 4. Optima. Philosophus ex 1.º»\n\n— ARSI, Lus. 45, f. 180 (catálogo de 1655, secção do Colégio de Coimbra) — manuscrito lido em imagem (LUS. 45/180.jpg)\n\n21 anos de idade (n. 1634) e 4 anos de Companhia em 1655 ⇒ entrada em 1651 (o Dehergne escreveu 1650). Estava, pois, em Coimbra, como estudante de filosofia, quatro anos depois da entrada — como o seu companheiro de embarque João de Figueiredo. Isto prova a casa de estudos, não a casa de noviciado."
+    },
+    {
+      "titulo": "Porque não fecho a questão",
+      "texto": "A Golegã pertencia ao arcebispado de Lisboa; mas o Franco (doc 52, p. 701) documenta um natural da Golegã — André Freire — que entrou na Companhia **em Évora** em 1644, o que mostra que a naturalidade não determina o noviciado. Em LUS 45 não há lista de noviços da «Domus Probationis Vlyssiponensis» para 1650-1651 (a mais antiga é a de 1654/55, f. 116, e só regista admissões de 1654), pelo que tanto Coimbra como Lisboa continuam possíveis. Registo as duas hipóteses e a prova de residência."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 93) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg»)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg\"",
+      "o_que_prova": "«Fr. Antonius Preto. Golegam. 21. 4. Optima. Philosophus ex 1.º» — 21 anos e 4 anos de Companhia em 1655 ⇒ entrada em 1651; era estudante de filosofia em Coimbra",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg»)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
+      "o_que_prova": "lista «Novitii extra ordinem… qui post hunc catalogum confectum ingressi sunt»: os noviços do norte eram inscritos em Coimbra (indício para a hipótese Coimbra)",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude… Évora* (doc 52), p. 701 (André Freire, da Golegã, noviço em Évora em 1644) — raw",
+      "comando": "pha page 52 701",
+      "o_que_prova": "contra-exemplo à inferência «Golegã (arcebispado de Lisboa) → noviciado de Lisboa»",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 249 — raw (`transcription-ocr@liteparse-fra`)",
+      "comando": "pha page 65 249",
+      "o_que_prova": "«N. 1634, « Golegam » … -E. 1650» sem lugar; o problema a resolver",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Pfister, *Notices…*, t. I (doc 47), p. 368 (impressa 329) — raw (`transcription-ocr@liteparse-fra`)",
+      "comando": "pha page 47 368",
+      "o_que_prova": "«Antoine Preto» aparece só entre os mortos a caminho da China; sem dados de entrada",
+      "forca": "negativa"
+    }
+  ],
+  "nao_encontrado": "Procurei «António/Antonio/Antonius Preto», «Prieto», «Pretot» em todo o arquivo pha e nos catálogos ARSI de LUS 45: índice do volume (ff. 1-6), lista «Domus Probationis Vlyssiponensis» do catálogo de 1649 (ff. 20-20v), índice do catálogo de 1651 (ff. 55-56), lista «Novitij» de Coimbra do catálogo de 1654 (f. 79), lista de noviços da «Domus Probationis Vlyssiponensis» do catálogo de 1654/55 (ff. 116-117) e listas de noviços de 1661/62 (ff. 297v-300, índice ff. 302-303v). Não existe neste volume lista de noviços para os anos de 1650-1651. Os «Antonio Preto» do século XVI que o arquivo tem (catálogos de Coimbra de 1576-1587, docs 1, 4, 27, 32) são outra pessoa.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-antonio-preto]]"
+  ]
+}

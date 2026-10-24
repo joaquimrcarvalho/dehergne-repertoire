@@ -1,0 +1,42 @@
+{
+ "volume_folder": [
+  "LUS. 46 a"
+ ],
+ "volume_note": "ARSI Lusitania 46a",
+ "index_sources": [],
+ "folio_scheme": "Volume autónomo, com fólios próprios ff. 1-45. A nota manuscrita no verso da capa (000v.jpg) diz: «Hic catalogus anno 1693 compositus additamentis posterioribus pro anno 1700 adaptatus est» — catálogo composto em 1693 e adaptado, com acrescentos posteriores, para o ano de 1700.",
+ "catalogues": [
+  {
+   "year": "1700",
+   "type": "T1",
+   "title": "Catalogus I Provinciae Lusitanae — 1700 (LUS. 46 a)",
+   "description": "Catálogo I de 1700, variante autónoma composta em 1693 e adaptada para 1700 (nota manuscrita no verso da capa). ff. 1-39; começa pela Domus Professa de Lisboa e inclui as avaliações de cada pessoa. Duplica parcialmente o Catálogo I de 1700 do LUS. 47 (ff. 8-33v), mas é uma versão mais desenvolvida (45 fólios no total, dos quais 40-45 são o índice).",
+   "local": "",
+   "folio_start": "1",
+   "folio_end": "39v",
+   "index_folio_start": "1",
+   "index_folio_end": "39",
+   "note": "1700-T1-LUS-46a-1",
+   "verified": true,
+   "evidence": "f. 1 (ficheiro 001), carimbo 1: «Catalogus 1us Provinciae Lusitaniae anno 1700. Domus Professa Ulyssiponensis»; f. 25 prossegue a numeração de pessoas (n.º 447-452); f. 45v (ficheiro 045v) é o fim do índice.",
+   "already_existed": false
+  },
+  {
+   "year": "1700",
+   "type": "T5",
+   "title": "Index alphabeticus personarum — 1700 (LUS. 46 a)",
+   "description": "Índice alfabético de pessoas de 1700, ff. 40-45 (letras A a V, com referências numéricas até 663). Sem nota dedicada.",
+   "local": "",
+   "folio_start": "40",
+   "folio_end": "45v",
+   "index_folio_start": "40",
+   "index_folio_end": "45v",
+   "note": "1700-T5-LUS-46a-40",
+   "verified": true,
+   "evidence": "f. 40 (ficheiro 040), carimbo 41: cabeçalho «Index … Anni …», letra A; ficheiros 044 e 045 continuam o índice (letras A/G/F e S/T/V; n.º até 663).",
+   "already_existed": false
+  }
+ ],
+ "unaccounted": "000.jpg (capa), 000v.jpg (nota manuscrita sobre a composição em 1693/adaptação a 1700).",
+ "gaps": "Nenhum: volume completo com 45 fólios. É uma segunda cópia/variante do catálogo de 1700, a registar como duplicado parcial do LUS. 47."
+}

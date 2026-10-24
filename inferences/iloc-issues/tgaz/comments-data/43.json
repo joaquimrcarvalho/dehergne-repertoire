@@ -1,0 +1,237 @@
+{
+  "github_issue": "43",
+  "comment_file": "candidate-issue-43-check.md",
+  "issue": "43",
+  "cross_ref": "08",
+  "place": "Leou-kia-tchouang do Chou-lou hien",
+  "dehergne_year": 1744,
+  "region": "Zhili / Hopei (Shulu county)",
+  "country": "China",
+  "identified_chinese": "呂家莊 / 束鹿縣",
+  "wikidata_id": "Q1015480",
+  "queries": [
+    {
+      "name": "呂家莊",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "total": 2,
+      "hits": [
+        {
+          "sys_id": "hvd_135137",
+          "name": "吕家庄",
+          "transcription": "Lvjiazhuang",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "束鹿县 (Shulu Xian)",
+          "lat": 37.94665,
+          "lon": 115.43684,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_133870",
+          "name": "吕家庄铺",
+          "transcription": "Lvjiazhuangpu",
+          "years": "1911 ~ 1911",
+          "feature_type": "村镇 (cun zhen)",
+          "parent_name": "晋州 (Jin Zhou)",
+          "lat": 37.97219,
+          "lon": 115.15974,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "Shulu",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "total": 6,
+      "hits": [
+        {
+          "sys_id": "hvd_22",
+          "name": "束鹿县",
+          "transcription": "Shulu",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_40790",
+          "name": "疏虏县",
+          "transcription": "Shulu Xian",
+          "years": "14 ~ 22",
+          "feature_type": "县 (xian)",
+          "parent_name": "会稽郡 (Guiji Jun)",
+          "lat": 29.71314,
+          "lon": 120.22766,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_87732",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "756 ~ 1621",
+          "feature_type": "县 (xian)",
+          "parent_name": "镇州 (Zhen Zhou)",
+          "lat": 38.00688,
+          "lon": 115.38535,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_44783",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1622 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding  Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121479",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_196610",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding Fu)",
+          "lat": 37.84853,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "束鹿縣",
+      "year": null,
+      "feature_type": null,
+      "source": null,
+      "total": 5,
+      "hits": [
+        {
+          "sys_id": "hvd_22",
+          "name": "束鹿县",
+          "transcription": "Shulu",
+          "years": "1820 ~ 1820",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_87732",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "756 ~ 1621",
+          "feature_type": "县 (xian)",
+          "parent_name": "镇州 (Zhen Zhou)",
+          "lat": 38.00688,
+          "lon": 115.38535,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_44783",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1622 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding  Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_121479",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        },
+        {
+          "sys_id": "hvd_196610",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1911 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding Fu)",
+          "lat": 37.84853,
+          "lon": 0.0,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "Shulu",
+      "year": 1744,
+      "feature_type": null,
+      "source": null,
+      "total": 1,
+      "hits": [
+        {
+          "sys_id": "hvd_44783",
+          "name": "束鹿县",
+          "transcription": "Shulu Xian",
+          "years": "1622 ~ 1911",
+          "feature_type": "县 (xian)",
+          "parent_name": "保定府 (Baoding  Fu)",
+          "lat": 37.84853,
+          "lon": 115.30855,
+          "data_source": "CHGIS"
+        }
+      ]
+    },
+    {
+      "name": "呂家莊",
+      "year": 1744,
+      "feature_type": null,
+      "source": null,
+      "total": 0,
+      "hits": []
+    }
+  ],
+  "best_match": {
+    "sys_id": "hvd_135137",
+    "name": "吕家庄",
+    "transcription": "Lvjiazhuang",
+    "feature_type": "cun zhen",
+    "english": "villages and small towns",
+    "years": "1911 ~ 1911",
+    "parent": "束鹿县 (Shulu Xian)",
+    "lat": 37.94665,
+    "lon": 115.43684,
+    "data_source": "CHGIS",
+    "uri": "https://chgis.hudci.org/tgaz/placename/json/hvd_135137",
+    "present_location": "河北辛集县吕家庄"
+  },
+  "wikidata": {
+    "id": "Q1015480",
+    "label": "Xinji / 辛集市",
+    "lat": 37.94231,
+    "lon": 115.21181
+  },
+  "dist_km": 19.74,
+  "verdict": "confirmed",
+  "verdict_note": "Same place as iloc issue 08: hvd_135137 呂家莊 (村鎮, parent 束鹿縣) and hvd_44783 束鹿縣 (1622–1911) confirm the reading; 19.7 km from the county town Q1015480.",
+  "notes": "",
+  "checked_at": "2026-10-22"
+}

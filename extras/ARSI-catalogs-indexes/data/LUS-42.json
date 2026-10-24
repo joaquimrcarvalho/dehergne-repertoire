@@ -1,0 +1,25 @@
+{
+  "volume_folder": ["LUS. 42 nova aquisição"],
+  "volume_note": "ARSI Lusitania 42",
+  "index_sources": ["inspeção da pasta: 0000a.jpg (lombada/capa), 0000b.jpg (fólio de guarda), 0001.jpg (f.1), 9999.jpg (fólio de guarda final)"],
+  "notes": "A pasta não tem índice dactilografado. Confirmado por inspeção das capas e do fim que contém um único catálogo: o catálogo alfabético de 1577, ff. 1r-42v (as imagens com nome duplo, ex. 0001v-0002.jpg, cobrem verso+recto seguinte). A nota 1577-T1S-LUS-42-f1 já existe no vault e não foi alterada.",
+  "catalogues": [
+    {
+      "year": "1577",
+      "type": "T1S",
+      "title": "Padres e Irmãos desta Provincia de Portugal em Agosto de 1577",
+      "description": "Catálogo alfabético (por letra inicial do nome) dos padres e irmãos da Província de Portugal em Agosto de 1577, sem divisão por comunidades mas com apreciação de cada um (não permite detectar a entrada). Tipo 1S, ff. 1r-42v. As imagens de nome duplo (ex. 0001v-0002.jpg) juntam verso e recto seguinte numa só fotografia.",
+      "local": "",
+      "folio_start": "1",
+      "folio_end": "42v",
+      "note": null,
+      "existing_note": "1577-T1S-LUS-42-f1",
+      "existing_note_dir": "01 Notes",
+      "already_existed": true,
+      "verified": true,
+      "evidence": "f.1 (0001.jpg): «Padres é Irmãos desta Prouincia de Portugal em Agosto de 1577», primeira entrada P. Ant.º de Aguiar; 0042v.jpg = f.42v (fim); 0000a/0000b e 9999 são capa e fólios de guarda."
+    }
+  ],
+  "unaccounted": "0000a.jpg (capa/lombada: «Cat. Lusit. 1577» / «Lus. 42»), 0000b.jpg e 9999.jpg (fólios de guarda em branco).",
+  "gaps": "Nenhum: não foi encontrado outro título de catálogo nem outra data na pasta. Verificado o início (ff. de guarda + f.1), o meio (f.20v-21, continuação da série alfabética sem novo cabeçalho) e o fim (f.42v, seguido de guarda em branco)."
+}
