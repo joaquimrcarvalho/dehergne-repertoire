@@ -22,3 +22,4 @@ inferences/iloc-issues/tgaz/*.csv
 inferences/iloc-issues/tgaz/*query-log*.json
 inferences/iloc-issues/
 inferences/portugal-no-entry/
+extras/ARSI-catalogs-indexes/
