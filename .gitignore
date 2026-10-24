@@ -14,3 +14,12 @@ database/sqlite/*
 structures/sources.srpt
 .kleio.json
 versions.txt
+
+# Generated / derived artifacts (not tracked)
+.obsidian/
+*_files/
+inferences/iloc-issues/tgaz/*.csv
+inferences/iloc-issues/tgaz/*query-log*.json
+notebooks/.kleio/
+notebooks/errors.txt
+notebooks/throttle.ctrl

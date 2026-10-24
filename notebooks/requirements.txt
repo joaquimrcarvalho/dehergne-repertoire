@@ -4,4 +4,10 @@ jinja2
 matplotlib
 # for network analysis and visualization
 pygraphviz
+networkx
+bokeh
 scipy
+pyuca
+nbformat
+# strips notebook cell outputs on git commit (see .gitattributes)
+nbstripout
