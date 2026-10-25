@@ -149,7 +149,7 @@ kleio$gacto2.str/translations=289
             ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1646
             ls$jesuita-votos/4V/16470731
             ls$jesuita-votos-local/Macau# @wikidata:Q14773/16470731
-            ls$morte/?/1654#antes de
+            ls$morte/Goa%?#@wikidata:Q1171 Schütte, Monumenta historica Japoniae I, p. 1093 n. 24./1678-05-03#Schutte, cit. Dehergne has "mort avant 1654" but in fact moved to Goa
             ls$dehergne/129/obs=Caldeira, Baltasar (macaïste) P. 12' N. 1608, Macao -E. 1625 (JS 25, 145v). V. Macao 31 juill. 1647, pr. (Lus. 6, 157). M. avant 1654. Nous le citons en tant que macaïste., il a été aux missions du Mogor., 1639, Tonkin., 1646, Cochinchine (JS 25, 145v). N'est plus au catal. de 1654 (JS 25, 160) mais encore cité en 1650 (JS 25, 151v)
 
          n$Joachim Calmes/id=deh-joachim-calmes
@@ -846,7 +846,7 @@ kleio$gacto2.str/translations=289
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lisboa# @wikidata:Q597/1559
-            ls$jesuita-entrada/Évora%?#"""1579-01-12 Évora, student of "1º curso de Filosofia"  Lus. 39 2v; 1586-01-01, Coimbraa, professor of "Humanidades" "3ª classe" Lus. 39 fol. 7; 1587-04-01 student at Coimbra 28 years old, "de buenas fuerças, 10 años de la Compª oyo el curso de artes: ha 5 años q lee humanidad" Lus. 44 I 20 n.49; Évora according MMHM:p.38, 17 years old @wikidata:Q179948, but"""/1576-12-4#Dehergne
+            ls$jesuita-entrada/Évora%?#"""@wikidata:Q179948 1579-01-12 Évora, student of "1º curso de Filosofia"  Lus. 39 2v; 1586-01-01, Coimbraa, professor of "Humanidades" "3ª classe" Lus. 39 fol. 7; 1587-04-01 student at Coimbra 28 years old, "de buenas fuerças, 10 años de la Compª oyo el curso de artes: ha 5 años q lee humanidad" Lus. 44 I 20 n.49;MMHM:p.38, 17 years old but"""/1576-12-4#Dehergne
             ls$estadia/Coimbra/1587-04-01/obs=Lus. 44 I 29, not in Dehergne
             ls$estadia/Coimbra/1586-01-01/obs=Not in Dehergne, Lus. 39 fol. 7
             ls$cargo/professor de Humanidades, 3ª classe/obs=Not in Dehergne, Lus. 39 fol. 7
