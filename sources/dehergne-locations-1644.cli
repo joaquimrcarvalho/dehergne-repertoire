@@ -96,7 +96,7 @@ kleio$gacto2.str/translations=172
 
       geodesc$deh-chre-1644/0/0/1644
 
-         geo1$Chekiang#Tche-kiang, today Zhejiang, 浙江, @wikidata:Q16967/province/deh-r1644-chekiang
+         geo1$Chekiang#Tche-kiang, today Zhejiang, 浙江, @wikidata:Q16967 @dehergne:396/province/deh-r1644-chekiang
 
             geo2$Hangchou#Hang-tcheou, today Hangzhou, 杭州, @wikidata:Q4970/capital of province/deh-r1644-hangchou
                atr$active/yes/16110000
