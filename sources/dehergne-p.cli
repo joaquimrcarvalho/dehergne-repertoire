@@ -1835,7 +1835,6 @@ kleio$gacto2.str/translations=208
             ls$estadia/Chan-si%(missing)# Shanxi 山西 @wikidata:Q46913/1691/obs="""Pfister 387: "Il se rendit ensuite, en 1691, au Chan-si, au Chen-si et au  Kan-sou" these are the northern provinces at the time, from East to West, Chan-si=Shanxi 陕西 Q46913, Chen-si=Shaanxi 陕西 Q47974 and Kan-sou=Gansu 甘肃 Q42392; Dehergne does not include Shanxi, added"""
             ls$estadia/Chen-si# Shaanxi 陕西省? @wikidata:Q47974/1691
             ls$estadia/Kan-sou#Gansu 甘肃省 @wikidata:Q42392/1691#Pfister says "Il se rendit ensuite, en 1691, au Chan-si, au Chen-si et au Kan-sou"
-            ls$estadia/Chang-si# @wikidata:Q46913
             ls$cargo/Vigário Apostólico do Chan-si/16961020/obs=o primeiro
             ls$estadia/Song-kiang#@wikidata:Q11104671 Pfister says 'he returned'/17000000
             ls$morte/T'ai-yüan fou, Chan-si%(non encore sacré)#Pfister 太原府, @wikidata:Q72778/17050118
