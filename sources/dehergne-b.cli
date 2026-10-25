@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=239
+kleio$gacto2.str/translations=240
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-182
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-b/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra B
@@ -372,7 +372,7 @@ kleio$gacto2.str/translations=239
          n$Rui Barreto/id=deh-rui-barreto
             ls$nascimento/Mora, diocese de Évora# @wikidata:Q174800/15520000
             ls$nacionalidade/Portugal
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/15681228#ou 15721228/obs=Dehergne omits place of entry; in Coimbra student de "Casos" in 1579 Lus. 39:3,  Documenta Indica XI (doc 82, p. 56)
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/15681228#ou 15721228/obs=Dehergne omits place of entry; in Coimbra student de "Casos" in 1579 Lus. 39:3, Documenta Indica XI (doc 82, p. 56)
             ls$jesuita-ordenacao-padre/?/15790404#antes de
             ls$embarque/Chagas/15790404#novo padre
             ls$wicky/206/15790404
@@ -1497,11 +1497,11 @@ kleio$gacto2.str/translations=239
             ls$morte/Pequim# @wikidata:Q956/17580903#ou 17580902
             ls$dehergne/119/obs=Brossard, Gabriel-Léonard de (franç.) fr. coadj. 119 Kl Wen Tchao-Mlng (Pf.). N. 10 juin 1703, «Perticanus», du Perche (JS 134, 445), ou « Carnotensis » dioc. de Chartres (Franc. 20, 237) -E. 5 oct. 1738 (Franc. 20, 237). Arr. 10 oct. 1740 (JS 134, 445)., Pékin, horloger et « vitrorum conflator » = verrier. V. 2 févr. 1749, Pékin, coadj. temp. (Gai. 37, 477). M. 3 sept. 1758, Pékin. Franc. 1758 ex. dit: 2 sept. 1758, Gab. Joan. Brossart. HS 48 l'a oublié. Pf. 801.
 
-         referido$Louis Brouet/xmesmo_que=deh-louis-porquet/id=deh-louis-brouet
-            ls$jesuita-estatuto/Padre
-            ls$nome/Louis Porquet
-            ls$embarque/Amphitrite/17010000
-            ls$dehergne/119a/obs=Brouet, Louis P. 119a Embarqué sur l'Amphitrite en 1701 avec les « PP. Jean de Fontaney, Melon, Noëlas, Coudeux [Le Couteulx], Goville, Chomel, de Chavagnac, de Tartre, Hervieu, Jartous, Franki, Contancin et le fr. Brocard » (JS 134, 396). Il s'agit, en réalité, de Porquet!
+            referido$Louis Brouet/xmesmo_que=deh-louis-porquet/id=deh-louis-brouet
+               ls$jesuita-estatuto/Padre
+               ls$nome/Louis Porquet
+               ls$embarque/Amphitrite/17010000
+               ls$dehergne/119a/obs=Brouet, Louis P. 119a Embarqué sur l'Amphitrite en 1701 avec les « PP. Jean de Fontaney, Melon, Noëlas, Coudeux [Le Couteulx], Goville, Chomel, de Chavagnac, de Tartre, Hervieu, Jartous, Franki, Contancin et le fr. Brocard » (JS 134, 396). Il s'agit, en réalité, de Porquet!
 
             referido$Jean de Fontaney/id=deh-louis-brouet-ref1/obs=Dehergne 326
                rel$sociabilidade/Companheiro/deh-louis-porquet/deh-louis-brouet/data=17010000
