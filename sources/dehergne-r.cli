@@ -1057,7 +1057,8 @@ kleio$gacto2.str/translations=207
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Covilhã, diocese da Guarda# @wikidata:Q849026/1601
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/1624/obs=Dehergne omits place of entry; appears in Coimbra college catalogue (Lus. 44 II, fol. 492, college starts fol.490v).
+            ls$jesuita-entrada/?/1624
+            ls$estadia/Coimbra# @wikidata:Q45412/1633/obs=Dehergne omits place of entry; appears in Coimbra 1633 college catalogue (Lus. 44 II, fol. 492, college starts fol.490v).
             ls$embarque/?/16300418
             ls$wicky/778a/16300418
             ls$wicky-viagem/68/16300418
