@@ -679,7 +679,7 @@ kleio$gacto2.str/translations=247
             ls$wicky-viagem/75/16400326
             ls$chegada/Hangchow# @wikidata:Q4970/16430000
             ls$estadia/Shanghai# @wikidata:Q8686
-            ls$estadia/Suian, Souei-ngan hien%« Venxui » (Suian, Souei-ngan hien)# corresponds to modern Wenzhou 溫州 in southern Zhejiang, specifically its subordinate county Yongjia 永嘉縣, written in older Jesuit transliterations as “Souei-ngan hien (Perplexity, verify) @wikidata:Q703818
+            ls$estadia/Suian, Souei-ngan hien%« Venxui » (Suian, Souei-ngan hien)
             ls$estadia/Ningpo# @wikidata:Q42780/16460000
             ls$estadia/Yen-ping# @wikidata:Q1337959
             ls$estadia/Yen-ping (corte de Long-wou)# @wikidata:Q1337959
@@ -1041,7 +1041,7 @@ kleio$gacto2.str/translations=247
             ls$jesuita-cargo/Procurador/15981200
             ls$jesuita-tarefa/Encarregado de elevar Macau a colégio e de preparar uma embaixada à China/15981200
             ls$estadia/Nagasaki# @wikidata:Q38234/15990226/obs=parte nessa data, não diz para onde
-            ls$jesuita-ordenacao-padre/towns#? @wikidata:Q9580/15760000
+            ls$jesuita-ordenacao-padre/Burgos#? @wikidata:Q9580/15760000
             ls$jesuita-votos/4V/15911110
             ls$jesuita-votos-local/Amakusa# @wikidata:Q452622/15911110
             ls$morte/[No mar, entre a China e o Japão]#naufrágio entre o Japão e a China/15990300#ou Março
