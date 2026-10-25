@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=53
+kleio$gacto2.str/translations=56
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-35
    fonte$dehergne-o/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra O
 
@@ -129,7 +129,7 @@ kleio$gacto2.str/translations=53
             referido$Nome desconhecido/id=deh-jacques-francois-dieudonne-dollieres-ref2
                ls$cargo/Bispo de Joppa/17540312
                ls$estadia/Reims# @wikidata:Q41876/17540312
-               rel$eclesiastica/Ordena/Jacques-François-Dieudonné d'Ollières/deh-jacques-francois-dieudonne-dollieres/data=175403312
+               rel$eclesiastica/Ordena/Jacques-François-Dieudonné d'Ollières/deh-jacques-francois-dieudonne-dollieres/data=17540312
 
             pai$Monsieur d'Ollières/id=deh-jacques-francois-dieudonne-dollieres-pai
                ls$cargo/Substituto e procurador na paróquia#isento da marréchaussée
@@ -140,9 +140,13 @@ kleio$gacto2.str/translations=53
             ls$nacionalidade/China
             ls$nome/Francisco de Orias
             ls$nascimento/Macau# @wikidata:Q14773/15620000
-            ls$jesuita-entrada/Ozukio (noviciado)#ILOC/15811100
+            ls$jesuita-entrada/Usuki%Ozukio (noviciado)#@wikidata:Q844384 current town where the noviciate existed see Manso, M. de D. B., & Seabra, L. D. de. (2012). Jesuit Schools and Missions in the Orient. In C. Sarmento, S. Brusaca, & S. Sousa (Eds), In Permanent Transit: Discourses and Maps of the Intercultural Experience, p. 184/15811100
             ls$estadia/Japão#como missionário @wikidata:Q17
-            ls$dehergne/598/obs=Orla (Orlas), Francisco de (macaïste). 598 N. 1562, Macao -E. nov. 1581 au noviciat d'Ozukio (Goa 24, 148, 161) et missionnaire au Jap
+            ls$dehergne/598/obs="""
+                  Orla (Orlas), Francisco de (macaïste). 598
+                  N. 1562, Macao -
+                  E. nov. 1581 au noviciat d'Ozukio (Goa 24, 148, 161)
+                  et missionnaire au Japon"""
 
          n$Bernardo Osório/id=deh-bernardo-osorio
             ls$nacionalidade/Portugal

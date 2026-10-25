@@ -1,5 +1,6 @@
-kleio$gacto2.str/translations=134
+kleio$gacto2.str/translations=137
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-89
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-d/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra D
 
       lista$dehergne-notices-d/0/0/0
@@ -357,7 +358,7 @@ kleio$gacto2.str/translations=134
             rel$sociabilidade/Companheiro/Louis-Joseph Le Febure/deh-joseph-louis-desrobert-ref1/data=17360000
             ls$chegada/Macau# @wikidata:Q14773/17370805
             ls$estadia/Cantão# @wikidata:Q16572/17370822#até
-            ls$estadia/Pé-tsiuen-chan, Hukwang
+            ls$estadia/Pé-tsiuen-chan, Hukwang#柏泉 Baiquan @wikidata:Q11108336 @issue:50
             ls$jesuita-cargo/Procurador
             ls$estadia/Pequim# @wikidata:Q956/17420000
             ls$jesuita-cargo/Superior da residência francesa de Macau/17481118
@@ -621,6 +622,16 @@ kleio$gacto2.str/translations=134
 
             """
             atr$bibliografia/Franco, ImgVirtEvora#p.872
+            atr$bibliografia/Schütte, MHJ. XXXIV. 1975., p.689 doc. 53#p.873/obs="""(Catálogo do Colégio de Macau, 1617)
+               15. Padre Manoel Dias, Portuguez, natural de Alphalham, 
+               Bis- 5  pado [de Porta] legre, de idade de 58 annos e da Companhia 41, de  
+               boas forças. [Ouvio] o Curso das Artes e tres annos de theologia.  
+               Foi na tndia Superior de Tana e Chaul 4 annos, Companheiro do  
+               P.• Alexandre Valignano, Visitador, tres. Reitor do Collégio. de Ma-
+               cao duas vezes, huma 8 annos e meio, e por outros 4 tres e meio 
+               10 [ !] Foy por Superior de tres Residencias 1 que está [o] pola China
+                adentro, seis annos. / Feito Professo de 4 votos no anno de 1595.
+               """
 
          n$Melchor Díaz/id=deh-melchor-diaz
             ls$nacionalidade/Espanha
@@ -919,6 +930,7 @@ kleio$gacto2.str/translations=134
             ls$chegada/?/17000422
             ls$estadia/Hunan# @wikidata:Q45761/17030000
             ls$estadia/Siangtan, Hunan# @wikidata:Q215755/17040000
+            ls$jesuita-votos-local/Sian tan hien/17060815
             ls$estadia/Hukwang#@wikidata:Q2235155/17250000
             ls$jesuita-cargo/Vice-provincial da China/17280000
             ls$jesuita-cargo/Vice-provincial da China/17290000
@@ -926,7 +938,6 @@ kleio$gacto2.str/translations=134
             ls$jesuita-cargo/Provincial do Japão/17410000
             ls$jesuita-cargo/Provincial do Japão/17460000
             ls$jesuita-votos/4V/17060815
-            ls$jesuita-votos-local/Sian tan hien/17060815
             ls$morte/Macau# @wikidata:Q14773/17520106
             ls$dehergne/266/obs=Duarte (Eduardus), Joâo (port.) P. 266 Nié Jo-wang (Pf.., Rosso, 265)., SOCP t. 51, 1757, f 521v écrit: Yen Jc-van., mais ce sont les mêmes caractères chinois)., Edoardo. N. 27 nov. 1671, Lisbonne (JS 134, 399v) (ou le 17 nov., JS 134, 435) -E. 17 juill. 1690 (1689, selon JS 134, 435). Emb. 1696 (W 1361)., A. 22 avril 1700 (JS 134, 399v)., 1703, Hunan (JS 199 I, 116v)., 1704, Siangtan au Hunan., 1725, Hukwang (JS 134, 422a)., vice-provincial de Chine, 1728-1729., 1740, Hukwang., provincial du Japon 1741-1746. V. 15 août 1706, Sian tan hien, pr. (Lus. 13, 19). Il signe Joannes Eduardus. M. 6 janv. 1752, Macao (HS 53a, 75). Borg. Cin. 376: Duarte. Pf. 558. Homonymes: HS 53a, 10 cite un fr. Joannes Duarte mort à Goa en avril 1735 et le marque de la province « Senen. ». HS 53a. 116 fait mourir un P. Joannes Duarte à Malacca le 17 mai 1762
 
@@ -1069,7 +1080,7 @@ kleio$gacto2.str/translations=134
             ls$jesuita-cargo/Procurador das missões da China/17761130
             ls$jesuita-ordenacao-padre/?#será Lyon, de onde veio a informação?/17350825
             ls$jesuita-votos/4V/17400815
-            ls$jesuita-votos-local/Pe-tsien-chan, China/17400815
+            ls$jesuita-votos-local/Pe-tsien-chan, China#柏泉 Baiquan @wikidata:Q11108336 @issue:50/17400815
             ls$jesuita-cargo/Procurador da missão francesa/17700000
             ls$morte/Paris (Seminário das missões estrangeiras)# @wikidata:Q90/17860325
             ls$dehergne/273/obs=Dugad (Dugast), LoMis-Marie (franç.) P. 273 du Gad de Vitré. N. 26 févr. 1707, Lyon -E. 9 oct. 1723 Avignon (Lugd. 25, 180v). A. nov. 1737., Anlo (Ngan-lo) et Mienyang, Hupeh., 1745, Honan (M 443, 186), supérieur de la mission française de Chine, 5 août 1752-1758., arrêté à Macao, 5 juill. 1762., 19 oct. 1764 conduit au fort St. Julien, Lisbonne., libéré 8 août 1766., A. Canton en sept. 1768 et demande à aller à la Cour de Pékin., on le lui refuse et on l'exile (Memorie Palladini, A. Vatic. Missioni 110 liasse II)., il quitte Canton, 10 janv. 1770., directeur des Carmélites de la rue St. Jacques, à Paris., procureur des missions de Chine, 30 nov. 1776 (AN: Col. F5A 24, f° 87, 257). P. le 25 août 1735, ordonné par Mgr Navarte « episc. Cydionensi » suffragant de l'archev. de Lyon {Liste 1700-1760 des Arch. S.J. de Lyon). V. « Pe-tsien-chan (Sinarum) », 15 août 1740, pr. (Gai. 21, 141).

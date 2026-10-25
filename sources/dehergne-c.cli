@@ -1,8 +1,9 @@
-kleio$gacto2.str/translations=279
+kleio$gacto2.str/translations=289
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-194
    fonte$dehergne-c/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra C
 
    Espadinha, M. A., Baptista, A. R., & Seabra, L. de. (2005). Missionação e missionários na história de Macau. Universidade de Macau. [MMHM]
+   Hamy, A. (1892). Documents pour servir à l’histoire des domiciles de la Compagnie de Jésus dans le monde entier de 1540 à 1773. Alphonse Picard, Libraire.
 
       """
 
@@ -12,7 +13,7 @@ kleio$gacto2.str/translations=279
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Trancoso, diocese de Viseu%Dehergne escreve Francoso# @wikidata:Q686868/1595#ou Frechas, diocese de Viseu, 1593 @wikidata:Q1452157
-            ls$jesuita-entrada/?/1611
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/1611/obs=Dehergne omits place of entry; appears in Coimbra college catalogue Jan. 1614 (Lus. 44 II, fol. 313v, n. 273).
             ls$embarque/S. Carlos#segundo Wicky/16180416
             ls$wicky/659/16180416
             ls$wicky-viagem/57/16180400#meados do mês, 16180416 segundo Dehergne
@@ -135,7 +136,7 @@ kleio$gacto2.str/translations=279
             referido$Aloysius Gonzaga Caldas/id=deh-luis-de-caldas-ref1
                ls$nascimento/Lisboa# @wikidata:Q597/17360121
                ls$jesuita-entrada/?/17501031#sai em 17661112
-               ls$estadia/Itália#exilado @wikidata:Q38
+               ls$estadia/Itália/>17501031:<17661112#exilado @wikidata:Q38
                ls$jesuita-tarefa/Sai da Companhia/17661112
 
          n$Baltasar Caldeira/id=deh-baltasar-caldeira
@@ -143,12 +144,12 @@ kleio$gacto2.str/translations=279
             ls$jesuita-estatuto/Padre
             ls$nascimento/Macau# @wikidata:Q14773/1608
             ls$jesuita-entrada/?/1625
-            ls$estadia/Mogor# @ILOC
+            ls$estadia/Mogor#missão do Mogor (Império Mogol - Mughal empire) @wikidata:Q42941 (Agra-capital and residence)/>1625:<1639# @ILOC
             ls$estadia/Tonquim#@wikidata:Q622778/1639
             ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1646
             ls$jesuita-votos/4V/16470731
             ls$jesuita-votos-local/Macau# @wikidata:Q14773/16470731
-            ls$morte/?/1654#antes de
+            ls$morte/Goa%?#@wikidata:Q1171 Schütte, Monumenta historica Japoniae I, p. 1093 n. 24./1678-05-03#Schutte, cit. Dehergne has "mort avant 1654" but in fact moved to Goa
             ls$dehergne/129/obs=Caldeira, Baltasar (macaïste) P. 12' N. 1608, Macao -E. 1625 (JS 25, 145v). V. Macao 31 juill. 1647, pr. (Lus. 6, 157). M. avant 1654. Nous le citons en tant que macaïste., il a été aux missions du Mogor., 1639, Tonkin., 1646, Cochinchine (JS 25, 145v). N'est plus au catal. de 1654 (JS 25, 160) mais encore cité en 1650 (JS 25, 151v)
 
          n$Joachim Calmes/id=deh-joachim-calmes
@@ -165,7 +166,7 @@ kleio$gacto2.str/translations=279
             ls$wicky/1214/16820329
             ls$wicky-viagem/105/16820329
             ls$chegada/Macau# @wikidata:Q14773/16840800
-            ls$estadia/Kwangtung#@wikidata:Q15175
+            ls$estadia/Kwangtung/>16840800:<1685#@wikidata:Q15175
             ls$estadia/Hainan# @wikidata:Q42200/1685
             ls$morte/Hainan# @wikidata:Q42200/16861009
             ls$dehergne/130/obs=Calmes, Joachim (allem.) P. 130 Kin Jo-ya Yu-Klng (Pf.) (Jo-ya = Jo-ya-kin, Joachim)., (SF VI, 33: Chin Yu-Ching Yo-ya). N. 1652, « Amburgensis », Hambourg., marchand protestant venu à Lisbonne., converti et E. 1678 (Portugal) (Lus. 46, 60., Kalmes). Emb. 29 mars 1682 (W 1214)., A. Macao, août 1684 (SF VI, 900)., mission du Kwangtung., 1685, Hainan (JS 26, 40v). M. 9 oct. 1686, île de Hainan (pas dans HS). Sa tombe, v. Tassiyang kuo, Lisbonne, t. 2 (1901) p. 736. Pf. 397.
@@ -196,7 +197,8 @@ kleio$gacto2.str/translations=279
             ls$wicky-viagem/124/1701
             ls$jesuita-cargo/Secretário do provincial do Japão/1720
             ls$jesuita-votos/4V/17161213
-            ls$jesuita-votos-local/Tanna (colégio)# Existe o topónimo Tanna em Nagasaki geonames:1895934 e Yoshio Tanimoto, “Tanna, Japan,” Word and Witness (1913-09-20)/17161213
+            ls$jesuita-votos-local/Tanna (colégio)# """today Thane @wikidata:Q207749 See Schütte, Josef Franz. Monumenta historica Japoniae. XXXIV. Monumenta historica Societatis Iesu. Apud Monumenta historica Soc. Iesu, 1975. p. 97 e sobre Manuel Dias "Foi na Índia Superior de Tana e Chaul 4 annos", p. 689 e explicitamente sobre Pero Marques "in districtu Tana (India)" p.1049. Thane north of Mumbay D’Souza, F. (2012). Dowries and the Dona: Women in Portuguese Settlements in the ‘Provincia Do Norte’ (1534-1739). Proceedings of the Indian History Congress, 73, 383–390. https://www.jstor.org/stable/44156228
+             """/17161213
             ls$morte/Goa# @wikidata:Q1171/17370318
             ls$dehergne/132/obs=Camello, Manuel (port.) P. 132 N. 1683, Penajoia, d. de Lamego -E. 1700 (Lus. 47, 115v). Emb. 1701, étant novice, pour la Chine (W 1446., Lus. 47, 115v). En 1720, secrétaire du provincial du Japon (SchUtte 848). V. 13 déc. 1716 au collège de Tanna, pr. (Lus. 13, 393). M. à Goa, 18 mars 1737, étant de la province du Japon (HS 53a, 20 et 41).
 
@@ -228,7 +230,7 @@ kleio$gacto2.str/translations=279
             ls$estadia/Cambodja#três anos @wikidata:Q424
             ls$estadia/Cochinchina#11 anos @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]
             ls$estadia/Faifo#hoje Hội An @wikidata:Q36160/1678
-            ls$partida/Macau#SOCP, 1678 f° 66., SOCP 1685 f° 185, 200., SOCP, 1688 f° 265., Bref d'iNNOCENT XI, 10 oct. 1678 @wikidata:Q14773
+            ls$partida/Macau/>1678:<16851000#SOCP, 1678 f° 66., SOCP 1685 f° 185, 200., SOCP, 1688 f° 265., Bref d'iNNOCENT XI, 10 oct. 1678 @wikidata:Q14773
             ls$estadia/Lisboa# @wikidata:Q597/16851000#o rei de Portugal retém-no
             ls$estadia/Cambodja# @wikidata:Q424
             ls$embarque/?#para o Cambodja?/1694
@@ -264,9 +266,9 @@ kleio$gacto2.str/translations=279
             ls$estadia/Chuanchow, Fukien#@wikidata:Q68695/1648#cerca de
             ls$estadia/Kaifeng# @wikidata:Q208471/1648
             ls$estadia/Changchow# @wikidata:Q68814/1651
-            ls$estadia/Nanchang, Kigansi#@wikidata:Q171943
+            ls$estadia/Nanchang, Kigansi#@wikidata:Q171943/>1651:<16650628
             ls$chegada/Pequim# @wikidata:Q956/16650628
-            ls$estadia/Cantão#exilado @wikidata:Q16572
+            ls$estadia/Cantão#exilado @wikidata:Q16572/>1665:<1671
             ls$estadia/Nanchang fou#@wikidata:Q171943/1671
             ls$jesuita-ordenacao-padre/?/1627#antes de
             ls$jesuita-votos/3V/16370510
@@ -356,7 +358,7 @@ kleio$gacto2.str/translations=279
             ls$embarque/Sto. Amaro#segundo Wicky/16180400#meados do mês, não padre
             ls$wicky/640/16180400
             ls$wicky-viagem/57/16180400#meados do mês
-            ls$estadia/Goa# @wikidata:Q1171
+            ls$estadia/Goa/>16180400:<16230529# @wikidata:Q1171
             ls$estadia/Macau# @wikidata:Q14773/16230529#a caminho do Japão, mas vai para o Kwangtung
             ls$estadia/Kwangtung#@wikidata:Q15175/1623
             ls$estadia/Kwangtung#@wikidata:Q15175/1625
@@ -369,7 +371,7 @@ kleio$gacto2.str/translations=279
             ls$jesuita-cargo/Reitor do Colégio de Macau/16360523
             ls$estadia/Macau# @wikidata:Q14773/16320831
             ls$estadia/Macau# @wikidata:Q14773/16360523
-            ls$jesuita-cargo/Procurador no processo dos mártires do Japão
+            ls$jesuita-cargo/Procurador no processo dos mártires do Japão/>16360523:<16380911
             ls$jesuita-cargo/Procurador/16380911
             ls$estadia/Roma# @wikidata:Q220/1647
             ls$tarefa/Propõe uma embaixada a Japão/1647
@@ -377,7 +379,7 @@ kleio$gacto2.str/translations=279
             ls$embarque/?/16490415/obs=vide entrada de João Cardoso
             ls$wicky/955a/16490415
             ls$wicky-viagem/82/16490415
-            ls$estadia/Moçambique#naufrágio @wikidata:Q1029
+            ls$estadia/Moçambique/>16490415:<16500500#naufrágio @wikidata:Q1029
             ls$chegada/Goa# @wikidata:Q1171/16500500
             ls$estadia/[Perto de Malaca]# @wikidata:Q61089/16520615#preso pelos holandeses
             ls$estadia/Macau# @wikidata:Q14773/16540206
@@ -403,7 +405,7 @@ kleio$gacto2.str/translations=279
             ls$morte/?/1751#antes de
             ls$dehergne/139/obs=Cardoso (Cardozo), Jacques (chin.) P. 139 N. 12 mars 1711, Hweichow, Houei-tcheou fou, Anhwei, Kiang-nan (JS 134, 436). E. 13 févr. 1735, Pékin. P. 1741. M. avant 1751 (n'est plus au catalogue de 1751). Pf. 740.
 
-         n$João Cardoso/id=joao-cardoso
+         n$João Cardoso/id=deh-joao-cardoso#previouly just joao-cardoso by error corrected 2026-08-27
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nome/João Cardozo
@@ -415,7 +417,7 @@ kleio$gacto2.str/translations=279
             ls$wicky/957/16490415
             ls$wicky-viagem/82/16490415
             rel$sociabilidade/Companheiro/António Francisco Cardim/deh-joao-cardoso-ref1/data=16490415
-            ls$estadia/Macau# @wikidata:Q14773
+            ls$estadia/Macau/>16490415:<1659# @wikidata:Q14773
             ls$estadia/Sião# @wikidata:Q869/1659
             ls$estadia/Tanintharyi%Tenasserim# @wikidata:Q4921805/1662
             ls$estadia/Tanintharyi%Tenasserim# @wikidata:Q4921805/1663
@@ -426,7 +428,21 @@ kleio$gacto2.str/translations=279
             ls$jesuita-votos/4V/16550413
             ls$jesuita-votos-local/Goa# @wikidata:Q1171/16550413
             ls$morte/[No mar, perto da Cochinchina]#naufrágio @wikidata:Q505503/16760900
-            ls$dehergne/140/obs=Cardoso (Cardozo), Joâo (port.) (I) P. 140 Kia (JS 187, 5) Jo-wang. N. 1619, « Transtaganus Setoboligensis », Sétubal près Lisbonne. E. 1634. Emb. avec le P. Cardim, 15 avr. 1649 (W 957)., Macao., 1659, Siam., Tenasserim 1662-1663., en 1665, supérieur des Jésuites du Siam (JS 26, 32)., 1669, au collège de Macao (JS 26, 36)., 1673-1676, provincial du Japon. V. Goa, 13 avr. 1655, il signe Cardozo, pr. (Lus. 7, 140). M. sept. 1676 « ex naufragio prope Cocincinna » (HS 49, 120v). M 443, 675 parle d'un Jean Cardoso (port.) nommé Kia et venu en Chine en 1699: sans doute mauvaise lecture pour 1649? — AHSI 22 (1953), 188-189.
+            ls$dehergne/140/obs="""
+            Cardoso (Cardozo), Joâo (port.) (I) P. 140 Kia (JS 187, 5)
+            Jo-wang.
+            N. 1619, « Transtaganus Setoboligensis », Sétubal près Lisbonne.
+            E. 1634.
+            Emb. avec le P. Cardim, 15 avr. 1649 (W 957)., Macao.
+            1659, Siam., Tenasserim 1662-1663.
+            en 1665, supérieur des Jésuites du Siam (JS 26, 32)., 1669, au
+            collège de Macao (JS 26, 36)., 1673-1676, provincial du Japon.
+            V. Goa, 13 avr. 1655, il signe Cardozo, pr. (Lus. 7, 140).
+            M. sept. 1676 « ex naufragio prope Cocincinna » (HS 49, 120v).
+            M 443, 675 parle d'un Jean Cardoso (port.) nommé Kia et venu en
+            Chine en 1699: sans doute mauvaise lecture pour 1649? — AHSI 22
+            (1953), 188-189.
+            """
 
             referido$António Francisco Cardim/mesmo_que=deh-antonio-francisco-cardim/id=deh-joao-cardoso-ref1
                ls$jesuita-estatuto/Padre
@@ -446,14 +462,14 @@ kleio$gacto2.str/translations=279
             ls$wicky-viagem/131/1708
             ls$estadia/Lisboa# @wikidata:Q597/17100300
             ls$chegada/Macau# @wikidata:Q14773/17101000
-            ls$tarefa/Leva presentes do rei de Portugal a K'ang Hi
+            ls$tarefa/Leva presentes do rei de Portugal a K'ang Hi/>17101000:<1711
             ls$estadia/Pequim# @wikidata:Q956/1711
-            ls$tarefa/Elabora mapas das províncias
+            ls$tarefa/Elabora mapas das províncias/>1711
             ls$estadia/Shantung# @wikidata:Q43407/1711
-            ls$estadia/Shansi-Shensi# @wikidata:Q46913
-            ls$estadia/Kiangsi# @wikidata:Q57052
-            ls$estadia/Kwangtung#@wikidata:Q15175
-            ls$estadia/Kwangsi# @wikidata:Q15176
+            ls$estadia/Shansi-Shensi# @wikidata:Q46913/>1711
+            ls$estadia/Kiangsi# @wikidata:Q57052/1711
+            ls$estadia/Kwangtung#@wikidata:Q15175/1711
+            ls$estadia/Kwangsi# @wikidata:Q15176/1711
             ls$jesuita-votos/4V/17160225
             ls$jesuita-votos-local/Pequim# @wikidata:Q956/17160225
             ls$morte/Pequim# @wikidata:Q956/17230814
@@ -512,7 +528,7 @@ kleio$gacto2.str/translations=279
             ls$wicky-viagem/8/15550401
             ls$cargo/Bispo de Niceia/15550401/obs=sagrado pelo arcebispo de Goa em 15601215
             ls$cargo/Coadjutor do Patriarca da Etiópia/15550401
-            ls$cargo/Patriarca da Etiópia
+            ls$cargo/Patriarca da Etiópia/>15550401
             rel$eclesiastica/Sucede/João Nunes Barreto/deh-belchior-miguel-carneiro-leitao-ref1
             ls$chegada/Goa# @wikidata:Q1171/15550906#ou 15550906
             ls$cargo/Bispo do Japão e da China/1566/obs=no final diz «il démissione», será que é deste cargo?
@@ -688,7 +704,7 @@ kleio$gacto2.str/translations=279
             ls$embarque/?/16500420
             ls$wicky/963/16500420
             ls$wicky-viagem/83/16500420
-            ls$estadia/China# @wikidata:Q148/obs=dois anos na missão segundo o catálogo de 1659
+            ls$estadia/China/>16500420:<1665# @wikidata:Q148/obs=dois anos na missão segundo o catálogo de 1659
             ls$jesuita-tarefa/Sai da Companhia/1665#antes de
             ls$dehergne/148/obs=Carvalho Manuel (port.) (I) fr. coadj. 148 Tchao Tchong Leang-Fou (Pf.). N. 1629, Lisbonne -E. 1647 (JS 25, 172). Emb. 20 avril 1650 (W 963)., a été 2 ans dans -la mission de Chine, dit le catal. du Japon 1659 (JS 25, 172)., sort de la Compagnie avant 1665 (JS 25, 179v). Pf. 989.
 
@@ -731,13 +747,13 @@ kleio$gacto2.str/translations=279
             ls$wicky-viagem/152/17320425#data completada segundo Wicky
             ls$estadia/Tonquim#@wikidata:Q622778/1736
             ls$estadia/Tonquim#@wikidata:Q622778/1750
-            ls$estadia/China# @wikidata:Q148
+            ls$estadia/China/>1750:<17620705# @wikidata:Q148
             ls$estadia/Macau# @wikidata:Q14773/17620705#capturado
             ls$estadia/Lisboa (Forte de S. Julião)# @wikidata:Q597/17641019
             ls$estadia/Itália# @wikidata:Q38/17670709#deportado
             ls$estadia/Villa Rufinella%Rifinella# @wikidata:Q3558780/1775
             ls$jesuita-votos/Coadjutor Espiritual/17411112
-            ls$jesuita-votos-local/Làngòi, Tonquim/17411112
+            ls$jesuita-votos-local/Làngòi, Tonquim# @wikidata:Q622778 (Tonquim province, Làngòi not located see issue 41)/1741-11-12
             ls$morte/Urbania, Itália# @wikidata:Q190134/17870323
             ls$dehergne/150/obs=Carvalho, Manuel de (port.) (III) P. 150 N. Porto de Moz, d. de Leiria (ou selon d'autres, d. de Lisbonne) 14 janv. 1710 -E. 2 avril 1724 (Lus. 47, 309., 48, 20v). Emb. pour le Japon en 1732 (W 1800)., missionnaire au Tonkin, 1736- 1750., passe en Chine (Lus. 49, 59 n° 844., Lus. 49, f° 79, 94v et 109v)., capturé à Macao, 5 juill. 1762., emprisonné au fort St. Julien, 19 oct. 1764., déporté en Italie, 9 juill. 1767., serait en 1775 à Rifinella et sans doute le même que celui qui meurt le 23 mars 1787 à Urbania, en Italie (Lus. 40, 79v). V. Làngôi, Tonkin 12 nov. 1741, c. spir. (Lus. 24, 206)., il signe Emm. Carvalho. Pf. 981. — JS 134, 434 parle d'un certain P. Carvalho, de la vice-province de Chine, qui, en 1737, termine ses études à Manille.
             ls$nota/Villa Rufinella#Hoje Villa Tuscolana, @wikidata:Q3558780/20230620/obs="""
@@ -813,7 +829,7 @@ kleio$gacto2.str/translations=279
             referido$Manuel de Carvalho/id=deh-manuel-de-carvalho-ii-ref3
                ls$nacionalidade/Portugal
                ls$jesuita-estatuto/Noviço
-               ls$nascimento/Louredo, diocese de Coimbra#ILOC/1737
+               ls$nascimento/Louredo, diocese de Coimbra#@wikidata:Q1406408 (Fermentelos?)/1737
                ls$dehergne/150a-ref3/obs=un novice N. à Louredo, d. de Coïmbre, en 1737. Le catal. de Chine de 1751 (JS 134, 439v) ne le nomme pas.
 
          n$Manuel José de Carvalho/id=deh-manuel-jose-de-carvalho
@@ -830,9 +846,13 @@ kleio$gacto2.str/translations=279
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lisboa# @wikidata:Q597/1559
-            ls$jesuita-entrada/Évora%?# MMHM:p.38, 17 anos @wikidata:Q179948, mas aparece como estudante em Coimbra em 1587, LUS 44-I-10vnostime/15761204
-            ls$grau-academico/Mestre em Artes
-            ls$embarque/?/15940330
+            ls$jesuita-entrada/Évora%?#"""@wikidata:Q179948 1577-01-1 Évora, amid "novicios" Lus. 4II-b: 514v; 1579 Évora student of "1º curso de Filosofia"  Lus. 39 2v; 1586-01-01, Coimbra, professor of "Humanidades" "3ª classe" Lus. 39 fol. 7; 1587-04-01 student at Coimbra 28 years old, "de buenas fuerças, 10 años de la Compª oyo el curso de artes: ha 5 años q lee humanidad" Lus. 44-I:10v n.49; MMHM:p.38, 17"""/1576-12-4#Dehergne
+            ls$estadia/Coimbra/1587-04-01/obs=Lus. 44 I 29, not in Dehergne
+            ls$estadia/Coimbra/1586-01-01/obs=Not in Dehergne, Lus. 39 fol. 7
+            ls$cargo/professor de Humanidades, 3ª classe/obs=Not in Dehergne, Lus. 39 fol. 7
+            ls$estadia/Coimbra/1587-04-01
+            ls$grau-academico/Mestre em Artes/>1587-04-01:<1594-03-30/obs=Inferred date
+            ls$embarque/?/1594-03-30
             ls$wicky/343/15940330
             ls$wicky-viagem/37/15940330
             ls$estadia/Macau# @wikidata:Q14773/1596
@@ -866,7 +886,7 @@ kleio$gacto2.str/translations=279
             ls$estadia/China# @wikidata:Q148/1725#com a embaixada de Alexandre de Metelo, o seu nome não vem mencionado em Wicky, mas existem dois números listados sem nome W 1692 e 1693, seria Veríssimo um deles?
             rel$sociabilidade/Companheiro/Alexandre Metelo de Sousa e Meneses/deh-verissimo-de-carvalho-ref1/data=1725
             ls$jesuita-entrada/Macau# @wikidata:Q14773/1727
-            ls$estadia/Portugal# @wikidata:Q45
+            ls$estadia/Portugal/>1727:<17360425# @wikidata:Q45
             ls$embarque/[Para a China]#segundo Dehergne/17360425
             ls$wicky/1839/17360425
             ls$wicky-viagem/155/17360425
@@ -914,7 +934,7 @@ kleio$gacto2.str/translations=279
             ls$nome/Giuseppe Chastillon
             ls$nome-chines/Lang Che-Ning
             ls$nascimento/Milão# @wikidata:Q490/16880719
-            ls$profissao/Pintor
+            ls$profissao/Pintor/>17070116
             ls$jesuita-entrada/Génova# @wikidata:Q1449/17070116
             ls$estadia/Coimbra# @wikidata:Q45412/1709#retido
             ls$embarque/?/17140412
@@ -1013,7 +1033,7 @@ kleio$gacto2.str/translations=279
             ls$wicky/1487a/1706
             ls$wicky-viagem/129/1706
             ls$chegada/China#? @wikidata:Q148/17070722
-            ls$tarefa/Inventa um novo caminho mais curto para a China, por Timor, sem passar pelo estreito
+            ls$tarefa/Inventa um novo caminho mais curto para a China, por Timor, sem passar pelo estreito/17070722
             ls$estadia/Pequim# @wikidata:Q956/17071122
             ls$cargo/Presidente do Tribunal da Matemática de Pequim/1707#? segundo Dehergne p. 307
             ls$cargo/Tutor do príncipe imperial
@@ -1036,7 +1056,7 @@ kleio$gacto2.str/translations=279
             ls$wicky/302/15880401
             ls$wicky-viagem/32/15880401
             ls$chegada/Goa# @wikidata:Q1171/1589
-            ls$estadia/Costa da Pescaria# costa este do Sul da Índia, a norte do Cabo Comorimo @wikidata:Q41562 [Thoothukudi ]
+            ls$estadia/Costa da Pescaria/>1589:<1593# costa este do Sul da Índia, a norte do Cabo Comorimo @wikidata:Q41562 [Thoothukudi ]
             ls$estadia/Macau# @wikidata:Q14773/1593
             ls$estadia/Shiuchow (Chao-tcheou)# @wikidata:Q1346617/1594
             rel$sociabilidade/Companheiro/Matteo Ricci/deh-lazzaro-cattaneo-ref1/data=1594
@@ -1083,8 +1103,8 @@ kleio$gacto2.str/translations=279
             ls$jesuita-entrada/Japão# @wikidata:Q17/16260600#mesmo antes do seu martírio
             ls$chegada/China# @wikidata:Q148/1612#passa sete anos na China, 4 em Pequim
             ls$estadia/Pequim# @wikidata:Q956/1612#depois de, passou 4 anos
-            ls$estadia/Japão#depois de tentar regressar à Coreia, não conseguindo volta ao Japão @wikidata:Q17
-            ls$morte/Nagasaki/16260620#queimado vivo, beatificado em 18640707 @wikidata:Q38234
+            ls$estadia/Japão/>1612:<16260620#depois de tentar regressar à Coreia, não conseguindo volta ao Japão @wikidata:Q17
+            ls$morte/Nagasaki#@wikidata:Q38234/16260620/obs=queimado vivo, beatificado em 18640707
             ls$dehergne/159/obs=Caun, Vincent (coréen) Bx. 159 Kaun., Cafioye., Kahioe. N. en Corée, 1578 (japonais, dit JS 134, 453v) -E. au Japon juste avant son martyre (JS 37, 237v). A. 1612, passe 7 ans en Chine, dont 4 à Pékin., tente de retourner en Corée, et ne le pouvant, pas, regagne le Japon. M. brûlé vif à Nagazaki 20 juin 1626., béatifié 7 juill. 1864. Pf. 125., L. Pages, Hist. de la religion chrétienne au Japon, t. I, 612, 626., Bibliotheca Sanctorum, Rome, 1970, III, 1054.
 
          n$Paolo Cavallina/id=deh-paolo-cavallina
@@ -1173,7 +1193,7 @@ kleio$gacto2.str/translations=279
             ls$jesuita-estatuto/Padre
             ls$titulo/Monsenhor
             ls$nascimento/Alvito, diocese de Évora# @wikidata:Q449526/1552
-            ls$grau-academico/Mestre em Artes
+            ls$grau-academico/Mestre em Artes/>15660714
             ls$jesuita-entrada/Évora# @wikidata:Q179948/15660714
             ls$cargo/Bispo do Japão/1594
             ls$embarque/[Para o Japão]/15940330
@@ -1349,11 +1369,11 @@ kleio$gacto2.str/translations=279
             ls$nome-chines/Cha Cheou-Sin
             ls$nascimento/Rouen# @wikidata:Q30974/16700301
             ls$jesuita-entrada/Paris# @wikidata:Q90/16850917
+            ls$jesuita-ordenacao-padre/?/1699
             ls$chegada/Cantão# @wikidata:Q16572/17010909
             ls$estadia/Fuchow (Fou-tcheou), Kiangsi# @wikidata:Q363391/1704
             ls$estadia/Fuchow (Fou-tcheou), Kiangsi# @wikidata:Q363391/1709
-            ls$jesuita-tarefa/Dá os Exercícios de Sto. Inácio aos cristãos
-            ls$jesuita-ordenacao-padre/?/1699
+            ls$jesuita-tarefa/Dá os Exercícios de Sto. Inácio aos cristãos/>1704
             ls$jesuita-votos/4V/17040120
             ls$jesuita-votos-local/Fou-tcheou, Kiangsi# @wikidata:Q363391/17040120
             ls$morte/Jaochow, Kiangsi# @wikidata:Q1356313/17170914
@@ -1387,7 +1407,26 @@ kleio$gacto2.str/translations=279
             ls$estadia/Kiangsi#@wikidata:Q57052/1702
             ls$jesuita-ordenacao-padre/?/1697
             ls$morte/Kanchow do Kiangsi#@wikidata:Q363166 outros dizem em Cantão ou Macau/17020512
-            ls$dehergne/174/obs=Chomel, Antoine (franç.) P. 174 Sou Ngan-tang (Pf.., M 443, 675: Su). N. « Molinensis », à Moulins (il y en a dans une quinzaine de départements, dont l'Allier)., Sommervogel le fait naître à Annonay (Ardèche), 31 mars 1668 -E. 7 sept. 1685, Paris (Franc. 16, 65). Emb. en mars 1699 (Franc. 1699 ex., f° 426) ayant été nommé correspondant de l'Académie des Sciences, 4 mars 1699., Turquie., Perse., v. le 12 sept. 1701, Canton., 1702, Kiangsi. P. 1697 (Franc. 17, 28v). M. 12 (et non le 8) mai 1702. HS 50, 61v et 51, 4., Franc. 25 I, 1703, f° 45v disent le 8 mai et semblent, avec d'autres sources, le faire mourir à Canton ou à Macao. RBS 457, basé sur une lettre de Gerbillon, dit le 12 mai, à Kanchow du Kiang-si. Pf. 571., DBF (Dehergne).
+            ls$dehergne/174/obs="""
+            Chomel, Antoine (franç.) P. 174 Sou Ngan-tang (Pf.., M 443, 675: Su).
+            N. « Molinensis », à Moulins (il y en a dans une quinzaine de
+            départements, dont l'Allier). Sommervogel le fait naître à Annonay
+            (Ardèche), 31 mars 1668.
+            E. 7 sept. 1685, Paris (Franc. 16, 65).
+            Emb. en mars 1699 (Franc. 1699 ex., f° 426) ayant été nommé
+            correspondant de l'Académie des Sciences, 4 mars 1699.
+            Turquie.
+            Perse.
+            v. le 12 sept. 1701, Canton.
+            1702, Kiangsi.
+            P. 1697 (Franc. 17, 28v).
+            M. 12 (et non le 8) mai 1702. HS 50, 61v et 51, 4.
+            Franc. 25 I, 1703, f° 45v disent le 8 mai et semblent, avec d'autres
+            sources, le faire mourir à Canton ou à Macao.
+            RBS 457, basé sur une lettre de Gerbillon, dit le 12 mai, à Kanchow
+            du Kiang-si.
+            Pf. 571., DBF (Dehergne).
+            """
 
             referido$Antoine Chaumels/id=deh-antoine-chomel-ref1
                ls$nacionalidade/França
@@ -1396,14 +1435,19 @@ kleio$gacto2.str/translations=279
                ls$jesuita-entrada/?/1680
                ls$jesuita-votos/4V/16960815
                ls$jesuita-votos-local/Bordeaux# @wikidata:Q1479/16960815
-               ls$dehergne/174-ref1/obs=Nous voyons, dans la province d'Aquitaine, un P. Antoine Chaumels N. Sarlat, 1663 et E. 1680 (Aquit. 12, 13) qui fait ses V. à Bordeaux, 15 août 1696, pr. (Gai. 14, 387).
+               ls$dehergne/174-ref1/obs="""
+               Nous voyons, dans la province d'Aquitaine, un P. Antoine Chaumels
+               N. Sarlat, 1663.
+               E. 1680 (Aquit. 12, 13).
+               Qui fait ses V. à Bordeaux, 15 août 1696, pr. (Gai. 14, 387).
+               """
 
             referido$Antoine Chomel/id=deh-antoine-chomel-ref2
                ls$nacionalidade/França
                ls$jesuita-estatuto/Padre
                ls$nascimento/Annonay# @wikidata:Q238366
                ls$estadia/China# @wikidata:Q148
-               ls$dehergne/174-ref2/obs=Nous voyons dans Hamy, Alfred, Province de Lyon 1582-1762, p. 48, qu'il nomme le missionnaire de Chine (sur lequel il ne sait pas grand chose), puisqu'il le fait naître à Annonay.
+               ls$dehergne/174-ref2/obs="""Nous voyons dans Hamy, Alfred, Province de Lyon 1582-1762, p. 48, qu'il nomme le missionnaire de Chine (sur lequel il ne sait pas grand chose), puisqu'il le fait naître à Annonay."""
 
             referido$André Chomel/id=deh-antoine-chomel-ref3
                ls$nacionalidade/França
@@ -1436,7 +1480,7 @@ kleio$gacto2.str/translations=279
             ls$jesuita-entrada/Bordeaux# @wikidata:Q1479/17431107
             ls$estadia/Lorient# @wikidata:Q71724/17580307
             ls$embarque/D'Argenson/17580307
-            ls$estadia/Rio de Janeiro#a caminho da China @wikidata:Q8678
+            ls$estadia/Rio de Janeiro/>17580307:<17590725#a caminho da China @wikidata:Q8678
             ls$chegada/Macau# @wikidata:Q14773/17590725
             ls$estadia/Pequim# @wikidata:Q956/17600606
             ls$profissao/Mecânico
@@ -1446,8 +1490,35 @@ kleio$gacto2.str/translations=279
             ls$pseudonimo/Libou
             ls$jesuita-ordenacao-padre/?/1756
             ls$morte/Pequim# @wikidata:Q956/17800808
-            ls$dehergne/176/obs=Cibot, Pierre-Martial (franç.) P. 176 Han Pei-tou Kouo-Ying (Pf.). N. 15 août 1727, Limoges -E. 7 nov. 1743, Bordeaux (Aquit. 8 II, 462). Emb. 7 mars 1758 à Lorient sur le d'Argenson, arr. à Macao par Rio-de-Janeiro, 25 juill. 1759., Pékin, 6 juin 1760: mécanicien, botaniste et polygraphe. P. 1756 (Franc. 21, 410). V. nous n'avons pas retrouvé sa formule de V. M. 8 août 1780, Pékin (B. Inst. 1516, f° 251., LE XXVI, 459). N. et baptisé le même jour (15 août), fils de Pierre Cibot et de Paule Recolet, dit l'acte de baptême dont une photocopie nous a été aimablement communiquée par la Bibliothécaire adjointe de la B. de Limoges Mme M. Hautebert., partout ailleurs il est dit N. le 14 août.
-            ls$dehergne/176/obs=Noms de plume: l'Affligé tranquille., de même, il signe parfois Leeou ses envois en France (B. Inst. 1521, P 157, et surtout 1522, f» 129). Portrait « au crayon rouge et noir », « avec sa barbe », par Panzi, en 1780 (B. Inst. 1518, f» 207, 245 et 1519, f» 93). Ses Plantes, fleurs et arbres de la Chine, 404 feuillets, sont à B. Inst. 4° DM 93., cf. BN: ms. Breouigny 124, que Pf. 956 attribue à tort à Collas. Voir l'art, de G. R. Loehr, Gazette des Beaux-Arts, oct. 1962, 419-426. Pf. 890., DHGE (A. De Bil)., DBF (Dehergne). Fournier, P., Voyages, 77-19., Streit VII, 3526., Rochemontetx, 319.
+            ls$dehergne/176/obs="""
+            Cibot, Pierre-Martial (franç.) P. 176 Han Pei-tou Kouo-Ying (Pf.).
+            N. 15 août 1727, Limoges.
+            E. 7 nov. 1743, Bordeaux (Aquit. 8 II, 462).
+            Emb. 7 mars 1758 à Lorient sur le d'Argenson.
+            Arr. à Macao par Rio-de-Janeiro, 25 juill. 1759.
+            Pékin, 6 juin 1760: mécanicien, botaniste et polygraphe.
+            P. 1756 (Franc. 21, 410).
+            V. nous n'avons pas retrouvé sa formule de V.
+            M. 8 août 1780, Pékin (B. Inst. 1516, f° 251., LE XXVI, 459).
+            N. et baptisé le même jour (15 août), fils de Pierre Cibot et de
+            Paule Recolet, dit l'acte de baptême dont une photocopie nous a été
+            aimablement communiquée par la Bibliothécaire adjointe de la B. de
+            Limoges Mme M. Hautebert., partout ailleurs il est dit N. le
+            14 août.
+
+            Noms de plume: l'Affligé tranquille.
+            De même, il signe parfois Leeou ses envois en France (B. Inst. 1521,
+            P 157, et surtout 1522, f» 129).
+            Portrait « au crayon rouge et noir », « avec sa barbe », par Panzi,
+            en 1780 (B. Inst. 1518, f» 207, 245 et 1519, f» 93).
+            Ses Plantes, fleurs et arbres de la Chine, 404 feuillets, sont à B.
+            Inst. 4° DM 93., cf. BN: ms. Breouigny 124, que Pf. 956 attribue à
+            tort à Collas.
+            Voir l'art, de G. R. Loehr, Gazette des Beaux-Arts, oct. 1962,
+            419-426.
+            Pf. 890., DHGE (A. De Bil)., DBF (Dehergne). Fournier, P., Voyages,
+            77-19., Streit VII, 3526., Rochemontetx, 319.
+            """
 
             pai$Pierre Cibot/id=deh-pierre-martial-cibot-pai
 
@@ -1470,7 +1541,7 @@ kleio$gacto2.str/translations=279
             ls$estadia/Cantão# @wikidata:Q16572/1685#catal.
             ls$jesuita-cargo/Visitador das províncias de Goa e do Malabar/1682
             ls$jesuita-cargo/Visitador das províncias de Goa e do Malabar/1685
-            ls$estadia/Kwangtung#@wikidata:Q15175/<1685
+            ls$estadia/Kwangtung#@wikidata:Q16572/<1685
             ls$jesuita-cargo/Procurador da Vice-província da China/1685#em Goa e em Roma
             ls$estadia/Goa# @wikidata:Q1171/>1685
             ls$estadia/Roma# @wikidata:Q220/>16851112
@@ -1509,7 +1580,7 @@ kleio$gacto2.str/translations=279
             ls$nascimento/'s-Hertogenbosch, Holanda%Bois-le-duc# @wikidata:Q2766547/16020407
             ls$jesuita-entrada/?/16191106
             ls$partida/China# @wikidata:Q148/1642
-            ls$profissao/Matemático
+            ls$profissao/Matemático/>1642:<16360512
             ls$jesuita-votos/4V/16360512
             ls$jesuita-votos-local/Cassel# @wikidata:Q2865/16360512
             ls$embarque/Sta. Catarina#corrigido de acordo com Wicky/16480408#data completada segundo Wicky, não parece ter chegado a embarcar
@@ -1552,7 +1623,7 @@ kleio$gacto2.str/translations=279
             ls$jesuita-estatuto/Padre
             ls$nome/Luigi Cibolla
             ls$nascimento/Caltavuturo, Palermo# [Sicília] @wikidata:Q491404/17361006
-            ls$tarefa/Estuda vidraria e medicina
+            ls$tarefa/Estuda vidraria e medicina/>17361006:<17571105
             ls$jesuita-entrada/?/17571105
             ls$estadia/Paris# @wikidata:Q90/17690815
             ls$jesuita-tarefa/Assina a folha de votos do padre de Méricourt/17690815
@@ -1585,7 +1656,7 @@ kleio$gacto2.str/translations=279
             ls$embarque/?/16350413
             ls$wicky/823/16350413
             ls$wicky-viagem/72/16350413
-            ls$jesuita-tarefa/Assina a carta anual da China de 1641-1642
+            ls$jesuita-tarefa/Assina a carta anual da China de 1641-1642/1642
             ls$cargo/Pai dos cristãos/1648
             ls$jesuita-cargo/Reitor do colégio de Macau/1650
             ls$jesuita-tarefa/Cuida de Neófitos Chineses#durante cinco anos/1650
@@ -1685,7 +1756,7 @@ kleio$gacto2.str/translations=279
             ls$chegada/China# @wikidata:Q148/1610#cerca de
             ls$partida/Malaca# @wikidata:Q61089/1616
             ls$jesuita-ordenacao-padre/Malaca# @wikidata:Q61089/1617#cerca de
-            ls$jesuita-tarefa/Escreve uma «Relação das Couzas da China»
+            ls$jesuita-tarefa/Escreve uma «Relação das Couzas da China»/>1617
             ls$morte/Malabar# @wikidata:Q473181/1622
             ls$dehergne/185/obs=Coelho, Estevâo (port.) P. 185 N. 1586, à Abrantès de Guarda -E. 1604 (Lus. 44, 229v). Emb. non prêtre sur le Nossa Senhora de Jésus, 23 mars 1609 <W 564), pour la Chine selon Franco., arr. v. 1610 (?)., en 1616, se préparait à gagner Malacca (JS 26, 20). P. v. 1617, Malacca? M. au Malabar, 1622. Pf. 982. Est-il allé au-delà de Macao? Il a écrit, du moins, une Relaçâo das couzas da China, restée manuscrite.
 
@@ -1746,7 +1817,7 @@ kleio$gacto2.str/translations=279
             ls$wicky-viagem/27/15810408
             ls$chegada/Macau# @wikidata:Q14773/15820807
             rel$sociabilidade/Companheiro/Matteo Ricci/deh-giovanni-cola-niccolo-ref1/data=15820807
-            ls$jesuita-tarefa/Funda uma escola de pintura em Macau
+            ls$jesuita-tarefa/Funda uma escola de pintura em Macau/>15820807
             ls$estadia/Nagasaki# @wikidata:Q38234/1603
             ls$jesuita-tarefa/Funda uma escola de pintura em Nagasaki/1603
             ls$estadia/Macau# @wikidata:Q14773/1614
@@ -1800,7 +1871,7 @@ kleio$gacto2.str/translations=279
             ls$wicky/1349/1695
             ls$wicky-viagem/118/1695
             ls$tarefa/Termina os estudos em Filosofia/1697
-            ls$estadia/Goa (Colégio)# @wikidata:Q1171
+            ls$estadia/Goa (Colégio)# @wikidata:Q1171/>1697
             ls$jesuita-ordenacao-padre/?/1699
             ls$dehergne/190/obs=Collasco, Estêvâo (port.) P. 190 Colaço., Colaça., Colasso. N. 21 avril 1676, Semide, d. de Coïmbre. E. 27 janv. 1692, Coïmbre (Lus. 46, 260: Steph. Colasso). Emb. non prêtre, pour la Chine, en 1695 (W 1349 et JS 134, 378v). Termine sa philosophie en 1697 (JS 134, 382v)., collège de Goa. Les catal. de Chine ne le nomment pas. -P. en 1699 (Goa 25, 373). Pf. 485.
 
@@ -1814,7 +1885,7 @@ kleio$gacto2.str/translations=279
             rel$sociabilidade/Companheiro/Claude de Bèze/deh-patrice-comilh-ref1/data=1686
             rel$sociabilidade/Companheiro/Marcel Leblanc/deh-patrice-comilh-ref2/data=1686
             rel$sociabilidade/Companheiro/Guy Tachard/deh-patrice-comilh-ref3/data=1686
-            ls$estadia/Sião# @wikidata:Q869
+            ls$estadia/Sião/>1686:<1689# @wikidata:Q869
             ls$partida/China# @wikidata:Q148/1689
             ls$estadia/Malaca#interceptado pelos holandeses a caminho da China @wikidata:Q185221
             ls$estadia/França# @wikidata:Q142
@@ -1851,7 +1922,7 @@ kleio$gacto2.str/translations=279
             ls$nascimento/Issoudun# @wikidata:Q210772/16700525
             ls$baptizado/Issoudun (Igreja de St. Cyr)# @wikidata:Q210772/16700525
             ls$jesuita-entrada/Paris# @wikidata:Q90/16880909
-            ls$embarque/Amphitrite/00
+            ls$embarque/Amphitrite/1701#Check Louis Porquet Dehergne 658
             ls$chegada/Kwangchowwan# @wikidata:Q1506615/17011115
             ls$estadia/Chekiang (Tchö-kiang)# @wikidata:Q16967/1707
             ls$estadia/Pequim# @wikidata:Q956/1711
@@ -1985,7 +2056,9 @@ kleio$gacto2.str/translations=279
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lisboa# @wikidata:Q597/1612
-            ls$jesuita-entrada/?/1628
+            ls$jesuita-entrada/Lisboa (Casa de Provação do Monte Olivete)# @wikidata:Q597/1628/obs=Dehergne omits place of entry; entre 1619 e 1630 o único noviciado da província era a Casa de Provação do Monte Olivete, em Lisboa (Franco, Imagem da virtude… Coimbra I, p. 25).
+            ls$estadia/Coimbra# @wikidata:Q45412/1633/obs=catálogo de Maio de 1633 (T1), « Colégio de Coimbra », n.º 258: « Ir. Lucas Correa de Lx.ª… idade 21 annos: da Companhia 5: estuda artes » (Lus. 44 II, f. 494).
+            ls$estadia/Braga, Colégio/1636/obs=Not in Dehergne, but in Lus. 44 II, 548.
             ls$embarque/?/16410330
             ls$wicky/898/16410330
             ls$wicky-viagem/76/16410330
@@ -2083,7 +2156,14 @@ kleio$gacto2.str/translations=279
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Escolástico
             ls$nascimento/Ilha do Faial, Açores# @wikidata:Q657187/1536
-            ls$jesuita-entrada/?/15570805
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/15570805/obs="""
+            Dehergne omits place of entry; appears in Coimbra college catalogues 1566-1568 (Lus. 43 II, ff. 270, 312v, 325) as enfermeiro/refitoleiro.
+            Dehergne points to Lus. 43 I, 46. but the volume is not available for checking.
+            In 1566 one Amador da Costa is listed in the cataglogue
+
+
+
+            """
             ls$jesuita-tarefa/Retoma os seus estudos escolásticos e destina-se a padre/1569
             ls$embarque/Sta. Catarina/15760307#não padre
             ls$wicky/181/15760307
@@ -2114,14 +2194,27 @@ kleio$gacto2.str/translations=279
             ls$jesuita-ordenacao-padre/?/1693
             ls$jesuita-votos/4V/17120815
             ls$jesuita-votos-local/Goa (noviciado de Choram)# @wikidata:Q1171/17120815
-            ls$morte/Cuamani, província de Goa#ILOC/17220728
-            ls$dehergne/204/obs=Costa, André da (port.) P. 204 N. Braga, 1662 -E. 1678 (Lus. 46, 212v n» 528). Emb. 1694 pour la Chine (W 1334., JS 134, 378v). P. v. 1693. V. au noviciat de Choram (province de Goa), 15 août 1712, pr. (Lus. 31, 188): Il signe: Andréas a Costa. M. « Cuamani », 28 juill. 1722 (HS 51, 33), province de Goa. N'est pas aux catal. de Chine, mais a ceux de Goa.
+            ls$morte/Cuamani, província de Goa# será "Cuamensis" port. Rios de Cuama, hoje Quelimane, MZ, ver Hamy, 1892, p.5, @wikidata:Q318306 for modern day Quelimane/17220728
+            ls$dehergne/204/obs="""
+               Costa, André da (port.) P. 204
+               N. Braga, 1662
+               -E. 1678 (Lus. 46, 212v n» 528).
+               Emb. 1694 pour la Chine (W 1334., JS 134, 378v).
+               P. v. 1693.
+               V. au noviciat de Choram (province de Goa),
+                  15 août 1712, pr. (Lus. 31, 188): Il signe: Andréas a Costa.
+               M. « Cuamani », 28 juill. 1722 (HS 51, 33), province de Goa.
+               N'est pas aux catal. de Chine, mais a ceux de Goa."""
 
          n$António da Costa/id=deh-antonio-da-costa-i
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Frade Coadjutor
             ls$morte/Fukien (rio «Tchintcheou»)#a caminho do Japão @wikidata:Q1031649/1611#cf. António d'Abreu
-            ls$dehergne/205/obs=Costa, Antonio da (port.) (I) fr. coadj. 205 M. 1611, dans la rivière de « Tchintcheou », Fukien, en route vers le Japon. Cf. Abreu, Antonio d'. Pf. 125., SchUtte, 343.
+            ls$dehergne/205/obs="""
+               Costa, Antonio da (port.) (I) fr. coadj. 205
+               M. 1611, dans la rivière de « Tchintcheou », Fukien, en route vers le Japon.
+               Cf. Abreu, Antonio d'. Pf. 125., SchUtte, 343.
+            """
 
             referido$António da Costa/id=deh-antonio-da-costa-i-ref1
                ls$nascimento/?/1533
@@ -2133,7 +2226,8 @@ kleio$gacto2.str/translations=279
             referido$António da Costa/id=deh-antonio-da-costa-i-ref2
                ls$nascimento/?/1525
                ls$jesuita-entrada/Lisboa# @wikidata:Q597/1555
-               ls$embarque/[Para Goa]#noviço, Wicky 48 menciona um irmão António da Costa para a Etiópia em 1555, poderia ser ele?
+               ls$embarque/[Para Goa]/>1555:<1557#noviço, Wicki 48 menciona um irmão António da Costa para a Etiópia em 1555, poderia ser ele?
+               ls$estadia/Goa# @wikidata:Q1171/1557
                ls$jesuita-ordenacao-padre/Goa# @wikidata:Q1171/1557
                ls$jesuita-votos/3V/1571
                ls$jesuita-votos-local/Goa# @wikidata:Q1171/1571
@@ -2189,7 +2283,7 @@ kleio$gacto2.str/translations=279
             ls$estadia/Macau# @wikidata:Q14773/16641111
             ls$jesuita-tarefa/escreve a carta anual de Macau/16641111
             ls$estadia/Sião# @wikidata:Q869/1666
-            ls$estadia/Cochinchina# @wikidata:Q505503
+            ls$estadia/Cochinchina/>1666:<1669# @wikidata:Q505503
             ls$estadia/Macau (colégio)# @wikidata:Q14773/1669
             ls$estadia/Macau# @wikidata:Q14773/1684#impedido de regressar à Europa
             ls$estadia/Macau# @wikidata:Q14773/1687#impedido de regressar à Europa, impedido pelo rei da Cochinchina
@@ -2249,7 +2343,7 @@ kleio$gacto2.str/translations=279
             ls$jesuita-cargo/Provincial do Japão/17620705
             ls$estadia/Macau# @wikidata:Q14773/17620705#preso
             ls$jesuita-votos/4V/17240430
-            ls$jesuita-votos-local/Sinoae, Cochinchina#ILOC/17240430
+            ls$jesuita-votos-local/Sinoae, Cochinchina#Today Thuận Hóa Sinoae almost certainly corresponds to the region of Thuận Hóa in central Vietnam (roughly Quảng Bình–Thừa Thiên Huế), known in early modern European sources as “Sinoa”, “Singoa” or similar variants, within Cochinchina @wikidata:Q1155278/17240430
             ls$morte/Lisboa (Forte de S. Julião)# @wikidata:Q597/17660811
             ls$dehergne/210/obs=Costa, Francisco da (port.) P. 210 Fang (M 443, 677). N. 22 avril 1691, Braga. E. 9 févr. 1707 (Lus. 47, 133). Emb. 12 avr. 1714 (W 1585)., A. 1717, selon M 443, 677., mais le catal. de 1717 déclare « fuit in missione Cantoniensi, nunc in Cochinchina », JS 25, 273 cf. JS 25, 278., 1751, Macao., provincial du Japon de 1759 à son arrestation, à Macao, 5 juill. 1762. V. « Sinoae in regno Cocincinae », 30 avril 1724, pr. (Lus. 14 II, 250): Franc, â Costa. M. 11 août 1766, prisons du fort St Julien, Lisbonne (HS 53a, 132). Pf. 832. Distinct du P. Francisco da Costa emb.le 20 avril 1665 et qui semble mort en route (W 1063)., et d'un autre venu avec le P. Grimaldi à Macao vers sept. 1694 (SF VI, 137) M. au collège de Macao comme procureur de la province du Japon 17 sept. 1705 (JS 19, 190., AHU ms 1659, f 111., HS 50 l'ignore).
 
@@ -2325,9 +2419,26 @@ kleio$gacto2.str/translations=279
             ls$estadia/Yenping, Fukien#@wikidata:Q1337959/1663#aprisionado a 16650913
             ls$chegada/Cantão# @wikidata:Q16572/16660321#exilado
             ls$jesuita-votos/4V/16401104
-            ls$jesuita-votos-local/Si-ngan#Si gan fu/16401104
+            ls$jesuita-votos-local/Si-ngan#Si gan fu @wikidata:Q5826/16401104
             ls$morte/Cantão# @wikidata:Q16572/16660511
-            ls$dehergne/212/obs=Costa, Inâcio da (ou a) (port.) P. 212 alias: Nunes (W 748). Kouo Tch'ong-Jen (Stèle de Sianfu de 1644)., Kouo Na-tsio Tô-Tslng (Pf.). N. 1603 (et non 1590) île Fayal, Açores (JS 134, 312: 33 ans en 1636, etc) -E. 1617. Emb. 3 avril 1629 (W 748)., 1634, Foochow: puis 1637, Puchow, Shansi., 1638, Shensi., 1640 et 1648, Sian (Si-ngan) fou (JS 134, 336v)., viceprovincial de Chine, 1658-1661., 1663, Yenping, Fukien., arrêté, 13 sept. 1665., exilé à Canton, où il arr. 21 mars 1666 (BN: ms. fr. 25055 p. 2., le 25 mars, dit JS 134, f° 353, 355). V. « Si gan fù », 4 nov. 1640, pr. (Lus. 6, 7). M. 11 mai 1666, Canton (JS 134, 352 et HS 48, 86., erreur de HS 48, 84 qui dit 11 mai 1664). Pf. 218., Verbo (J. Pereira Gomes)., Brotier 104, 1-11: questions à la Propagande en 1651.
+            ls$dehergne/212/obs="""Costa, Inâcio da (ou a) (port.) P. 212
+            alias: Nunes (W 748).
+            Kouo Tch'ong-Jen (Stèle de Sianfu de 1644).
+            Kouo Na-tsio Tô-Tslng (Pf.).
+            N. 1603 (et non 1590) île Fayal, Açores (JS 134, 312: 33 ans en 1636, etc) -E. 1617.
+            Emb. 3 avril 1629 (W 748).
+            1634, Foochow: puis 1637, Puchow, Shansi.
+            1638, Shensi.
+            1640 et 1648, Sian (Si-ngan) fou (JS 134, 336v).
+            viceprovincial de Chine, 1658-1661.
+            1663, Yenping, Fukien.
+            arrêté, 13 sept. 1665.
+            exilé à Canton, où il arr. 21 mars 1666 (BN: ms. fr. 25055 p. 2., le 25 mars, dit JS 134, f° 353, 355).
+            V. « Si gan fù », 4 nov. 1640, pr. (Lus. 6, 7).
+            M. 11 mai 1666, Canton (JS 134, 352 et HS 48, 86., erreur de HS 48, 84 qui dit 11 mai 1664).
+            Pf. 218.
+            Verbo (J. Pereira Gomes).
+            Brotier 104, 1-11: questions à la Propagande en 1651."""
 
          n$João da Costa/id=deh-joao-da-costa
             ls$nacionalidade/Portugal
@@ -2396,7 +2507,7 @@ kleio$gacto2.str/translations=279
             ls$chegada/?/1694
             ls$estadia/Chekiang (Tchö-kiang)# @wikidata:Q16967/1723#cerca de
             ls$estadia/Kiang-nan#@wikidata:Q11133842/1723#cerca de
-            ls$estadia/Cantão#exilado @wikidata:Q16572
+            ls$estadia/Cantão/>1723:<1724#exilado @wikidata:Q16572
             ls$estadia/Kan-tcheou, Kiangsi# @wikidata:Q363166/1724
             ls$dehergne/217/obs=Costa, Pedro da (port.) (II) P. 217 Arr. 1694., v. 1723 au Chekiang (Tcho-kiang) et au Kiang-nan, d'où sera exilé à Canton (LE, éd. de 1819, X 535)., en 1724, prête serment à « Kamcheu » (Kan-tcheou) du Kiang-si (AN: K 1375 n° 77). Pf. 467: d'AcoSTA.
 
@@ -2430,7 +2541,7 @@ kleio$gacto2.str/translations=279
             ls$estadia/Macau#os portugueses recusam a sua entrada enquanto estrangeiro @wikidata:Q14773
             ls$chegada/Nagasaki# @wikidata:Q38234/16050817#exilado durante a perseguição de 1614
             ls$estadia/Macau# @wikidata:Q14773/1614
-            ls$jesuita-tarefa/Estuda as religiões do Japão e da China
+            ls$jesuita-tarefa/Estuda as religiões do Japão e da China/>1614
             ls$jesuita-tarefa/Escreve a carta anual da missão da China de 1617/1617
             ls$estadia/Japão# @wikidata:Q17/1621#disfarçado
             ls$jesuita-votos/4V/16151021
