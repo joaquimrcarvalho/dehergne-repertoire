@@ -357,7 +357,7 @@ kleio$gacto2.str/translations=137
             rel$sociabilidade/Companheiro/Louis-Joseph Le Febure/deh-joseph-louis-desrobert-ref1/data=17360000
             ls$chegada/Macau# @wikidata:Q14773/17370805
             ls$estadia/Cantão# @wikidata:Q16572/17370822#até
-            ls$estadia/Pé-tsiuen-chan, Hukwang
+            ls$estadia/Pé-tsiuen-chan, Hukwang#柏泉 Baiquan @wikidata:Q11108336 @issue:50
             ls$jesuita-cargo/Procurador
             ls$estadia/Pequim# @wikidata:Q956/17420000
             ls$jesuita-cargo/Superior da residência francesa de Macau/17481118
