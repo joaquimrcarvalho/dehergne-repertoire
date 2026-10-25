@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=70
+kleio$gacto2.str/translations=72
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-46
    fonte$dehergne-h/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra H
 
@@ -130,8 +130,8 @@ kleio$gacto2.str/translations=70
             ls$estadia/Macau# @wikidata:Q14773/17371013
             ls$jesuita-cargo/Superior da missão de Nanquim
             ls$jesuita-cargo/Vigário geral de Nanquim/17441103
-            ls$estadia/Tongko (casa de Philippe Wang)#perto de Tsangzo, entre Soochow e Kashing - Kai-hing fou/17471221#preso e condenado à morte depois de processo em 17480214
             ls$jesuita-votos/4V/17450000
+            ls$estadia/Tongko (casa de Philippe Wang)#perto de Tsangzo, entre Soochow e Kashing - Kia-hing fou/17471221#preso e condenado à morte depois de processo em 17480214
             ls$morte/Soochow fou# @wikidata:Q42622/17480813#na noite de 13 para 14
             ls$dehergne/401/obs=Henriques, Antonio-José (port.) P. 401 José., Antonio Jozé., Enriques., Ant. Joseph (JS 134, 435v). Houang Ngan-to (Pf.)., Wang (M 436, 221: Vang, son procès., SOCP t. 51, 1757 f° 521: Vam Ngan-to-ni). N. 13 juin 1707, Lisbonne. — Attaché d'ambassade, E. 25 déc. 1727, Macao. Macao, 1727, puis Manille., Macao, 13 oct. 1737 (JS 134, 435v)., supé- rieur de la mission de Nankin., vicaire général de Nankin, 3 nov. 1744., arrêté le 21 déc. 1747 à Tongko près de « Tsangzo » dans la maison de Philippe Wang (entre Soochow et Kashing (Kia-hing fou)., procès, 14 févr. 1748 et condamnation à mort (M 444, 339- 356., interrogatoire, M 444, 427-456). V. 1745, pr. (les formules font défaut), LE XXIII, 144.
             ls$dehergne/401/obs=M. exécuté à Soochow fou dans la nuit du 13 au 14 août 1748 selon SOCP t. 48, 1748, f° 331., le 12 sept. 1748 (Pf. 714, LE XXIII, 124). Pf. 705. Les indications de Stbeit VII n° 3315 (d'après Sommervogel) sont fantaisistes., ainsi que la coquille de HS 53, 18 qui le fait mourir le 12 sept. 1747. Gomes, Ant., Relaçâo Summaria ... 1° éd., Lisbonne, 1751., 2° éd., Macao, 1896 (Streit, XIII n° 1494)., Rossi, Documenta... T'ou-sé-wé, 1891., cf Archivio délia Postulazione Générale délia C.d.G., Rome, cod. N. 430.
@@ -329,10 +329,10 @@ kleio$gacto2.str/translations=70
             ls$jesuita-cargo/Visitador do Japão e da China/17250908
             ls$jesuita-cargo/Visitador do Japão e da China/17290908
             ls$estadia/Cantão# @wikidata:Q16572/17220000
-            ls$estadia/Lofeu/17221228#durante a prisão dos padres Messari e Bucarelli no Tonquim
+            ls$estadia/Lofeu#@wikidata:Q33204/17221228#durante a prisão dos padres Messari e Bucarelli no Tonquim
             ls$estadia/Macau# @wikidata:Q14773/17230000
             ls$jesuita-tarefa/Funda a Congregação do Sagrado Coração/17230000
-            ls$estadia/Lofeu/17230414
+            ls$estadia/Lofeu#@wikidata:Q33204/17230414
             rel$institucional/Envia a Lofeu#?/António de Mello/deh-romain-hinderer-ref4/data=17230000#cerca de
             ls$estadia/Chekiang# @wikidata:Q16967/17240000#escondido durante a perseguição
             ls$estadia/Hangchow# @wikidata:Q4970/17250000
