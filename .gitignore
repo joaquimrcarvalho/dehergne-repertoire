@@ -27,3 +27,6 @@ notebooks/throttle.ctrl
 inferences/iloc-issues/
 inferences/portugal-no-entry/
 extras/ARSI-catalogs-indexes/
+# auto-structure derived from the .cli headers by the Kleio translation step
+sources/*-auto-structure.json
+sources/*-auto-structure.yaml
