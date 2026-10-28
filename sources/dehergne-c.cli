@@ -631,7 +631,7 @@ kleio$gacto2.str/translations=291
             ls$estadia/Hanchung, Shansi#@wikidata:Q515573/>1695
             ls$estadia/Kiangchow, Shansi# @wikidata:Q1197219/>1695
             ls$jesuita-votos/4V/16850202
-            ls$jesuita-votos-local/«Ponti (in valle Tellina)/16850202
+            ls$jesuita-votos-local/Ponte in Valtellina, Sondrio# @wikidata:Q39321 @issue:52/16850202
             ls$morte/[No caminho entre Kiangchow e Taiyuan, Shansi]/16951225
             ls$dehergne/144/obs=Carrocci, Filippo-Felice (savoyard) P. 144 Carocci., Carrossi., Carrozio., Carrocclo. Lo Fei-li (Pf.). N. 1646 en Savoie, « Pedemontanus » -E. 1665 (JS 134, 376). Emb. 1687 (W 1245)., A. 1687., 1688, Canton., 1689, Kiangsi., 1690, Hainan., 1691, Canton et voyage à Sancian., 1692, Hukwang (JS 134, 375a) et Kiangsi., 1695, Shensi., puis Hanchung et Kiangchow, au Shansi. V. « Ponti (in valle Tellina) » 2 févr. 1685, pr. Il signe en latin Carrocius (Ital. 18, 364). M. « apud Sinas », en Chine, 25 déc. 1695 (HS 49, 221 et 50, 48v) Borg. Lat. 523 f° 59 le fait mourir au Shensi., en fait, il est mort 25 déc. 1695, en route entre Kiangchow et Taiyuan, Shansi (JS 148, 220 et RBS 462 du 15 oct. 1950). JS 134, 376: « obiit anno 1695 die natali Domini ». Pf. 414., Margiotti p. 174.
 
@@ -1778,7 +1778,7 @@ kleio$gacto2.str/translations=291
             rel$institucional/Sucede/Francisco Cabral/deh-gaspar-coelho-ref1/data=1584
             ls$jesuita-ordenacao-padre/?#pela data deve ter sido na Índia/1560
             ls$jesuita-votos/3V/1571
-            ls$morte/Kasuza, Arima, Japão#ILOC/15900525#ou 15900507?
+            ls$morte/Kasuza, Arima, Japão#@wikidata:Q6381698 @issue:39/15900525#ou 15900507?
             ls$dehergne/186/obs=Coelho (Coello), Gaspar (port.) P. 186 N. 1531, à Porto ou 1537 à Chaves (Vila Real, DI. IV, 288). -E. mars 1556, Goa (Goa 24, 146v). Après 15 ans passés aux Indes, il est envoyé au Japon, 1571., arr. 1572., nombreux baptêmes., succède à Francisco Cabral comme second vice-provincial, 1584-1590., 24 juill. 1587, exilé avec tous les jésuites du Japon, au nombre de 66, par Hideyoshi. P. 1560 (DI. IV. 704). -V. pr. des 3 V. en 1571 (Goa 24, 146v). M. 25 mai 1590 à Kasuza, Arima, Japon (D'Elia I, 231 n. 2). M. le 7 mai (Schutte, 333). DHGE (A. De Bil). Laures, Johannes, An ancient document on the early intercourses between Japan and the Philippine Islands, Cuttura Social 29 (Manille 1941)., Schurhammer et Voretzsch, Die Geschichte Japans 1549-1578 von P. Luis Froes, Leipzig, 1926., SchOtte, 900-901. Il envoie plusieurs tableaux aux jeunes missions de Chine {D'Elia, III, 114).
             ls$dehergne/186/obs=Il est, en tant que vice-provincial du Japon, supérieur des missions de Chine, et Pf. devrait le nommer. Distinct du P. « Guaspar Coelhius » N. 1548, E. 1565 à Goa, P. 1575 à Goa (DI. X, 41), qui était, lui aussi, pr. des 3 V. (DI. VIII, 98).
 

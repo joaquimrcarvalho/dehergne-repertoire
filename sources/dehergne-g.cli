@@ -1,5 +1,6 @@
 kleio$gacto2.str/translations=191
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-115
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-g/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
       Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra G
 
@@ -1437,7 +1438,7 @@ kleio$gacto2.str/translations=191
             ls$jesuita-ordenacao-padre/?/1643#cerca de
             ls$jesuita-votos/4V/16550621
             ls$jesuita-votos-local/Iafanapàtaniae, Ceilão# @wikidata:Q215277/16550621
-            ls$morte/« Pe-chieh » du Sinfeng, Kiangsi/16960303
+            ls$morte/Pe-Chieh, Singinf%« Pe-chieh » du Sinfeng, Kiangsi# @wikidata:Q1356667 (Sinfeng-Xinfeng)@issue:48/16960303
             ls$dehergne/390/obs="""
             Grêlon (Greslon), Adrien (franç.) P. 390
             Grellon (M 400, 133., JS 108, 12).,
