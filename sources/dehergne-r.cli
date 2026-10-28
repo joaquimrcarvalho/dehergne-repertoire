@@ -1,5 +1,6 @@
-kleio$gacto2.str/translations=210
+kleio$gacto2.str/translations=211
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-121
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$bdcconline/"https://bdcconline.net/en/stories/$1"/obs=Biographical Dictionary of Chinese Christianity
    fonte$dehergne-r/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs= """Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra R
 
@@ -1720,7 +1721,7 @@ kleio$gacto2.str/translations=210
             ls$jesuita-tarefa/Ajuda a família Sounou/17180212
             ls$estadia/Tartária# @wikidata:Q83971
             ls$estadia/Cantão# @wikidata:Q16572/17250300
-            ls$estadia/Yuwei do Shansi/1727
+            ls$estadia/Yuwei do Shansi#右衛 (Youwei) = 右卫镇, 右玉縣 @wikidata:Q10916242 @issue:68/1727
             ls$estadia/Leaotung# @wikidata:Q326917/1729
             ls$estadia/Pequim# @wikidata:Q956/1730#doente
             ls$estadia/Honan#@wikidata:Q43684/1731

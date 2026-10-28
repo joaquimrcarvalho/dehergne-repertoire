@@ -1,5 +1,6 @@
-kleio$gacto2.str/translations=290
+kleio$gacto2.str/translations=291
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-194
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-c/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra C
 
    Espadinha, M. A., Baptista, A. R., & Seabra, L. de. (2005). Missionação e missionários na história de Macau. Universidade de Macau. [MMHM]
@@ -1940,7 +1941,7 @@ kleio$gacto2.str/translations=290
             ls$jesuita-cargo/Superior geral da missão francesa na China/17321121#Désigné comme successeur d'Hervieu par le P. Général, il meurt le 21 oct. 1732, Hervieu continue sa charge par intérim, lettre du 27 déc. 1733 (JS 184, 141), vide Dehergne p. 320
             ls$jesuita-ordenacao-padre/?/1700
             ls$jesuita-votos/4V/17060114
-            ls$jesuita-votos-local/Shaohing/17060114
+            ls$jesuita-votos-local/Shaohing# @wikidata:Q42666 @issue:56/17060114
             ls$morte/[No mar, perto de Cádiz]# @wikidata:Q15682/17321121
             ls$dehergne/192/obs=Contancin (Contencin), Cyr (franç.) P. 192 Kong Tang-Sin Tong-P'ing (Pf.) (M 443, 676 écrit à tort Xunc). N. « Issoldunensis » (JS 134, 417) Issoudun 25 mai 1670 -E. 9 sept. 1688, Paris (Franc. 24, 244). A. 15 nov. 1701 (et non le 9 sept., JS 134, 391) sur l'Amphitrite, à Kwangchowwan pour hiverner., en 1707, au Chekiang (Tchô-kiang)., 1711, Pékin où supérieur de la résidence française, 1716-1718., 20 oct. 1718, part au Shansi., 1720, au Kiangsi (JS 178, 414), Nanchang 1721 (JS 183, 40)., exilé à Canton, 1725., de retour en France, 1731, revise la Description de ta Chine de Du Halde., repart de Lorient, 10 nov. 1732. Supérieur général de la Mission française v. 1731. P. 1700 (Franc. 17, 29v). V. « Chao-him prov. Tche kiam »=Shaohing, 14 janv. 1706, pr. (Gai. 16, 108). M. 21 nov. 1732 (HS 50, 133) en mer, « non longe a freto Gaditano» vers Cadix (Franc. 27, Mv., Franc. 45 II, 469470).
             ls$dehergne/192/obs=(Né et) baptisé le 25 mai 1670 « en l'église St Cyr à Issoudun, fils de Maistre Jean Contancin, docteur en médecine en la ville d'Issoudun, et de Marie Lanjon (ou Laujon)»., famille d'au moins 7 frères (dont un notaire royal) et une soeur, renseignements aimablement communiqués par les archives de la mairie d'Issoudun. Il signe 21 nov. 1724 son serment: Cyricus Contancin. Pf. 571., DHGE (A. De Bil)., DBF (Dehergne). Streit VII, 3068.
