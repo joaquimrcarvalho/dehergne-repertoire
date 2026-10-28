@@ -372,7 +372,7 @@ kleio$gacto2.str/translations=118
             ls$jesuita-estatuto/Padre
             ls$nome/Alessandro Valla-Reggio
             ls$nome/Alessandro Valareggio
-            ls$nascimento/Reggio#Reggio Emilia ou Reggio Calabria @wikidata:Q13360 ou @wikidata:Q8471/1529
+            ls$nascimento/Reggio#Reggio Emilia ou Reggio Calabria @wikidata:Q13360 ou wikidata:Q8471/1529
             ls$jesuita-entrada/Roma# @wikidata:Q220/15600507
             ls$embarque/Chagas#segundo Wicky/15650325%1564#corrigido segundo Wicky
             ls$wicky/103#como Alessandro Vallareggio, segundo com Wicky/15650325%1564#corrigido segundo Wicky
@@ -598,7 +598,7 @@ kleio$gacto2.str/translations=118
 
          n$Pero Vasques/id=deh-pero-vasques/obs=será um erro por Pero Vaz, Dehergne 873?
             ls$jesuita-estatuto/Padre
-            ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+            ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
             ls$jesuita-cargo/Superior da missão da China/1572
             rel$sociabilidade/Companheiro/António Pais/deh-pero-vasques-ref1
             rel$institucional/Sucede/Pero Vaz/deh-pero-vasques-ref8/data=1572
@@ -608,34 +608,34 @@ kleio$gacto2.str/translations=118
                ls$jesuita-estatuto/Frade Coadjutor
                ls$nome/António Paes
                ls$nome/António Paiz
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
 
             referido$Nome desconhecido/id=deh-pero-vasques-ref2
                ls$jesuita-estatuto/Padre
                ls$cargo/Bispo
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
 
             referido$António Vaz/id=deh-pero-vasques-ref3
                ls$jesuita-estatuto/Padre
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
                ls$nome/António Vaas
 
             referido$Christovão da Costa/id=deh-pero-vasques-ref4
                ls$jesuita-estatuto/Padre
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
 
             referido$Ynofre Roiz/id=deh-pero-vasques-ref5
                ls$jesuita-estatuto/Padre
                ls$nome/Ynofre Rodrigues
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
 
             referido$João Francisco Estephanonio/id=deh-pero-vasques-ref6
                ls$jesuita-estatuto/Padre
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
 
             referido$Jacome da Fonseca/id=deh-pero-vasques-ref7
                ls$jesuita-estatuto/Frade#escolástico?
-               ls$estadia/China#Macau? @wikidata:Q148 ou @wikidata:Q14773/1572
+               ls$estadia/China#Macau? @wikidata:Q148 ou wikidata:Q14773/1572
                ls$profissao/Mestre escola
 
             referido$Pero Vaz/id=deh-pero-vasques-ref8
@@ -818,7 +818,7 @@ kleio$gacto2.str/translations=118
             ls$partida/China# @wikidata:Q148/1691#cerca de, tenta ir por terra
             ls$estadia/Grécia# @wikidata:Q41/1693
             ls$jesuita-votos/Coadjutor Temporal/16970815
-            ls$estadia/Síria#ou Pérsia? @wikidata:Q858 ou @wikidata:Q83311/1706#cerca de? depois de?
+            ls$estadia/Síria#ou Pérsia? @wikidata:Q858 ou wikidata:Q83311/1706#cerca de? depois de?
             ls$dehergne/877/obs=Velay, Louis (franç.) fr. coadj. 877 N. « Turnonensis », Tournon, 1657 -E. 27 févr. 1684 (Tolos. 12, 348v). Il essaie la voie de terre pour se rendre en Chine, v. 1691 (BN: ms. fr. 25056, f° 23). Tolos. 13, 47 le marque en Grèce en 1693. V. 15 août 1697, c. temp. (Tolos. 13, 267), formule non retrouvée. M. (le catal. 1706 le met en Syrie ou en Perse (Tolos. 7, 257v)?
 
          n$Francisco Velho/id=deh-francisco-velho

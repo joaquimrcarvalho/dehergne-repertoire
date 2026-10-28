@@ -313,7 +313,7 @@ kleio$gacto2.str/translations=201
             referido$Aires Sanchez/id=deh-alonso-sanchez-ref2
                ls$nacionalidade/Portugal
                ls$jesuita-estatuto/Padre
-               ls$nascimento/Lisboa#ou Viana @wikidata:Q597 ou @wikidata:Q1741/1527#ou 1530
+               ls$nascimento/Lisboa#ou Viana @wikidata:Q597 ou wikidata:Q1741/1527#ou 1530
                ls$jesuita-entrada/Japão# @wikidata:Q17/1562
                ls$jesuita-ordenacao-padre/?/1580
                ls$estadia/Omura# @wikidata:Q385591/15900600
@@ -399,11 +399,11 @@ kleio$gacto2.str/translations=201
             ls$embarque/?/1713
             ls$wicky/1564/1713
             ls$wicky-viagem/136/1713
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1717
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1717
             ls$estadia/Cantão# @wikidata:Q16572/1722
             ls$profissao/Médico/1724
             ls$cargo/Médico da corte do rei da Cochinchina/1724
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1724
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1724
             ls$jesuita-votos/4V/17010508
             ls$jesuita-votos-local/Quito, Equador# @wikidata:Q2900/17010508
             ls$morte/Cambodja# @wikidata:Q424/1726#17260217
@@ -764,7 +764,7 @@ kleio$gacto2.str/translations=201
             ls$embarque/?/1741
             ls$wicky/1889/1741
             ls$wicky-viagem/160/1741
-            ls$chegada/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1741
+            ls$chegada/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1741
             ls$estadia/China# @wikidata:Q148/1742
             ls$estadia/Kiangnan#@wikidata:Q11133842/1742
             ls$estadia/Kiangnan#@wikidata:Q11133842/1751
@@ -1073,7 +1073,7 @@ kleio$gacto2.str/translations=201
             ls$wicky/1842/1737
             ls$wicky-viagem/156/1737
             ls$estadia/Tonquim#@wikidata:Q622778/1739
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1739
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1739
             ls$cargo/Matemático do rei da Cochinchina/1739
             ls$jesuita-votos/4V/17410528
             ls$jesuita-votos-local/Sinhoua, Hué# @wikidata:Q36167 @issue:59/17410528
@@ -1483,7 +1483,7 @@ kleio$gacto2.str/translations=201
 
             referido$Domingos de Brito/id=deh-marcos-silveiro-ref1/obs=Dehergne 116
                ls$jesuita-cargo/Provincial do Japão/1729#antes de
-               ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1729
+               ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1729
 
          n$António Simões/id=deh-antonio-simoes-i
             ls$nacionalidade/Portugal
@@ -1639,7 +1639,7 @@ kleio$gacto2.str/translations=201
 
             referido$Pires/id=deh-jose-simoes-ref1/obs=nenhuma das entradas de Pires bate com estas datas?
                ls$jesuita-cargo/Provincial/1724
-               ls$partida/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1724
+               ls$partida/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1724
 
             pai$Sebastião Simões de Carvalho/id=deh-jose-simoes-pai
 
@@ -1761,7 +1761,7 @@ kleio$gacto2.str/translations=201
             ls$estadia/Goa (colégio de S. Paulo)# @wikidata:Q1171/1740
             ls$tarefa/Estuda Teologia Moral/1740
             ls$profissao/Médico/17470300
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/17470300
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17470300
             ls$jesuita-ordenacao-padre/?#Goa? @wikidata:Q1171/1741#cerca de
             ls$morte/Hué, Cochinchina# @wikidata:Q36167/17470607
             ls$dehergne/792/obs=Slamenski, Karl (bohém.) P. 792 N. « Bohemus », v. 1708. Chirurgien-major dans les armées de l'empereur d'Autriche., E. v. 1736, Goa (Goa 26, 240v). Médecin à la cour de Cochinchine, de mars 1747 à sa mort. P. v. 1741 (en 1740 au collège St Paul, Goa, en théologie morale, Goa 27, 166v). M. 7 juin 1747, en Cochinchine (WB V n° 714 p. 90), à Hué. HS 53, 64 le dit de la vice-province de Chine (à tort, semble-t-il). HUONDER, 183.
@@ -2121,7 +2121,7 @@ kleio$gacto2.str/translations=201
             ls$estadia/China# @wikidata:Q148/1726
             ls$jesuita-votos/4V/17330118
             ls$jesuita-votos-local/Macau# @wikidata:Q14773/17330118
-            ls$morte/Cochinchina#mas marcado da vice-província da China @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/17330913
+            ls$morte/Cochinchina#mas marcado da vice-província da China @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17330913
             ls$dehergne/808/obs=Sousa, José de (port.) P. 808 Lin (M 443, 677)., B. Evora Cod. CXVI-2-6 n* 4). N. Murcia, d. de Braga 1696 -E. 26 févr. 1712 (Lus. 47, 192). Arr. en Chine en 1726 (M 443, 677). V. Macao, 18 janv. 1733, pr. (Lus. 15, 146). M. 13 sept. 1733 en Cochinchine, mais marqué de la vice-province de Chine (HS 52, 144., 53a, 6).
 
          n$Manuel de Sousa/id=deh-manuel-de-sousa
@@ -2293,7 +2293,7 @@ kleio$gacto2.str/translations=201
             ls$jesuita-votos-local/Sulmona# @wikidata:Q50157/16890815
             ls$jesuita-votos/4V/16900815
             ls$jesuita-votos-local/Roma# @wikidata:Q220/16900815
-            ls$morte/Cochinchina#a caminho de Macau @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16940707#ou 16940628/obs=a data e o local são controversos
+            ls$morte/Cochinchina#a caminho de Macau @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/16940707#ou 16940628/obs=a data e o local são controversos
             rel$institucional/Delega poderes/Manuel de Sá/deh-francesco-maria-spinola-ref4/data=16940707#cerca de
             rel$institucional/Envia para a China/Carlo Emanuel Scotti/deh-francesco-maria-spinola-ref5/obs=Il demande à la Propagande l'autorisation d'emmener en Chine le P. Carlo Emanuel Scotti, cistercien, à cause de sa science en mathématiques
             ls$dehergne/814/obs=Spinola (Spinula), Francesco Maria (ital.) P. 814 N. Gênes, 5 avril 1654 -E. 1 juin 1673, Gênes (Med. 55, 181v). Il écrit de Paris le 16 nov. 1686 (JS 163, 345), de Lisbonne le 20 avril 1688, de Madrid et de Lisbonne en 1689, appelé par la Propagande (SOCP 1688, 265, 285): pouvoirs de préfet apostolique (SF VI 133 etc., SOCP 1690, 220)., il porte une lettre du Pape à K'ang Hi (SF VI 134, 142, 164)., proposé par Pierre II de Portugal comme coadjuteur des évêchés de Nankin et Pékin (SF VI 133, 759)., il porte des lettres aux vicaires apostoliques (SF VI 140), les Portugais diront qu'il vient avec une bulle de révocation des vicaires apostoliques (SF V 316). Emb. 1692 pour la Chine (JS 134, 378., W 1308) voyage (JS 127, 41-50)., Mgr Lo le nomme provicaire de l'évêché de Nankin 7 juillet 1694 cf rbs 308), mais Spinola meurt le jour même (Krahl, 105). Ses pouvoirs (JS 128, 66-69: Espinula). P.., préfet apostolique, mais non évêque, de Nankin (Pf. 309, 1090).

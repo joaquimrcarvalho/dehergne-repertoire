@@ -880,7 +880,7 @@ kleio$gacto2.str/translations=200
             ls$chegada/Lorient# @wikidata:Q71724/17750627#forçado a regressar a França
             ls$jesuita-ordenacao-padre/?/1735#cerca de
             ls$jesuita-votos/4V/17410319
-            ls$jesuita-votos-local/San kiao hou kia# @wikidata:Q14583988 @issue:55, perto de Juichow (Jouei-tcheou) (pinyin Ruizhou 瑞州府 @wikidata:Q15449420), Kiangsi/17410319
+            ls$jesuita-votos-local/San kiao hou kia# @wikidata:Q14583988 @issue:55, perto de Juichow (Jouei-tcheou) (pinyin Ruizhou 瑞州府 wikidata:Q15449420), Kiangsi/17410319
             ls$morte/Nantes (rue St. André)# @wikidata:Q12191/17810125
             ls$dehergne/459/obs="""
                Le Febure (Lefèvre., Le Febvre), Louis-Joseph (franç.) P. 459
@@ -1184,11 +1184,11 @@ kleio$gacto2.str/translations=200
             ls$wicky/1599/17160314
             ls$wicky-viagem/139/17160314
             ls$chegada/Macau# @wikidata:Q14773/17160831
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1720
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1720
             ls$profissao/Astrónomo
             ls$cargo/Astrónomo da Corte da Cochinchina
             ls$jesuita-votos/4V/17221004
-            ls$jesuita-votos-local/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/17221004
+            ls$jesuita-votos-local/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17221004
             ls$dehergne/472/obs=Lima, Francisco de (port.) P. 472 N. 4 oct. 1688, Braga -E. 26 déc. 1704 (Lus. 47, 125v). Emb. sur le S. Ana, direct pour Macao, 14 mars 1716 (W 1599), destiné à la Chine., arr. Macao 31 août 1716., missionnaire en Cochinchine, 1720., astronome à la Cour de Cochinchine. V. « Sinoae », Cochinchine, 4 oct. 1722, pr. (Lus. 14, 198). Pf. 643.
 
          n$José de Lima/id=deh-jose-de-lima/obs=um dos referidos é capaz de ser ele
@@ -1228,7 +1228,7 @@ kleio$gacto2.str/translations=200
 
             referido$José de Lima/id=deh-jose-de-lima-ref3/obs=pode ser qualquer um dos anteriores»
                ls$estadia/China# @wikidata:Q148
-               ls$estadia/Itália#@wikidata:Q38/1767#? como antigo missionário da China @wikidata:Q38
+               ls$estadia/Itália#@wikidata:Q38/1767#? como antigo missionário da China wikidata:Q38
                ls$profissao/Astrónomo
                ls$jesuita-tarefa/Pede para Regressar à Companhia/1767#?
                ls$dehergne/473-ref3/obs=L'un de ces deux était (en 1767?) en Italie, ancien missionnaire de Chine (Lus. 49, 106v). Il redemande la Chine en tant qu'astronome (Krahl, 132).
@@ -1525,7 +1525,7 @@ kleio$gacto2.str/translations=200
             ls$wicky/1586/17140412
             ls$wicky-viagem/137/17140412
             rel$sociabilidade/Companheiro/Giuseppe Castiglione/deh-estevao-lopes/data=17140412
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1721
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1721
             ls$jesuita-cargo/Provincial do Japão/1746
             ls$jesuita-cargo/Provincial do Japão/1749
             ls$jesuita-cargo/Procurador em Roma/>1550
@@ -1533,7 +1533,7 @@ kleio$gacto2.str/translations=200
             ls$chegada/Lorient# @wikidata:Q71724/17510114
             ls$estadia/Portugal# @wikidata:Q45/17590124/obs=não sai de lá, impedido pela doença, é feito prisioneiro
             ls$jesuita-votos/4V/17260616
-            ls$jesuita-votos-local/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/17260616
+            ls$jesuita-votos-local/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17260616
             ls$morte/Lisboa (Forte de S. Julião)# @wikidata:Q597/17661215
             ls$dehergne/487/obs="""
             Lopes, Estêvâo (port.) P. 487.
@@ -1764,7 +1764,7 @@ kleio$gacto2.str/translations=200
             ls$estadia/Goa# @wikidata:Q1171/1738
             ls$estadia/Macau# @wikidata:Q14773/1738
             ls$estadia/Macau# @wikidata:Q14773/1742
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1742
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1742
             ls$cargo/Matemático real/1752
             ls$estadia/Hué# @wikidata:Q36167/1752
             ls$cargo/Matemático real/1777
@@ -1921,7 +1921,7 @@ kleio$gacto2.str/translations=200
             ls$jesuita-tarefa/Carta Ânua do Japão de 1619/16200900#segundo Lourenço & Pinto, p.32
             ls$estadia/Macau# @wikidata:Q14773/16201100#segundo Lourenço & Pinto, p.32
             ls$jesuita-tarefa/Carta Ânua da Cochinchina de 1620/16201100#segundo Lourenço & Pinto, p.32
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1632
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1632
             ls$estadia/Macau# @wikidata:Q14773/1638# segundo Lourenço & Pinto, p.34
             ls$jesuita-cargo/Reitor do Colégio de Macau/1638#segundo Lourenço & Pinto, p.34
             ls$jesuita-cargo/Vice-provincial do Japão/1638

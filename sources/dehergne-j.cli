@@ -36,7 +36,7 @@ kleio$gacto2.str/translations=77
             referido$Claude Jacquemin Junior/id=deh-claude-jacquemin-ref1
                ls$nacionalidade/França
                ls$jesuita-estatuto/Padre
-               ls$nascimento/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou @wikidata:Q1368088 (Verdun, Ariège)/16840613
+               ls$nascimento/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou wikidata:Q1368088 (Verdun, Ariège)/16840613
                ls$jesuita-entrada/?/16990927
                ls$jesuita-ordenacao-padre/Trier%Trèves# @wikidata:Q3138/17001031
                ls$morte/?/17170000
@@ -45,7 +45,7 @@ kleio$gacto2.str/translations=77
             referido$Louis Jacquemin/id=deh-louis-jacquemin-ref2
                ls$nacionalidade/França
                ls$jesuita-estatuto/Padre
-               ls$nascimento/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou @wikidata:Q1368088 (Verdun, Ariège)/16801008
+               ls$nascimento/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou wikidata:Q1368088 (Verdun, Ariège)/16801008
                ls$jesuita-entrada/?/16950927
                ls$grau-academico/Mestre em Artes
                ls$dehergne/417-ref2/obs=sans parler du P. Louis Jacquemin, lui aussi N. à Verdun, 8 oct. 1680, E. 27 sept. 1695, M.A.

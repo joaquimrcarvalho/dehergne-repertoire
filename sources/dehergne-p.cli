@@ -237,7 +237,7 @@ kleio$gacto2.str/translations=209
             ls$estadia/Kiating#@wikidata:Q662101/16270000
             ls$jesuita-tarefa/Preside a conferência de Kiating e mostra-se adversário do emprego de T'ien e Chang-ti para designar Deus/16270000
             ls$estadia/Pequim# @wikidata:Q956/16280000
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16310000
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/16310000
             ls$morte/Macau# @wikidata:Q14773/16350404
             ls$dehergne/606/obs="""
             Palmeiro (Palmeyro), André (port.) P. 606
@@ -349,7 +349,7 @@ kleio$gacto2.str/translations=209
             ls$nacionalidade/Itália
             ls$jesuita-estatuto/Padre
             ls$nome/Giovanni Gregorio Parigi
-            ls$nascimento/Reggio#Reggio Emilia ou Reggio Calabria @wikidata:Q13360 ou @wikidata:Q8471/16250000
+            ls$nascimento/Reggio#Reggio Emilia ou Reggio Calabria @wikidata:Q13360 ou wikidata:Q8471/16250000
             ls$jesuita-entrada/Nápoles# @wikidata:Q2634/16401115
             ls$embarque/Bom Jesus da Vidigueira/16570404
             ls$wicky/1038/16570404
@@ -1737,7 +1737,7 @@ kleio$gacto2.str/translations=209
             ls$wicky-viagem/87/16550323
             ls$chegada/Goa# @wikidata:Q1171/16550821
             ls$estadia/Macau# @wikidata:Q14773/16560705
-            ls$estadia/Cochinchina#naufrágio @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16580302
+            ls$estadia/Cochinchina#naufrágio @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/16580302
             ls$estadia/Macau# @wikidata:Q14773/16580800#ferido na ocupação pelos tártaros
             ls$estadia/Hanoi# @wikidata:Q1858/16590300
             ls$estadia/Macau (colégio)# @wikidata:Q14773/16640000

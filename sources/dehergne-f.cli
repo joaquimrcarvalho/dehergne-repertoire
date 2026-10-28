@@ -269,7 +269,7 @@ kleio$gacto2.str/translations=213
          n$Amador Fernandes/id=deh-amador-fernandes
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Frade Coadjutor
-            ls$nascimento/Miranda#do Douro ou do Corvo? @wikidata:Q373475 ou @wikidata:Q370187/1631
+            ls$nascimento/Miranda#do Douro ou do Corvo? @wikidata:Q373475 ou wikidata:Q370187/1631
             ls$jesuita-entrada/?/1651
             ls$embarque/Bom Jesus da Vidigueira#segundo Wicky/16570404
             ls$wicky/1046/16570404
@@ -746,7 +746,7 @@ kleio$gacto2.str/translations=213
             ls$wicky/1918/1746
             ls$wicky-viagem/165/1746
             ls$jesuita-cargo/Superior da missão do Japão/1746
-            ls$estadia/Cochinchina# @wikidata:Q505503 [centrada na atual Da Nang @Wikidata:Q25282]
+            ls$estadia/Cochinchina# @wikidata:Q505503 [centrada na atual Da Nang wikidata:Q25282]
             ls$estadia/Tonquim%Tonkin# @wikidata:Q622778/1751
             ls$profissao/Matemático/1751
             ls$jesuita-cargo/Superior da missão de Tonquim/1753
@@ -1513,7 +1513,7 @@ kleio$gacto2.str/translations=213
             ls$estadia/Goa#dois anos @wikidata:Q1171
             ls$estadia/China# @wikidata:Q148/1671
             ls$cargo/Vigário de vara/1689
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1689
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1689
             ls$jesuita-tarefa/Sai da Companhia/1689
             ls$jesuita-ordenacao-padre/?/1666#depois de
             ls$morte/?/1689#depois de
@@ -1590,7 +1590,7 @@ kleio$gacto2.str/translations=213
          n$André-Nicolas Forgeot/id=deh-andre-nicolas-forgeot
             ls$nacionalidade/França
             ls$jesuita-estatuto/Padre
-            ls$nascimento/Borgonha#? @wikidata:Q1173 Vézelay? @wikidata:Q204979/17160209
+            ls$nascimento/Borgonha#? @wikidata:Q1173 Vézelay? wikidata:Q204979/17160209
             ls$jesuita-entrada/?/17330914
             ls$estadia/Lisboa# @wikidata:Q597/1746
             ls$embarque/?/1746
@@ -1828,7 +1828,7 @@ kleio$gacto2.str/translations=213
             ls$chegada/?/17010909
             ls$estadia/Cantão# @wikidata:Q16572/17011218#até
             ls$partida/Nanchang (Nan-tch'ang fou), Kiangsi#@wikidata:Q171943/17011218
-            ls$estadia/Kanchow (Kan-tcheou fou)# @wikidata:Q363166/1703#@wikidata:Q363166 passa da missão francesa à vice-província portuguesa
+            ls$estadia/Kanchow (Kan-tcheou fou)# @wikidata:Q363166/1703#wikidata:Q363166 passa da missão francesa à vice-província portuguesa
             ls$estadia/Tsinan fou, Shantung#@wikidata:Q170247/1705
             ls$estadia/Tsinan fou, Shantung#@wikidata:Q170247/1713
             ls$jesuita-votos/4V/17150616
@@ -1986,7 +1986,7 @@ kleio$gacto2.str/translations=213
             ls$wicky/1597/17160314
             ls$wicky-viagem/139/17160314
             ls$chegada/Macau# @wikidata:Q14773/17160831
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1720
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1720
             ls$jesuita-cargo/Superior da missão da Cochinchina/1731
             ls$jesuita-cargo/Visitador da missão da Cochinchina/1731
             ls$jesuita-votos/?/17020202
@@ -2080,9 +2080,9 @@ kleio$gacto2.str/translations=213
             ls$chegada/Índia# @wikidata:Q668/16550800
             ls$estadia/Goa# @wikidata:Q1171/1656
             ls$estadia/Macau# @wikidata:Q14773/1656
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1658
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1658
             ls$estadia/Macau (colégio)# @wikidata:Q14773/1665
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1668
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1668
             ls$cargo/Vigário-geral da diocese de Malaca/1668
             ls$estadia/Tonquim#@wikidata:Q622778/1669
             ls$estadia/Tonquim#@wikidata:Q622778/1679#cativo pela fé

@@ -154,7 +154,7 @@ kleio$gacto2.str/translations=191
          n$Luís da Gama/id=deh-luis-da-gama
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
-            ls$nascimento/Lavre, diocese de Évora%Laure#ou Montemor-o-Novo @wikidata:Q1997904 ou @wikidata:Q538407/1610
+            ls$nascimento/Lavre, diocese de Évora%Laure#ou Montemor-o-Novo @wikidata:Q1997904 ou wikidata:Q538407/1610
             ls$jesuita-entrada/?/1625
             ls$embarque/?/16300418#não padre
             ls$wicky/789/16300418
@@ -184,7 +184,7 @@ kleio$gacto2.str/translations=191
             ls$nome/Didachus Garcos
             ls$nome/Didachus Graces
             ls$nome/Didachus Garcas
-            ls$nascimento/Irlanda# a república da Irlanda @wikidata:Q27 ou a Irlanda do Norte @wikidata:Q26/1644
+            ls$nascimento/Irlanda# a república da Irlanda @wikidata:Q27 ou a Irlanda do Norte wikidata:Q26/1644
             ls$jesuita-entrada/?/1664
             ls$embarque/?/16730315#já padre
             ls$wicky/1149/16730315
@@ -480,7 +480,7 @@ kleio$gacto2.str/translations=191
             referido$Nome Desconhecido/id=deh-jean-francois-gerbillon-tio
                ls$profissao/Advogado
                ls$cargo/Advogado no parlamento de Verdun
-               ls$residencia/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou @wikidata:Q1368088 (Verdun, Ariège)
+               ls$residencia/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou wikidata:Q1368088 (Verdun, Ariège)
 
          n$Niccolò Gianpriamo/id=deh-niccolo-gianpriamo
             ls$nacionalidade/Itália
@@ -488,7 +488,7 @@ kleio$gacto2.str/translations=191
             ls$nome/Niccolò Giampriami
             ls$nome-chines/Ni Tien-Tsio
             ls$nome-chines/Hi Ni-ko Ta-Kio
-            ls$nascimento/Aversa, Itália#ou Atella @wikidata:Q19279 ou @wikidata:Q52516/16861022
+            ls$nascimento/Aversa, Itália#ou Atella @wikidata:Q19279 ou wikidata:Q52516/16861022
             ls$jesuita-entrada/?/17020721
             ls$embarque/?/17140412
             ls$wicky/1575/17140412
@@ -597,7 +597,7 @@ kleio$gacto2.str/translations=191
             ls$embarque/[Para a China]/1737
             ls$wicky/1840/1737
             ls$wicky-viagem/156/1737
-            ls$chegada/China#? ou Índia? @wikidata:Q148 ou @wikidata:Q668/17380805
+            ls$chegada/China#? ou Índia? @wikidata:Q148 ou wikidata:Q668/17380805
             ls$estadia/Pequim# @wikidata:Q956/17390301
             ls$profissao/Matemático/17390301
             ls$tarefa/Inventa um quadrante simplificado
@@ -1213,7 +1213,7 @@ kleio$gacto2.str/translations=191
             ls$jesuita-cargo/Visitador do Japão e da China/17140900
             ls$jesuita-cargo/Reitor do colégio de Pequim
             ls$estadia/Kaifeng# @wikidata:Q208471/1722
-            ls$estadia/Kanchow do Kiangsi# @wikidata:Q363166/1724#@wikidata:Q363166 exilado para o Cantão, esconde-se aqui algum tempo
+            ls$estadia/Kanchow do Kiangsi# @wikidata:Q363166/1724#wikidata:Q363166 exilado para o Cantão, esconde-se aqui algum tempo
             ls$estadia/Cantão# @wikidata:Q16572/1725#exilado
             ls$jesuita-cargo/Vice-provincial do Japão#o provincial estando no Tonquim/1725
             ls$estadia/Cantão# @wikidata:Q16572/1725
@@ -1243,8 +1243,8 @@ kleio$gacto2.str/translations=191
             ls$embarque/?/1739
             ls$wicky/1882/1739
             ls$wicky-viagem/158/1739
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1743
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/1750#na perseguição
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1743
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/1750#na perseguição
             ls$jesuita-cargo/Socius do provincial do Japão/1751
             ls$estadia/Macau# @wikidata:Q14773/1760
             ls$estadia/Macau# @wikidata:Q14773/17620705#prisioneiro

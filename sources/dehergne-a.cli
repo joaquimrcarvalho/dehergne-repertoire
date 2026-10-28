@@ -252,7 +252,7 @@ kleio$gacto2.str/translations=259
             ls$wicky/658/16180416
             ls$wicky-viagem/57/16180400#meados do mês, 16180416 segundo Dehergne
             ls$jesuita-votos/4V/16150705
-            ls$jesuita-votos-local/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou @wikidata:Q1368088 (Verdun, Ariège)/16150705
+            ls$jesuita-votos-local/Verdun# @wikidata:Q154748 (Verdun, Meuse) ou wikidata:Q1368088 (Verdun, Ariège)/16150705
             ls$morte/[No mar, a caminho da China]/16180000
             ls$dehergne/11/obs=Alberich, Johann (allem.) P. 11 Albertcus., Pf.: Albéric. N. mai 1586, Dorenbüren -E. 5 nov. 1605 (G. Sup. 21, 6). Emb. 16 avril 1618 pour la Chine (W 658). V. 5 juill. 1615 «Virduni», Verdun, pr. (Gai. 3, 11). M. en mer, 1618. Pf. 114.
 
@@ -724,7 +724,7 @@ kleio$gacto2.str/translations=259
          n$Domingos Álvares/id=deh-domingos-alvares
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
-            ls$nascimento/Lanhoso, diocese de Braga%deve ser Póvoa do Lanhoso @wikidata:Q551689, mas também há a freguesia do Lanhoso @wikidata:Q1805492, a qual se referirá?/16510000
+            ls$nascimento/Lanhoso, diocese de Braga%deve ser Póvoa do Lanhoso @wikidata:Q551689, mas também há a freguesia do Lanhoso wikidata:Q1805492, a qual se referirá?/16510000
             ls$jesuita-entrada/Lisboa# @wikidata:Q597/16710000
             ls$embarque/Sto. António/16800404
             ls$wicky/1193/16800404
@@ -1059,10 +1059,10 @@ kleio$gacto2.str/translations=259
             ls$chegada/?/17731100#destinado a Pequim, viagem recusada
             ls$profissao/Pintor
             ls$estadia/Tonquim# @wikidata:Q622778/>1773-11:<1783-05-12#inferred by ZCode
-            ls$estadia/Cochinchina#entra disfarçado de mercador @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/>1773-11:<1783-05-12#inferred by ZCode
+            ls$estadia/Cochinchina#entra disfarçado de mercador @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/>1773-11:<1783-05-12#inferred by ZCode
             ls$estadia/Cambodja#entra disfarçado de mercador @wikidata:Q424/>1773-11:<1783-05-12#inferred by ZCode
             ls$jesuita-tarefa/Entra nas missões estrangeiras de Paris#depois da Companhia de Jesus ser suprimida
-            ls$morte/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/17830512
+            ls$morte/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17830512
             ls$dehergne/36/obs=Amoretti, Paolo-Agostino (ital.) P. 36 N. « Romulo in Liguria », San Remo, 25 sept. 1739 -E. 26 nov. 1758 (Rom. 75, 203). Arr. nov. 1773, destiné à Pékin comme peintre., voyage refusé., dirigé alors sur le Tonkin., impossible., entre alors, déguisé en marchand, en Cochinchine et au Cambodge., la Compagnie de Jésus supprimée, il entre aux Missions Etrangères de Paris. M. 12 mai 1783, en Cochinchine. Pf. 978., ARSI Vitae 95, 234-236v.
 
          n$Beat Amrhyn/id=deh-beat-amrhyn
@@ -1288,10 +1288,10 @@ kleio$gacto2.str/translations=259
             ls$wicky-viagem/107/16840000#16840401 segundo Dehergne
             ls$estadia/Cantão# @wikidata:Q16572/16871001
             ls$estadia/Kanchow, Kiangxi#@wikidata:Q363166/16880600
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16950000#embaixada
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/16950000#embaixada
             ls$estadia/Tonquim#@wikidata:Q622778/16990000
             ls$cargo/Matemático do rei/17000000#por isso não foi preso nessa data
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/17050000
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17050000
             ls$partida/Macau# @wikidata:Q14773/17120000
             ls$estadia/Macau# @wikidata:Q14773/17120827
             ls$estadia/Portugal# @wikidata:Q45/>1712-08-27:<1715-03-31#inferred by ZCode

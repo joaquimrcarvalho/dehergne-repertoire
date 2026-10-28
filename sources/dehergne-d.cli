@@ -151,7 +151,7 @@ kleio$gacto2.str/translations=139
             ls$embarque/?/16430330
             ls$wicky/906/16430330
             ls$wicky-viagem/77/16430330
-            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang @Wikidata:Q25282]/16460000
+            ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/16460000
             ls$estadia/Tonquim#@wikidata:Q622778/16470000
             ls$estadia/Tonquim#@wikidata:Q622778/16580000#exilado
             ls$estadia/Hainan# @wikidata:Q42200
@@ -417,7 +417,7 @@ kleio$gacto2.str/translations=139
             ls$profissao/Astrónomo/16070000
             ls$profissao/Engenheiro hidráulico/16070000
             ls$estadia/Pequim# @wikidata:Q956/16170318#expulso
-            ls$partida/Cantão#e Macau @wikidata:Q16572 e @wikidata:Q14773/16170318#depois de
+            ls$partida/Cantão#e Macau @wikidata:Q16572 e wikidata:Q14773/16170318#depois de
             ls$estadia/Macau# @wikidata:Q14773
             rel$sociabilidade/Companheiro/Diego Pantoja/deh-sabatino-de-ursis-ref1/data=16170318
             ls$tarefa/Introduz na China a farmácia europeia e a destilação de essências
@@ -432,7 +432,7 @@ kleio$gacto2.str/translations=139
 
             referido$Diego Pantoja/id=deh-sabatino-de-ursis-ref2/obs=Dehergne 607
                ls$estadia/Pequim# @wikidata:Q956/16170318#até, expulso
-               ls$partida/Cantão#e Macau @wikidata:Q16572 e @wikidata:Q14773/16170318#depois de
+               ls$partida/Cantão#e Macau @wikidata:Q16572 e wikidata:Q14773/16170318#depois de
                ls$estadia/Macau# @wikidata:Q14773
 
          n$Antonio Díaz/id=deh-antonio-diaz
@@ -678,7 +678,7 @@ kleio$gacto2.str/translations=139
             ls$jesuita-ordenacao-padre/?/16500000#cerca de
             ls$jesuita-votos/4V/16570715
             ls$jesuita-votos-local/Damaon, Gujarat# @wikidata:Q1158197/16570715
-            ls$morte/Tsinan fou# @wikidata:Q170247/16600917#@wikidata:Q170247 ou 13
+            ls$morte/Tsinan fou# @wikidata:Q170247/16600917#wikidata:Q170247 ou 13
             ls$dehergne/257/obs=Diestel, Bernhard (allem.) P. 257 Ditel (M 443, 671)., Bernardo De Estel (JS 134, 344)., Diester., Dlestlch Sou Na Tô-Yé (Pf.). N. 13 juill. 1623, à Wippach, Carniole (Austr. 27, 258). E. 22 oct. 1639. Part de Rome en 1656 avec le P. Grueber (JS 124, 230)., Arr. Chine, 1659., Pékin, où mandarin (RBS 426)., puis Shantung (Chan-tong# @wikidata:Q43407). — P. v. 1650. V. Damaôn (dans le Goudjerate), 15 juill. 1657, pr. (Lus. 7, 229 et Germ. 16, 9). M. 17 sept. 1660 (selon Gabiani), à Tsinan fou., Streit V, p. 968 et Huonder disent le 13 sept. 1660, d'après le catal. chinois. HS 48, 20 écrit à tort: P. Bernardus Diestich Xantumi (= Shantung), 13 sept. 1660! et, à la page suivante: P. Bernardus Diester in Sinis, 7 jan. 1661. Pf. 313., Zimmel, Bruno, in: Festschrift fur Joseph Stummvoll Vienne, 1968., cf. ZMR 53 (1969), 1-13., ARSI FG. 722 n« 10., RBS 426.
 
             referido$Johann Grueber/id=deh-bernhard-diestel-ref1/obs=Dehergne 393
@@ -737,7 +737,7 @@ kleio$gacto2.str/translations=139
             ls$estadia/Kaifeng (K'ai-fong fou) (sinagoga)# @wikidata:Q208471/17180000
             ls$estadia/Cantão# @wikidata:Q16572/17250000#exilado
             ls$estadia/Macau# @wikidata:Q14773/17320000#exilado
-            ls$jesuita-ordenacao-padre/Poitiers#ou Bordeaux @wikidata:Q6616 ou @wikidata:Q1479/16930000#cerca de
+            ls$jesuita-ordenacao-padre/Poitiers#ou Bordeaux @wikidata:Q6616 ou wikidata:Q1479/16930000#cerca de
             ls$jesuita-votos/4V/16990815
             ls$jesuita-votos-local/Cantão (porto, navio Amphitrite)# @wikidata:Q16572/16990815
             ls$morte/Macau (colégio)# @wikidata:Q14773/17351209
