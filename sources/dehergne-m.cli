@@ -90,7 +90,7 @@ kleio$gacto2.str/translations=249
             ls$estadia/Timor# @wikidata:Q83067
             ls$estadia/Macau# @wikidata:Q14773
             ls$jesuita-cargo/Reitor do seminário de Macau#um ano/16590000#antes de
-            ls$estadia/Zumbae, Tchamp-pa#?/16590000
+            ls$estadia/Sumba%Zumbae au Tcham-pa#@wikidata:Q206368 "Sumba in the Lesser Sunda Islands (East Nusa Tenggara, Indonesia)" @issue:69/16590000
             ls$estadia/Kanchow (Kan-tcheou) fou, Kiangsi#@wikidata:Q363166/16641223
             ls$estadia/Hukwang#@wikidata:Q2235155
             ls$estadia/Cantão# @wikidata:Q16572/16660325
@@ -2087,7 +2087,7 @@ kleio$gacto2.str/translations=249
             ls$estadia/Rússia Branca#hoje Bielorússia @wikidata:Q184/17860000#junta-se aos outros jesuítas
             ls$jesuita-votos/?/17870815
             ls$jesuita-votos-local/Rússia Branca#Vitebsk? @wikidata:Q184/17870815
-            ls$morte/Tonkosz#missão russo-alemã de Saratov ILOC/18050124
+            ls$morte/Tonkosz%Tonkosz (mission russo-allemande de Saratov)# @wikidata:Q958741 (Mariental, hoje Sovetskoje), Saratov @issue:64/18050124
             ls$dehergne/570/obs="""
                Moriz (Moritz), Aloys (tyrol.) P. 570
                N. Landeck, Tyrol, 8 avril 1738
