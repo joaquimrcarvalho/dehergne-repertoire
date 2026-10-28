@@ -1,5 +1,6 @@
 kleio$gacto2.str/translations=97
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-58
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-k/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra K
 
       lista$dehergne-notices-k/0/0/0
@@ -244,7 +245,7 @@ kleio$gacto2.str/translations=97
             ls$nacionalidade/China
             ls$jesuita-estatuto/Padre
             ls$nome-chines/Kia K'o-Hing Hong-Yé
-            ls$nascimento/Shaohing (Chao-hing fou, Tchö-kiang)/16860501
+            ls$nascimento/Shaohing (Chao-hing fou, Tchö-kiang)# @wikidata:Q42666 @issue:56/16860501
             ls$jesuita-entrada/Pequim# @wikidata:Q956/17330814
             ls$estadia/Kiangnan#@wikidata:Q11133842
             ls$jesuita-ordenacao-padre/?/17380706

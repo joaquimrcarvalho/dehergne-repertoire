@@ -930,7 +930,7 @@ kleio$gacto2.str/translations=138
             ls$chegada/?/17000422
             ls$estadia/Hunan# @wikidata:Q45761/17030000
             ls$estadia/Siangtan, Hunan# @wikidata:Q215755/17040000
-            ls$jesuita-votos-local/Sian tan hien/17060815
+            ls$jesuita-votos-local/Sian tan hien# @wikidata:Q215755 @issue:57/17060815
             ls$estadia/Hukwang#@wikidata:Q2235155/17250000
             ls$jesuita-cargo/Vice-provincial da China/17280000
             ls$jesuita-cargo/Vice-provincial da China/17290000

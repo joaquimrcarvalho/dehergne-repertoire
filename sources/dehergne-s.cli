@@ -1,5 +1,6 @@
 kleio$gacto2.str/translations=200
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-123
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
 
     A versão online está desfasada 37 para a frente, ou seja para referir
@@ -432,7 +433,7 @@ kleio$gacto2.str/translations=200
             ls$estadia/Soochow# @wikidata:Q42622/1746
             ls$jesuita-ordenacao-padre/?/1739
             ls$jesuita-votos/Coadjutor Espiritual/17440607
-            ls$jesuita-votos-local/Leou-kia-tchouang do Chou-lou hien#perto de Paoting fou/17440607
+            ls$jesuita-votos-local/Leou-kia-tchouang do Chou-lou hien#perto de Paoting fou @wikidata:Q1015480 @issue:43/17440607
             ls$morte/Pequim#perto de @wikidata:Q956/17661217#ou 16
             ls$dehergne/745/obs=Saraiva Chen (Sarayva), Joseph (chin.) P. 745 Chen Tong-Hing Jo-chô (Pf.., WB n» 587, 92: Chln., M 443, 681: Xin). N. au Song-kiang fou, Kiangnan, 31 oct. 1709 {JS 134, 440v) ou 5 ou 8 déc. 1709 {JS 134, 436, 442v). -E. 31 oct. 1733, Pékin. Arr. 1er mars 1739 mission de Pékin (JS 134, 436, 442v)., en 1746, Soochow (Pf. 709). P. 1739. V. « Xu le leu kia chuom », 7 juin 1744, c. spir.: « Joseph Sarayva » (Lus. 24, 227) -- à Leou-kia-tchouang du Chou-lou hien, près de Paoting fou (AHSI, 22 (1953), 326). M. 17 déc. 1766, près de Pékin (Planchet, p. 157)., le 16 déc. dit HS 53a, 142. Pf. 736.
 
