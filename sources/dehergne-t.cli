@@ -671,7 +671,7 @@ kleio$gacto2.str/translations=127
             ls$wicky-viagem/103/16800404
             ls$chegada/Goa# @wikidata:Q1171/16800926
             ls$partida/Japão# @wikidata:Q17/16801200#começa a tentar chegar ao Japão a partir de dezembro, em vão
-            ls$chegada/Juthia, Sião# @wikidata:Q20337/16810830#continua a tentar chegar ao Japão
+            ls$chegada/Juthia, Sião# @wikidata:Q203370/16810830#continua a tentar chegar ao Japão
             rel$eclesiastica/Recebe abjuração/Constance Phaulkon/deh-antoine-thomas-ref1/data=16820502
             ls$chegada/Macau# @wikidata:Q14773/16820704
             ls$estadia/Macau# @wikidata:Q14773/16850710#até
@@ -786,7 +786,7 @@ kleio$gacto2.str/translations=127
             mae$Marie Derhet/id=deh-antoine-thomas-mae
 
             referido$Constance Phaulkon/id=deh-antoine-thomas-ref1
-               ls$estadia/Juthia, Sião# @wikidata:Q20337/16820502
+               ls$estadia/Juthia, Sião# @wikidata:Q203370/16820502
 
             referido$Claudio Filippo Grimaldi/id=deh-antoine-thomas-ref2
                ls$cargo/Presidente do Tribunal da Matemática de Pequim/16940000#depois de regressar retoma o cargo

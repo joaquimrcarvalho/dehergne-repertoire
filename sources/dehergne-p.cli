@@ -1053,7 +1053,7 @@ kleio$gacto2.str/translations=209
             ls$estadia/Londres# @wikidata:Q84/17050000
             rel$sociabilidade/Companheiro/Jacques de Prémilly/deh-michel-pernet-ref1/data=17050000
             rel$sociabilidade/Companheiro/Gilbert Bordes/deh-michel-pernet-ref2/data=17050000
-            ls$estadia/Batávia# @wikidata:Q850526
+            ls$estadia/Batávia# @wikidata:Q1199713
             ls$estadia/Países Baixos# @wikidata:Q55/17070000#interceptados pelos holandeses no caminho, reenviados para os Países Baixos
             ls$estadia/Paris (colégio de La Flèche)#depois de libertado, 1707, ainda dado que faz votos em Paris no início de 1708? @wikidata:Q90
             ls$jesuita-ordenacao-padre/?/17040000
@@ -1066,14 +1066,14 @@ kleio$gacto2.str/translations=209
                ls$jesuita-estatuto/Padre
                ls$partida/China# @wikidata:Q148/17050000
                ls$estadia/Londres# @wikidata:Q84/17050000
-               ls$estadia/Batávia# @wikidata:Q850526
+               ls$estadia/Batávia# @wikidata:Q1199713
                ls$estadia/Países Baixos# @wikidata:Q55/17070000#interceptados pelos holandeses no caminho, reenviados para os Países Baixos
 
             referido$Gilbert Bordes/id=deh-michel-pernet-ref2/obs=Dehergne 102
                ls$jesuita-estatuto/Padre
                ls$partida/China# @wikidata:Q148/17050000
                ls$estadia/Londres# @wikidata:Q84/17050000
-               ls$estadia/Batávia# @wikidata:Q850526
+               ls$estadia/Batávia# @wikidata:Q1199713
                ls$estadia/Países Baixos# @wikidata:Q55/17070000#interceptados pelos holandeses no caminho, reenviados para os Países Baixos
 
          n$Louis de Pernon/id=deh-louis-de-pernon

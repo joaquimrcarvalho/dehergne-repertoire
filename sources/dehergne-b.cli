@@ -433,7 +433,7 @@ kleio$gacto2.str/translations=240
             ls$jesuita-entrada/?/17370907
             ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17530000#esteve lá noutra data
             ls$jesuita-votos/Coadjutor Espiritual/17480630
-            ls$jesuita-votos-local/Bà Rịa, Cochinchina#Vietname @wikidata:Q881/17480630
+            ls$jesuita-votos-local/Bà Rịa, Cochinchina#Vietname @wikidata:Q36874/17480630
             ls$morte/Cochim# @wikidata:Q1800/17590528
             ls$dehergne/82/obs=Barros, Antonio de (macaïste) (II) P. 82 N. Macao, 14 avril 1717 -E. 7 sept. 1737 (JS 25, 285). A été missionnaire en Cochinchine, où il retourne en 1753 (JS 26, 47v). Nous le citons comme originaire de Macao. V. Bâ-ria en Cochinchine, 30 juin 1748, coadj. spir. (Lus. 24, 240). M. 28 mai 1759, Cochin (HS 53a, 110).
 
@@ -1004,7 +1004,7 @@ kleio$gacto2.str/translations=240
             ls$jesuita-entrada/?/16991107#ou 16991031
             ls$embarque/?/000000/obs=Emb. avec le P. François Drion, franciscain., intercepté par les Hollandais à Batavia et conduit prisonnier en Hollande. Le catal. Toulouse le dit arr. en Chine en 1706., celui de 1707-08 avoue « redux Parisios ex captivitate »., mais les catal. 1708-09 à 1710-11 continuent de le marquer en Chine. En fait, il passe au Mexique, puis revient en France.
             rel$sociabilidade/Companheiro/François Drion/deh-gilbert-bordes-ref1
-            ls$estadia/Batávia#feito prisioneiro @wikidata:Q850526
+            ls$estadia/Batávia#feito prisioneiro @wikidata:Q1199713
             ls$estadia/Holanda#prisioneiro @wikidata:Q55
             ls$estadia/México#? @wikidata:Q96
             ls$jesuita-votos/Coadjutor temporal/17080202
