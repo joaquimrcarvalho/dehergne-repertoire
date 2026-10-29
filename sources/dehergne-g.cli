@@ -6,12 +6,21 @@ kleio$gacto2.str/translations=191
 
       Completado com:
 
-      Espadinha, M. A., Baptista, A. R., & Seabra, L. de. (2005). Missionação e missionários na história de Macau. Universidade de Macau. [MMHM]
+      Espadinha, M. A., Baptista, A. R., & Seabra, L. de. (2005). 
+           Missionação e missionários na história de Macau. 
+           Universidade de Macau. [MMHM]
 
       Gouvea, A. de, & Araújo, H. P. de. (1998).
-      Cartas ânuas da China: (1636, 1643 a 1649).
-      Instituto Português do Oriente ;
-      Biblioteca Nacional;
+         Cartas ânuas da China: (1636, 1643 a 1649).
+         Instituto Português do Oriente;
+         Biblioteca Nacional;
+         
+      Gomes, C. C. (2018). 
+         Writing on Chinese History: António de Gouveia 
+         and The Monarchia da China (1654). 
+         Orientis Aura: Macau Perspectives in Religious Studies, 
+         3, 17–32.
+
 
       """
 
@@ -1090,10 +1099,11 @@ kleio$gacto2.str/translations=191
             ls$nome/Antonio Govea
             ls$nome-chines/Ho Ta-HouaTö-Tch'ouan
             ls$nome-chines/Lo Ta-Hoa
-            ls$nascimento/Casal, diocese de Viseu#ILOC/1592#@wikidata:Q599317 ou Gouveia, diocese de Coimbra em 1594, segundo Lus. 44 II ver Gomes, “Writing on Chinese History: António de Gouveia and The Monarchiada China (1654).”/obs=""" segundo Gouvea, A. de, & Araújo, H. P. de. (1998). Cartas ânuas da China: (1636, 1643 a 1649). Instituto Português do Oriente; Biblioteca Nacional; JRC.
+            ls$nascimento/Gouveia%Casal, diocese de Viseu#@wikidata:Q599317 (de Gouveia, 20 anos em 1614, 6 de Companhia, Lus. 44-II:313, e em 1611 "natural de Gouveia", 18 anos, 3 de Companhia Lus. 44-I:277v), see Gomes, 2018, p.19-20,n.4 /1592
+            /obs=""" segundo Gouvea, A. de, & Araújo, H. P. de. (1998). Cartas ânuas da China: (1636, 1643 a 1649). Instituto Português do Oriente; Biblioteca Nacional; JRC.
             p. 19, Travancinha apud Conimbriam, [sendo que
             Travancinha perto de Gouveia] """
-            ls$jesuita-entrada/Coimbra%?#@wikidata:Q45412 (Franco, 1719, t.II, p. 612)/16080502#ou 16090502 reentrou em 1611 não se sabe onde
+            ls$jesuita-entrada/Lisboa%?#Santo Antão Lus.44-I:239, Lus. 44-I:277v @wikidata:Q597 (Apesar de Franco, 1719, t.II, p. 612 assumir Coimbra, e em Coimbra 1614 em Lus. 44-II:313v )/16080502#ou 1609 reentrou em 1611  (em Coimbra?) Não é claro de onde vêm as datas de entrada em Dehergne
             ls$embarque/[Para a Índia]/16230324
             ls$wicky/686/16230324
             ls$wicky-viagem/61/16230324
@@ -1152,7 +1162,7 @@ kleio$gacto2.str/translations=191
                271-286., AnG 710., Streit V n° 2396."""
             atr$nota/bibliografia/obs="""
             Gomes, Cristina Costa. “Writing on Chinese History:
-               António de Gouveia and The Monarchiada China (1654).” Orientis Aura 3 (2018): 17–32.
+               António de Gouveia and The Monarchia da China (1654).” Orientis Aura 3 (2018): 17–32.
                 [com muito detalhe e investigação de fontes]
  """
 
