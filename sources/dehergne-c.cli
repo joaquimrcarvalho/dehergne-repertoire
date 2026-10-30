@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=292
+kleio$gacto2.str/translations=293
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-194
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-c/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra C
@@ -266,7 +266,7 @@ kleio$gacto2.str/translations=292
             ls$estadia/Chuanchow, Fukien#@wikidata:Q68695/1635#cerca de
             ls$estadia/Chuanchow, Fukien#@wikidata:Q68695/1648#cerca de
             ls$estadia/Kaifeng# @wikidata:Q208471/1648
-            ls$estadia/Changchow# @wikidata:Q68814/1651
+            ls$estadia/Changchow# @wikidata:Q1015805 @issue:87/1651
             ls$estadia/Nanchang, Kigansi#@wikidata:Q171943/>1651:<16650628
             ls$chegada/Pequim# @wikidata:Q956/16650628
             ls$estadia/Cantão#exilado @wikidata:Q16572/>1665:<1671
@@ -1594,7 +1594,7 @@ kleio$gacto2.str/translations=292
             — Sur son rôle aux Indes comme visiteur, Pissurlencar, Panduronga, Assentos do Conselho do Estado, t. IV, Goa, 1956, document 131.
             Portrait: à Parme, résidence des PP. Jésuites."""
 
-            referido$Pedro Zuzarte/id=deh-alessandro-cicero-ref1/obs=Dehergne 918
+            referido$Pedro Zuzarte/id=deh-alessandro-cicero-ref1/xmesmo_que=deh-pedro-zuzarte/obs=Dehergne 918
                rel$institucional/Recebe votos/Alessandro Cicero/deh-alessandro-cicero/data=16720815
                ls$jesuita-estatuto/Padre
                ls$jesuita-cargo/Procurador da província do Japão/16720815

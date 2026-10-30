@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=119
+kleio$gacto2.str/translations=120
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-61
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
 
@@ -496,7 +496,7 @@ kleio$gacto2.str/translations=119
             ls$chegada/Cantão# @wikidata:Q16572/16891209
             ls$estadia/Wychang (Wou-tch'ang fou)# @wikidata:Q1014420/16910600
             ls$estadia/Wychang (Wou-tch'ang fou)# @wikidata:Q1014420/1700
-            ls$estadia/Tch'ang-chou, Kiangnan# @wikidata:Q113497198/1700
+            ls$estadia/Tch'ang-chou, Kiangnan# @wikidata:Q1015805 @issue:87/1700
             ls$jesuita-cargo/Visitador do Japão e da China/17240908
             ls$jesuita-cargo/Visitador do Japão e da China/17250908#resigna porque doente
             ls$jesuita-ordenacao-padre/?/16820523
