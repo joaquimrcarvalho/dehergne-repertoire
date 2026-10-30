@@ -1,4 +1,6 @@
-kleio$gacto2.str/translations=210
+kleio$gacto2.str/translations=211
+
+   property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-126
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-p/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs= """
@@ -1898,8 +1900,8 @@ kleio$gacto2.str/translations=210
             ls$chegada/Shangchuan%Sancien# @wikidata:Q1397551/16981006
             ls$estadia/Macau# @wikidata:Q14773/16981024
             ls$estadia/Cantão# @wikidata:Q16572/16981106#noite de 6 para 7
-            ls$estadia/Jaochow (Jao-tcheou), Kiangsi# @wikidata:Q1356313/16990000
-            ls$estadia/Kienchang (Kien-tchang)# @wikidata:Q11065388/17000000
+            ls$estadia/Jaochow (Jao-tcheou), Kiangsi# @wikidata:Q1356313/1699
+            ls$estadia/Kienchang (Kien-tchang)# @wikidata:Q11065388/1700
             ls$jesuita-tarefa/Escreve sobre o desejo que os missionários têm de criar hospitais para expostos nas capitais das províncias do império, convidando damas de qualidade parisienses a fundarem conventos na China/17001101
             ls$estadia/Pequim# @wikidata:Q956/17140000
             ls$estadia/Vuen ngan%résidence française de « Vuen ngan juxta murum qui Tartaros a Sinis dividit »#Wen'an 文安 (Hebei), identification uncertain — the « juxta murum » tag is not securely localised; see issue 53 @wikidata:Q1196389 @issue:53/17140000
