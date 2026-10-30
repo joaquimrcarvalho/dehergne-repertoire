@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=240
+kleio$gacto2.str/translations=241
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-182
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-b/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra B
@@ -353,11 +353,11 @@ kleio$gacto2.str/translations=240
             ls$nacionalidade/China
             ls$nascimento/Macau# @wikidata:Q14773/15700000#cerca de?
             rel$sociabilidade/Companheiro/Matteo Ricci/deh-joao-barradas-ref1/data=15940000
-            ls$morte/Rio Kan#贛江 Gan Jiang, Jiangxi — naufrágio na viagem de Ricci a Pequim/@wikidata:Q1046685 @issue:54/15940000#afogado no naufrágio, a caminho do noviciato
+            ls$morte/Rio Kan#贛江 Gan Jiang, Jiangxi — naufrágio na viagem de Ricci a Pequim @wikidata:Q1046685 @issue:54/15940000#afogado no naufrágio, a caminho do noviciato
             ls$dehergne/77/obs=Barradas, João (macaïste) 77 N. à Macao (v. 1570?). En 1594, en route pour entrer au noviciat, accompagne Ricci sur la rivière Kan où il fait naufrage et se noie. Pf. 25., DElia, I 341 et 344 n.
 
             referido$Matteo Ricci/id=deh-joao-barradas-ref1/xmesmo_que=deh-matteo-ricci
-               ls$estadia/rio Kan#贛江 Gan Jiang, Jiangxi/@wikidata:Q1046685 @issue:54/15940000
+               ls$estadia/rio Kan#贛江 Gan Jiang, Jiangxi @wikidata:Q1046685 @issue:54/15940000
 
          n$Didace Barreto/id=deh-didace-barreto
             ls$nacionalidade/México#? @wikidata:Q96
@@ -433,7 +433,7 @@ kleio$gacto2.str/translations=240
             ls$jesuita-entrada/?/17370907
             ls$estadia/Cochinchina# @wikidata:Q505503[centrada na atual Da Nang wikidata:Q25282]/17530000#esteve lá noutra data
             ls$jesuita-votos/Coadjutor Espiritual/17480630
-            ls$jesuita-votos-local/Bà Rịa, Cochinchina#Vietname @wikidata:Q881/17480630
+            ls$jesuita-votos-local/Bà Rịa, Cochinchina#Vietname @wikidata:Q2202401 (Bà Rịa city, since 2025 the ward Q2460295)/17480630
             ls$morte/Cochim# @wikidata:Q1800/17590528
             ls$dehergne/82/obs=Barros, Antonio de (macaïste) (II) P. 82 N. Macao, 14 avril 1717 -E. 7 sept. 1737 (JS 25, 285). A été missionnaire en Cochinchine, où il retourne en 1753 (JS 26, 47v). Nous le citons comme originaire de Macao. V. Bâ-ria en Cochinchine, 30 juin 1748, coadj. spir. (Lus. 24, 240). M. 28 mai 1759, Cochin (HS 53a, 110).
 
@@ -769,7 +769,7 @@ kleio$gacto2.str/translations=240
             ls$jesuita-tarefa/Funda a missão de Erzurum/>1688
             ls$estadia/Moscovo# @wikidata:Q649/16890200#com cartas de Luís XIV, recebe ordem de abandonar imediatamente o território russo/obs=na entrada de Philippe Avril diz que foram pela Polónia e Constantinopla, local em que Beauvillier foi assassinado, em setembro de 1689, daqui se pode perceber que ele não morreu, será outro?
             ls$estadia/Arménia# @wikidata:Q399/>1689
-            ls$estadia/Surat#existem vários, no Irão, na Tailândia, na Índia, suponho que seja o da Índia só porque de seguida está em Madras (Madrasta, actual Chennai) @wikidata:Q4629/16980000
+            ls$estadia/Surat%Surate#existem vários, no Irão, na Tailândia, na Índia, suponho que seja o da Índia só porque de seguida está em Madras (Madrasta, actual Chennai) @wikidata:Q4629/16980000
             ls$estadia/Chennai, Índia%antiga Madras (Madrasta)# @wikidata:Q1352/16990708
             ls$estadia/Cantão#num navio inglês @wikidata:Q16572/16991100
             ls$estadia/Pequim# @wikidata:Q956/17061017#até
@@ -1004,7 +1004,7 @@ kleio$gacto2.str/translations=240
             ls$jesuita-entrada/?/16991107#ou 16991031
             ls$embarque/?/000000/obs=Emb. avec le P. François Drion, franciscain., intercepté par les Hollandais à Batavia et conduit prisonnier en Hollande. Le catal. Toulouse le dit arr. en Chine en 1706., celui de 1707-08 avoue « redux Parisios ex captivitate »., mais les catal. 1708-09 à 1710-11 continuent de le marquer en Chine. En fait, il passe au Mexique, puis revient en France.
             rel$sociabilidade/Companheiro/François Drion/deh-gilbert-bordes-ref1
-            ls$estadia/Batávia#feito prisioneiro @wikidata:Q850526
+            ls$estadia/Batávia#feito prisioneiro @wikidata:Q1199713
             ls$estadia/Holanda#prisioneiro @wikidata:Q55
             ls$estadia/México#? @wikidata:Q96
             ls$jesuita-votos/Coadjutor temporal/17080202

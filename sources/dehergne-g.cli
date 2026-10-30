@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=191
+kleio$gacto2.str/translations=192
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-115
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-g/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -1099,11 +1099,10 @@ kleio$gacto2.str/translations=191
             ls$nome/Antonio Govea
             ls$nome-chines/Ho Ta-HouaTö-Tch'ouan
             ls$nome-chines/Lo Ta-Hoa
-            ls$nascimento/Gouveia%Casal, diocese de Viseu#@wikidata:Q599317 (de Gouveia, 20 anos em 1614, 6 de Companhia, Lus. 44-II:313, e em 1611 "natural de Gouveia", 18 anos, 3 de Companhia Lus. 44-I:277v), see Gomes, 2018, p.19-20,n.4 /1592
-            /obs=""" segundo Gouvea, A. de, & Araújo, H. P. de. (1998). Cartas ânuas da China: (1636, 1643 a 1649). Instituto Português do Oriente; Biblioteca Nacional; JRC.
+            ls$nascimento/Gouveia%Casal, diocese de Viseu#@wikidata:Q599317 (de Gouveia, 20 anos em 1614, 6 de Companhia, Lus. 44-II:313, e em 1611 "natural de Gouveia", 18 anos, 3 de Companhia Lus. 44-I:277v), see Gomes, 2018, p.19-20,n.4/1592/obs=""" segundo Gouvea, A. de, & Araújo, H. P. de. (1998). Cartas ânuas da China: (1636, 1643 a 1649). Instituto Português do Oriente; Biblioteca Nacional; JRC.
             p. 19, Travancinha apud Conimbriam, [sendo que
             Travancinha perto de Gouveia] """
-            ls$jesuita-entrada/Lisboa%?#Santo Antão Lus.44-I:239, Lus. 44-I:277v @wikidata:Q597 (Apesar de Franco, 1719, t.II, p. 612 assumir Coimbra, e em Coimbra 1614 em Lus. 44-II:313v )/16080502#ou 1609 reentrou em 1611  (em Coimbra?) Não é claro de onde vêm as datas de entrada em Dehergne
+            ls$jesuita-entrada/Lisboa%?#Santo Antão Lus.44-I:239, Lus. 44-I:277v @wikidata:Q597 (Apesar de Franco, 1719, t.II, p. 612 assumir Coimbra, e em Coimbra 1614 em Lus. 44-II:313v )/16080502#ou 1609 reentrou em 1611 (em Coimbra?) Não é claro de onde vêm as datas de entrada em Dehergne
             ls$embarque/[Para a Índia]/16230324
             ls$wicky/686/16230324
             ls$wicky-viagem/61/16230324
@@ -1404,11 +1403,11 @@ kleio$gacto2.str/translations=191
             ls$chegada/?/1637
             ls$estadia/Hangchow# @wikidata:Q4970
             ls$estadia/Shanghai# @wikidata:Q8686
-            ls$estadia/Changshu (Tch'ang chou), Kiangnan# @wikidata:Q113497198/1648
+            ls$estadia/Changshu (Tch'ang chou), Kiangnan# @wikidata:Q1015805 @issue:87/1648
             ls$jesuita-tarefa/Constrói igreja de Changshu (Tch'ang chou), Kiangnan/1660#cerca de
             ls$jesuita-votos/4V/16481218
-            ls$jesuita-votos-local/Changshu (Tch'ang chou), Kiangnan# @wikidata:Q113497198/16481218
-            ls$morte/Changshu (Tch'ang chou), Kiangnan# @wikidata:Q113497198/16620904
+            ls$jesuita-votos-local/Changshu (Tch'ang chou), Kiangnan# @wikidata:Q1015805 @issue:87/16481218
+            ls$morte/Changshu (Tch'ang chou), Kiangnan# @wikidata:Q1015805 @issue:87/16620904
             ls$dehergne/389/obs=Gravina, Girolamo de (ital.) P. 389 Kia Yi-Mou Kieou-Tchang (Pf.)., Borg. Lot. 523, 58: Kla Yi-Lo. N. Caltanisetta, en Sicile, 1603 -E. 3 nov. 1618, Palerme (Sic. 61, 270v). Emb. 13 avril 1635 (W 828)., arr. 1637., Hangchow., puis Shanghai., en 1648, « sine socio », à « Chamxo » (Changshu = Tch'ang chou, en dialecte: Zangzôh), Kiangnan, où il bâtit l'église v. 1660 (JS 117, 211v). V. « Châm xô », 18 déc. 1648, pr. (Lus. 6, 217). M. 4 sept. 1662, « Chamxo » (dès 1661, selon HS 48, 60v). Elogjum: Arch. de Jap., Jes., leg. 22 f 51-60, Madrid. Pf. 243., Streit V, p. 970 et XIII n« 1597.
 
          n$Adrien Grelon/id=deh-adrien-grelon
@@ -1621,7 +1620,7 @@ kleio$gacto2.str/translations=191
             ls$partida/China# @wikidata:Q148/1656#por terra
             ls$estadia/Esmirna, Pérsia# @wikidata:Q35997
             ls$estadia/Isfahan, Pérsia# @wikidata:Q42053
-            ls$estadia/Surat# @wikidata:Q5940718
+            ls$estadia/Surat# @wikidata:Q4629 @issue:88
             ls$estadia/Ormuz# @wikidata:Q2478280
             ls$chegada/Macau#por mar @wikidata:Q14773/16580700
             ls$estadia/Pequim# @wikidata:Q956/16590802

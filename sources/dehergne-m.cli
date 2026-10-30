@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=249
+kleio$gacto2.str/translations=250
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-161
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-m/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs= """Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra M
@@ -446,7 +446,7 @@ kleio$gacto2.str/translations=249
             ls$estadia/Kiangnan#@wikidata:Q11133842/17100000
             ls$estadia/Chekiang# @wikidata:Q16967/17100000
             ls$estadia/Fukien#@wikidata:Q41705/17100000
-            ls$estadia/Taiwan# @wikidata:Q865/17100000
+            ls$estadia/Taiwan# @wikidata:Q22502/17100000
             ls$profissao/Cartógrafo
             ls$profissao/Historiador
             ls$jesuita-tarefa/Escreve livros piedosos chineses#?
@@ -633,7 +633,7 @@ kleio$gacto2.str/translations=249
             ls$nascimento/Limoges# @wikidata:Q45656/16650205
             ls$jesuita-entrada/Bordeaux# @wikidata:Q1479/16800905
             ls$embarque/[Para a China]/16940000
-            ls$partida/Surat# @wikidata:Q735073
+            ls$partida/Surat# @wikidata:Q4629 @issue:88
             rel$sociabilidade/Companheiro/Antoine de Beauvollier/deh-pierre-martin-ref1
             ls$estadia/Roma# @wikidata:Q220
             ls$jesuita-cargo/Procurador da missão
@@ -652,7 +652,7 @@ kleio$gacto2.str/translations=249
 
             referido$Antoine de Beauvollier/id=deh-pierre-martin-ref1
                ls$jesuita-estatuto/Padre
-               ls$partida/Surat# @wikidata:Q735073
+               ls$partida/Surat# @wikidata:Q4629 @issue:88
 
             referido$Lafitu/id=deh-pierre-martin-ref2
                ls$titulo/Monsenhor
@@ -693,7 +693,7 @@ kleio$gacto2.str/translations=249
             ls$partida/Roma# @wikidata:Q220/16500000
             ls$estadia/Fukien# @wikidata:Q41705
             ls$estadia/Filipinas# @wikidata:Q928
-            ls$estadia/Batávia# @wikidata:Q850526/16530000#prisioneiro
+            ls$estadia/Batávia# @wikidata:Q1199713/16530000#prisioneiro
             ls$estadia/Bergen# @wikidata:Q26793
             ls$estadia/Noruega# @wikidata:Q20/16530831
             ls$estadia/Hamburgo# @wikidata:Q1055
@@ -1067,7 +1067,7 @@ kleio$gacto2.str/translations=249
             ls$wicky-viagem/117/16940000
             ls$chegada/Macau# @wikidata:Q14773/16971000
             ls$estadia/Shanghai# @wikidata:Q8686/16980000
-            ls$estadia/Changshu (Tch'ang-chou)# @wikidata:Q113497198/17000000
+            ls$estadia/Changshu (Tch'ang-chou)# @wikidata:Q1015805 @issue:87/17000000
             ls$estadia/Shanghai# @wikidata:Q8686/17000000
             ls$estadia/Nanquim# @wikidata:Q16666
             ls$estadia/Cantão# @wikidata:Q16572/17070402#exilado
@@ -1334,7 +1334,7 @@ kleio$gacto2.str/translations=249
             ls$jesuita-entrada/Bordeaux# @wikidata:Q1479/16831003
             ls$estadia/Turquia# @wikidata:Q43
             ls$estadia/Pérsia# @wikidata:Q83311
-            ls$estadia/Surat# @wikidata:Q735073
+            ls$estadia/Surat# @wikidata:Q4629 @issue:88
             ls$chegada/Cantão# @wikidata:Q16572/17010900#meados do mês
             ls$estadia/Wusih (Wou-si), Kiangnan# @wikidata:Q42651/17090000
             ls$jesuita-tarefa/Cristianiza pescadores%Chrétienté de barqueiros, de pêcheurs/17090000

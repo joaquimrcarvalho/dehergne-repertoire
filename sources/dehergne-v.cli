@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=118
+kleio$gacto2.str/translations=119
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-61
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
 
@@ -195,8 +195,8 @@ kleio$gacto2.str/translations=118
             ls$wicky/886/16400326
             ls$wicky-viagem/75/16400326
             ls$estadia/Macau# @wikidata:Q14773/1655#em 1653 foi prisioneiro por 8 meses pelos heréticos
-            ls$partida/Juthia, Sião# @wikidata:Q20337/1655
-            ls$estadia/Juthia, Sião# @wikidata:Q20337/1668
+            ls$partida/Juthia, Sião# @wikidata:Q203370/1655
+            ls$estadia/Juthia, Sião# @wikidata:Q203370/1668
             ls$estadia/Macau (colégio)# @wikidata:Q14773/1669
             ls$jesuita-cargo/Visitador do Japão e da China/16700723
             ls$jesuita-cargo/Visitador do Japão e da China/1674
