@@ -1,5 +1,5 @@
 KleioTranslator - server version 12.9 - build 592 2026-03-19 23:14:02
-2026-10-25 14:43:55
+2026-10-30 05:03:08
 
 
 Processing data file dehergne-y.cli
@@ -14,12 +14,20 @@ Declared structure: gacto2.str
 Used structure: /usr/local/timelink/clio/src/stru/gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 38
+Translation count: 39
 Obs: 
 ** Processing source fonte$dehergne-y
-7: lista$dehergne-notices-y
+9: lista$dehergne-notices-y
 *** End of File
 
+Line 819 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-matteo-ricci) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 924 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-antoine-thomas) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 933 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-ferdinand-verbiest) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1003 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-manuel-teixeira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1021 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-goncalo-alvares) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1376 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-francisco-perez) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1382 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-manuel-teixeira) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1781 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-louis-brouet) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
 Structure file: /usr/local/timelink/clio/src/stru/gacto2.str
 Structure processing report: /usr/local/timelink/clio/src/stru/gacto2.srpt
@@ -32,7 +40,7 @@ Local structure file: /kleio-home/sources/dehergne-y-auto-structure.yaml
 Temp file with ids: /kleio-home/sources/dehergne-y.ids
 ** - /kleio-home/sources/dehergne-y.cli-renamed to- /kleio-home/sources/dehergne-y.old
 
-Groups in this file: [attribute,historical-act,historical-source,kleio,link,person,relation,ls,pt-acto,fonte,female,male,rel,lista,parentef,actorm,parentem,referido,kin-mother,n,kin-father,mae,pai]
+Groups in this file: [attribute,historical-act,historical-source,kleio,link,person,property,relation,ls,pt-acto,fonte,female,male,rel,lista,parentef,actorm,parentem,referido,kin-mother,n,kin-father,mae,pai]
 Elements in this file: [ano,autorels,data,date,day,destination,destname,dia,id,iddest,kleiofile,loc,localizacao,mes,mesmo_que,month,name,nome,nomedest,obs,prefix,ref,replace,same_as,sex,sexo,shortname,structure,substitui,tipo,translations,translator,type,urlpattern,valor,value,xmesmo_que,xsame_as,year]
 
 Structure YAML file already exists, not generating new one.
