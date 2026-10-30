@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=174
+kleio$gacto2.str/translations=175
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-69
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$geonames/"https://www.geonames.org/$1"/id=root-lin4-69
@@ -346,7 +346,7 @@ kleio$gacto2.str/translations=174
                geo3$Kichow%Kichow (Kichun), King-men,Chingmen, today Jingmen, 荆门, @wikidata:Q71323/tcheou-hien/deh-r1644-kichow
                   atr$active/yes/1639
 
-            geo2$Kingchow#do Hupei?, K'i-tcheou,Chichou, today Qizhou, 蕲州, @wikidata:Q14135188/fou/deh-r1644-kingchow/obs=In the Chinese translation it is recogniazed as “蕲水”, which is also a place at that area, but according to the phonetic, it should be "蕲州", which is also noted in Dehergne(1957).
+            geo2$Kingchow#do Hupei, Kingchow, Jingzhou 荆州, @wikidata:Q71247/fou/deh-r1644-kingchow/obs=The 1644 list has a separate entry Kichow (Kichun) at 1639 (geo3$Kichow); Kingchow is the Hupei station, read as Jingzhou (cf. the 1701 list "Kingchow R'").
 
                geo3$Kungan#Kong-ngan, today Gong'an, 公安, @wikidata:Q1198857/tcheou-hien/deh-r1644-kungan
 

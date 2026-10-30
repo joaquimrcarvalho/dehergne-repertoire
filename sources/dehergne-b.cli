@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=241
+kleio$gacto2.str/translations=242
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-182
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-b/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra B
@@ -932,7 +932,7 @@ kleio$gacto2.str/translations=241
             ls$jesuita-entrada/Nancy# @wikidata:Q40898/17240925
             ls$embarque/?/17431021
             ls$estadia/China# @wikidata:Q148/17440712
-            ls$estadia/Kingchow, Hupeh# @wikidata:Q14135188/17450000
+            ls$estadia/Kingchow, Hupeh# @wikidata:Q71247/17450000
             ls$estadia/Shasi (Chache) Hupeh# @wikidata:Q1337497/17460926#aprisionado nas perseguições
             ls$estadia/Macau# @wikidata:Q14773/17470501
             ls$jesuita-ordenacao-padre/Laon# @wikidata:Q167141/17400000

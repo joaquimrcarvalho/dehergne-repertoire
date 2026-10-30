@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=201
+kleio$gacto2.str/translations=202
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-130
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-l/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra L
@@ -319,7 +319,7 @@ kleio$gacto2.str/translations=201
             ls$cargo/Administrador da diocese de Pequim#contestado por Macau/17570831
             ls$cargo/Administrador da diocese de Pequim#contestado por Macau/1780
             ls$estadia/Honan, Luyi hien# @wikidata:Q187136/1771
-            ls$estadia/Changchow fou, Nanquim# @wikidata:Q1338324/1771
+            ls$estadia/Changchow fou, Nanquim# @wikidata:Q57970/1771
             ls$estadia/Wouho#@wikidata:Q1334665 @issue:66/1772
             ls$estadia/Ilha de Tsungming (Tch'ong-ming)# @wikidata:Q788812/17781113
             ls$jesuita-tarefa/Projectos no Japão#?/1779

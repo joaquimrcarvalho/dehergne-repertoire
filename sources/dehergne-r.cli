@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=212
+kleio$gacto2.str/translations=213
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-121
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$bdcconline/"https://bdcconline.net/en/stories/$1"/obs=Biographical Dictionary of Chinese Christianity
@@ -1815,7 +1815,7 @@ kleio$gacto2.str/translations=212
             ls$jesuita-ordenacao-padre/Bruxelas# @wikidata:Q239/16541125
             ls$jesuita-votos/4V/16590216
             ls$jesuita-votos-local/Macau# @wikidata:Q14773/16590216
-            ls$morte/Tch'ang-chou# @wikidata:Q113497198/16761109#ou 06
+            ls$morte/Tch'ang-chou# @wikidata:Q1015805 @issue:87/16761109#ou 06
             ls$dehergne/724/obs="""
             Rougemont, François de (belg.) P. 724 Rougimont (JS 26, 53 et 134, 352).,
             Rugimont (JS 134, 344)., Regemonte Lu (JS 187, 4 et M 443, 672).
