@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=213
+kleio$gacto2.str/translations=214
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-121
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$bdcconline/"https://bdcconline.net/en/stories/$1"/obs=Biographical Dictionary of Chinese Christianity
@@ -1436,7 +1436,7 @@ kleio$gacto2.str/translations=213
 
             referido$Emanuel Rodriguez/id=deh-manuel-rodrigues-ii-ref4
                ls$jesuita-votos/4V/16750815
-               ls$jesuita-votos-local/Hirubale, Misore%« Kubale (Hirubale?, le mot est peu lisible), in Regno Maiçurensi » (Mysore)#ILOC/16750815
+               ls$jesuita-votos-local/Hirubale, Misore%« Kubale (Hirubale?, le mot est peu lisible), in Regno Maiçurensi » (Mysore), kingdom of Mysore only (Q266923, context)#ILOC not identified @issue:37/16750815
                ls$dehergne/710-ref4/obs=Par contre, nous avons vu celles [fórmulas de votos] de deux homonymes: l'une, signée à « Kubale (Hirubale?, le mot est peu lisible), in Regno Maiçurensi » (Mysore), 15 août 1675, Em. Rodriguez, et il signe Roiz (!) (Lus. 9, 190).
 
             referido$Manuel Rodrigues/id=deh-manuel-rodrigues-ii-ref5
@@ -1931,7 +1931,7 @@ kleio$gacto2.str/translations=213
             ls$estadia/Hou-kouang# @wikidata:Q2235155/17551100
             ls$jesuita-ordenacao-padre/?#Paris?/17520318
             ls$jesuita-votos/4V/17590815
-            ls$jesuita-votos-local/Lao chan oua, Hou-kouang/17590815
+            ls$jesuita-votos-local/Lao chan oua, Hou-kouang#ILOC not identified (possibly 老山洼) @issue:42/17590815
             ls$morte/Hou-kouang#num barco no meio do Hou-quang @wikidata:Q2235155/17690108
             ls$dehergne/727/obs=Roy, Nicolas- Marie (franç.) P. 727 Wang (= «roi») (Catal. du 11 nov. 1767, au Sémin. de Saragosse). N. Dijon, 12 mars 1726 -E. 7 avril 1743, Nancy (Camp. 17, 37v., 20, 409). Emb. à Lorient sur le Condé, 29 déc. 1753, avec les PP. J. B. Thomas Lieou, Fr. Xav. Ign. Lan et Maur Tsao (AN: Colon. F5B 49)., arr. Macao 15-16 août 1754 (RBS 457)., nov. 1755, Hou-kouang (SOCP t. 51, 1757, f° 536). P. 18 mars 1752 par l'évêque de Paris (Camp. 17, 39v) = Mgr Christophe de Beaumont. V. « Lao chan oua, Hou quang », 15 août 1759, pr. {Gai. 24, 392). M. 8 janv. 1769, en barque « au milieu du Hou-quang » (LE XXIII, 571., HS 53a, 150., Franc. 28a., SRC t. 32 f° 79).
             ls$dehergne/727/obs=« Fils de Claude Roy, Conseiller du Roy, Juge garde de la Monnoye de Dijon, et de Dame Marguerite Tardy, son épouse» (renseignement aimablement communiqué par Mr B. Savouret, Conservateur des Arch. municipales de Dijon, B 566 f 26). Il n'est donc pas né à Langres (Pf. 872)., il est « divionensis », de Dijon (JS 134, 444), comme il l'affirme lui-même en son rapport à la Propagande du 17 sept. 1763 « civitate Divionaeus natus sum 12 martii 1726 » (SOCP t. 54, 1764 f 231 [187]). Le nom chinois Wang ne fait pas de doute pour nous, car nous ne voyons pas à quel autre Père français il s'appliquerait. Pf. 872., Bernard-Maître, H., RAM 30 (1954), 232-267 et 324-347 (sur la « spiritualité de l'abandon » en Chine). Lettres du P. Roy [éd. par Villecourt, Cl.], Lyon 1822 (Strett XII, nº 212, rééd.). Munich, B. Staatsb. VII N. 1178 (Gall. 738).

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=211
+kleio$gacto2.str/translations=212
 
    property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-126
@@ -429,7 +429,7 @@ kleio$gacto2.str/translations=211
             ls$chegada/Macau# @wikidata:Q14773/16120400#início, fica doente a 15 de Julho
             ls$jesuita-ordenacao-padre/?/15780000#acabado
             ls$jesuita-votos/4V/15910701
-            ls$jesuita-votos-local/Katsusa, Japão/15910701
+            ls$jesuita-votos-local/Katsusa, Japão#Kazusa 加津佐 (Nagasaki) @wikidata:Q6381698 @issue:18/15910701
             ls$morte/Macau# @wikidata:Q14773/16120830
             ls$dehergne/612/obs=Fasio, Francesco (ital.) P. 612 Passio., Pacio., Paccius (M 443, 669)., Pasius. Pa Fan(g)-tsi Yong-Lo (Pf.). N. Bologne, nov. ou déc. 1554 -E. Rome, 25 oct. 1572 (Rom. 169, 11). Il s'offre pour la mission d'Ethiopie (DI. XII, 133). Emb. sur le S. Gregôrio, 24 mars 1578 (W 194)., Goa, 13 sept. 1578 à 26 avril 1582, est procureur de la province (DI. XII, 1028)., Malacca, juin 1582 (DI. XII, 586)., Macao, 7 août 1582., Shiuhing (Tchao-k'ing fou) 27 déc. 1582., Macao, mars 1583., puis, mandé par Valignano, à Nagasaki, 25 juill. 1583., vice-provincial du Japon, août 1600-1611., nommé visiteur du Japon et de la Chine, 9 déc. 1608 (JS 25, 293), en fait de juill. 1611 à 1612 (D'Elia, I 165). Le 31 juill. 1611, quand arrive le décret de la création de la prov. du Japon, Pasio reste le premier provincial, avant de passer la charge au P. Valentin Carvalho (JS 25, 292)., 22 mars 1612, il quitte Nagasaki pour Macao, où il arr. début avril, et tombe malade vers le 15 juill. 1612.
             ls$dehergne/612/obs=P. en 1578 nouveau prêtre (DI. XI, 161). -V. « Cazzucae » (Katsusa), Japon, 30 juin - 1er juill. 1591, pr. (Lus. 2, 60). M. 30 août 1612, Macao (JS 15, 204., HS 43, 57). Pf. 21., Schûtte, 986-987., Streit IV nº 1943. Il était fils de Bonifacio Pasio. JA 49-IV-56 P 33, 143, 162 sq ...
@@ -1928,7 +1928,7 @@ kleio$gacto2.str/translations=211
             ls$estadia/Europa# @wikidata:Q46/obs=interceptado pelos holandeses e trazido de volta à Europa, vide entrada de Michel Pernet
             ls$partida/América# @wikidata:Q30/17090000#descrito como a Caminho da China, era já padre em 1706
             ls$estadia/Santo Domingo# @wikidata:Q34820/17180000
-            ls$estadia/Missão de São Martinho da América do Sul%in missione Sti Martini Americae meridionalis# @wikidata:Q17054/17210000
+            ls$estadia/Missão de São Martinho da América do Sul%in missione Sti Martini Americae meridionalis#ILOC likely a South American mission of St Martin; Q17054 (Martinique) is wrong @issue:11/17210000
             ls$jesuita-votos/4V/17090202
             ls$jesuita-votos-local/La Rochelle# @wikidata:Q82185/17090202
             ls$morte/Bordeaux# @wikidata:Q1479/17320424

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=294
+kleio$gacto2.str/translations=295
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-194
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-c/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra C
@@ -213,7 +213,7 @@ kleio$gacto2.str/translations=294
             ls$wicky/1917/1746
             ls$wicky-viagem/165/1746
             ls$jesuita-votos/4V/17540815
-            ls$jesuita-votos-local/Ké Diet, Tonquim/17540815
+            ls$jesuita-votos-local/Ké Diet, Tonquim#ILOC not identified; Q36485 (Hưng Yên) is wrong @issue:40/17540815
             ls$morte/Tonquim#@wikidata:Q622778/17691101
             ls$dehergne/133/obs= Campos (Campoz), Paulo de (port.) P. 133 N. Babadella, d. de Coïmbre, 7 juill. 1721. E. 2 mai 1737 (Lus. 48, 264). Emb., mais pour le Japon, 1746 (W 1917). V. Ké Diet, au Tonkin, 15 août 1754, pr. (Lus. 17, 177): de Campoz. M. au Tonkin, 1 nov. 1769, il est marqué de la vice-prov. de Chine (HS 53a, 160). Par erreur, pensons-nous.
 
@@ -754,7 +754,7 @@ kleio$gacto2.str/translations=294
             ls$estadia/Itália# @wikidata:Q38/17670709#deportado
             ls$estadia/Villa Rufinella%Rifinella# @wikidata:Q3558780/1775
             ls$jesuita-votos/Coadjutor Espiritual/17411112
-            ls$jesuita-votos-local/Làngòi, Tonquim# @wikidata:Q622778 (Tonquim province, Làngòi not located see issue 41)/1741-11-12
+            ls$jesuita-votos-local/Làngòi, Tonquim#province-level Tonkin anchor only; Làngòi not located @wikidata:Q622778 @issue:41/1741-11-12
             ls$morte/Urbania, Itália# @wikidata:Q190134/17870323
             ls$dehergne/150/obs=Carvalho, Manuel de (port.) (III) P. 150 N. Porto de Moz, d. de Leiria (ou selon d'autres, d. de Lisbonne) 14 janv. 1710 -E. 2 avril 1724 (Lus. 47, 309., 48, 20v). Emb. pour le Japon en 1732 (W 1800)., missionnaire au Tonkin, 1736- 1750., passe en Chine (Lus. 49, 59 n° 844., Lus. 49, f° 79, 94v et 109v)., capturé à Macao, 5 juill. 1762., emprisonné au fort St. Julien, 19 oct. 1764., déporté en Italie, 9 juill. 1767., serait en 1775 à Rifinella et sans doute le même que celui qui meurt le 23 mars 1787 à Urbania, en Italie (Lus. 40, 79v). V. Làngôi, Tonkin 12 nov. 1741, c. spir. (Lus. 24, 206)., il signe Emm. Carvalho. Pf. 981. — JS 134, 434 parle d'un certain P. Carvalho, de la vice-province de Chine, qui, en 1737, termine ses études à Manille.
             ls$nota/Villa Rufinella#Hoje Villa Tuscolana, @wikidata:Q3558780/20230620/obs="""
@@ -2224,7 +2224,7 @@ kleio$gacto2.str/translations=294
             ls$jesuita-ordenacao-padre/?/1693
             ls$jesuita-votos/4V/17120815
             ls$jesuita-votos-local/Goa (noviciado de Choram)# @wikidata:Q1171/17120815
-            ls$morte/Cuamani, província de Goa# será "Cuamensis" port. Rios de Cuama, hoje Quelimane, MZ, ver Hamy, 1892, p.5, @wikidata:Q318306 for modern day Quelimane/17220728
+            ls$morte/Cuamani, província de Goa#likely a place in the Cuama (Zambezi delta) region, under the Goa province; no exact place id — anchor = Quelimane (Hamy 1892, p. 5) @wikidata:Q318306 @issue:28/17220728
             ls$dehergne/204/obs="""
                Costa, André da (port.) P. 204
                N. Braga, 1662

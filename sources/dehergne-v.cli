@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=120
+kleio$gacto2.str/translations=121
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-61
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
 
@@ -489,8 +489,8 @@ kleio$gacto2.str/translations=120
             ls$nome-chines/Wang Yi-Jen
             ls$nascimento/Gand# @wikidata:Q1296/16510325
             ls$jesuita-entrada/Mechelen%Malines# @wikidata:Q162022/16720424
-            ls$estadia/Tarahumaras, México#ILOC/1684
-            ls$estadia/Tarahumaras, México#ILOC/1689
+            ls$estadia/Tarahumaras, México#Sierra Tarahumara mission region @wikidata:Q3299137 @issue:14/1684
+            ls$estadia/Tarahumaras, México#Sierra Tarahumara mission region @wikidata:Q3299137 @issue:14/1689
             ls$estadia/Ilhas Marianas# @wikidata:Q153732/16870606
             ls$estadia/Manila# @wikidata:Q1461/16870708
             ls$chegada/Cantão# @wikidata:Q16572/16891209

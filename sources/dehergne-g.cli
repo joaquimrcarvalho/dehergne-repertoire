@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=192
+kleio$gacto2.str/translations=193
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-115
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-g/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -538,10 +538,10 @@ kleio$gacto2.str/translations=192
             ls$estadia/Macau# @wikidata:Q14773/1570#escreve de lá
             ls$jesuita-cargo/Superior da residência de Macau/1570
             ls$chegada/Japão# @wikidata:Q17/15700618
-            ls$estadia/Miyako# @wikidata:Q502981/1570
+            ls$estadia/Miyako#Miyako = the capital, Kyōto 都 (not Miyako, Iwate) @wikidata:Q34600 @issue:21/1570
             ls$jesuita-tarefa/Reclama jesuítas italianos e belgas/1589
             ls$estadia/Nagasaki# @wikidata:Q38234/1598
-            ls$estadia/Miyako# @wikidata:Q502981/1606
+            ls$estadia/Miyako#Miyako = the capital, Kyōto 都 (not Miyako, Iwate) @wikidata:Q34600 @issue:21/1606
             ls$estadia/Nagasaki# @wikidata:Q38234/1606
             ls$jesuita-votos/3V/15681130
             ls$jesuita-votos-local/Goa# @wikidata:Q1171/15681130

@@ -1,5 +1,6 @@
-kleio$gacto2.str/translations=53
+kleio$gacto2.str/translations=54
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-28
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-e/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra E
 
       lista$dehergne-notices-e/0/0/0
@@ -15,7 +16,7 @@ kleio$gacto2.str/translations=53
             ls$partida/Cantão# @wikidata:Q16572
             ls$jesuita-tarefa/Tenta chegar ao Cantão por terra#à proximidade da fronteira, depois de 27 dias de viagem ao Tonquim, quando não lhe restavam mais de 3 dias para chegar ao Kwangtung, é denunciado ao mandarim, preso em Batschisu, perto de La feu e aprisionado
             ls$estadia/Tonquim# @wikidata:Q622778
-            ls$estadia/Batschisu% prés de Lafeu (Lo fou?)# maybe @wikidata:Q14483095
+            ls$estadia/Batschisu%Batschisu prés de Lafeu (Lo fou?)#Batschisu unidentified; "Lafeu (Lo fou?)" = Lofeu 罗浮 near Dongxing (issue 2); district anchor 東興市, no village id @wikidata:Q1241481 @issue:5
             ls$estadia/Kin cheu (K'in-tcheou = Yamchow?), Kwangtung# @wikidata:Q571766
             ls$morte/Kin cheu# @wikidata:Q571766/17401202
             ls$dehergne/274/obs="""
