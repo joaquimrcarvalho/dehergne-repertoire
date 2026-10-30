@@ -1,4 +1,6 @@
-kleio$gacto2.str/translations=202
+kleio$gacto2.str/translations=203
+
+   property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-130
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-l/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra L
@@ -325,7 +327,7 @@ kleio$gacto2.str/translations=202
             ls$jesuita-tarefa/Projectos no Japão#?/1779
             ls$estadia/Nanquim# @wikidata:Q16666/1780
             ls$estadia/Sungkiang#@wikidata:Q11104671/1781
-            ls$morte/T'ang-kia-hiang#perto de Sungkiang @wikidata:Q11104671, Kiangnan/17870522#ou 17870520
+            ls$morte/T'ang-kia-hiang#chrétienté 湯家巷-唐家巷 near Sungkiang; no village-level id (anchor = Songjiang fu) @wikidata:Q11104671 @issue:61/17870522#ou 17870520
             ls$dehergne/446/obs=Laimbeckhoven, Gottfried Xaver von (autrich.) Mgr 446 Nan Houai-Jen (comme Verbiest), Ngo-tô (Pf.). N. 9 janv. 1707, « Germanus » (Lus. 48, 200), né à Vienne. E. 27 janv. 1722 à 15 ans, Vienne (Austr. 71, 413). Emb. pour la Chine (Lus. 48, 200), 25 avril 1736 (W 1837)., près d'un an au Mozambique., Goa., Macao, 5 août 1738., Hukwang, fin mars 1739., nommé visiteur, 1746., exerce, en fait, 1748-1751., janv. 1749, Macao., déc. 1749, Pékin (JS 98, 10 et 14)., nommé évêque de Nankin, févr. 1752., après son sacre, revient de Macao le 21 janv. 1756 (SOCP t. 51, 1757 f 527v)., en même temps qu'évêque de Nankin administrateur (contesté par Macao) du diocèse de Pékin du 31 août 1757 à 1780., persécution au Honan, Luyi hien, 1771., réside au Nankin: Changchow fou, 1771., Wouho 1772., île de Tsungming (Tch'ong-ming, dialecte: Tsung-ming) pour voir la possibilité d'aider les chrétiens du Japon, 13 nov. 1778
             ls$dehergne/446/obs=Nankin 1780., Sungkiang 1781., v. 1785 aurait été réinscrit dans la Compagnie (erreur de Pf.: son nom n'est pas aux catalogues de la Russie blanche). Projets sur le Japon 1752, 1779 (Delplace, II, 250 et 259-261., SOCP 1780-1781). P. vers juin 1735., le 15 mai 1752, préconisé évêque de Nankin., sacré à Macao le 22 juillet 1755. (De Murr, Journal, XI, 199). V. « Pe tsien schan » (à 30 Kms de Hankow), 2 févr. 1740, pr. (Lus. 15, 421) (Pf. suppose « en 1736 »). M. 22 mai 1787, T'ang-kia-hiang (en dialecte: Daong-ka-hang ») près de Sungkiang, Kiangnan. Mgr de Gouvea dit: le 20 mai (Krahl, 301). Pf. 760., EC (Cel. Testore). Krahl, Joseph, China Missions in crisis. Bishop L. and his Times, Analecta Gregoriatia, vol. 137, Rome, 1964., Kratz, W., dans AHSI 5 (1937) 214., Gubbels, 154-170., Rochemonteix, 165., Streit VII, n° 3247. « C'est, en vérité, un homme de premier mérite en tout sens » (Bourgeois, cité par Pf. 770).
 

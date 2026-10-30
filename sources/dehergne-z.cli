@@ -1,5 +1,8 @@
-kleio$gacto2.str/translations=47
+kleio$gacto2.str/translations=48
+
+   property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-25
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-z/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra Z
 
       lista$dehergne-notices-z/0/0/0
@@ -69,7 +72,7 @@ kleio$gacto2.str/translations=47
             rel$sociabilidade/Encontra/Nicéron/deh-nicolas-zarate-ref1/data=16930000
             rel$sociabilidade/Encontra/Nicéron/deh-nicolas-zarate-ref1/data=16980000
             ls$estadia/Filipinas# @wikidata:Q928/17010000
-            ls$estadia/Maxagongdong#ILOC/17250000
+            ls$estadia/Maxagongdong#ILOC likely a Philippine toponym (ARSI Philipp. 4, 126v); not identified @issue:44/17250000
             ls$jesuita-votos/4V/17020815
             ls$jesuita-votos-local/Manila (igreja de Sto. Inácio)# @wikidata:Q1461/17020815
             ls$morte/?/17290921
