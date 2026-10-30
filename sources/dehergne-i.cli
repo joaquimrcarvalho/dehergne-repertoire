@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=53
+kleio$gacto2.str/translations=54
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-24
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-i/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra I
@@ -183,7 +183,7 @@ kleio$gacto2.str/translations=53
             ls$jesuita-cargo/Procurador das Filipinas#enviado a Roma, não se percebe se foi, uma vez que morreu nas Filipinas e a indicação é de um catálogo anterior 3 anos
             ls$jesuita-votos/4V/16790815
             ls$jesuita-votos-local/Ham cheu%« in collegio Hâm cheu »#@wikidata:Q4970 Hangchow?/16790815
-            ls$morte/Monzei, Filipinas#ILOC/16991013
+            ls$morte/Monzei, Filipinas#ILOC not identified; Q928 is the country, not the town @issue:45/16991013
             ls$dehergne/415/obs="""
             Irigoyen (Yrigoyen), Juan Miguel de (espagn.) P. 415
             Lou Je-Mong Yu-Tchai (Pf.). Hô (Borg. lat. 523 f° 59:

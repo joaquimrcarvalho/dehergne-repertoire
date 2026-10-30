@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=202
+kleio$gacto2.str/translations=203
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-123
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
@@ -630,7 +630,7 @@ kleio$gacto2.str/translations=202
             ls$nome-chines/Tchen Lo-Han
             ls$nome-chines/Teng
             ls$nome-chines/Tchin Lo Han
-            ls$nascimento/Diocese de Constance (parte da Suábia) no grão-ducado de Bade#nas notas diz que foi na Suábia no principado dos Hohenzollern-Sigmarigen/1576
+            ls$nascimento/Diocese de Constance (parte da Suábia) no grão-ducado de Bade#nas notas diz que foi na Suábia no principado dos Hohenzollern-Sigmarigen @wikidata:Q566315 @issue:16/1576
             ls$profissao/Médico
             ls$profissao/Filósofo
             ls$profissao/Matemático
