@@ -1,5 +1,8 @@
-kleio$gacto2.str/translations=39
+kleio$gacto2.str/translations=40
+
+   property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-18
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-y/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra Y
 
       lista$dehergne-notices-y/0/0/0
@@ -27,7 +30,7 @@ kleio$gacto2.str/translations=39
             ls$jesuita-cargo/Procurador da missão francesa no Cantão/17840125#título transferido ao novo superior
             ls$estadia/Cantão# @wikidata:Q16572/17840125
             ls$estadia/Kiangsi#@wikidata:Q57052/17850000
-            ls$estadia/Pé-pou, Linkiang fou# @wikidata:Q197394 (Linkiang fou 臨江府 prefecture, Pé-pou village not located see issue 49)/17870500#preso
+            ls$estadia/Pé-pou, Linkiang fou#prefecture 臨江府 anchor only; Pé-pou village not located (see issue 49) @wikidata:Q197394 @issue:49/17870500#preso
             ls$estadia/Pequim# @wikidata:Q956/17890000
             ls$estadia/Tartária# @wikidata:Q83971/17890000
             ls$jesuita-ordenacao-padre/Paris# @wikidata:Q90/17630528

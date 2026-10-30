@@ -1,5 +1,5 @@
 KleioTranslator - server version 12.9 - build 592 2026-03-19 23:14:02
-2026-10-25 14:43:56
+2026-10-30 05:03:10
 
 
 Processing data file dehergne-z.cli
@@ -14,14 +14,14 @@ Declared structure: gacto2.str
 Used structure: /usr/local/timelink/clio/src/stru/gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 46
+Translation count: 47
 Obs: 
 ** Processing source fonte$dehergne-z
-7: lista$dehergne-notices-z
+9: lista$dehergne-notices-z
 *** End of File
 
-Line 58 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-ferdinand-verbiest) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 83 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-giovanni-laureati) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 60 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-ferdinand-verbiest) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 85 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-giovanni-laureati) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
 Structure file: /usr/local/timelink/clio/src/stru/gacto2.str
 Structure processing report: /usr/local/timelink/clio/src/stru/gacto2.srpt
@@ -34,7 +34,7 @@ Local structure file: /kleio-home/sources/dehergne-z-auto-structure.yaml
 Temp file with ids: /kleio-home/sources/dehergne-z.ids
 ** - /kleio-home/sources/dehergne-z.cli-renamed to- /kleio-home/sources/dehergne-z.old
 
-Groups in this file: [attribute,historical-act,historical-source,kleio,link,person,relation,ls,pt-acto,fonte,male,rel,lista,actorm,referido,n]
+Groups in this file: [attribute,historical-act,historical-source,kleio,link,person,property,relation,ls,pt-acto,fonte,male,rel,lista,actorm,referido,n]
 Elements in this file: [ano,autorels,data,date,day,destination,destname,dia,id,iddest,kleiofile,loc,localizacao,mes,mesmo_que,month,name,nome,nomedest,obs,prefix,ref,replace,same_as,sex,sexo,shortname,structure,substitui,tipo,translations,translator,type,urlpattern,valor,value,xmesmo_que,xsame_as,year]
 
 Structure YAML file already exists, not generating new one.
