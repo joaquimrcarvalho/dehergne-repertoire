@@ -1,5 +1,5 @@
 KleioTranslator - server version 12.9 - build 592 2026-03-19 23:14:02
-2026-10-28 03:32:56
+2026-10-30 03:31:35
 
 
 Processing data file dehergne-s.cli
@@ -14,7 +14,7 @@ Declared structure: gacto2.str
 Used structure: /usr/local/timelink/clio/src/stru/gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 200
+Translation count: 201
 Obs: 
 ** Processing source fonte$dehergne-s
 26: lista$dehergne-notices-s
