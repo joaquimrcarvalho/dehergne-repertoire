@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=203
+kleio$gacto2.str/translations=204
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-123
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
@@ -1157,7 +1157,7 @@ kleio$gacto2.str/translations=203
                ls$titulo/Monsenhor
 
             referido$António da Silva/id=deh-antonio-da-silva-ref3
-               ls$nascimento/Comba, diocese de Coimbra#ou Pinheiro, diocese de Coimbra/1637#ou1640
+               ls$nascimento/Comba, diocese de Coimbra#ou Pinheiro "Lus. 45, 461,nº566 dit N. 1640, Pinheyro", diocese de Coimbra — parishes not identified (see issue 15) @issue:15/1637#ou1640
                ls$jesuita-entrada/?/1654
                ls$dehergne/768-ref3/obs=N. 1637, Comba, d. de Coïmbre, E. 1654, que Lus. 45, 461 dit N. 1640, Pinheyro d. de Coïmbre, E. 1654.
 

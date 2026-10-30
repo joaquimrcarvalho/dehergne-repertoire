@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=175
+kleio$gacto2.str/translations=176
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-69
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$geonames/"https://www.geonames.org/$1"/id=root-lin4-69
@@ -350,7 +350,7 @@ kleio$gacto2.str/translations=175
 
                geo3$Kungan#Kong-ngan, today Gong'an, 公安, @wikidata:Q1198857/tcheou-hien/deh-r1644-kungan
 
-               geo3$Meng kia k´i%au bourg de Meng kia k´i#(?) in the Chinese translation it is recognized as “孟家集”, but 孟家集 is in Shandong province, not in Hubei. Dehergne(1957) said "Meng-kia-k´i à la frontière du Hunan, ancienne chrétienté des Ming"/town/deh-r1644-meng-kia-ki
+               geo3$Meng kia k´i%au bourg de Meng kia k´i#Mengjiaxi 孟家溪镇, Gong'an County, Hubei — Dehergne 1957-1967 "à la frontière du Hunan"; TGAZ hvd_128475 (29.8526, 112.09208) @wikidata:Q10945117 @issue:10/town/deh-r1644-meng-kia-ki
                   atr$active/yes/1644#circa
 
                geo3$Shihshow#Che-cheou, today Shishou, 石首, @wikidata:Q1359319/tcheou-hien/deh-r1644-shihshow
@@ -381,7 +381,7 @@ kleio$gacto2.str/translations=175
 
                geo3$Wuyan hien#Ou-yuen, today Wuyuan Xian, 婺源县, @wikidata:Q1357710, Wuyuan historically was in Anhui province, but now it is in the present-day Jiangxi province/tcheou-hien/deh-r1644-wuyan-hien
 
-               geo3$Tungmen%Wuyuän hien le bourg de Tungmen#(?) In Dehergne(1957, p51): "Chrétienté au Wuyüan (Ou-yuen) hien, à la frontière du Kiangsi, et se nomme Tungmen, à l'ouest du Wuyüan, route de Kingtehchen." in the Chinese translation it is recogniazed as “东门村”, but it seems that there is no 东门村 in this area./town/deh-r1644-tungment
+               geo3$Tungmen%Wuyuän hien le bourg de Tungmen#(?) In Dehergne(1957, p51): "Chrétienté au Wuyüan (Ou-yuen) hien, à la frontière du Kiangsi, et se nomme Tungmen, à l'ouest du Wuyüan, route de Kingtehchen." in the Chinese translation it is recogniazed as “东门村”, but it seems that there is no 东门村 in this area. @issue:9/town/deh-r1644-tungment
                   atr$active/yes/1644#circa
 
          geo1$Kiangsu#Jiangju, today Jiangsu, 江苏, @wikidata:Q16963/province/deh-r1644-kiangsu

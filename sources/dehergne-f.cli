@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=214
+kleio$gacto2.str/translations=215
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-123
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-f/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -1454,7 +1454,7 @@ kleio$gacto2.str/translations=214
 
          n$João da Fonseca/id=deh-joao-da-fonseca-ii
             ls$nacionalidade/Portugal
-            ls$nascimento/Villacova de Suevo, diocese de Coimbra#ILOC/17310912
+            ls$nascimento/Villacova de Suevo, diocese de Coimbra#Vila Cova de Sub-Avô, today Vila Cova de Alva (Arganil, Coimbra) — Dehergne's "Suevo" is the old form @wikidata:Q136840240 @issue:22/17310912
             ls$jesuita-entrada/?/17480518
             ls$embarque/[Para a China]/1753#não padre
             ls$wicky/2042/1753

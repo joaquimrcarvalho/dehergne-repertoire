@@ -1,5 +1,5 @@
 KleioTranslator - server version 12.9 - build 592 2026-03-19 23:14:02
-2026-10-30 03:30:16
+2026-10-30 08:09:41
 
 
 Processing data file dehergne-j.cli
@@ -14,10 +14,10 @@ Declared structure: gacto2.str
 Used structure: /usr/local/timelink/clio/src/stru/gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 77
+Translation count: 78
 Obs: 
 ** Processing source fonte$dehergne-j
-13: lista$dehergne-notices-j
+14: lista$dehergne-notices-j
 *** End of File
 
 
@@ -32,7 +32,7 @@ Local structure file: /kleio-home/sources/dehergne-j-auto-structure.yaml
 Temp file with ids: /kleio-home/sources/dehergne-j.ids
 ** - /kleio-home/sources/dehergne-j.cli-renamed to- /kleio-home/sources/dehergne-j.old
 
-Groups in this file: [attribute,historical-act,historical-source,kleio,link,person,relation,ls,pt-acto,fonte,female,male,rel,lista,parentef,actorm,parentem,referido,kin-mother,n,kin-father,mae,pai]
+Groups in this file: [attribute,historical-act,historical-source,kleio,link,person,property,relation,ls,pt-acto,fonte,female,male,rel,lista,parentef,actorm,parentem,referido,kin-mother,n,kin-father,mae,pai]
 Elements in this file: [ano,autorels,data,date,day,destination,destname,dia,id,iddest,kleiofile,loc,localizacao,mes,mesmo_que,month,name,nome,nomedest,obs,prefix,ref,replace,same_as,sex,sexo,shortname,structure,substitui,tipo,translations,translator,type,urlpattern,valor,value,xmesmo_que,xsame_as,year]
 
 Structure YAML file already exists, not generating new one.
