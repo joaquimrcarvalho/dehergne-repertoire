@@ -1,5 +1,5 @@
 KleioTranslator - server version 12.9 - build 592 2026-03-19 23:14:02
-2026-10-30 03:28:45
+2026-10-30 04:37:58
 
 
 Processing data file dehergne-c.cli
@@ -14,12 +14,13 @@ Declared structure: gacto2.str
 Used structure: /usr/local/timelink/clio/src/stru/gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 291
+Translation count: 293
 Obs: 
 ** Processing source fonte$dehergne-c
 13: lista$dehergne-notices-c
 *** End of File
 
+Line 1598 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-pedro-zuzarte) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 Line 1815 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (deh-francisco-cabral) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
 Structure file: /usr/local/timelink/clio/src/stru/gacto2.str
