@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=259
+kleio$gacto2.str/translations=260
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-175
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-a/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -399,7 +399,7 @@ kleio$gacto2.str/translations=259
             ls$embarque/Nossa Senhora da Piedade/16090323
             ls$wicky/550/16090323
             ls$wicky-viagem/50/16090323
-            ls$estadia/Salcete, Índia%Salsette# @wikidata:Q117196/16100100
+            ls$estadia/Salcete, Índia%Salsette# @wikidata:Q256847 @issue:89/16100100
             ls$tarefa/Observa um eclipse/16100100
             ls$estadia/Macau# @wikidata:Q14773/16100000#tenta em vão ir a Cantão
             ls$tarefa/Observa um eclipse/16110000
@@ -420,10 +420,51 @@ kleio$gacto2.str/translations=259
             ls$estadia/Yenping, Yen-p'ing, Fukien#@wikidata:Q1337959/16480000#durante a conquista tártara
             ls$jesuita-votos/4V/16240300#ou 16240400
             ls$morte/Yean-sam%Yen-sam «para o monte qua chamao da Cruz», Yenping, Fukien#@wikidata:Q1337959 (延平區 Yanping District, the district containing the old 延平府 seat) @issue:67/16490610
-            ls$dehergne/17/obs=Aleni (Alenis), Giulio (ital.) P. 17 Alenis, JS 134, 315., De Leni., De Lenes., Anhells., De Elenis. Ngal Jou-lio Sseu-Ki (Pf.: Ngal... Se-Kl). N. 1582, « Italus Brixensis » (JS 134, 303v) (Vert. 38, 36v): Brescia. E. 1 nov. 1600, Novellara. Demande le 16 mai 1603 les missions, et il précise: « Le Pérou, ou ailleurs ». P. vers 1608. Emb. sur le Na. Sra. da Piedade le 23 mars 1609 (W 550: P. Giulio De Leni)., janv. 1610, Salsette, où il observe une éclipse., 1610, Macao, d'où il tente vainement d'aller à Canton, et où il observe une éclipse, 1611-1612 (citée dans MARS VII, 705 et 798.,) 1613, Pékin., Kaifeng, K'ai-fong fou (synagogue), LEP IV 140., Nankin., Shanghai., Yangchow, Yang-tcheou., 1619, Hangchow, Hang-tcheou, Chekiang, Tchô-kiang, 250 baptêmes., 1620, Kiangchow, il fonde la mission du Shansi, Chan-si., 1623 Changshu, Tch'ang-chou, Kiangsu., avril 1625, il fonde la mission du Fukien, Fou-kien., 1639 exil à Macao.,
-            ls$dehergne/17/obs=vice-provincial de Chine, 1641 (JS 134, 319) à Yenping, Yen-p'ing, Fukien, durant la conquête tartare, 1648.V. mars ou avril 1624, les documents sont perdus. M. 10 juin 1649, à Yen-sam «para o monte qua chamao da Cruz», près du mont appelé de la Croix (JA 49-V-13, 483v), Yenping, Fukien (HS 47, 72, suivi par Pf., dit: en août 1649). Pf. 126i., DHGE (E. M. Rivière)., EC (Lamalle)., DBI (P. Pirri)., NCE (J. V. Mentag).Biographies: Le « Confucius de l'Occident» (D'Elu, II 42 n. I., III 69)., Santambrogio, Mario, --Confucio dell'Occidente, Memorie Storiche delta Diocesi di Brescia, XVIII, Brescia, 1950, p. 21-32., vies chinoises, BN: Courant 1016-1017. Son oeuvre artistique et scientifique: AHSI, Ven. 37, 231, Catalogue de ses oeuvres., A. Favaro, Carteggio inedito de Tico Brahe, Giovanni Keptero e di altri celebri astronomi, Bologne, 1886, 347-349.,
-            ls$dehergne/17/obs=H. Bernard-CMaitre], Les Etapes de la cartographie scientifique pour la Chine, MS I, 1936, 428477., Caraci, Gius. e Muccioli, Marcello, II mappamondo cinese del Padre G. A., Bollettino délia R. Società Geogr. ltaliana, VII, 3, Rome 1938, 386426., D'Elia, Le origini dell'arte cristiana cinese (1583-1640), Rome, 1939, 121 sq., L'Italia aile origini degli studi sulla Cina, Nuova Antologia LXXVII, 1942, vol. 422, p. 148-169., Galileo in Cina 1947, 29-33., Le « Generalità suite scienze occidentali di G. A.», Riv. degli studi orientait, XXV, 1950, 58-76., Dehergne, J., Une vie illustrée de N.S. au temps des Ming, NZM 14 (1958), 103-115., Brunner, 95-96., Needham, III, 584, carte de 1623., Mish, John L., Creating an Image of Europe for China, Aleni's Hsi-fang ta-wen, MS 23 (1964), 4-87., Van Hecken, J. L., Une version mongole du Wan-ou-tchen-yuen du P. A., NZM 22 (1966), 98-108.,
-            ls$dehergne/17/obs=vice-provincial de Chine, 1641 (JS 134, 319) à Yenping, Yen-p'ing, Fukien, durant la conquête tartare, 1648.Streit V, 2075, et XII p. 564, 584., XIV, I pp. 438-441, écrits religieux etc. - Courant 1519., 9549., 10988 (72). Portrait: BN: Mss Fonds chinois 1017 (signalé par le P. Lamalle).
+            ls$dehergne/17/obs="""
+            Aleni (Alenis), Giulio (ital.) P. 17 Alenis, JS 134, 315., De Leni., De Lenes., Anhells., De Elenis.
+            Ngal Jou-lio Sseu-Ki (Pf.: Ngal... Se-Kl).
+            N. 1582, « Italus Brixensis » (JS 134, 303v) (Vert. 38, 36v): Brescia.
+            E. 1 nov. 1600, Novellara.
+            Demande le 16 mai 1603 les missions, et il précise: « Le Pérou, ou ailleurs ».
+            P. vers 1608.
+            Emb. sur le Na. Sra. da Piedade le 23 mars 1609 (W 550: P. Giulio De Leni).,
+            janv. 1610, Salsette, où il observe une éclipse.,
+            1610, Macao, d'où il tente vainement d'aller à Canton, et où il observe une éclipse,
+            1611-1612 (citée dans MARS VII, 705 et 798.,)
+            1613, Pékin.,
+            Kaifeng, K'ai-fong fou (synagogue), LEP IV 140.,
+            Nankin.,
+            Shanghai.,
+            Yangchow, Yang-tcheou.,
+            1619, Hangchow, Hang-tcheou, Chekiang, Tchô-kiang, 250 baptêmes.,
+            1620, Kiangchow, il fonde la mission du Shansi, Chan-si.,
+            1623 Changshu, Tch'ang-chou, Kiangsu.,
+            avril 1625, il fonde la mission du Fukien, Fou-kien.,
+            1639 exil à Macao.,
+            vice-provincial de Chine, 1641 (JS 134, 319) à Yenping, Yen-p'ing, Fukien, durant la conquête tartare, 1648.
+            V. mars ou avril 1624, les documents sont perdus.
+            M. 10 juin 1649, à Yen-sam «para o monte qua chamao da Cruz», près du mont appelé de la Croix (JA 49-V-13, 483v), Yenping, Fukien (HS 47, 72, suivi par Pf., dit: en août 1649).
+            Pf. 126i., DHGE (E. M. Rivière)., EC (Lamalle)., DBI (P. Pirri)., NCE (J. V. Mentag).
+            Biographies: Le « Confucius de l'Occident» (D'Elu, II 42 n. I., III 69).,
+            Santambrogio, Mario, --Confucio dell'Occidente, Memorie Storiche delta Diocesi di Brescia, XVIII, Brescia, 1950, p. 21-32.,
+            vies chinoises, BN: Courant 1016-1017.
+            Son oeuvre artistique et scientifique: AHSI, Ven. 37, 231, Catalogue de ses oeuvres.,
+            A. Favaro, Carteggio inedito de Tico Brahe, Giovanni Keptero e di altri celebri astronomi, Bologne, 1886, 347-349.,
+            H. Bernard-CMaitre], Les Etapes de la cartographie scientifique pour la Chine, MS I, 1936, 428477.,
+            Caraci, Gius. e Muccioli, Marcello, II mappamondo cinese del Padre G. A., Bollettino délia R. Società Geogr. ltaliana, VII, 3, Rome 1938, 386426.,
+            D'Elia, Le origini dell'arte cristiana cinese (1583-1640), Rome, 1939, 121 sq.,
+            L'Italia aile origini degli studi sulla Cina, Nuova Antologia LXXVII, 1942, vol. 422, p. 148-169.,
+            Galileo in Cina 1947, 29-33.,
+            Le « Generalità suite scienze occidentali di G. A.», Riv. degli studi orientait, XXV, 1950, 58-76.,
+            Dehergne, J., Une vie illustrée de N.S. au temps des Ming, NZM 14 (1958), 103-115.,
+            Brunner, 95-96.,
+            Needham, III, 584, carte de 1623.,
+            Mish, John L., Creating an Image of Europe for China, Aleni's Hsi-fang ta-wen, MS 23 (1964), 4-87.,
+            Van Hecken, J. L., Une version mongole du Wan-ou-tchen-yuen du P. A., NZM 22 (1966), 98-108.,
+            vice-provincial de Chine, 1641 (JS 134, 319) à Yenping, Yen-p'ing, Fukien, durant la conquête tartare, 1648.
+            Streit V, 2075, et XII p. 564, 584.,
+            XIV, I pp. 438-441, écrits religieux etc. - Courant 1519., 9549., 10988 (72).
+            Portrait: BN: Mss Fonds chinois 1017 (signalé par le P. Lamalle)."""
 
          n$Michel Alfonso Chen/id=deh-michel-alfonso-chen
             ls$nacionalidade/China
@@ -1379,7 +1420,7 @@ kleio$gacto2.str/translations=259
             ls$wicky-viagem/162/17430000
             ls$estadia/Macau# @wikidata:Q14773/17440913
             ls$estadia/Nanquim# @wikidata:Q16666/17450112#depois de
-            ls$estadia/Tch'ang-chou, Changshu (igreja de Tong ko)# @wikidata:Q113497198/17471211#capturado durante a sua acção de graças
+            ls$estadia/Tch'ang-chou, Changshu (igreja de Tong ko)# @wikidata:Q1015805 @issue:87/17471211#capturado durante a sua acção de graças
             ls$jesuita-ordenacao-padre/?/17360900
             ls$jesuita-votos/4V/17410202
             ls$jesuita-votos-local/Piacenza%Plaisence# @wikidata:Q13329/17410202

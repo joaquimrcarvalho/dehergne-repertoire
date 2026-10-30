@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=82
+kleio$gacto2.str/translations=83
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-54
    fonte$dehergne-n/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
          Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra N
@@ -193,7 +193,7 @@ kleio$gacto2.str/translations=82
             ls$partida/Roma# @wikidata:Q220/17011206#deveria partir com Visdelou e Arxó, mas eles não estavam lá, por isso são substituidos por Castner
             ls$chegada/Cantão# @wikidata:Q16572/17021101
             ls$embarque/[Para Inglaterra]#num navio inglês/17030114
-            ls$estadia/Batávia# @wikidata:Q850526/17030000
+            ls$estadia/Batávia# @wikidata:Q1199713/17030000
             ls$estadia/Santa Helena# @wikidata:Q34497/17030000
             ls$chegada/Londres# @wikidata:Q84/17031004
             ls$estadia/Paris# @wikidata:Q90/17031031
@@ -231,7 +231,7 @@ kleio$gacto2.str/translations=82
                ls$estadia/Cantão# @wikidata:Q16572/17021101
                ls$jesuita-cargo/Procurador/17021101#cerca de
                ls$embarque/[Para Inglaterra]#num navio inglês/17030114
-               ls$estadia/Batávia# @wikidata:Q850526/17030000
+               ls$estadia/Batávia# @wikidata:Q1199713/17030000
                ls$estadia/Santa Helena# @wikidata:Q34497/17030000
                ls$chegada/Londres# @wikidata:Q84/17031004
                ls$estadia/Paris# @wikidata:Q90/17031031

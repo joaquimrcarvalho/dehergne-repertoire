@@ -1,5 +1,6 @@
-kleio$gacto2.str/translations=173
+kleio$gacto2.str/translations=174
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-69
+   link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$geonames/"https://www.geonames.org/$1"/id=root-lin4-69
    link$dehergne/"https://archive.org/details/bhsi37/page/n$1/mode/1up"/id=root-lin5-69
    fonte$dehergne-locations-1644#@dehergne:396/1644/geoinformation/substitui=dehergne-map-1644/obs="""
@@ -426,7 +427,7 @@ kleio$gacto2.str/translations=173
             geo2$Soochow%Soochow (Wuhsien)#Sou-tcheou, Suchou, today Suzhou, 苏州, @wikidata:Q42622/fou/deh-r1644-soochow
                atr$active/yes/1614
 
-               geo3$Changshu#today Wuxian, 吴县, @wikidata:Q113497198 (no coord.), former city in Jiangsu, coordinates: 31°15'52"N, 120°37'41"E (Q943850 Wuzhong District)/tcheou-hien/deh-r1644-changshu
+               geo3$Changshu#Tch'ang-chou,Cham xo, today Changshu, 常熟, @wikidata:Q1015805 the historical county is wikidata:Q46536593 (常熟縣) @issue:87/tcheou-hien/deh-r1644-changshu
                   atr$active/yes/1623
                   atr$religious-order/Jesuit/1635/obs=R 1635 «Cham Xo», cf AHSI 28 (1951) 311-312
 

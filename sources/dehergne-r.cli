@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=211
+kleio$gacto2.str/translations=212
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-121
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$bdcconline/"https://bdcconline.net/en/stories/$1"/obs=Biographical Dictionary of Chinese Christianity
@@ -1628,9 +1628,9 @@ kleio$gacto2.str/translations=211
             ls$profissao/Astrónomo/1679
             ls$estadia/Foukien# @wikidata:Q41705/1682
             ls$estadia/Kiangnan#@wikidata:Q11133842
-            ls$estadia/Tch'ang-chou do Sou-tcheou fou# @wikidata:Q113497198/1684
+            ls$estadia/Tch'ang-chou do Sou-tcheou fou# @wikidata:Q1015805 @issue:87/1684
             ls$estadia/Tsungming (Tch'ong-ming)# @wikidata:Q788812/1685
-            ls$estadia/Tch'ang-chou do Sou-tcheou fou# @wikidata:Q113497198/1690
+            ls$estadia/Tch'ang-chou do Sou-tcheou fou# @wikidata:Q1015805 @issue:87/1690
             ls$estadia/Sou-tcheou fou# @wikidata:Q131962/1700
             ls$jesuita-ordenacao-padre/?/1673#antes de
             ls$jesuita-votos/4V/16820202
