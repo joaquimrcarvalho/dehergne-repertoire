@@ -1,4 +1,6 @@
-kleio$gacto2.str/translations=78
+kleio$gacto2.str/translations=79
+
+   property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-49
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
@@ -233,7 +235,7 @@ kleio$gacto2.str/translations=78
                ls$jesuita-entrada/Lisboa# @wikidata:Q597/17180000
                ls$estadia/Mysore%Maïssour# @wikidata:Q10086/17330000
                ls$jesuita-votos/4V/17350202
-               ls$morte/Ascitano#? ILOC (Asciano, Siena?)/17650000#cerca de
+               ls$morte/Ascitano#Ascitano likely Asciano (Siena), Latin *Ascitanus*; probable only (see issue 6) @wikidata:Q91108 @issue:6/17650000#cerca de
                ls$dehergne/422-ref2/obs="""
                     Un autre P. Emmanuel Josephus N. Marinha, 1702,
                     est E. Lisbonne 1718,
