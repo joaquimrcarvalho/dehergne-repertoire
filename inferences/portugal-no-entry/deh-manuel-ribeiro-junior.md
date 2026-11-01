@@ -87,9 +87,13 @@ Em nenhuma delas aparece um Manuel/Emanuel Ribeiro que possa ser esta personagem
 
 A folha 115v (catálogo de 1711, «Supplementum», título «Ad Sinensem») lista, logo a seguir a Camello, um «Fr. Emmanuel Rib[eiro] Novitius»: é a única menção coeva que Dehergne pôde usar, e apenas prova que era noviço quando foi destinado à China. Note-se ainda que no catálogo de 1705, f. 73v, aparece um «Fr. Emanuel Ribeiro» — mas coadjutor temporal formado, entrado a 21 de Dezembro de 1680, portanto homónimo muito mais velho.
 
+### 4.3 Verificação da lista de noviços de 1700 (2026-11-01)
+
+Percorridas as três listas de noviços da Casa de Provação de Lisboa no catálogo de 1700 (Lus. 47, ff. 22v-23: nn. 393-412, 415-428 e 429-436), **não figura nenhum «Ribeiro»**. Confirma-se o resultado da sessão anterior (que já tinha visto as entradas de 1698-1700). O lugar de entrada continua por estabelecer.
+
 ### O que não foi encontrado
 
-Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emmanuel Ribeiro» no pha (docs 63/64 de Rodrigues, 65 Dehergne, 66 Wicki, 44 Missões dos jesuítas no Oriente) e leram-se as listas de noviços de 1700 e 1705 do códice ARSI Lus. 47 (ff. 16, 16v, 22-23v, 72v-73, 85v-86v). O único «Manuel Ribeiro» encontrado no pha é de Alcácer-do-Sal, entrado a 11 de Janeiro de 1610, missionário em Angola (doc 63, p. 379) — homónimo. Falta, para resolver o caso, um catálogo da província de Portugal de 1700-1701 que registe a sua admissão (o códice Lus. 46a, «Catalogus 1.us ... anno 1700», foi apenas parcialmente explorado).
+Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emmanuel Ribeiro» no pha (docs 63/64 de Rodrigues, 65 Dehergne, 66 Wicki, 44 Missões dos jesuítas no Oriente) e leram-se as listas de noviços de 1700 e 1705 do códice ARSI Lus. 47 (ff. 16, 16v, 22-23v, 72v-73, 85v-86v). O único «Manuel Ribeiro» encontrado no pha é de Alcácer-do-Sal, entrado a 11 de Janeiro de 1610, missionário em Angola (doc 63, p. 379) — homónimo. Falta, para resolver o caso, um catálogo da província de Portugal de 1700-1701 que registe a sua admissão (o códice Lus. 46a, «Catalogus 1.us ... anno 1700», foi apenas parcialmente explorado). Acrescenta-se (2026-11-01) a verificação das listas de noviços de 1700 (nn. 393-436), sem resultado.
 
 ## 5. Evidência
 
@@ -99,6 +103,8 @@ Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emma
   - procura negativa: Manuel/Emanuel Ribeiro não figura entre os noviços de Lisboa em 1700 (n.os 429-440), onde estão, por exemplo, Camello (n.º 439) e Francisco Simões (n.º 435)
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 255, n.º 680 « Ribeiro, Manuel junior (port.) (II) » — edited (`french-ocr`) · `pha page 65 255 --edited` · `pha page 65 255 --edited` · prova indireta (fonte da data)
   - «N. 28 févr. 1680 -E. 1er mars 1700 (JS 25, 279, 282). Emb. non prêtre en 1701 pour la Chine (W 1447), étant novice (Lus. 47, 115v)» — a data de entrada e a qualidade de noviço, sem lugar
+- ARSI, *Lus. 47*, catálogo de 1700, «Novitij Scholastici» da Domus Probationis (nn. 393-436), ff. 22v-23 — imagens `LUS. 47/022v.jpg` e `LUS. 47/023.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/022v.jpg"` · prova negativa
+  - NEGATIVA: não está entre os noviços da Casa de Provação em 1700
 
 ## 6. Referências
 
