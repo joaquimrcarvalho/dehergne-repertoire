@@ -5,10 +5,10 @@
 ## TL;DR
 
 - **Tarefa:** determinar o **lugar de entrada na Companhia** (atributo Timelink `jesuita-entrada`) dos **110 missionários portugueses da China** a quem o Dehergne deixa `E. <ano>` **sem lugar**.
-- **Estado:** **110 tratados — 37 confiança alta · 35 média · 11 baixa · 27 não determinados** (2026‑11‑01).
+- **Estado:** **110 tratados — 39 confiança alta · 36 média · 11 baixa · 24 não determinados** (2026‑11‑01).
 - **Fonte de verdade:** esta pasta — `results/<id>.json` (uma ficha por pessoa), 110 notas `deh-<id>.md` geradas a partir delas, `tools/` (pipeline) e `Índice - Portugal no entry.md` (gerado).
 - **Cópia de leitura:** vault `04 Biographies/dehergne/portugal_noentry/` — **gerada** por `tools/vault_copy.py`; não editar à mão lá.
-- **Próximo passo:** continuar a tabela §7 pelos **27 em aberto** — já revistos 1649 (Couceiro fechado, Abreu em aberto), 1651 (Sotomaior: Lisboa por inferência) e 1652 (Pinto II: Coimbra, noviço em 1654); segue-se **1678 T1 (Lus. 46 ff. 1‑21v)** — André da Costa / António Simões.
+- **Próximo passo:** continuar a tabela §7 pelos **24 em aberto** — revistos 1649 (Couceiro), 1651 (Sotomaior), 1652 (Pinto II), 1678 (Costa fechado, Simões em aberto), 1685‑1694 (Pereira e Cardoso fechados; Duarte, Sousa, Marques, Teles em aberto). Seguem-se os restantes (1630, 1635, 1647, 1663, 1666, 1673, 1675, 1685, 1686, 1699, 1700, 1707, 1709, 1710) e os três bloqueados de 1727‑1734.
 
 ## 1. Contexto
 
@@ -103,16 +103,16 @@ Os fólios da coluna «Próximo catálogo a ler» vêm do índice do pacote (`in
 | 1666 | Francisco Simões | 1669 T1 (Lus. 45 ff. 362‑376v) | a ler |
 | 1673 | José Soares | 1675 T1 (Lus. 45 ff. 444‑463v) | a ler |
 | 1675 | Simão Pinto | 1675 T1 (Lus. 45 ff. 444‑463v) | a ler |
-| 1678 | André da Costa | 1678 T1 (Lus. 46 ff. 1‑21v; o f. 22 é o T6) | a ler |
-| 1678 | António Simões I | 1678 T1 (Lus. 46 ff. 1‑21v; o f. 22 é o T6) | a ler |
+| 1678 | André da Costa | 1678 T1 (Lus. 46 ff. 1‑21v; o f. 22 é o T6) | **fechado (2026‑11‑01)**: noviço da **Domus Probationis de Lisboa** no catálogo de 1681 — «Fr. Andreas da Costa. Bracharensis, an. 18 et 3 menses. Societ. 21 menses» (f. 70v, n.º 446) ⇒ **Lisboa (Casa de Provação), alta** |
+| 1678 | António Simões I | 1678 T1 (Lus. 46 ff. 1‑21v; o f. 22 é o T6) | **revisto (2026‑11‑01)**: ausente das quatro listas de noviços (Lisboa e Coimbra, 1678 e 1681) ⇒ entrou depois do catálogo de 1678; noviciado em 1678‑80, sem catálogo; **em aberto** (Lisboa ou Coimbra) |
 | 1685 | António Freire | 1685 T1 (Lus. 46 ff. 118‑151v); ver 1685 T4 (Lus. 39 ff. 136‑139v) | a ler |
 | 1686 | Francisco Barbosa | 1690 T1 (Lus. 46 ff. 192‑218v) | a ler |
-| 1690 | Félix‑José Pereira | 1690 T1 (Lus. 46 ff. 192‑218v) | a ler |
-| 1690 | João Duarte | 1690 T1 (Lus. 46 ff. 192‑218v) | a ler |
-| 1692 | João Francisco Cardoso | 1693 T1 (Lus. 46 ff. 242‑295v) | a ler |
-| 1693 | Manuel Marques | 1693 T1 (Lus. 46 ff. 242‑295v) | a ler |
-| 1693 | Manuel Teles | 1693 T1 (Lus. 46 ff. 242‑295v) | a ler |
-| 1694 | Manuel de Sousa | 1696 T1 (Lus. 46 ff. 314‑343v) | a ler |
+| 1690 | Félix‑José Pereira | 1690 T1 (Lus. 46 ff. 192‑218v) | **fechado (2026‑11‑01)**: noviço da **Domus Probationis de Lisboa** no catálogo de 1690 — «Fr. Josephus Pereira … initi Societ. 14 Januarii an. 1690» (f. 207, n.º 402; data exacta do Dehergne) ⇒ **Lisboa (Casa de Provação), alta** |
+| 1690 | João Duarte | 1690 T1 (Lus. 46 ff. 192‑218v) | **revisto (2026‑11‑01)**: o catálogo de 1690 é anterior à entrada (17 Jul. 1690) e o de 1693 é posterior aos votos; não consta das listas de noviços de Lisboa nem de Coimbra ⇒ **em aberto** (lacuna 1691‑92) |
+| 1692 | João Francisco Cardoso | 1693 T1 (Lus. 46 ff. 242‑295v) | **fechado (2026‑11‑01)**: «Fr. Franciscus Cardozo … ingressus Societ. 22 Decembris an. 1692» na lista de noviços da **Domus Probationis de Lisboa** (f. 272v, n.º 420) ⇒ **Lisboa (Casa de Provação), média** (nome próprio «Franciscus» vs «João Francisco») |
+| 1693 | Manuel Marques | 1693 T1 (Lus. 46 ff. 242‑295v) | **revisto (2026‑11‑01)**: catálogo de 1693 anterior à entrada; o de 1696 já é posterior ao noviciado; não figura nas listas de noviços ⇒ **em aberto** |
+| 1693 | Manuel Teles | 1693 T1 (Lus. 46 ff. 242‑295v) | **revisto (2026‑11‑01)**: idem — catálogos de 1693 (anterior) e 1696 (posterior ao noviciado); **em aberto** |
+| 1694 | Manuel de Sousa | 1696 T1 (Lus. 46 ff. 314‑343v) | **revisto (2026‑11‑01)**: entrou a 6 Set. 1690 (catálogo de 1700, Lus. 46a f. 19); o catálogo de 1690 é anterior e o de 1693 posterior ao noviciado; não consta das listas de noviços ⇒ **em aberto** |
 | 1699 | Teotónio Leitão | 1700 T1 (Lus. 47 ff. 8‑33v; variante Lus. 46 a ff. 1‑39v) | a ler |
 | 1700 | Manuel Ribeiro júnior | 1700 T1 (Lus. 47 ff. 8‑33v; variante Lus. 46 a ff. 1‑39v) | a ler |
 | 1707 | André Pereira | 1711 T1 (Lus. 47 ff. 118‑151) | a ler |
@@ -141,7 +141,7 @@ Os fólios da coluna «Próximo catálogo a ler» vêm do índice do pacote (`in
 - **2026-10-23** — índice cronológico dos 270 catálogos; lista dos casos com «look‑back»; verificações Caetano Lopes, Zuzarte (1636/1639), Lucas Correa (1633, f. 490v).
 - **2026-10-24/25** — Inácio da Costa = Inácio Nunes (1625 f. 419v n.º 288) ⇒ Lisboa (Monte Olivete); Lucas Correa revisto para Lisboa; estado fixado em 37/33/10/30.
 - **2026-11-01** — nota de tarefa preenchida e movida para `01 Notes`; este handover criado.
-- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Casos do §7 revistos: **Couceiro** (Coimbra inferido, média; cote f. 180 n.º 111 localizado) e **Abreu** (Évora 1651 = residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto); depois **Sotomaior** (Lisboa/Casa de Provação, baixa) e **Pinto II** (noviço em Coimbra em 1654, f. 79v n.º 182 ⇒ Coimbra, média). Estado: 37 alta · 35 média · 11 baixa · 27 não determinados. Registado o **pacote de índice das digitalizações** (`indexes/` + `AGENTS.md` no SSD, 274 catálogos) e criado o atalho `tools/arsi_index.py`.
+- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Casos do §7 revistos: **Couceiro** (Coimbra inferido, média; cote f. 180 n.º 111 localizado) e **Abreu** (Évora 1651 = residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto); depois **Sotomaior** (Lisboa/Casa de Provação, baixa) e **Pinto II** (noviço em Coimbra em 1654, f. 79v n.º 182 ⇒ Coimbra, média); **André da Costa** (noviço da Domus Probationis de Lisboa em 1681, f. 70v n.º 446 ⇒ Lisboa, alta), **Félix‑José Pereira** (idem em 1690, f. 207 n.º 402 ⇒ Lisboa, alta) e **João Francisco Cardoso** (idem em 1693, f. 272v n.º 420 ⇒ Lisboa, média); revistos sem resultado Duarte, Sousa, Marques, Teles e António Simões I (lacunas de catálogo). Estado: 39 alta · 36 média · 11 baixa · 24 não determinados. Registado o **pacote de índice das digitalizações** (`indexes/` + `AGENTS.md` no SSD, 274 catálogos) e criado o atalho `tools/arsi_index.py`.
 
 ## 10. Ligações úteis
 

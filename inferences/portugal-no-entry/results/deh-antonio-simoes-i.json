@@ -1,52 +1,68 @@
 {
-  "id": "deh-antonio-simoes-i",
-  "name": "António Simões (I)",
-  "lugar": null,
-  "data": null,
-  "confianca": "nenhuma",
-  "sugestao_tabela": "",
-  "validacao": "lugar não estabelecido: o fólio citado por Dehergne (Lus. 46, 73) pertence, segundo o índice do códice, às listas de casas do catálogo de 1681 (Braga termina em 72, o Porto começa em 73v) e dá apenas residência e anos de Companhia",
-  "resumo": "O lugar de entrada não fica estabelecido. O fólio que Dehergne cita (Lus. 46, 73) pertence, segundo a tabela datilografada da folha de guarda, às listas de casas do catálogo de 1681: o Colégio de Braga ocupa as pp. 72-73v e o Porto começa em 73v. É, portanto, uma lista de residência, onde o «Societ. N» permitiu a Dehergne calcular o ano da entrada (1678), sem indicar a casa. A única lista de noviços portuguesa dos anos 1677-1680 — a do catálogo de 1678, no Colégio de Coimbra (Lus. 46, p. 8) — não inclui nenhum «Antonius Simoens».",
-  "biografia": "António Simões (I), português, natural de Rio de Galinhas, diocese de Coimbra (1661). Entrou na Companhia em 1678. Embarcou não sacerdote no Santiago a 29 de Março de 1682 (Wicki 1221, 105.ª expedição) e chegou no mesmo ano ou em 1683. Estava em Chengting (Hebei) antes de 1696, em Nanchang (Jiangxi) em 1710 e em Pequim em 1748 (Krahl 85; Pfister 397). Dehergne nota que a sua vinda à China assenta apenas em LEP III, Pfister 397 e Krahl 85, e que não o encontrou nos catálogos da China de 1688 a 1751, nem nos do Japão (1691, 1698) nem de Goa (1709, 1713).",
-  "analise": [
-    {
-      "titulo": "1. O que Dehergne diz e cita",
-      "texto": "«N. « Ex oppido Rio de Galinhas », d. de Coïmbre, 1661 -E. 1678 (Lus. 46, 73).» — a única fonte citada para a entrada é o catálogo português; e o fólio cai numa lista de casas (residência em 1681)."
-    },
-    {
-      "titulo": "2. As listas de noviços dos anos da sua entrada",
-      "texto": "As listas de noviços portuguesas existentes nas digitalizações são: 1675 (Lus. 45, Colégio de Coimbra, n.os 201-221), 1678 (Lus. 46, Colégio de Coimbra, n.os 220-236), 1681 (Lus. 46, Domus Probationis, n.os 444-468) e 1685 (Lus. 46, Domus Probationis, n.os 474-491). Para uma entrada em 1678 só a lista de 1678 seria contemporânea; li-a e nenhum «Antonius Simoens» figura. Os catálogos de 1679 e 1680 não existem nas digitalizações."
-    }
-  ],
-  "evidencias": [
-    {
-      "citacao": "ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente)",
-      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
-      "o_que_prova": "estrutura do códice por casas: 1678 «Conimbricens. C 2v … D.Prb 14»; 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»",
-      "forca": "indireta (instrumento de navegação do códice)"
-    },
-    {
-      "citacao": "ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
-      "o_que_prova": "em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa",
-      "forca": "direta (existência e teor da lista de noviços de 1678)"
-    },
-    {
-      "citacao": "ARSI, *Lusitania* 46, p. 52 (imagem `LUS. 46/051.jpg`): «Catalogus Primus Provinciae Lusitanae. annus 1681. Domus Professa Ulyssiponensis…» (manuscrito lido directamente)",
-      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/051.jpg\"",
-      "o_que_prova": "o catálogo de 1681 começa na p. 52; o catálogo está datado de 1681",
-      "forca": "direta"
-    },
-    {
-      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 782 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-s`) · `python3 tools/packet.py deh-antonio-simoes-i`",
-      "comando": "python3 tools/packet.py deh-antonio-simoes-i",
-      "o_que_prova": "texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita",
-      "forca": "indireta (fonte da data)"
-    }
-  ],
-  "nao_encontrado": "Procurou-se: (1) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus. 46, p. 8) — não figura; (2) as listas de noviços da Domus Probationis de 1681 e 1685 (Lus. 46, pp. 70v-71 e 139v-140) — tardias; (3) buscas no pha por «António Simões»/«Simoens» — só um Garcia Simões de 1556; (4) o fólio 73 do catálogo de 1681, a que Dehergne remete — não foi aberto nesta missão, mas a tabela do índice do códice coloca-o nas listas de casas (Braga/Porto) e não numa lista de noviços.",
-  "refs_obsidian": [
-    "[[0 Portugal no entry]]",
-    "[[deh-antonio-simoes-i]]"
-  ]
+ "id": "deh-antonio-simoes-i",
+ "name": "António Simões (I)",
+ "lugar": null,
+ "data": "1678 (Dehergne)",
+ "confianca": "nenhuma",
+ "sugestao_tabela": "nenhuma («?» na coluna jesuita-entrada)",
+ "validacao": "Não confirmada. A cote de Dehergne (Lus. 46, 73) pertence ao catálogo de 1681 e é uma lista de casa (Braga/Porto): residência, não noviciado. Procurou-se nas quatro listas de noviços que poderiam cobri-lo — 1678 (Lisboa, ff. 14v-15; Coimbra, f. 8) e 1681 (Lisboa, ff. 70v-71; Coimbra, f. 61) — e não figura em nenhuma: entrou depois da feitura do catálogo de 1678, e o catálogo de 1681 já o mostra como estudante, não como noviço. O noviciado (1678-80) cai num intervalo sem catálogo neste volume; o lugar fica em aberto, entre Lisboa (Casa de Provação) e Coimbra, ambas casas de noviciado nesses anos.",
+ "resumo": "O lugar de entrada de António Simões I não fica estabelecido. Dehergne cita «Lus. 46, 73» para a entrada de 1678: esse fólio é, no catálogo de 1681, a lista do Colégio de Braga/Porto — uma residência que deu o ano (pelos anos de Companhia) mas não a casa. O noviciado terá decorrido entre 1678 e 1680, e nesse intervalo o Lus. 46 não tem catálogo; nas listas de noviços vizinhas (Lisboa e Coimbra, 1678 e 1681) ele não aparece. Fica o registo completo do que se procurou e das duas hipóteses vivas: Lisboa (Casa de Provação) ou Coimbra.",
+ "biografia": "António Simões (I) nasceu em Rio de Galinhas, diocese de Coimbra, em 1661. Segundo Dehergne, entrou na Companhia em 1678; embarcou para o Oriente, ainda não padre, no *Santiago* a 29 de Março de 1682 (W 1221), chegando em 1682 ou 1683. Estava em Chengting (Tcheng-ting fou, Hopei) antes de 1696 e em Nanchang (Nantchang fou, Kiangsi) em 1710; em 1748 estava em Pequim (Krahl, 85 n.; WB 83 p. 17). Dehergne nota que a vinda à China só é atestada por Lep III, 7 e Pfister 397/Krahl, e que ele não aparece nos catálogos da China de 1688 a 1751, nem nos do Japão (1691, 1698) nem nos de Goa (1709, 1713) — uma notícia difícil.",
+ "analise": [
+  {
+   "titulo": "A cote de Dehergne (Lus. 46, 73): residência, não noviciado",
+   "texto": "> «Simões, António (port.) [de] (I) P. 782 N. « Ex oppido Rio de Galinhas », d. de Coïmbre, 1661 -E. 1678 (Lus. 46, 73)…»\n\n— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 782 — texto na base Timelink · `python3 tools/packet.py deh-antonio-simoes-i`\n\nO fólio 73 pertence ao catálogo de **1681** (Lus. 46, ff. 51-82v). Segundo a tabela datilografada do volume (`000v.jpg`), em 1681 o Colégio de Braga ocupa os ff. 72-73v e o Porto começa em 73v; o f. 73 é, pois, uma lista de casa — e o número de anos de Companhia (três, em 1681) deu a Dehergne o ano da entrada, não a casa."
+  },
+  {
+   "titulo": "As quatro listas de noviços que o poderiam cobrir — e o resultado",
+   "texto": "Em 1678 e 1681 havia **duas** casas de noviciado na província, e todas as listas foram lidas:\n\n1. **Lisboa, Domus Probationis, 1678** (Lus. 46, f. 14v-15, «Novitij LXVII», nn. 453-487): não figura.\n2. **Coimbra, Fratres Novitii, 1678** (Lus. 46, f. 8, nn. 220-236): não figura (verificado na sessão anterior).\n3. **Lisboa, Domus Probationis, 1681** (Lus. 46, ff. 70v-71, nn. 444-468): não figura.\n4. **Coimbra, Fratres Novitij Scholares, 1681** (Lus. 46, f. 61, nn. 216-230): não figura.\n\nConclusão: **entrou depois da feitura do catálogo de 1678** (que é datado do início do ano), pelo que o seu noviciado (1678-1680) não está coberto por nenhuma lista deste volume; em 1681 já era estudante numa casa (Braga/Porto). O lugar de entrada não pode, por isso, ser provado com o que existe no Lus. 46."
+  },
+  {
+   "titulo": "Os dois candidatos e o indício do contemporâneo",
+   "texto": "As duas casas de noviciado ativas em 1678 eram a **Casa de Provação de Lisboa** (35 noviços na lista de 1678) e o **noviciado de Coimbra** (16 noviços). Não há documento que decida entre as duas para ele.\n\nUm indício — que não é prova — vem do seu contemporâneo **André da Costa** (também E. 1678): esse está comprovadamente na Domus Probationis de Lisboa em 1681 (Lus. 46, f. 70v, n.º 446). Se os dois entraram na mesma leva, é natural que Simões também tenha passado por Lisboa; mas isso não se pode afirmar sem o documento.\n\nRegiste-se ainda que o **T6 de 1678 (f. 22) não serve**: é o «Excierunt» (as saídas, por casa), e não uma lista de entrantes tardios."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "ARSI, *Lus. 46*, f. 61, «Fratres Novitij Scholares» do Colégio de Coimbra no catálogo de 1681 (nn. 216-230) — imagem `LUS. 46/061.jpg`",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/061.jpg\"",
+   "o_que_prova": "NEGATIVA: não é noviço em Coimbra em 1681",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "ARSI, *Lus. 46*, f. 70v-71, «Domus Probationis Vlyssiponensis», lista de noviços do catálogo de 1681 (nn. 444-468) — imagens `LUS. 46/070v.jpg` e `LUS. 46/071.jpg`",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/070v.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg\"",
+   "o_que_prova": "NEGATIVA: não é noviço em Lisboa em 1681 (o contemporâneo André da Costa está, n.º 446)",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "ARSI, *Lus. 46*, f. 14v-15, «Novitij LXVII» da Domus Probationis de Lisboa no catálogo de 1678 (nn. 453-487) — imagens `LUS. 46/014v.jpg` e `LUS. 46/015.jpg`",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/014v.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/015.jpg\"",
+   "o_que_prova": "NEGATIVA: não está entre os noviços de Lisboa em 1678 ⇒ entrou depois da feitura do catálogo",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "ARSI, *Lus. 46*, f. 22, «Excierunt convenientia… In Collegio Conimbricensi exiit / In Collegio Bracharensi exiit / In Domo Probationis exiit» (T6 de 1678) — imagem `LUS. 46/022.jpg`",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/022.jpg\"",
+   "o_que_prova": "NEGATIVA: o T6 de 1678 são as saídas por casa, não uma lista de entrantes tardios (como se suspeitava)",
+   "forca": "negativa"
+  },
+  {
+   "citacao": "Índice dactilografado do volume, `LUS. 46/000v.jpg`, coluna de 1681: «Bracharens. C. 72», «Portuens. C. 73v», «D. Prob. 70v»",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+   "o_que_prova": "mostra que o f. 73 da cote de Dehergne é a lista do Colégio de Braga/Porto (residência) e não uma lista de noviços",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 782, verbete «Simões, António (I)» — texto na base Timelink",
+   "comando": "python3 tools/packet.py deh-antonio-simoes-i",
+   "o_que_prova": "estado da questão: «N. Rio de Galinhas, 1661 — E. 1678 (Lus. 46, 73)»; embarque em 1682 (W 1221) e a notícia problemática da China",
+   "forca": "contextual"
+  }
+ ],
+ "nao_encontrado": "O lugar de entrada não está estabelecido. Procurou-se nas quatro listas de noviços vizinhas: Lisboa 1678 (ff. 14v-15, nn. 453-487); Coimbra 1678 (f. 8, nn. 220-236, verificação da sessão anterior); Lisboa 1681 (ff. 70v-71, nn. 444-468); Coimbra 1681 (f. 61, nn. 216-230) — ausente de todas. O catálogo de 1678 é anterior à sua entrada e o de 1681 já o mostra estudante; não há neste volume catálogo de 1679-1680, que seria o que daria o noviciado. Também se verificou que o T6 de 1678 (f. 22) não é uma lista de entrantes (é o «Excierunt»). No arquivo pha, as buscas por «António Simões»/«Simoens» só devolvem homónimos antigos (um Garcia Simões de 1556). Ficam como hipóteses, sem prova: Lisboa (Casa de Provação) ou Coimbra. Pista para o futuro: o catálogo de 1696 (Lus. 46, ff. 314-343v) regista datas de entrada («Ing.») e poderá dar a data exacta — mas não a casa.",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-antonio-simoes-i]]"
+ ]
 }
