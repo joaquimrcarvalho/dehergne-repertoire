@@ -83,37 +83,39 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 - **O «T1 1651» (Lus. 45 ff. 57‑64v) é o caderno trans‑tagano** («Pro Domo & Collegiis Transtaganis»), não a província inteira.
 - **Erros já corrigidos (não reverter):** doc 28 p. 20 (Luís da Gama → «Luiz da Gama … Évora»); Zuzarte (Abrantes/Guarda em 1636, «de Lx.ª» em 1639, Loures em Dehergne); «Missio» → «Collegium» em Lus. 47 f. 120; Lus. 41 disponível; ff. 350‑440 do Lus. 44 II existem.
 
-## 7. Os 30 em aberto (ordem de ataque)
+## 7. Os casos em aberto (ordem de ataque)
+
+Os fólios da coluna «Próximo catálogo a ler» vêm do índice do pacote (`indexes/_data`, ver §2 bis‑A e `tools/arsi_index.py`), não de estimativas. Atalho: `python3 tools/arsi_index.py --year 1678`.
 
 | Entrada | Pessoa | Próximo catálogo a ler | Estado |
 |---|---|---|---|
 | 1624 | Inácio Lobo | 1625 T1 | verificado: **ausente** (só Luís Lobo); Dehergne diz que saiu da Companhia — provável impossibilidade |
-| 1630 | Manoel Soares | 1633 T1 | a ler |
-| 1635 | Luís de Moura | 1636 T1 | a ler |
-| 1647 | Manuel Carvalho I | 1649 T1 | a ler |
+| 1630 | Manoel Soares | 1633 T1 (Lus. 44 II ff. 481‑511) | a ler |
+| 1635 | Luís de Moura | 1636 T1 (Lus. 44 II ff. 529‑554) | a ler |
+| 1647 | Manuel Carvalho I | 1649 T1 (Lus. 45 ff. 8‑28v) | a ler |
 | 1648 | João de Abreu | 1651 trans‑tagano | **lido e qualificado (2026‑11‑01)**: Lus. 45 f. 61v n.º 99 = «Philosophia primi anni» do **Colégio de Évora**, 17 anos e 2,5 de Companhia ⇒ residência, não noviciado. **Não consta** dos noviciados de 1649 (Lisboa ff. 20v‑21v; Coimbra ff. 12v‑13) ⇒ entrada provavelmente em **1649**, não 1648; lugar **em aberto** |
 | 1649 | João Couceiro | cote *Lus. 45, 180* (caderno de 1655) | **fechado (2026‑11‑01)**: f. 180 n.º 111 do «Catalogus primus Collegii Conimbricensis 1655» — 22 anos, 6 de Companhia, 2.º ano de filosofia ⇒ entrada 1649 confirmada; **Coimbra (inferido), média**; Lisboa não excluída |
-| 1651 | Diogo de Sotomaior | 1654/1655 T1 | a ler (o «1651 T1» é trans‑tagano) |
-| 1652 | Manuel Pinto II | 1654 T1/T4 | a ler |
-| 1663 | João Fernandes Fou | 1665 T1 | a ler |
-| 1666 | Francisco Simões | 1669 T1 | a ler |
-| 1673 | José Soares | 1675 T1 | a ler |
-| 1675 | Simão Pinto | 1675 T1 | a ler |
-| 1678 | André da Costa | 1678 T1 (não o f. 22) | a ler |
-| 1678 | António Simões I | 1678 T1 (não o f. 22) | a ler |
-| 1685 | António Freire | 1685 T1 | a ler |
-| 1686 | Francisco Barbosa | 1690 T1 | a ler |
-| 1690 | Félix‑José Pereira | 1690 T1 | a ler |
-| 1690 | João Duarte | 1690 T1 | a ler |
-| 1692 | João Francisco Cardoso | 1693 T1 | a ler |
-| 1693 | Manuel Marques | 1693 T1 | a ler |
-| 1693 | Manuel Teles | 1693 T1 | a ler |
-| 1694 | Manuel de Sousa | 1696 T1 | a ler |
-| 1699 | Teotónio Leitão | 1700 T1 | a ler |
-| 1700 | Manuel Ribeiro júnior | 1700 T1 | a ler |
+| 1651 | Diogo de Sotomaior | 1654/1655 T1 (Lus. 45 ff. 110‑144v) | a ler (o «1651 T1» é trans‑tagano) |
+| 1652 | Manuel Pinto II | 1654 T1 (Lus. 45 ff. 75‑84v) e T4 (ff. 85‑88v) | a ler |
+| 1663 | João Fernandes Fou | 1665 T1 (Lus. 45 ff. 309‑332v) | a ler |
+| 1666 | Francisco Simões | 1669 T1 (Lus. 45 ff. 362‑376v) | a ler |
+| 1673 | José Soares | 1675 T1 (Lus. 45 ff. 444‑463v) | a ler |
+| 1675 | Simão Pinto | 1675 T1 (Lus. 45 ff. 444‑463v) | a ler |
+| 1678 | André da Costa | 1678 T1 (Lus. 46 ff. 1‑21v; o f. 22 é o T6) | a ler |
+| 1678 | António Simões I | 1678 T1 (Lus. 46 ff. 1‑21v; o f. 22 é o T6) | a ler |
+| 1685 | António Freire | 1685 T1 (Lus. 46 ff. 118‑151v); ver 1685 T4 (Lus. 39 ff. 136‑139v) | a ler |
+| 1686 | Francisco Barbosa | 1690 T1 (Lus. 46 ff. 192‑218v) | a ler |
+| 1690 | Félix‑José Pereira | 1690 T1 (Lus. 46 ff. 192‑218v) | a ler |
+| 1690 | João Duarte | 1690 T1 (Lus. 46 ff. 192‑218v) | a ler |
+| 1692 | João Francisco Cardoso | 1693 T1 (Lus. 46 ff. 242‑295v) | a ler |
+| 1693 | Manuel Marques | 1693 T1 (Lus. 46 ff. 242‑295v) | a ler |
+| 1693 | Manuel Teles | 1693 T1 (Lus. 46 ff. 242‑295v) | a ler |
+| 1694 | Manuel de Sousa | 1696 T1 (Lus. 46 ff. 314‑343v) | a ler |
+| 1699 | Teotónio Leitão | 1700 T1 (Lus. 47 ff. 8‑33v; variante Lus. 46 a ff. 1‑39v) | a ler |
+| 1700 | Manuel Ribeiro júnior | 1700 T1 (Lus. 47 ff. 8‑33v; variante Lus. 46 a ff. 1‑39v) | a ler |
 | 1707 | André Pereira | 1711 T1 (Lus. 47 ff. 118‑151) | a ler |
-| 1709 | Luís de Sequeira | 1711 T1 | a ler |
-| 1710 | Francisco Alberto | 1711 T1 | a ler |
+| 1709 | Luís de Sequeira | 1711 T1 (Lus. 47 ff. 118‑151) | a ler |
+| 1710 | Francisco Alberto | 1711 T1 (Lus. 47 ff. 118‑151) | a ler |
 | 1727 | João de Seixas | BNP 231 / Lus. 48 | bloqueado (Lus. 48 ausente; J do BNP lido sem ele) |
 | 1729 | Manuel José | BNP 231 / Lus. 48 | bloqueado (M do BNP lido sem ele) |
 | 1734 | João Simões | BNP 231 (falta f. 106v) / Lus. 48 | bloqueado |
