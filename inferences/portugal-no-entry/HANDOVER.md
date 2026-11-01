@@ -28,7 +28,8 @@ Casas de formação mais frequentes: **Coimbra** (Real Colégio de Jesus / novic
 | Nota de tarefa do quadro | vault `01 Notes/Portugal-no-entry.md` (com `status`/`next`/`log`; aparece em [[Agents - tasks - ongoing]]) |
 | Relatório de fólios em falta | vault `01 Notes/ARSI Lusitania - fólios em falta - Portugal no entry.md`; cópia canónica em `/Volumes/ARSI/ARSI Lusitania/INDICE-folios-em-falta-Portugal-no-entry.md` |
 | Digitalizações ARSI (**SSD externo «ARSI»**, antes iCloud) | `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/` — índice em `indexes/INDICE-cronologico.md` (274 catálogos, 1548‑1795, com tipo/volume/fólios); cópia antiga em `~/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/` (não é a de referência) |
-| pha (arquivo digital) | `~/jesuit-archive`; viewer `http://127.0.0.1:8765/doc/<slug>/p<NNN>` (página com 3 dígitos) |
+| **Índice dos catálogos ARSI** (no SSD) | `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/indexes/` — 274 catálogos, 12 volumes: `_data/LUS-NN.json` (fonte de verdade: ano, tipo, casa, fólios, nota, evidência, correcções), `INDICE-cronologico.md`, `INDICE-sistematico-por-volume.md`, `catalogos/<nota>.md` (com as imagens), `reports/` (por volume + `CORRECTIONS.md`), `tools/check_index.py`. Consultar com `python3 tools/arsi_index.py --year 1655` (ver `tools/RECIPE.md` §2 bis‑A) |
+| Instruções do pacote de índice | `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/AGENTS.md` — ler no início da sessão; regras em §6–§8 (nunca editar as imagens `LUS. NN/`, nunca inventar fólios, corrigir pelo circuito `CORRECTIONS.md` + `_data` + nota) |
 
 ⚠️ **O directório `~/mhk-home/sources/dehergne` é hoje um stub** (só `extras/ARSI-catalogs-indexes`). O repositório vivo é **este**: `~/develop/dehergne-repertoire-mbook-air` (git, branch `main`); existe um gémeo em `~/develop/dehergne-repertoire`.
 
@@ -39,6 +40,7 @@ cd /Users/jrc/develop/dehergne-repertoire-mbook-air/inferences/portugal-no-entry
 
 python3 tools/packet.py <id> [<id> ...]      # packet: notícia Dehergne + cronologia + linha da tabela
 python3 tools/packet.py --list               # lista das 110 pessoas
+python3 tools/arsi_index.py --year 1655      # ÍNDICE ARSI: que catálogo em que fólios (--note, --gaps, --volume)
 python3 tools/assemble.py <id> [<id> ...]    # (re)gera deh-<id>.md a partir de results/<id>.json
 python3 tools/index_note.py                  # (re)gera «Índice - Portugal no entry.md»
 python3 tools/vault_copy.py --check          # simula a cópia para o vault
@@ -74,7 +76,9 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 - **Cabeçalhos:** «Collegium Conimbricense» ≠ «Missio Conimbricense» (Lus. 47 f. 120) — **ampliar e confirmar** o cabeçalho antes de o transcrever.
 - **Numeração:** a imagem, o fólio impresso e o fólio antigo divergem (ex.: imagem `419.jpg` = f. 419v actual = f. 219v antigo = p. 420 impressa). Confirmar sempre pelo número impresso na página.
 - **Notas `catalogos/*.md` do projecto**: só **duas** têm transcrição nominal (1617 e 1566); as restantes são galerias de imagens.
-- **Índices dactilografados por volume** (`LUS. NN/000i1.jpg`, `000i2.jpg`, `000i3.jpg`): são o **primeiro instrumento de localização** — dão, para cada catálogo, as casas e os fólios (ex.: Lus. 45 `000i1` = Lusitana 1649‑1676; `000i3` = Transstagana 1651‑1661). Mapeiam as casas onde estão os noviços (ex.: 1649: Domus Probationis de Lisboa f. 20; Colégio de Coimbra f. 10, com «Novitii» no fim) e evitam varrer fólios às cegas.
+- **O índice do pacote vem antes de tudo.** Já existe um índice completo das digitalizações — `indexes/` no SSD, com `AGENTS.md` próprio. `indexes/_data/LUS-NN.json` dá, por catálogo, ano/tipo/casa/fólios/nota/evidência; `indexes/catalogos/<nota>.md` traz as imagens. **Não voltar a ler os índices dactilografados à mão nem varrer fólios às cegas**: usar `python3 tools/arsi_index.py --year …` e só depois abrir as imagens. Ver `tools/RECIPE.md` §2 bis‑A.
+- **Divisão por casas dentro de um catálogo** não está no `_data` (que dá o intervalo do catálogo): está no índice dactilografado do volume (`LUS. NN/000i*.jpg`) e nos relatórios `indexes/reports/LUS-NN.md`. Ex.: Lus. 45 — 1649: Domus Professa f. 8, Coimbra f. 10, Évora f. 13, Colégio de Lisboa f. 18, **Domus Probationis f. 20**, Porto f. 22; trans‑tagano de 1651: Évora f. 57, Vila Viçosa f. 62v, Faro f. 63, Portalegre f. 63v, Elvas f. 65v.
+- **Lacunas declaradas no próprio índice** (checar antes de dizer «não existe»): LUS. 47 ff. 253‑349 não digitalizados; sem Catalogus II no LUS. 46 para 1693; sem Catalogus III no LUS. 47 para 1717; LUS. 43 sem índice dactilografado (segmentos inferidos ⚠️); LUS. 46a é variante do catálogo de 1700.
 - **T6 enganadores:** o «T6» de 1678 (Lus. 46 f. 22) é o *Supplementa* com os «Excierunt» (saídas), não entrantes; o «T6» de 1700 (Lus. 47 f. 1) é o *Catalogus Missionariorum* 1696‑1700 (partidas para a Índia).
 - **O «T1 1651» (Lus. 45 ff. 57‑64v) é o caderno trans‑tagano** («Pro Domo & Collegiis Transtaganis»), não a província inteira.
 - **Erros já corrigidos (não reverter):** doc 28 p. 20 (Luís da Gama → «Luiz da Gama … Évora»); Zuzarte (Abrantes/Guarda em 1636, «de Lx.ª» em 1639, Loures em Dehergne); «Missio» → «Collegium» em Lus. 47 f. 120; Lus. 41 disponível; ff. 350‑440 do Lus. 44 II existem.
@@ -117,7 +121,8 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 ## 8. Como recomeçar (passo a passo)
 
 1. `cd /Users/jrc/develop/dehergne-repertoire-mbook-air && git status` (branch `main`; há alterações locais em `.kleio.json`).
-2. Ler `tools/RECIPE.md` (método detalhado e variantes de nomes).
+2. Ler `tools/RECIPE.md` (método detalhado e variantes de nomes) e o `AGENTS.md` do pacote de índice do SSD
+   (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/AGENTS.md`); localizar o catálogo com `tools/arsi_index.py`.
 3. Escolher o próximo caso da tabela §7 e abrir `results/<id>.json` + `tools/packet.py <id>`.
 4. Localizar o catálogo em `INDICE-cronologico.md`, aquecer as imagens e ler (assento → cabeçalho da casa).
 5. Actualizar o JSON (lugar, data, confiança, evidência com fólio/página, análise, não encontrado) e correr o pipeline (§3).
@@ -132,13 +137,15 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 - **2026-10-23** — índice cronológico dos 270 catálogos; lista dos casos com «look‑back»; verificações Caetano Lopes, Zuzarte (1636/1639), Lucas Correa (1633, f. 490v).
 - **2026-10-24/25** — Inácio da Costa = Inácio Nunes (1625 f. 419v n.º 288) ⇒ Lisboa (Monte Olivete); Lucas Correa revisto para Lisboa; estado fixado em 37/33/10/30.
 - **2026-11-01** — nota de tarefa preenchida e movida para `01 Notes`; este handover criado.
-- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Primeiros dois casos do §7 revistos: **Couceiro** fechado por inferência (Coimbra, média; cote f. 180 n.º 111 localizado) e **Abreu** qualificado (f. 61v = Évora 1651, residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto). Estado: 37 alta · 34 média · 10 baixa · 29 não determinados.
+- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Primeiros dois casos do §7 revistos: **Couceiro** fechado por inferência (Coimbra, média; cote f. 180 n.º 111 localizado) e **Abreu** qualificado (f. 61v = Évora 1651, residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto). Estado: 37 alta · 34 média · 10 baixa · 29 não determinados. Registado o **pacote de índice das digitalizações** (`indexes/` + `AGENTS.md` no SSD, 274 catálogos) e criado o atalho `tools/arsi_index.py`.
 
 ## 10. Ligações úteis
 
 - Viewer pha: `http://127.0.0.1:8765/doc/<slug>/p<NNN>`; exemplos: Dehergne `reference-works-joseph-dehergne-1973-repertoire-des-jesuites-de-chine-de-1542-a-1800`, Wicki `reference-works-wicki-liste-jesuiten-indienfahrer-1967`, Pfister `pfister-notices-notices-biographiques-et-bibliographiques-sur-pfister-louis-t1` (e `-t2`), François `franco-imagens-franco-imagem-virtude-coimbra-1719-v1`, catálogo 1625 `jesuit-catalogues-jesuit-cat-type1-portugal-1625-t1-lus-44ii-410`.
 - BNP Pombalina 231: <https://purl.pt/47525>.
-- Índice cronológico dos catálogos: `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/indexes/INDICE-cronologico.md` (e `.html`).
+- Índice dos catálogos (pacote completo): `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/indexes/` —
+  `INDICE-cronologico.md`, `INDICE-sistematico-por-volume.md`, `catalogos/`, `reports/`, `_data/`;
+  instruções em `.../AGENTS.md`; atalho de consulta `tools/arsi_index.py`.
 - Nota de tarefa: `01 Notes/Portugal-no-entry.md` (quadro de tarefas).
 - Relatório de fólios: `01 Notes/ARSI Lusitania - fólios em falta - Portugal no entry.md`.
 - Nota de método: `Determining college or noviciate from catalog reference 2026-10-19.md`.

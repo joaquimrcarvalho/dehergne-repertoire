@@ -31,6 +31,7 @@ e o caminho da ficha Obsidian:
 cd /Users/jrc/develop/dehergne-repertoire-mbook-air/inferences/portugal-no-entry
 python3 tools/packet.py <id> [<id> ...]     # packets completos
 python3 tools/packet.py --list              # lista de todas as pessoas
+python3 tools/arsi_index.py --year 1655     # ÍNDICE ARSI: que catálogo em que fólios (§2 bis‑A)
 ```
 
 ## 2. Pesquisa no arquivo pha
@@ -116,10 +117,10 @@ PY
 > No SSD **não é preciso «aquecer» imagens** (não há paginação iCloud). Se
 > `/Volumes/ARSI` não estiver montado, **montar o disco antes de ler** — a
 > ausência do volume não é prova de que o fólio não existe.
-> A pasta traz `index.html` + `indexes/` (índice completo dos 274 catálogos:
-> `INDICE-cronologico`, `INDICE-sistematico-por-volume`, `catalogos/`, `_data/`),
-> que é a versão mais recente do índice — substitui a vista antiga em
-> `catalogos/` da cópia iCloud.
+> A pasta traz ainda `AGENTS.md` (instruções do pacote para agentes) e o **índice
+> completo dos 274 catálogos** em `indexes/` (`INDICE-cronologico`,
+> `INDICE-sistematico-por-volume`, `catalogos/`, `reports/`, `_data/`) — ver
+> **§2 bis‑A**, que é o primeiro sítio a consultar antes de abrir fólios.
 
 O arquivo pha **não tem** os códices ARSI *Lus*. 39/42-47 que o Dehergne cita
 (`Lus. 43`, `Lus. 44 I/II`, `Lus. 45`, `Lus. 47`) nem qualquer catálogo
@@ -161,6 +162,70 @@ Casa de Provação, Colégio de Coimbra, Évora, Porto, Braga, Bragança…) e d
 pessoa: naturalidade, idade, **anos de Companhia**, tempo de noviciado e
 estudos. Regra de ouro: **ano de entrada = ano do catálogo − anos de Companhia**;
 um noviço listado numa casa é prova de que fez lá o noviciado.
+
+## 2 bis‑A. O ÍNDICE dos catálogos que acompanha as digitalizações — consultar PRIMEIRO
+
+O SSD «ARSI» traz, dentro da pasta das imagens, um **pacote de índice completo**
+(274 catálogos, 12 volumes/partes), construído a partir dos **índices
+dactilografados** de cada volume (LUS. 45 `000i1‑i3.jpg`, LUS. 46/47 `000v.jpg`,
+LUS. 44 I `000a.jpg`, …) e da leitura da primeira página de cada catálogo:
+
+```
+/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/
+├── AGENTS.md                       ← instruções do pacote para agentes (ler no início)
+├── index.html                      ← entrada do índice no browser
+└── indexes/
+    ├── INDICE-cronologico.md/.html            todos os catálogos por ano
+    ├── INDICE-sistematico-por-volume.md/.html por volume (ano, tipo, fólios)
+    ├── TIPOLOGIA.md                           o que é T1…T11 (tipologia de trabalho)
+    ├── catalogos/<nota>.md                    uma nota por catálogo, com as imagens embutidas
+    ├── reports/LUS-NN.md, SUMMARY, CORRECTIONS  relatórios por volume e registo de correcções
+    ├── _data/LUS-NN.json                      ★ A FONTE DE VERDADE DO ÍNDICE (12 tabelas)
+    └── tools/                                 validação/render (check_index.py, render_notes.py)
+```
+
+**Como usar (antes de varrer fólios):** consultar `indexes/_data/LUS-NN.json`
+(ou o nosso atalho `tools/arsi_index.py`) para saber **que catálogo existe em que
+fólios**, e abrir `indexes/catalogos/<nota>.md` para a nota correspondente. Campos
+de cada catálogo: `year`, `type`, `local`, `folio_start`, `folio_end`,
+`image_start_file`/`image_end_file` (quando o nome do ficheiro não é o fólio),
+`note` (→ nota), `verified`, `evidence` (o que se leu na 1.ª página) e
+`corrections` (histórico).
+
+```bash
+cd /Users/jrc/develop/dehergne-repertoire-mbook-air/inferences/portugal-no-entry
+python3 tools/arsi_index.py --year 1655                 # catálogos de 1655
+python3 tools/arsi_index.py --year 1649 1651 --volume 45
+python3 tools/arsi_index.py --type T1 --local Transstagana
+python3 tools/arsi_index.py --note 1655-T1-LUS-45-177   # ficha completa
+python3 tools/arsi_index.py --gaps --volume 45          # lacunas do volume
+```
+
+O índice dá o **catálogo** e o **intervalo de fólios**, mas **não** a divisão
+interna por casas: essa está no **índice dactilografado** do volume (imagens
+`000i*.jpg`) e nos relatórios `indexes/reports/LUS-NN.md`. É aí que se lê, p. ex.,
+que no Lus. 45 a coluna de 1649 tem Domus Professa f. 8, Coimbra f. 10, Évora
+f. 13, Colégio de Lisboa f. 18, **Domus Probationis f. 20**… e que o catálogo
+trans‑tagano de 1651 tem Évora f. 57, Vila Viçosa f. 62v, Faro f. 63, Portalegre
+f. 63v, Elvas f. 65v.
+
+**Regras do pacote (AGENTS.md §6–§8):**
+
+- **Nunca** mover, renomear ou editar as imagens `LUS. NN/`; **nunca inventar um
+  fólio** — ler a página e citá‑la.
+- Se o índice estiver errado (intervalo de fólios, tipo, ano), corrigir pelo
+  circuito do pacote: `indexes/reports/CORRECTIONS.md` + `indexes/_data/LUS-NN.json`
+  (campo + `corrections[]`) + a nota em `indexes/catalogos/`, e depois
+  `python3 indexes/tools/check_index.py`. Não é nosso sítio para editar, mas
+  registar a correcção é o procedimento correcto.
+- **Lacunas conhecidas** (verificar antes de dizer «não existe»): LUS. 47
+  ff. 253‑349 não digitalizados; sem Catalogus II no LUS. 46 para 1693; sem
+  Catalogus III no LUS. 47 para 1717; LUS. 43 sem índice dactilografado
+  (segmentos inferidos, marcados ⚠️); LUS. 46a é variante do catálogo de 1700.
+- Os nomes das pastas com acento foram normalizados para **NFC** em 2026‑10‑30;
+  cópias antigas podem reintroduzir NFD (re‑correr `check_index.py --strict-nfc`).
+- O índice é **estático**: não precisa de servidor; abre‑se com `index.html` (ou
+  `python3 -m http.server` na raiz das imagens).
 
 ## 2 ter. O registo de entrantes da província (BNP, Pombalina 231)
 
