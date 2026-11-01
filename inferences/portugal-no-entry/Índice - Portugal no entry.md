@@ -12,15 +12,15 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **37** · **média**: **34** · **baixa**: **10** · **não determinado**: **29**
+- lugar proposto com confiança **alta**: **37** · **média**: **35** · **baixa**: **11** · **não determinado**: **27**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
 
 | lugar | nº de pessoas |
 |---|---:|
-| Coimbra | 39 |
-| Lisboa | 28 |
+| Coimbra | 40 |
+| Lisboa | 29 |
 | Évora | 12 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
 
@@ -112,6 +112,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-lucas-correa]] | Lucas Correa | 196 | Coimbra em 1633 | **Lisboa (Casa de Provação do Monte Olivete)** | 1628 (Dehergne; cota Lus. 44 II, 548) — entre 1619 e 1630 o único noviciado da província era o Monte Olivete, em Lisboa | média |
 | [[deh-luis-da-gama]] | Luís da Gama | 349 | Lisboa Santo Antão | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1625 | média |
 | [[deh-manuel-carvalho-ii]] | Manuel Carvalho | 149 | — | **Coimbra (Colégio de Coimbra)** | 1678 (o catálogo de 1681 dá-lhe «Societ. ad 3tium») | média |
+| [[deh-manuel-pinto-ii]] | Manuel Pinto | 646 | — | **Coimbra** | 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654) | média |
 | [[deh-manuel-da-mata]] | Manuel da Mata | 529 | — | **Coimbra (Colégio de Coimbra)** | 1682-02-04 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) | média |
 | [[deh-manuel-de-figueiredo]] | Manuel de Figueiredo | 310 | Évora | **Évora** | 1611 (Dehergne; Pfister diz 1610) — a primeira menção documental é de Agosto de 1612, em Évora | média |
 | [[deh-manuel-de-pereira-ii]] | Manuel de Pereira | 625 | — | **Coimbra (Colégio de Coimbra)** | 1655 (Dehergne e base Timelink); o catálogo de 1655 (Lus. 45, f. 181) dá-lhe 2 anos de Companhia, o que implicaria 1653 | média |
@@ -123,6 +124,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-rui-barreto]] | Rui Barreto | 79 | Coimbra | **Coimbra** | 1568-12-28 | média |
 | [[deh-antonio-preto]] | António Preto | 662 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca** | 1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia) | baixa |
 | [[deh-antonio-rodrigues-ii]] | António Rodrigues | 699a | Coimbra | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1624 (Dehergne); c. 1625 segundo o catálogo de 1633 (8 anos de Companhia em Maio de 1633) | baixa |
+| [[deh-diogo-de-sotomaior]] | Diogo de Sotomaior | 804 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 1651 (Dehergne, citando JS 25, 185v — códice ausente deste disco) | baixa |
 | [[deh-francisco-pereira]] | Francisco Pereira | 619 | ? | **Lisboa (Casa de Provação do Monte Olivete) — por inferência, não por prova nominal** | 1622 | baixa |
 | [[deh-goncalo-de-oliveira]] | Gonçalo de Oliveira | 595 | Coimbra | **Coimbra (Colégio de Coimbra) — atribuição provisória** | 1637 (Pfister/Dehergne) ou 1638 (o catálogo de 1645 dá-lhe «Societ. 7») | baixa |
 | [[deh-jose-monteiro]] | José Monteiro | 563 | — | **Coimbra (noviciado) — inferência, com Évora e Lisboa como alternativas não excluídas** | 17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data) | baixa |
@@ -135,7 +137,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-andre-da-costa]] | André da Costa | 204 | — | **— não determinado —** | — | nenhuma |
 | [[deh-antonio-freire]] | António Freire | 338 | — | **— não determinado —** | 1685-07-02 | nenhuma |
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | — | nenhuma |
-| [[deh-diogo-de-sotomaior]] | Diogo de Sotomaior | 804 | — | **— não determinado —** | 1651 (Dehergne, citando JS 25, 185v — códice não disponível neste disco) | nenhuma |
 | [[deh-francisco-alberto]] | Francisco Alberto | 12 | — | **— não determinado —** | 1710-03-01 | nenhuma |
 | [[deh-francisco-barbosa]] | Francisco Barbosa | 72 | — | **— não determinado —** | 1686-01-21 | nenhuma |
 | [[deh-francisco-simoes]] | Francisco Simões | 785 | — | **— não determinado —** | 1666-10-28 | nenhuma |
@@ -154,7 +155,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-manuel-de-carvalho-i]] | Manuel Carvalho | 148 | — | **— não determinado —** | 1647 (ano indicado por Dehergne, a partir de JS 25, 172 — cota ausente deste arquivo) | nenhuma |
 | [[deh-manuel-jose]] | Manuel José | 422 | — | **— não determinado —** | 1729-08-20 (Dehergne, Lus. 48, 45v); 1729-08-02 (JS 134, 435v e Pfister) | nenhuma |
 | [[deh-manuel-marques]] | Manuel Marques | 516 | — | **— não determinado —** | — | nenhuma |
-| [[deh-manuel-pinto-ii]] | Manuel Pinto | 646 | — | **— não determinado —** | 14 de Março de 1652 (Dehergne, citando Lus. 46, 322 — catálogo de 1678-1696) | nenhuma |
 | [[deh-manuel-ribeiro-junior]] | Manuel Ribeiro, junior | 680 | — | **— não determinado —** | — | nenhuma |
 | [[deh-manuel-teles]] | Manuel Teles | 838 | — | **— não determinado —** | — | nenhuma |
 | [[deh-manuel-de-sousa]] | Manuel de Sousa | 809 | — | **— não determinado —** | — | nenhuma |
@@ -168,7 +168,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 - [[deh-andre-da-costa]] — André da Costa (entrada 1678): ver a nota para o que foi procurado e o que falta.
 - [[deh-antonio-freire]] — António Freire (entrada 16850702): ver a nota para o que foi procurado e o que falta.
 - [[deh-antonio-simoes-i]] — António Simões (entrada 1678): ver a nota para o que foi procurado e o que falta.
-- [[deh-diogo-de-sotomaior]] — Diogo de Sotomaior (entrada 1651): ver a nota para o que foi procurado e o que falta.
 - [[deh-francisco-alberto]] — Francisco Alberto (entrada 17100301): ver a nota para o que foi procurado e o que falta.
 - [[deh-francisco-barbosa]] — Francisco Barbosa (entrada 16860121): ver a nota para o que foi procurado e o que falta.
 - [[deh-francisco-simoes]] — Francisco Simões (entrada 16661028): ver a nota para o que foi procurado e o que falta.
@@ -187,7 +186,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 - [[deh-manuel-de-carvalho-i]] — Manuel Carvalho (entrada 1647): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-jose]] — Manuel José (entrada 17290820): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-marques]] — Manuel Marques (entrada 16931125): ver a nota para o que foi procurado e o que falta.
-- [[deh-manuel-pinto-ii]] — Manuel Pinto (entrada 16520314): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-ribeiro-junior]] — Manuel Ribeiro, junior (entrada 17000301): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-teles]] — Manuel Teles (entrada 16930824): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-de-sousa]] — Manuel de Sousa (entrada 16940825): ver a nota para o que foi procurado e o que falta.

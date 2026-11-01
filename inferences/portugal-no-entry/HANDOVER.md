@@ -5,10 +5,10 @@
 ## TL;DR
 
 - **Tarefa:** determinar o **lugar de entrada na Companhia** (atributo Timelink `jesuita-entrada`) dos **110 missionários portugueses da China** a quem o Dehergne deixa `E. <ano>` **sem lugar**.
-- **Estado:** **110 tratados — 37 confiança alta · 34 média · 10 baixa · 29 não determinados** (2026‑11‑01).
+- **Estado:** **110 tratados — 37 confiança alta · 35 média · 11 baixa · 27 não determinados** (2026‑11‑01).
 - **Fonte de verdade:** esta pasta — `results/<id>.json` (uma ficha por pessoa), 110 notas `deh-<id>.md` geradas a partir delas, `tools/` (pipeline) e `Índice - Portugal no entry.md` (gerado).
 - **Cópia de leitura:** vault `04 Biographies/dehergne/portugal_noentry/` — **gerada** por `tools/vault_copy.py`; não editar à mão lá.
-- **Próximo passo:** continuar a tabela §7 pelos **29 em aberto** — o par de 1649 já foi revisto (Couceiro fechado; Abreu em aberto), segue-se **1651/1654** — Diogo de Sotomaior / Manuel Pinto II; depois **1678 T1** — André da Costa / António Simões; etc.
+- **Próximo passo:** continuar a tabela §7 pelos **27 em aberto** — já revistos 1649 (Couceiro fechado, Abreu em aberto), 1651 (Sotomaior: Lisboa por inferência) e 1652 (Pinto II: Coimbra, noviço em 1654); segue-se **1678 T1 (Lus. 46 ff. 1‑21v)** — André da Costa / António Simões.
 
 ## 1. Contexto
 
@@ -78,6 +78,8 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 - **Notas `catalogos/*.md` do projecto**: só **duas** têm transcrição nominal (1617 e 1566); as restantes são galerias de imagens.
 - **O índice do pacote vem antes de tudo.** Já existe um índice completo das digitalizações — `indexes/` no SSD, com `AGENTS.md` próprio. `indexes/_data/LUS-NN.json` dá, por catálogo, ano/tipo/casa/fólios/nota/evidência; `indexes/catalogos/<nota>.md` traz as imagens. **Não voltar a ler os índices dactilografados à mão nem varrer fólios às cegas**: usar `python3 tools/arsi_index.py --year …` e só depois abrir as imagens. Ver `tools/RECIPE.md` §2 bis‑A.
 - **Divisão por casas dentro de um catálogo** não está no `_data` (que dá o intervalo do catálogo): está no índice dactilografado do volume (`LUS. NN/000i*.jpg`) e nos relatórios `indexes/reports/LUS-NN.md`. Ex.: Lus. 45 — 1649: Domus Professa f. 8, Coimbra f. 10, Évora f. 13, Colégio de Lisboa f. 18, **Domus Probationis f. 20**, Porto f. 22; trans‑tagano de 1651: Évora f. 57, Vila Viçosa f. 62v, Faro f. 63, Portalegre f. 63v, Elvas f. 65v.
+- **As listas de noviços podem ocupar DUAS páginas.** No catálogo de 1654 a lista «Novitij» do Colégio de Coimbra vai do f. 79 (nn. 161‑176) ao **f. 79v** (nn. 177‑191) — a sessão anterior leu só o recto e concluiu (mal) que Manuel Pinto II não estava nela. Ler sempre recto **e** verso até ao cabeçalho da casa seguinte.
+- **O catálogo de 1696 (Lus. 46, imagens 314‑343v = fólios carimbados 319‑349) regista datas de entrada**: cada assento traz «**Ing.** <dia> <mês> <ano>» (ex.: «Ing. 4 Sept. 626»), ao contrário dos catálogos habituais. É a fonte provável das datas exactas que Dehergne dá para entrantes do século XVII — a explorar caso a caso (atenção ao desvio imagem↔fólio deste volume: +5/+6 no fim).
 - **Lacunas declaradas no próprio índice** (checar antes de dizer «não existe»): LUS. 47 ff. 253‑349 não digitalizados; sem Catalogus II no LUS. 46 para 1693; sem Catalogus III no LUS. 47 para 1717; LUS. 43 sem índice dactilografado (segmentos inferidos ⚠️); LUS. 46a é variante do catálogo de 1700.
 - **T6 enganadores:** o «T6» de 1678 (Lus. 46 f. 22) é o *Supplementa* com os «Excierunt» (saídas), não entrantes; o «T6» de 1700 (Lus. 47 f. 1) é o *Catalogus Missionariorum* 1696‑1700 (partidas para a Índia).
 - **O «T1 1651» (Lus. 45 ff. 57‑64v) é o caderno trans‑tagano** («Pro Domo & Collegiis Transtaganis»), não a província inteira.
@@ -95,8 +97,8 @@ Os fólios da coluna «Próximo catálogo a ler» vêm do índice do pacote (`in
 | 1647 | Manuel Carvalho I | 1649 T1 (Lus. 45 ff. 8‑28v) | a ler |
 | 1648 | João de Abreu | 1651 trans‑tagano | **lido e qualificado (2026‑11‑01)**: Lus. 45 f. 61v n.º 99 = «Philosophia primi anni» do **Colégio de Évora**, 17 anos e 2,5 de Companhia ⇒ residência, não noviciado. **Não consta** dos noviciados de 1649 (Lisboa ff. 20v‑21v; Coimbra ff. 12v‑13) ⇒ entrada provavelmente em **1649**, não 1648; lugar **em aberto** |
 | 1649 | João Couceiro | cote *Lus. 45, 180* (caderno de 1655) | **fechado (2026‑11‑01)**: f. 180 n.º 111 do «Catalogus primus Collegii Conimbricensis 1655» — 22 anos, 6 de Companhia, 2.º ano de filosofia ⇒ entrada 1649 confirmada; **Coimbra (inferido), média**; Lisboa não excluída |
-| 1651 | Diogo de Sotomaior | 1654/1655 T1 (Lus. 45 ff. 110‑144v) | a ler (o «1651 T1» é trans‑tagano) |
-| 1652 | Manuel Pinto II | 1654 T1 (Lus. 45 ff. 75‑84v) e T4 (ff. 85‑88v) | a ler |
+| 1651 | Diogo de Sotomaior | 1654/1655 T1 (Lus. 45 ff. 110‑144v) | **revisto (2026‑11‑01)**: não está no catálogo trans‑tagano de 1651 (ff. 57‑64v, termina no n.º 170, sem noviços) nem entre os noviços de Coimbra de 1654 (f. 79v) ⇒ **Lisboa (Casa de Provação), baixa** — o noviciado da província trans‑tagana era a Domus Probationis de Lisboa (f. 116, 1654/55, com «Pater Magister Novitiorum») |
+| 1652 | Manuel Pinto II | 1654 T1 (Lus. 45 ff. 75‑84v) e T4 (ff. 85‑88v) | **fechado (2026‑11‑01)**: noviço no Colégio de Coimbra em 1654 — «Fr. Manoel Pinto — Porto — 27 — In fine biennij. Coadiutor» (f. 79v, n.º 182) ⇒ entrada em Março de 1652 no noviciado de **Coimbra**, confiança **média** (idade lida 27 vs 17 do nascimento de 1637) |
 | 1663 | João Fernandes Fou | 1665 T1 (Lus. 45 ff. 309‑332v) | a ler |
 | 1666 | Francisco Simões | 1669 T1 (Lus. 45 ff. 362‑376v) | a ler |
 | 1673 | José Soares | 1675 T1 (Lus. 45 ff. 444‑463v) | a ler |
@@ -139,7 +141,7 @@ Os fólios da coluna «Próximo catálogo a ler» vêm do índice do pacote (`in
 - **2026-10-23** — índice cronológico dos 270 catálogos; lista dos casos com «look‑back»; verificações Caetano Lopes, Zuzarte (1636/1639), Lucas Correa (1633, f. 490v).
 - **2026-10-24/25** — Inácio da Costa = Inácio Nunes (1625 f. 419v n.º 288) ⇒ Lisboa (Monte Olivete); Lucas Correa revisto para Lisboa; estado fixado em 37/33/10/30.
 - **2026-11-01** — nota de tarefa preenchida e movida para `01 Notes`; este handover criado.
-- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Primeiros dois casos do §7 revistos: **Couceiro** fechado por inferência (Coimbra, média; cote f. 180 n.º 111 localizado) e **Abreu** qualificado (f. 61v = Évora 1651, residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto). Estado: 37 alta · 34 média · 10 baixa · 29 não determinados. Registado o **pacote de índice das digitalizações** (`indexes/` + `AGENTS.md` no SSD, 274 catálogos) e criado o atalho `tools/arsi_index.py`.
+- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Casos do §7 revistos: **Couceiro** (Coimbra inferido, média; cote f. 180 n.º 111 localizado) e **Abreu** (Évora 1651 = residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto); depois **Sotomaior** (Lisboa/Casa de Provação, baixa) e **Pinto II** (noviço em Coimbra em 1654, f. 79v n.º 182 ⇒ Coimbra, média). Estado: 37 alta · 35 média · 11 baixa · 27 não determinados. Registado o **pacote de índice das digitalizações** (`indexes/` + `AGENTS.md` no SSD, 274 catálogos) e criado o atalho `tools/arsi_index.py`.
 
 ## 10. Ligações úteis
 
