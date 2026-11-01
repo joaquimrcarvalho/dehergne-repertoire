@@ -4,9 +4,9 @@ person_id: deh-luis-de-moura
 name: Luís de Moura
 dehergne_no: 576
 nationality: Portugal
-entry_place: não determinado
-entry_date: 1635 (ano indicado por Dehergne, com a cota Lus. 44 II, 612 — cota ausente deste arquivo)
-confidence: nenhuma
+entry_place: Lisboa (Casa de Provação do Monte Olivete)
+entry_date: 1635 (Dehergne; o catálogo de Abril de 1636 dá-lhe «10 mezes da Comp.ª»)
+confidence: alta
 source: "[[0 Portugal no entry]]"
 created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,11 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Luís de Moura (`deh-luis-de-moura`)
 
-**Lugar de entrada: não determinado** — 1635 (ano indicado por Dehergne, com a cota Lus. 44 II, 612 — cota ausente deste arquivo) (confiança: **nenhuma**).
+**Lugar de entrada: Lisboa (Casa de Provação do Monte Olivete)** — 1635 (Dehergne; o catálogo de Abril de 1636 dá-lhe «10 mezes da Comp.ª») (confiança: **alta**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Não confirmada nem infirmada: nenhuma página deste arquivo diz onde entrou. ATENÇÃO — na tabela [[0 Portugal no entry]] o campo jesuita-entrada.date deste indivíduo está escrito 17350000 (lapso evidente; a BD e o texto de Dehergne dizem 1635).
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada da tabela [[0 Portugal no entry]])** — CONFIRMADA e resolvida: o catálogo I de Abril de 1636, o primeiro posterior à entrada, nomeia-o **noviço na Casa de Provação de Lisboa** (Lus. 44 II, f. 535v, n.º 135). Casa de noviciado + noviço nomeado = prova directa do lugar de entrada. O ano de Dehergne (1635) é confirmado pelos 10 meses de Companhia que o catálogo lhe dá em Abril de 1636. Fica registada uma discrepância de idade: o manuscrito diz 20 anos, o nascimento de 1618 daria 18.
 
-O arquivo só o mostra como chefe do grupo de missionários embarcados para Macau a 12 de Abril de 1644, ao lado de Smogolenski e de outros; nada diz sobre o noviciado. Dehergne indica «-E. 1635 (Lus. 44 II, 612)» e a morte no Japão a 28 de Fevereiro de 1646 (HS 47, 6v) — cotas que não existem neste arquivo. Não se propõe lugar nenhum.
+Luís de Moura, natural de Lisboa, é nomeado **noviço na Casa de Provação de Lisboa** no catálogo I de Abril de 1636: «Fr. Luis de Moura, N.al de Lx.ª, de 20 annos, boas forças, tem 10 mezes da Comp.ª, he coadjutor spiritual, estudava grammatica» (Lus. 44 II, f. 535v, n.º 135). A lista «Irmãos Nouiços» (f. 535, n.º 123) fecha o bloco da «Casa da Prouaçaõ» (f. 534, n.º 96). Os 10 meses de Companhia dão entrada em 1635, o ano de Dehergne. Lugar de entrada: **Lisboa (Casa de Provação / Monte Olivete), confiança alta**.
 
 ## Identificação
 
@@ -36,8 +36,8 @@ O arquivo só o mostra como chefe do grupo de missionários embarcados para Maca
 |---|---|
 | Dehergne, entrada (`E.`) | 1635 |
 | Base Timelink (actual) | `?` / 16350000 |
-| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
-| **Proposta desta nota** | **não determinado** — 1635 (ano indicado por Dehergne, com a cota Lus. 44 II, 612 — cota ausente deste arquivo) (nenhuma) |
+| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada da tabela [[0 Portugal no entry]]) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação do Monte Olivete)** — 1635 (Dehergne; o catálogo de Abril de 1636 dá-lhe «10 mezes da Comp.ª») (alta) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -47,7 +47,7 @@ Dehergne (doc 65, nº 576) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-Luís de Moura nasceu em Lisboa em 1618 (Dehergne). Entrou na Companhia em 1635, segundo Dehergne a partir do catálogo ARSI Lus. 44 II, 612. Embarcou para a China a 12 de Abril de 1644 (W 918), num envio em que era o superior do grupo (Pfister, doc 47, p. 301, nota 4: «PP. Louis Moura, supérieur de la bande, portugais, Jean Rafael, italien, Jérôme Phinocaro, Barthélemy Sequeira, castillan, et Henri Vanvlurden»). Pfister acrescenta: «J'ignore ce que tous ces Pères sont devenus». Morreu a 28 de Fevereiro de 1646, no Japão (Dehergne, citando HS 47, 6v). Não deixou rasto nos catálogos da província do Japão transcritos por Schütte (doc 18): no índice de pessoas dessa obra não há nenhum «Moura, Luís», apenas Belchior de Moura (séc. XVI) e o irmão Emmanuel de Moura, noviço morto em Macau em 1652.
+Luís de Moura nasceu em Lisboa em 1618 (Dehergne) e entrou na Companhia em 1635, fazendo o noviciado na Casa de Provação de Lisboa (Lus. 44 II, f. 535v, n.º 135: 20 anos, 10 meses de Companhia em Abril de 1636, coadjutor espiritual, estudante de gramática). Embarcou para a China a 12 de Abril de 1644 (Wicki 918) e morreu no Japão a 28 de Fevereiro de 1646 (HS 47, 6v, segundo Dehergne; Pfister 262 n. 4).
 
 ## 3. Cronologia (base Timelink)
 
@@ -66,67 +66,52 @@ Luís de Moura nasceu em Lisboa em 1618 (Dehergne). Entrou na Companhia em 1635,
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 O que o arquivo diz dele (e só isso)
+### 4.1 O assento: noviço na Casa de Provação de Lisboa
 
-As quatro menções que o arquivo faz dele são todas de embarque ou de lista de mortos, nunca de formação:
+Dehergne escreve «Moura, Luis de (port.) P. 576 N. 1618, Lisbonne -E. 1635 (Lus. 44 II, 612)». O catálogo I de Abril de 1636 é o primeiro posterior à entrada, e no fim do bloco da Casa de Provação de Lisboa, na lista dos noviços, lê-se no f. 535v, n.º 135:
 
-> «78. Aussendung: 1644, Abfahrt 12. April — Schiff nach Macao, für China: **918. P. Luis de Moura, Port.**»
+> «Fr. Luis de Moura, N.al de Lx.ª, de 20 annos, boas forças, tem 10 mezes da Comp.ª, he coadjutor spiritual, estudava grammatica.»
 
-— Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 51 — edited · `pha page 66 51`
+— ARSI, *Lus. 44 II*, f. 535v, n.º 135 — leitura directa do manuscrito em imagem digital (imagem `0535v-0536.jpg`).
 
-> «Ano de 1644. 1 P[adr]e Luís de Moura português»
+Nome, naturalidade (Lisboa, como Dehergne), estado (irmão, coadjutor espiritual) e cronologia coincidem: os 10 meses de Companhia em Abril de 1636 situam a entrada em meados de 1635.
 
-— *Memorial das missões* (BPE, doc 67), p. 44 — edited · `pha page 67 44 --edited`
+### 4.2 A casa: «Casa da Prouaçaõ» (f. 534) e a lista «Irmãos Nouiços» (f. 535)
 
-> «Le P. Franco (Synopsis, ann. 1644) fait partir avec le P. Smogolenski les six Pères suivants, qu'il dit expressément être destinés à la Chine : **PP. Louis Moura, supérieur de la bande, portugais**, Jean Rafael, italien, Jérôme Phinocaro, Barthélemy Sequeira, castillan, et Henri Vanvlurden, né à Maestricht le 18 avril 1608. J'ignore ce que tous ces Pères sont devenus.»
+O catálogo intitula-se «Catalogo 1º da Prov.ª de Portugal do Anno de 1636 … feyto em Abril do anno de 1636» (f. 529) e abre pela Casa de S. Roque. Seguem-se o «Collegio de S. Antão» (f. 532v, n.º 52) e, no f. 534, com o n.º 96, o título «**Casa da Prouaçaõ**». O bloco da Casa de Provação vai do n.º 96 ao n.º 149 e fecha, como é hábito, com a lista dos noviços: no f. 535, com o n.º 123, o título «**Irmãos Nouiços**»; a lista continua por todo o f. 535v (n.º 130-146) e acaba no f. 536 (n.º 147-149), imediatamente antes de «Collegio do Seminario dos Meninos» (n.º 150). O n.º 135 está, portanto, dentro da lista dos noviços da Casa de Provação — a casa de noviciado da província —, o que dá a prova directa do lugar de entrada.
 
-— Pfister, *Notices…* t. 1 (doc 47), p. 301, nota 4 ao aviso 91 (Smogolenski) — edited (`french-ocr`) · `pha page 47 301 --edited`
+### 4.3 A data, a idade — e porque faltava a Dehergne o lugar
 
-Dehergne resume o resto e remete para as cotas romanas:
+Os 10 meses de Companhia em Abril de 1636 situam a entrada em meados de 1635, o ano que Dehergne indica. A idade lida (20 anos) não bate com o nascimento de 1618, que daria 18; registo a discrepância sem a corrigir (as idades dos catálogos são frequentemente arredondadas).
 
-> «Moura, Luis de (port.) P. 576 — N. 1618, Lisbonne **-E. 1635 (Lus. 44 II, 612)**. Emb. 12 avril 1644 pour la Chine (W 918). M. 28 févr. 1646 au Japon (HS 47, 6v). Pf. 262 n. 4.»
-
-— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 221 — edited (`french-ocr`) · `pha page 65 221 --edited`
-
-### 4.2 Porque não se pode concluir: as fontes citadas não existem aqui
-
-Tanto a cota do ano de entrada (ARSI **Lus. 44 II, 612**) como a da morte (ARSI **HS 47, 6v** — «Historia Societatis, listes chronologiques des Défunts», secção do ARSI definida pelo próprio Dehergne) estão fora deste arquivo. De Lus. 44 II só existe aqui o fólio 410 (catálogo trienal de 1625, doc 28) — e nesse ano ele tinha 7 anos de idade. Pfister (docs 47 e 50) não lhe dedicou notícia: só o cita na nota acima, e nenhum dos seus volumes tem um capítulo «Le P. Louis de Moura».
-
-Finalmente, a *Monumenta historica Japoniae* de Schütte (doc 18) — que transcreve os catálogos da província do Japão até 1654, onde ele deveria figurar em 1644-1646 — **não o regista**: no índice de pessoas (doc 18, p. 1293) os verbetes «Moura» são «P. Belgior de S. J. vid. Mora» e «Fr. Emmanuel, S. J., novitius» (morto em Macau em 1652).
-
-Quanto à casa, o único elemento disponível é indirecto. O arquivo documenta que, entre 1619 e **Abril de 1630**, os noviciados de Coimbra e Évora estiveram encerrados e todos os noviços da província reunidos na Casa da Provação do Monte Olivete, em Lisboa, e que em Abril de 1630 alguns noviços regressaram «pera os dous Collegios» (doc 54, p. 25). Em 1635, portanto, os noviciados estavam de novo separados (e em 1643 Aleixo Coelho entra expressamente no de Évora — doc 52, p. 750). Sendo ele natural de Lisboa, a casa que a geografia sugere é o noviciado de Lisboa — mas isto é uma hipótese sem qualquer apoio documental quanto a ele, e não é proposta como resultado.
+Dehergne citava «Lus. 44 II, 612»: segundo o índice que acompanha as digitalizações, o f. 612 pertence ao catálogo de **1642**, classificado como **T1S** — catálogo «sem comunidades», isto é, sem divisão por casas. Foi por isso que Dehergne teve o ano (calculado pelos anos de Companhia) e não o lugar: a cota de que se serviu não tem casas. O índice alfabético de 1636 (ff. 555-558) também não resolve: lista «P. Luis de Moura» sem fólio nem número (f. 557v), pelo que foi mesmo preciso ler o bloco da Casa de Provação.
 
 ### O que não foi encontrado
 
-Procurou-se «Luis de Moura», «Luís de Moura», «Ludovicus/Ludovico de Moura», «Moura, Luís» em todo o arquivo (pesquisa FTS e varredura por LIKE). Documentos lidos/varridos: Dehergne (doc 65), Wicki (doc 66), Pfister (docs 47 e 50, incluindo os índices), Schütte (doc 18, catálogos e índice), Franco *Imagem da virtude* (docs 52-55: nenhuma vida), Franco *Synopsis* (doc 16: só o ano de 1640, na lista de embarques), *Memorial das missões* (doc 67), *Documentação… do Oriente* (docs 17, 20-26, 38-41), Rodrigues (docs 58-64) e Bartoli (docs 130-137). Fontes citadas por Dehergne — ARSI Lus. 44 II, f. 612 e ARSI HS 47, 6v — inexistentes neste arquivo. Não há qualquer página que indique a casa de entrada.
+Nada relevante em falta: o caso fecha-se com a prova directa. Registe-se que o índice alfabético de 1636 (ff. 555-558) lista «P. Luis de Moura» sem fólio nem número (f. 557v), pelo que não servia para localizar o assento — foi preciso ler o bloco da Casa de Provação. A cota de Dehergne (f. 612 = catálogo de 1642, T1S) não foi lida por não ser necessária à conclusão.
 
 ## 5. Evidência
 
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 221, verbete «Moura, Luis de» — edited (`french-ocr`) · `pha page 65 221 --edited` · prova contextual
-  - o estado da questão: «-E. 1635 (Lus. 44 II, 612)», lugar em branco; embarque em 1644 (W 918) e morte no Japão em 1646 (HS 47, 6v) — todas as cotas ausentes do arquivo
-- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 51, n.º 918 — edited · `pha page 66 51` · prova indireta
-  - embarque para Macau/China a 12 de Abril de 1644 (78.ª expedição); nada sobre o noviciado
-- Pfister, *Notices biographiques…*, t. 1 (doc 47), p. 301, nota 4 — edited (`french-ocr`) · `pha page 47 301 --edited` · prova indireta
-  - nomeia-o como superior do grupo de 1644 (fonte: Franco, *Synopsis*, ad ann. 1644); sem qualquer dado de entrada; «J'ignore ce que tous ces Pères sont devenus»
-- *Memorial das missões* (BPE) (doc 67), p. 44 — edited · `pha page 67 44 --edited` · prova indireta
-  - lista dos embarcados de 1644, encabeçada por «P[adr]e Luís de Moura português»
-- Schütte, *Monumenta historica Japoniae* (doc 18), p. 1293 — índice de pessoas, verbetes «Moura» — edited · `pha page 18 1293 --edited` · prova negativa
-  - NEGATIVA: nos catálogos japoneses até 1654 não há nenhum Luís de Moura (só Belchior de Moura, séc. XVI, e Fr. Emmanuel de Moura, noviço morto em Macau em 1652)
-- Franco, *Imagem da virtude… noviciado de Coimbra* t. 1 (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · prova contextual
-  - CONTEXTO (hipótese, não prova): o noviciado único da província (Monte Olivete, Lisboa) existiu de 1619 a Abril de 1630; em 1635 os noviciados de Coimbra/Évora/Lisboa estavam de novo separados, pelo que um natural de Lisboa entraria no noviciado de Lisboa
-- Catálogo trienal da província de Portugal, 1625 (doc 28), p. 1 — cota ARSI Lus. 44 II, f. 410 — edited · `pha page 28 1 --edited` · prova negativa
-  - NEGATIVA/limite do arquivo: o único caderno de Lus. 44 II aqui digitalizado é o de 1625; a folha 612 citada por Dehergne não existe no arquivo
+- ARSI, *Lus. 44 II*, f. 535v, n.º 135 — catálogo I de Abril de 1636, lista «Irmãos Nouiços» da Casa de Provação de Lisboa: «Fr. Luis de Moura, N.al de Lx.ª, de 20 annos, boas forças, tem 10 mezes da Comp.ª, he coadjutor spiritual, estudava grammatica» — manuscrito lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg"` · prova directa
+  - noviço nomeado na Casa de Provação de Lisboa em Abril de 1636, com 10 meses de Companhia ⇒ entrada em 1635
+- ARSI, *Lus. 44 II*, f. 535 — catálogo de 1636: título «Irmãos Nouiços» no n.º 123 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0534v-0535.jpg"` · prova directa
+  - o n.º 135 pertence à lista dos noviços (n.º 123-149), não a uma lista de residentes
+- ARSI, *Lus. 44 II*, f. 534 — catálogo de 1636: título «Casa da Prouaçaõ» no n.º 96 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0533v-0534.jpg"` · prova directa
+  - cabeçalho da casa de noviciado que enquadra a lista dos noviços
+- ARSI, *Lus. 44 II*, f. 529 — catálogo de 1636: «Catalogo 1º da Prov.ª de Portugal do Anno de 1636 … feyto em Abril do anno de 1636» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg"` · prova directa
+  - data do catálogo (Abril de 1636), base do cálculo dos 10 meses de Companhia
+- ARSI, *Lus. 44 II*, f. 536 — catálogo de 1636: «Collegio do Seminario dos Meninos» no n.º 150 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg"` · prova directa
+  - fim do bloco da Casa de Provação: a lista de noviços (n.º 123-149) não vai além, e Moura (n.º 135) está dentro dela
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 221, verbete «Moura, Luis de»: «N. 1618, Lisbonne -E. 1635 (Lus. 44 II, 612)» — edited · `pha page 65 221 --edited` · prova contextual
+  - nome, naturalidade, ano de entrada e a cota que Dehergne usou
+- Índice do pacote ARSI, ficha `1642-T1S-LUS-44II-604`: o f. 612 pertence ao catálogo de 1642, do tipo T1S (sem divisão por comunidades) · `python3 tools/arsi_index.py --note 1642-T1S-LUS-44II-604` · prova contextual
+  - explica porque Dehergne tinha o ano mas não a casa (a cota que citou é um catálogo sem casas)
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-luis-de-moura]]
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
-- **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
-- **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
-- **doc 67** — Memorial das Missões que se fizeram desta Provincia desdo Ano de 1541 no qual se começou a fundar a companhia em Portugal. Biblioteca Pública de Évora, Códice CXV 2-8, nº9. (imported-from-zotero-rdf-unverified)
-- **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
-- **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
 
 ---
 

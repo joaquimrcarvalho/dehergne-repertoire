@@ -4,9 +4,9 @@ person_id: deh-manuel-de-carvalho-i
 name: Manuel Carvalho
 dehergne_no: 148
 nationality: Portugal
-entry_place: não determinado
-entry_date: 1647 (ano indicado por Dehergne, a partir de JS 25, 172 — cota ausente deste arquivo)
-confidence: nenhuma
+entry_place: Lisboa (Casa de Provação do Monte Olivete)
+entry_date: 1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 13» ⇒ entrada em 1647 ou 1648
+confidence: alta
 source: "[[0 Portugal no entry]]"
 created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,11 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Manuel Carvalho (`deh-manuel-de-carvalho-i`)
 
-**Lugar de entrada: não determinado** — 1647 (ano indicado por Dehergne, a partir de JS 25, 172 — cota ausente deste arquivo) (confiança: **nenhuma**).
+**Lugar de entrada: Lisboa (Casa de Provação do Monte Olivete)** — 1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 13» ⇒ entrada em 1647 ou 1648 (confiança: **alta**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Não confirmada. Dehergne não cita nenhuma cota LUS para ele (só «JS 25, 172»), e nenhuma página deste arquivo diz onde entrou. Fica registada uma homonímia perigosa (o noviço «Fr. Emanuel Carvalho, Olisiponensis, 19» do catálogo japonês de 1648, em Macau) que NÃO pode ser este homem, por causa do embarque de 1650. O contexto dos noviciados (doc 54, p. 25) sugere o noviciado de Lisboa apenas como hipótese (era natural de Lisboa e em 1647 os noviciados estavam separados).
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada da tabela [[0 Portugal no entry]])** — CONFIRMADA: o catálogo I de 1649 nomeia-o **noviço na Casa de Provação de Lisboa** (Lus. 45, f. 21, n.º 438), e o índice alfabético do mesmo catálogo (T5, f. 5) regista «Fr. Manoel de Carvalho — F 27 n 438». Casa de noviciado + noviço nomeado = prova directa do lugar de entrada. O ano é que sai ligeiramente alterado: os 13 meses de Companhia em 1649 dão entrada em 1647 ou 1648, conforme o mês da compilação (o título só diz «anni 1649»); a data exacta de Dehergne não é contrariada, é apenas imprecisa. A idade lida (16 anos) não bate com o nascimento de 1629; registo a discrepância.
 
-Nada no arquivo localiza a entrada deste irmão coadjutor. O ano de 1647 vem de Dehergne, que o extraiu do catálogo japonês de 1659 (JS 25, 172 — secção Jap. Sin. do ARSI, ausente daqui). Pfister, que lhe dedicou a notícia 464 (doc 50, p. 455), só dá «A. vers 1635. — Coadj. temp. — M. après 1659», sem noviciado e com uma data de chegada à China manifestamente incompatível com o nascimento em 1629. Regista-se ainda um homónimo que convém não confundir.
+Manuel de Carvalho I, irmão coadjutor natural de Lisboa, é nomeado **noviço na Casa de Provação de Lisboa** no catálogo I de 1649: «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 13; ex prim. gymn. Ulyssip. …» (Lus. 45, f. 21, n.º 438), dentro da lista «Novitij» do bloco «Domus Probationis Ulyssiponensis» (f. 20, n.º 413; lista a partir do f. 20v, n.º 423). O índice alfabético confirma o assento («Ir. Manoel de Carvalho — F 27 n 438», f. 5). Lugar de entrada: **Lisboa (Casa de Provação / Monte Olivete), confiança alta**. A entrada cai em 1647-1648 (13 meses de Companhia em 1649), compatível com o 1647 de Dehergne.
 
 ## Identificação
 
@@ -36,8 +36,8 @@ Nada no arquivo localiza a entrada deste irmão coadjutor. O ano de 1647 vem de 
 |---|---|
 | Dehergne, entrada (`E.`) | 1647 |
 | Base Timelink (actual) | `?` / 1647 |
-| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
-| **Proposta desta nota** | **não determinado** — 1647 (ano indicado por Dehergne, a partir de JS 25, 172 — cota ausente deste arquivo) (nenhuma) |
+| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada da tabela [[0 Portugal no entry]]) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação do Monte Olivete)** — 1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 13» ⇒ entrada em 1647 ou 1648 (alta) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -47,7 +47,7 @@ Dehergne (doc 65, nº 148) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-Manuel Carvalho (I), irmão coadjutor temporal, nasceu em Lisboa em 1629, com o nome chinês Tchao Tchong Leang-Fou (Pfister). Entrou na Companhia em 1647 (Dehergne, a partir do catálogo japonês de 1659, JS 25, 172). Embarcou a 20 de Abril de 1650 (W 963) e, segundo o mesmo catálogo de 1659, esteve dois anos na missão da China; saiu da Companhia antes de 1665 (JS 25, 179v). Schütte (doc 18, p. 1141) mostra que este irmão falta no catálogo japonês de 1654 e reaparece no de 1659, e que em 1654 estaria provavelmente entre os chineses. Pfister (doc 50, p. 455) fecha a notícia com «A. vers 1635. — Coadj. temp. — M. après 1659».
+Manuel de Carvalho I nasceu em Lisboa em 1629 (Dehergne) e era irmão coadjutor. Entrou na Companhia por 1647-1648 e fez o noviciado na Casa de Provação de Lisboa, onde o catálogo de 1649 o regista com 13 meses de Companhia e o primeiro ano de gramática (Lus. 45, f. 21, n.º 438). Embarcou para a China a 20 de Abril de 1650 (Wicki 963); segundo o catálogo do Japão de 1659 esteve dois anos na missão da China (JS 25, 172, apud Dehergne) e saiu da Companhia antes de 1665 (JS 25, 179v). Pfister (notícia 464) resume-o como «A. vers 1635. — Coadj. temp. — M. après 1659». O nome chinês que Dehergne lhe dá é Tchao Tchong Leang-Fou.
 
 ## 3. Cronologia (base Timelink)
 
@@ -67,58 +67,44 @@ Manuel Carvalho (I), irmão coadjutor temporal, nasceu em Lisboa em 1629, com o 
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 O que Dehergne diz — e o que falta
+### 4.1 O assento de 1649: noviço na Casa de Provação de Lisboa
 
-O verbete é curto e não menciona casa alguma:
+Dehergne escreve «Carvalho Manuel (I) fr. coadj. … N. 1629, Lisbonne -E. 1647 (JS 25, 172)» — sem qualquer cota LUS, porque a informação vinha do catálogo do Japão de 1659. O catálogo I de 1649 (Lus. 45, ff. 8-28v), intitulado «1º Primeiro Catalogo Provincia Lusitana anni 1649» (f. 8), tem na Casa de Provação de Lisboa a sua lista de noviços. No f. 21, n.º 438, lê-se:
 
-> «Carvalho Manuel (port.) (I) fr. coadj. 148 — Tchao Tchong Leang-Fou (Pf.). N. 1629, Lisbonne **-E. 1647 (JS 25, 172)**. Emb. 20 avril 1650 (W 963); a été 2 ans dans la mission de Chine, dit le catal. du Japon 1659 (JS 25, 172); sort de la Compagnie avant 1665 (JS 25, 179v). Pf. 989.»
+> «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 13; ex prim. gymn. Ulyssip.; salute bona, Viribus mediocri.»
 
-— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 84 — edited (`french-ocr`) · `pha page 65 84 --edited`
+— ARSI, *Lus. 45*, f. 21, n.º 438 — leitura directa do manuscrito em imagem digital (imagem `LUS. 45/021.jpg`).
 
-A cota «JS 25, 172» pertence à secção *Jap. Sin.* (Japonica-Sinica) do ARSI — o próprio Dehergne a define, na lista de abreviaturas, como «JS Jap. Sin., Japonica-Sinica, section des ARSI» (doc 65, p. 36) — e não existe neste arquivo. Note-se que ele é um dos oito missionários sem qualquer referência LUS, o que fecha a via dos catálogos portugueses.
+A identificação é dupla: o assento e o índice alfabético do mesmo catálogo (T5, f. 5), que na letra M dos irmãos regista «**Fr. Manoel de Carvalho — F 27 n 438**» — isto é, página 27 do catálogo (= f. 21) e n.º 438. Não há outro irmão Manoel/Emmanuel de Carvalho na província em 1649.
 
-### 4.2 A notícia de Pfister (doc 50, p. 455) e a sua data impossível
+### 4.2 A casa: «Domus Probationis Vlyssiponensis» (f. 20) e a lista «Novitij» (f. 20v)
 
-Pfister dedica-lhe a notícia 464, mas numa secção bibliográfica e sem qualquer indicação de noviciado:
+O bloco da casa abre no f. 20, n.º 413, com o título latino «**Domus Probationis Ulyssiponensis**» — é o único noviciado que o catálogo de 1649 tem em toda a província (todas as outras casas são colégios, residências ou missões). Nele se sucedem os padres (n.º 413-417), os irmãos coadjutores (n.º 418-422) e, com o n.º 423, a lista «**Novitij**» (f. 20v), que vai até ao n.º 454 (f. 21); os meses de Companhia vão descendo de 23 para 2, sinal de lista ordenada do mais antigo para o mais moderno. O n.º 438 está dentro dela. Casa de noviciado + noviço nomeado = prova directa do lugar de entrada.
 
-> «LE FR. EMMMANUEL CARVALHO. TCHAO TCHONG LIANG-FOU. **A. vers 1635. — Coadj. temp. — M. après 1659.** Catalogue MS. de Pékin. Portugais. Nous trouvons ce nom dans le Catalogue décrit ci-dessous, à la Bibliographie, p. 995.»
+### 4.3 A data e a idade
 
-— Pfister, *Notices…* t. 2 (doc 50), p. 455, notícia 464 — edited (`french-ocr`) · `pha page 50 455 --edited`
-
-«A. vers 1635» (chegada à China por 1635) é incompatível com o nascimento em 1629 e com o embarque de 1650: o dado de Pfister não é utilizável. De qualquer modo, não dá o lugar de entrada.
-
-### 4.3 Um homónimo a excluir: o noviço do catálogo japonês de 1648
-
-O catálogo primeiro da província do Japão de 1648, transcrito por Schütte, inclui no Colégio de Macau um noviço com o mesmo nome, a mesma naturalidade e quase a mesma idade:
-
-> «51 Fr. Emanuel Carvalho, novitius — Olisiponensis — 19 — bona — novitius — /148»
-
-— Schütte, *Monumenta historica Japoniae* (doc 18), p. 1112 (página impressa 1064), Doc. 92 — edited · `pha page 18 1112 --edited`
-
-O paralelo é tentador (nascido em Lisboa em 1629, teria 19 anos e um ano de Companhia em 1647-48), mas **não pode ser o mesmo homem**: em 1648 este estava ainda em Portugal, pois só embarcou a 20 de Abril de 1650 (W 963, doc 66, p. 53). Ou bem que se trata de outro Manuel Carvalho (o catálogo lista também, na entrada anterior, um «Fr. Franciscus Carvalho, novitius, Olisiponensis, 20»), ou bem que Dehergne fundiu dois homónimos — hipótese que, a confirmar-se, daria a este noviço de Macau uma entrada em **Macau**, não em Portugal, e que só pode ser resolvida fora deste arquivo (ARSI Jap. Sin. 25 e 148). Não é, por isso, proposta como resultado.
-
-Quanto à casa, o único elemento é indirecto: o arquivo documenta que em 1619-1630 o noviciado único da província esteve em Lisboa (Monte Olivete) e que em Abril de 1630 alguns noviços regressaram «pera os dous Collegios» (doc 54, p. 25) — isto é, no tempo dele (1647) os noviciados voltaram a estar separados, e um natural de Lisboa entraria no de Lisboa. Hipótese, não prova.
+Os 13 meses de Companhia dão entrada em 1647 ou 1648, conforme o mês em que o catálogo foi feito — o título só diz «anni 1649» e não indica mês. Dehergne dá 1647; a diferença é de meses, não de anos, e o próprio Dehergne a extraiu do catálogo do Japão de 1659 (12 anos de Companhia ⇒ 1647). A idade lida (16 anos) não bate com o nascimento de 1629 que Dehergne lhe dá (20 anos em 1649); registo as duas versões sem corrigir nenhuma. O que é seguro é o lugar: o único irmão Manoel de Carvalho da província em 1649 é este noviço da Casa de Provação.
 
 ### O que não foi encontrado
 
-Procurou-se «Manuel Carvalho», «Manoel Carvalho», «Emmanuel/Emanuel Carvalho», «Carvalho, Manuel de», «Tchao Tchong» em todo o arquivo. Documentos varridos: Dehergne (doc 65), Pfister (docs 47 e 50), Wicki (doc 66), Schütte (doc 18 — catálogos e índice; o índice remete «Carvalho, P. Emmanuel» para as pp. 1093 e 1095, isto é, para o aparelho crítico dos catálogos de 1654, não para um lugar de entrada), Franco *Imagem da virtude* (docs 52-55: em Coimbra, doc 55, p. 693, há um «Padre Manoel de Carvalho natural de Mãozinhos» que foi discípulo do autor no noviciado de Lisboa — outro homem), Franco *Synopsis* (doc 16), *Documenta Indica* (docs 89-92: apenas o homónimo do séc. XVI), *Documentação… do Oriente* (doc 40), *Memorial das missões* (doc 67), Rodrigues (docs 58-64). Fonte citada por Dehergne — ARSI JS 25, 172 — inexistente neste arquivo. O arquivo não tem qualquer catálogo LUS posterior a 1625 (Lus. 44 II f. 410 = doc 28) e nenhum Lus. 45.
+Dehergne não cita nenhuma cota LUS para ele (só «JS 25, 172», o catálogo do Japão de 1659, ausente deste arquivo). Não foi possível fixar o mês da entrada (o título do catálogo só diz «anni 1649»), nem resolver a discrepância de idade (16 no catálogo, 20 pelo nascimento de 1629). O homónimo «Fr. Emmanuel Cabral» do mesmo catálogo (f. 21, n.º 446, natural de «Tabira», 26 anos, 6 meses de Companhia) não é confundível. O homónimo do catálogo japonês de 1648 em Macau («Fr. Emanuel Carvalho, Olisiponensis, 19»), já registado na ficha antiga, continua excluído pelo embarque de 1650.
 
 ## 5. Evidência
 
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 84, verbete «Carvalho Manuel (I)» — edited (`french-ocr`) · `pha page 65 84 --edited` · prova contextual
-  - estado da questão: E. 1647 «(JS 25, 172)», sem lugar; embarque de 20 de Abril de 1650 (W 963) e saída da Companhia antes de 1665
-- Pfister, *Notices biographiques…*, t. 2 (doc 50), p. 455, notícia 464 — edited (`french-ocr`) · `pha page 50 455 --edited` · prova indireta
-  - só «A. vers 1635 — Coadj. temp. — M. après 1659»: nenhum noviciado; a data de chegada é incompatível com o nascimento em 1629
-- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 53, n.º 963 — edited · `pha page 66 53` · prova indireta
-  - embarque em 1650 (83.ª expedição, 20 de Abril) como «Ir. Manuel Carvalho» — o que mostra que em 1648 ele não podia estar em Macau
-- Schütte, *Monumenta historica Japoniae* (doc 18), p. 1112 (impressa 1064), Doc. 92, catálogo primeiro da província do Japão, 1648 — edited · `pha page 18 1112 --edited` · prova indireta
-  - existe um «Fr. Emanuel Carvalho, novitius, Olisiponensis, 19» em Macau em 1648 — homónimo que o embarque de 1650 obriga a excluir (forca probatória nula para este indivíduo)
-- Franco, *Imagem da virtude… noviciado de Coimbra* t. 1 (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · prova contextual
-  - CONTEXTO (hipótese, não prova): o noviciado único da província (Monte Olivete, Lisboa) durou de 1619 a Abril de 1630; em 1647 os noviciados estavam separados, pelo que um natural de Lisboa entraria no noviciado de Lisboa
-- Schütte, *Monumenta historica Japoniae* (doc 18), p. 1141 (impressa 1093), Doc. 95, nota 26 — edited · `pha page 18 1141 --edited` · prova indireta
-  - identifica o «Frater Emmanuel Carvalho» dos catálogos japoneses (ausente em 1654, presente em 1659, com 2 anos de missão chinesa) — é o mesmo homem de Dehergne, mas a nota não dá lugar de entrada
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 36 («JS Jap. Sin., Japonica-Sinica, section des ARSI») — edited · `pha page 65 36 --edited` · prova contextual
-  - define a sigla da única fonte citada para o ano de entrada (JS 25, 172), confirmando que é uma cota do ARSI ausente deste arquivo
+- ARSI, *Lus. 45*, f. 21, n.º 438 — catálogo I de 1649, lista «Novitij» da Casa de Provação de Lisboa: «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 13; ex prim. gymn. Ulyssip.» — manuscrito lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/021.jpg"` · prova directa
+  - noviço nomeado na Casa de Provação de Lisboa em 1649, natural de Lisboa, 13 meses de Companhia ⇒ entrada em 1647/1648
+- ARSI, *Lus. 45*, f. 5 — índice alfabético (T5) do catálogo de 1649: «Fr. Manoel de Carvalho — F 27 n 438» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/005.jpg"` · prova directa (identificação)
+  - confirma que o n.º 438 (f. 21, p. 27 do catálogo) é o irmão Manoel de Carvalho
+- ARSI, *Lus. 45*, f. 20 — catálogo de 1649: título «Domus Probationis Vlyssiponensis» no n.º 413 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/020.jpg"` · prova directa
+  - cabeçalho da casa de noviciado que enquadra a lista dos noviços; é o único noviciado do catálogo
+- ARSI, *Lus. 45*, f. 20v — catálogo de 1649: título «Novitij» no n.º 423 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/020v.jpg"` · prova directa
+  - o n.º 438 pertence à lista dos noviços (n.º 423-454), não a uma lista de residentes
+- ARSI, *Lus. 45*, f. 8 — catálogo I de 1649: «1º Primeiro Catalogo Provincia Lusitana anni 1649» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/008.jpg"` · prova directa
+  - data do catálogo (1649), base do cálculo dos 13 meses de Companhia
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 84, verbete «Carvalho Manuel (I)»: «N. 1629, Lisbonne -E. 1647 (JS 25, 172)» — edited · `pha page 65 84 --edited` · prova contextual
+  - nome, naturalidade, ano de entrada e a origem da data (catálogo do Japão de 1659)
+- Pfister, *Notices biographiques…*, t. 2 (doc 50), p. 455, notícia 464 — edited · `pha page 50 455 --edited` · prova contextual
+  - enquadramento biográfico (coadjutor temporal; chegada à China; morte depois de 1659)
 
 ## 6. Referências
 
@@ -126,11 +112,6 @@ Procurou-se «Manuel Carvalho», «Manoel Carvalho», «Emmanuel/Emanuel Carvalh
 - [[deh-manuel-de-carvalho-i]]
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 50** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
-- **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
-- **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
-- **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
-- **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
-- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 
