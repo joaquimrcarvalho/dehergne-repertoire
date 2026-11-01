@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=176
+kleio$gacto2.str/translations=177
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-69
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$geonames/"https://www.geonames.org/$1"/id=root-lin4-69
@@ -230,7 +230,7 @@ kleio$gacto2.str/translations=176
                geo3$Hiapoey%Hiapoey (Apuy)#Apuy, today Xiapi, 下邳, in the Chinese translation, it is recognized as "霞浦", but actually it is not. In Dehergne(1957), it is noted as "下邳", coordinates: 26.832013826263175N,119.77591087254943E geonames:8579733 (China, FujianNingde Shi, xiapicun), Ningde Shi -> @wikidata:Q28794829/town%principaux bourgs/deh-r1644-hiapoey
                   atr$active/yes/1634
 
-               geo3$Lokia%principaux bourgs#"""(?) Lukiahsiang,Lokahoeng, today Luojiaxiang, 罗家巷, in the Chinese translation, it is recognized as 闾峡, but in Dehergne(1957), it is noted as 罗家巷. 罗家巷 now is in 罗江. But this is  """/town/deh-r1644-lokia
+               geo3$Lokia%principaux bourgs#"""(?) Lukiahsiang,Lokahoeng, today Luojiaxiang, 罗家巷, in the Chinese translation, it is recognized as 闾峡, but in Dehergne(1957), it is noted as 罗家巷. 罗家巷 now is in 罗江. But this is @wikidata:Q1374581 (Lokia = Lukiahsiang 羅家巷 near Fu'an; village not localised) @issue:100 """/town/deh-r1644-lokia
                   atr$active/yes/1634
                   atr$religious-order/Franciscans/1634
 
@@ -308,7 +308,7 @@ kleio$gacto2.str/translations=176
                 today's Santissima Trinidad @wikidata:Q7420445， with Masu coordinates:25.201218764354735N, 121.68618375811317E"""/tcheou-hien/deh-r1644-taparri/obs="""There are historical references to a village of Taparri in the area of Jilong (today Keelung 基隆), an important port where the Spanish established Fort San Salvador in 1626. See Andrade, T. (2008). How taiwan became chinese: Dutch,Spanish, and Han colonization in the seventeenth century. Columbia University Press. chap. 4. and Borao, J. E. (2009). The Spanish Experience in Taiwan, 1626–1642. Hong Kong University Press, chap 4 The “Embryonic” City of San Salvador"""
                   atr$religious-order/Dominicans/1630# José Esquivel, dominican, in 1630 See Andrade, T. (2008). How taiwan became chinese: Dutch, Spanish, and Han colonization in the seventeenth century. Columbia University Press. chap. 4.
 
-               geo3$Camarri%Quimauri# today Jinbaoli, 金包里, in the Chinese translation it is recognized as “噶玛兰”, but in Dehergne(1957) it is noted as "金包里". It is an area in the Northern Taiwan, coordinates: 25.22189808588497N, 121.6382892794898E/tcheou-hien/deh-r1644-camarri
+               geo3$Camarri%Quimauri# today Jinbaoli, 金包里, in the Chinese translation it is recognized as “噶玛兰”, but in Dehergne(1957) it is noted as "金包里". It is an area in the Northern Taiwan, coordinates: 25.22189808588497N, 121.6382892794898E @wikidata:Q570104 (Camarri = 金包里, Jinshan District, New Taipei (village not localised)) @issue:101/tcheou-hien/deh-r1644-camarri
                   atr$religious-order/Dominicans/1633
 
                geo3$Santiago%Kakinauan, Samitiao#today Cape Santiago, 三貂角, @wikidata:Q31106/tcheou-hien/deh-r1644-santiago
@@ -363,7 +363,7 @@ kleio$gacto2.str/translations=176
 
                geo3$Kiyang#K'i-yang,Chiyang, today Qiyang, 祁阳, @wikidata:Q1199641/tcheou-hien/deh-r1644-kiyang
 
-               geo3$Paishui#"""Dehergne (1957) "Dés 1587, à Pascivi=Paishui (Pé-choei) 白水 du Kiyang (K'i-yang) 祁陽 hien au nord-est de Yungchow,..." coordinates:26.4269N, 111.9940E"""/tcheou-hien/deh-r1644-paishui
+               geo3$Paishui#"""Dehergne (1957) "Dés 1587, à Pascivi=Paishui (Pé-choei) 白水 du Kiyang (K'i-yang) 祁陽 hien au nord-est de Yungchow,..." coordinates:26.4269N, 111.9940E""" @wikidata:Q1199641 (Paishui = 白水 near Qiyang (village not localised)) @issue:102/tcheou-hien/deh-r1644-paishui
                   atr$active/yes/1587/obs=tentative de Ruggieri à Paishui 1587
 
          geo1$Kiangnan%KIANGNAN ou NANKING#"""Jiangnan?today Jiangnan, 江南, @wikidata:Q11133842 (no coordinates), former province of China, corresponding to modern-day Jiangsu and Anhui provinces, coordinates:32°3'39"N, 118°46'44"E (Nankjing)"""/province/deh-r1644-kiangnan/obs="""In the Repertoire, in the list of 1641, the places are separated by current provinces (Anhui and Jiangsu), but in the list of 1701, they appear together as the Kiangnan(Jiangnan 江南) region.
@@ -381,7 +381,7 @@ kleio$gacto2.str/translations=176
 
                geo3$Wuyan hien#Ou-yuen, today Wuyuan Xian, 婺源县, @wikidata:Q1357710, Wuyuan historically was in Anhui province, but now it is in the present-day Jiangxi province/tcheou-hien/deh-r1644-wuyan-hien
 
-               geo3$Tungmen%Wuyuän hien le bourg de Tungmen#(?) In Dehergne(1957, p51): "Chrétienté au Wuyüan (Ou-yuen) hien, à la frontière du Kiangsi, et se nomme Tungmen, à l'ouest du Wuyüan, route de Kingtehchen." in the Chinese translation it is recogniazed as “东门村”, but it seems that there is no 东门村 in this area. @issue:9/town/deh-r1644-tungment
+               geo3$Tungmen%Wuyuän hien le bourg de Tungmen#(?) ILOC In Dehergne(1957, p51): "Chrétienté au Wuyüan (Ou-yuen) hien, à la frontière du Kiangsi, et se nomme Tungmen, à l'ouest du Wuyüan, route de Kingtehchen." in the Chinese translation it is recogniazed as “东门村”, but it seems that there is no 东门村 in this area. Dehergne 1959, p. 12: chapelle de Tung-men 東門 du Wuyuan (HAVRET 39; SERVIÈRE II 144). @issue:9/town/deh-r1644-tungment
                   atr$active/yes/1644#circa
 
          geo1$Kiangsu#Jiangju, today Jiangsu, 江苏, @wikidata:Q16963/province/deh-r1644-kiangsu
@@ -443,7 +443,7 @@ kleio$gacto2.str/translations=176
 
                geo3$Kaokia#(?) today Gaojia, 高家, in the Chinese translation it is recognized as “高家岗”, which actually is not in that area. It should be “高家”. Dehergne(1957, p60) said "'Cao kia' près de Cié pao (=Tsipao) est citée dans l'annuelle de 1643 (JS 122 185). Il y a un 高家 plus près de Sungkiang, à l'est."/town%bourg/deh-r1644-kaokia
 
-               geo3$Mo ka pang#Ma kia pim, today Majiabang, 马家浜, in the Chinese translation it is recognized as “穆喀榜”, which is wrong. Dehergne(1957, p60) said it is "马家滨" at "sud de Sung-kiang". In the present day it might be "马家浜" to the south Songjiang, coordinates: 30.845691234919308N, 121.3179093082612E/town%bourg/deh-r1644-mo-ka-pang
+               geo3$Mo ka pang#Ma kia pim, today Majiabang, 马家浜, in the Chinese translation it is recognized as “穆喀榜”, which is wrong. Dehergne(1957, p60) said it is "马家滨" at "sud de Sung-kiang". In the present day it might be "马家浜" to the south Songjiang, coordinates: 30.845691234919308N, 121.3179093082612E @wikidata:Q662380 (Mo ka pang = 马家浜, south of Songjiang (village not localised)) @issue:103/town%bourg/deh-r1644-mo-ka-pang
 
                geo3$Chwansha#Tch'oan-cha, today Chuansha, 川沙, @wikidata:Q11055382/tcheou-hien/deh-r1644-chwansha
                   atr$active/yes/1630#circa
@@ -473,7 +473,9 @@ kleio$gacto2.str/translations=176
 
                geo3$Paoshan#Pao-chan, today Baoshan, 宝山, @wikidata:Q661828/tcheou-hien/deh-r1644-paoshan
 
-               geo3$Fushan#today Fushan, 福山村, coordinates: 31.800210981845982N, 120.7617947082488E/town%bourg/deh-r1644-fushan
+               geo3$Fushan%Fushan du Paoshan#(?) ILOC Bourg of Paoshan (Paoshan 寶山 hien, "à l'est de Taitsang et au nord de Shanghai", Dehergne 1957, p. 68; a wei-bao in 1644, 宝山县 created 1724). Characters 福山 printed by Dehergne 1957, p. 69: "Chrétienté probable dans la propriété de Zi colao à Fushan 福山 du Paoshan". Village NOT localised: the Changshu 福山镇 (31.80N, 120.76E; CHGIS hvd_23778) is a homonym ~90 km west and is not this place, and no 福山 is recorded in 宝山. @wikidata:Q661828 (Paoshan enclosing district not Fushan which is unknown) @issue:104/town%bourg/deh-r1644-fushan
+                  atr$active/yes/1638#circa
+                  rel$geographic/belongs to/Paoshan/deh-r1644-paoshan
                   atr$active/yes/1638
 
          geo1$Kiangsi#Jiangxi, Kiang-si, today Jiangxi, 江西, @wikidata:Q57052/province/deh-r1644-kiangsi
@@ -515,7 +517,7 @@ kleio$gacto2.str/translations=176
                geo3$Tsingchow%Ilha Verde (Tsingchow)#Tsingchow,Ts'ing-tcheou, today Ilha Verde, 青州, @wikidata:Q3319473/tcheou-hien/deh-r1644-tsingchow
                   atr$active/yes/1603
 
-               geo3$Wantchai%Lappa (Wantchai)#Lapa,Wantchai, today Wanzai, 湾仔, @wikidata:Q14342082/tcheou-hien/deh-r1644-wantchai/obs=, In the Chinese translation, Lappa is recognized as “浪白”, acutuallythe Portugese people called “湾仔 Wanzai” as Lappa. 湾仔 is now a place in Zhuhai.
+               geo3$Wantchai%Lappa (Wantchai)#Lapa,Wantchai, today Wanzai, 湾仔, @wikidata:Q14342082/tcheou-hien/deh-r1644-wantchai/obs=, In the Chinese translation, Lappa is recognized as “浪白”, acutually the Portugese people called “湾仔 Wanzai” as Lappa. 湾仔 is now a place in Zhuhai.
                   atr$active/yes/1644
 
             geo2$Cantão#Koang-tcheou, today Guangzhou, 广州, @wikidata:Q16572/capital of province/deh-r1644-cantao
@@ -524,9 +526,9 @@ kleio$gacto2.str/translations=176
                atr$religious-order/Franciscans/0000
                atr$religious-order/Dominicans/0000
 
-               geo3$Tungkun#Tong-koan,Tungkuan, today Dongguan, 东莞, @wikidata:Q59218/tcheou-hien/deh-r1644-tungkun
+               geo3$Tungkun#Tungkun (Tong-koan), 東莞 hien, today Dongguan 东莞市, @wikidata:Q59218 (Donghuan), coordinates: 23.04662N, 113.74982E (CHGIS 东莞县 hvd_42205, 973–1911, parent 广州府)/tcheou-hien/deh-r1644-tungkun/obs=Bracketed in the 1644 list: a locating hien, not a residence (the chrétienté is at Quon yao 1621). Dehergne 1957, p. 84: "Tungkun (Tong-koan) 東莞 hien"; his variants Tanquen, Taucon, Tong-koun. "Tungkuan" is not one of his forms — he uses "Tungkwan" for the homonyms in seven provinces, so it should not be read as an alias. Q59218 is the modern prefecture-level city, successor of the hien (hien seat 莞城).
 
-               geo3$Quon yao#today Guanyao, 官窑, In the Chinses translation it is recognized as “高要村”，which is wrong. in Dehergne(1957), it is noted as "官窑", coordinates: 23.314954073028765N, 113.22132587290358E/town%bourg/deh-r1644-quon-yao
+               geo3$Quon yao%bourg de Quon yao#(?) ILOC. In the Chinese translation it is recognized as “高要村”，which is wrong. In Dehergne(1957), it is noted as "官窑", today Guanyao, in 南海 Nanhai county (today Namhoi) not Tungkun (today Dongguan) coordinates: 23.235N, 113.085E (CHGIS 官窑 hvd_17284, 1820, 村镇, parent 广州府) other bourgs in this section also far from Dongguan @issue:105/town%bourg/deh-r1644-quon-yao/obs=Qing Comprehensive Gazetteer of Guangdong (Guǎngdōng tōngzhì, 1731), in its "wards and markets" section (fāngdū zhì), lists guān yáo as a market town (xū) of Nanhai county — and its Dongguan county list has no guān yáo. Here Dehergne does not include Nanhai, only in 1957 « Namhoi (Nan-hai) 南海 hien du Canton, quartier occidental dudit » Chrétienté hypothétique au gros bourg ou ville de Fatshan (Fatchang, Fou-chan) 佛山 … actuel Namhoi, sud-sud-ouest de Canton » pp. 83-84
                   atr$active/yes/1621
 
                geo3$Lampacao#Lampacau,Lampacão, today 浪白滘, 浪白澳, @wikidata:Q6482357/town%bourg/deh-r1644-lampacao
@@ -541,10 +543,10 @@ kleio$gacto2.str/translations=176
                geo3$Tingan#Ting-ngan, today Ding'an, 定安, @wikidata:Q1022249/tcheou-hien/deh-r1644-tingan
                   atr$active/yes/1636
 
-               geo3$Bankao#today Xiangou, 仙沟, In the Chinese translation it is recognized as "板桥", but in Dehergne (1957), it is noted as "仙沟". coordinates: 19.678430033709233N, 110.3760945797476E/tcheou-hien/deh-r1644-bankao
+               geo3$Bankao#today Xiangou, 仙沟, In the Chinese translation it is recognized as "板桥", but in Dehergne (1957), it is noted as "仙沟". coordinates: 19.68699N, 110.37099E (CHGIS 仙沟市 hvd_127173, 1911, 村镇, parent 定安县) @wikidata:Q14586380 (仙沟社区 no coordinates)wikidata:Q1022249 (Ding'han County)/tcheou-hien/deh-r1644-bankao
                   atr$active/yes/1636
 
-               geo3$Lungmo#Lummo, today Longmen, 龙门, @wikidata:Q11181853, in the Chinese translation it is written as “龙末”, but but in Dehergne (1957), it is noted as "龙门"/tcheou-hien/deh-r1644-lungmo
+               geo3$Lungmo#Lummo, today Longmen, 龙门, @wikidata:Q11181853, in the Chinese translation it is written as “龙末” which is wrong, but in Dehergne (1957), it is noted as "龙门" coordinates: 19.43910N, 110.32559E (CHGIS 龙门市 hvd_127170, 1911, 村镇, 定安县; ~0.4 km from the modern town point)/tcheou-hien/deh-r1644-lungmo
                   atr$active/yes/1636
 
             geo2$Luichow#Lei-tcheou, today Leizhou, 雷州, @wikidata:Q1209167/fou/deh-r1644-luichow
@@ -557,18 +559,18 @@ kleio$gacto2.str/translations=176
 
             geo2$Schiuchow%Shiuchow (Chao-tcheou)#Chao-tcheou, today Shaozhou, 韶州, @wikidata:Q11643048, historical administrative division. The administrative center was Qujiang 曲江, wikidata:Q1346617, coordinates:24°40'58"N, 113°36'1"E, which is in the present-day City of Shaoguan 韶关./fou/deh-r1644-shiuchow
 
-               geo3$Makia#Machia, today Majia, 马家, Dehergne(1957) said Makia"马家" is "à 15 kilomètres au sud de la ville" (de Shiuchow), which should be to the south of Shiuchow, but I only found one "马家" in that area, but it is to the west of the city (coordinates: 24.75569541392557, 113.15960996554436), which might not be the right place./town%bourg/deh-r1644-makia
+               geo3$Makia%bourg de Makia#(?) ILOC Makia (Machia), 馬家 (Dehergne 1957, p. 89), a bourg of Shiuchow 韶州府 - Qujiang 曲江县, "à 15 kilomètres au sud de la ville" (FR II 193); evangelised by Longobardo from July 1599 (1957, p. 89; the 1644 list has it among the bourgs "évangélisés avant 1603"). NOT localised: the only 马家 found is in 东坪镇, 乳源瑶族自治县 (24.7557N, 113.1596E) — ~45 km WEST of Shaoguan, wrong direction; the 15-km-south constraint points to the 马坝 basin, where the only Ma-place in the CHGIS 1911 曲江县 layer is 马坝墟 hvd_126306 (113.59617 24.68387, 14.0 km south of the county seat) — a distance-only candidate, not a name match (馬家 ≠ 馬壩); that layer is selective (it omits 麻地岗, also in Dehergne's list). Do NOT reuse the 乳源 coordinate, and do NOT put Q59107 (韶关市, a city shared by four Shaozhou records) on this record. @issue:106/town%bourg/deh-r1644-makia
 
-               geo3$Tsintsun#Cinçun, today Jingcun, 靖村, coordinates:24.840448198893206N, 113.54394322209676E. In the original book (Dehergne, 1973), it is written as "Tsintsun" (without g), which is wrongly spelled. In Dehergne(1973), it is written as Tsingtsun, with the Chinese name 靖村 noted. It is "à une heure et demie de marche au nord-ouest de Siuchow." In the Chinese traslation, it is recognized as "青村", which is wrong./town%bourg/deh-r1644-tsintsun/obs=où première église bâtie hors de Macao, en 1603
+               geo3$Tsintsun%bourg de Tsintsun#Tsintsun (1973 list; "Tsingtsun" in 1957; "Cinçun"), 靖村 (printed by Dehergne 1957, p. 89), today 靖村, 十里亭镇, 浈江区, 韶关市, @wikidata:Q14330157. "À une heure et demie de marche au nord-ouest de Siuchow" — measured: ~7.5 km at ~301° WNW of the 韶州 seat. Coordinates: 24.8449N, 113.5395E (OSM village node). The Chinese translation's "青村" is wrong. @issue:106/town%bourg/deh-r1644-tsintsun/obs=où première église bâtie hors de Macao, en 1603 — Dehergne 1957, p. 89: "le 20 avril 1603, ouverture de la première église bâtie en Chine par les Jésuites: 20 baptêmes" (FR II 202, 242)
                   atr$active/yes/1603
 
-               geo3$Hwangtsun#Vançun, today Huangcun, 黄村, coordinates: 24.900778941203768N, 113.60398607001083E Dehergne(1957): "à une heure de chemin au nord de Shiuchow"./town%bourg/deh-r1644-hwangtsun/obs=tous bourgs évangélisés avant 1603
+               geo3$Hwangtsun%bourg de Hwangtsun#ILOC Dehergne 1957: Vançun 黄村(Huangcun) , "à une heure de chemin au nord de Shiuchow". @issue:107/town%bourg/deh-r1644-hwangtsun/obs=tous bourgs évangélisés avant 1603
 
                geo3$Hwanghsiaping#(?) Hwanghsiaping, today Vankaxen, 黄下坪？, In the Chinese translation, it is recognized as "黄下坪". Dehergne(1957):"Hwanghsiaping (" Vankaxen ") à 15 li à l'ouest de Shiuchow." But it cannot be found in the map./town%bourg/deh-r1644-hwanghsiaping/obs=tous bourgs évangélisés avant 1603
 
-               geo3$Motikang#Mochi, today Madigang, 麻地岗, In the Chinese translation, it is recognized as “末岗”, but in Dehergne(1957), it is noted as “麻地岗”., coordinates: 24.68899887552694N, 113.57599418283718E/town%bourg/deh-r1644-motikang/obs=tous bourgs évangélisés avant 1603
+               geo3$Motikang#Mochi, today Madigang, 麻地岗 (麻地岗村, 阳岗村委会 (Q14331808), 马坝镇 (Q14331791), 曲江区), In the Chinese translation, it is recognized as “末岗”, but in Dehergne(1957), it is noted as "麻地岡" (simplified 麻地岗). Dehergne(1957, p. 89), not in TGAZ, aprox. coordinates: 24.68899887552694N, 113.57599418283718E/town%bourg/deh-r1644-motikang/obs=tous bourgs évangélisés avant 1603
 
-               geo3$Yangsiang#(?) In the Chinese translation, it is recognized as “英洋”, which is wrong. In Dehergne(1957), it is noted as "杨姓村". But it cannot be found in the map./town%bourg/deh-r1644-yangsiang/obs=tous bourgs évangélisés avant 1603
+               geo3$Yangsiang#(?) ILOC In the Chinese translation, it is recognized as “英洋”, which is wrong. In Dehergne(1957), it is noted as "杨姓村". But it cannot be found in the map./town%bourg/deh-r1644-yangsiang/obs=tous bourgs évangélisés avant 1603
 
             geo2$Shiuhing%Shiuhing (Tchao-k'ing, actuel Hoyiu)#Tchao-k'ing, Chaoching, today Zhaoqing, 肇庆, @wikidata:Q59164/fou/deh-r1644-shiuhing
                atr$active/yes/1583
@@ -716,7 +718,7 @@ kleio$gacto2.str/translations=176
 
                geo3$Kaoling#Kao-ling, today Gaoling, 高陵, @wikidata:Q280060/tcheou-hien/deh-r1644-kaoling
 
-               geo3$Kiao-tou#Kiao-tou (ou Tungyüanfang) Kiao-tou and Tungyüanfang are the same place. The Chinese translation recognized it as “贾都”, which might be wrong, as “贾都” cannot be found. Tungyüanfang in the Chinese reanslation it is recognized as “东院房”, but in Dehergne(1957), it is noted as "通远坊". And there is a "通远天主堂"(Tongyuan Catholic Church) there, coordinates: 34.55258137628194N,109.04672038131238E/town%bourg/deh-r1644-kiao-tou
+               geo3$Kiao-tou#Kiao-tou (ou Tungyüanfang) Kiao-tou and Tungyüanfang are the same place. The Chinese translation guessed it as “贾都”, which cannot be found. Tungyüanfang in the Chinese translation t is recognized as “东院房”, but in Dehergne(1957), it is noted as "通远坊". And there is a "通远天主堂"(Tongyuan Catholic Church wikidata:Q15936239) there, coordinates: 34.55258137628194N,109.04672038131238E/town%bourg/deh-r1644-kiao-tou
                   atr$active/yes/1644#circa
 
                geo3$Hwachow#How-tcheou, today Huazhou, 华州, @wikidata:Q727188/tcheou-hien/deh-r1644-hwachow
@@ -735,7 +737,7 @@ kleio$gacto2.str/translations=176
                geo3$Chengku#Tch'eng-kou, today Chenggu, 城固, @wikidata:Q1069968/tcheou-hien/deh-r1644-chenku
                   atr$religious-order/Jesuit/1642
 
-               geo3$Siao tchai tse#(?) In Dehergne(1957), it is noted as "小塞子", and in the Chinese translation, it is recognized as "小寨子村"。 But both places are not “ près de Cheng” as said in Dehergne(1957)./town%bourg/deh-r1644-siao-tchai-tse
+               geo3$Siao tchai tse#In Dehergne(1957), it is noted as "小塞子", and in the Chinese translation, it is recognized as "小寨子村"。Today 小寨村, 董家营镇, 城固县, 汉中市, 陕西省, @wikidata:Q13763099 (no coord.) coordinates: 33.1092N, 107.2572E (GCatholic pin for 城固县小寨耶稣圣心堂, Plus Code 8P594754+MV; the 17th-c. chrétienté site is not separately located)/town%bourg/obs=Site of the first Catholic church in southern Shaanxi, built by 方德望 (Étienne Le Fèvre, Q55916565) after the 1635 deliverance from locusts; 3,000-4,000 Christians; Le Fèvre died there (Dehergne 1973: 10 May 1657)deh-r1644-siao-tchai-tse/id=deh-r1644-hanchung-geo1-177
                   atr$active/yes/1635#circa
 
                geo3$Yanghsien#Yang Hien, today Yangxian, 洋县, @wikidata:Q1201504/tcheou-hien/deh-r1644-yanghsien

@@ -11,3 +11,5 @@ pyuca
 nbformat
 # strips notebook cell outputs on git commit (see .gitattributes)
 nbstripout
+# to fetch coordinate data
+pywikibot

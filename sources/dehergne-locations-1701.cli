@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=56
+kleio$gacto2.str/translations=57
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-7
    link$dehergne/"https://archive.org/details/bhsi37/page/n$1/mode/1up"
    fonte$dehergne-locations-1701/1701/geoinformation/obs="""p. 357
@@ -159,7 +159,7 @@ kleio$gacto2.str/translations=56
                   atr$active/yes/1701
                   atr$religious-order/Dominicans/1701
 
-            geo2$Hinghwa#Xinghua 兴化, wikidata:Q17498990, 兴化县，(no coord.), use the location the present-day Putian 莆田 @wikidata:Q68579, coordinates:25°26'21.98"N, 119°0'37.01"E/fou/deh-r1701-hinghwa
+            geo2$Hinghwa#Xinghua 兴化府, @wikidata:Q10894095 (兴化府, historical prefecture, 1368–1911; no coordinates), seat 莆田 — the 兴化县 of the earlier line was the former county abolished in 1448 (Q17498990, "福建古县份"), a county under the 府; modern Putian 莆田市 Q68579, coordinates: 25.43395N, 119.01110E (TGAZ 兴化府 hvd_32111, 1368–1911; modern Putian P625 25.439444 119.010278, ~0.6 km)/fou/deh-r1701-hinghwa
                atr$active/no/1701
                atr$religious-order/Jesuit/1701
                atr$active/yes/1701
@@ -223,7 +223,7 @@ kleio$gacto2.str/translations=56
             geo2$Kingchow#Jingzhou 荆州, @wikidata:Q71247/fou/deh-r1701-kingchow
                atr$active/no/1701
 
-            geo2$Teian#(?) No Wikidata/fou/deh-r1701-teian
+            geo2$Teian#Teian 德安府 (Dehergne 1967, p. 35-61), seat 安陆; the historical prefecture is 德安府 (Q17025208, no coordinates), the seat and modern city is 安陆市 (Q557934), @wikidata:Q17025208; coordinates: 31.26371N, 113.68892E (TGAZ 德安府 hvd_105024, 1729–1911; modern Anlu P625 31.2575 113.67833, ~1.2 km)/fou/deh-r1701-teian
                atr$active/no/1701
 
             geo2$Yungchow#Yongzhou 永州, @wikidata:Q266014/fou/deh-r1701-yungchow
@@ -349,7 +349,7 @@ kleio$gacto2.str/translations=56
                atr$active/yes/1701
                atr$residencia-missão/Franciscanos/1701
 
-               geo3$Tankiang#(?)No wikidata/tchou-hien/deh-r1701-tankiang
+               geo3$Tankiang#Tankiang ("Tangkiangsü") 唐江圩 (Dehergne 1967, p. 19 n. 2: "un Tangkiangsü 塘江墟 dans le Nankang hien du Kanchow"; the gazetteer form is 唐江圩, TGAZ hvd_141495, 1911, 村镇, parent 南康县 -南安府; present_location 江西南康县唐江镇), today 唐江镇 (Q10922882), 南康区, 赣州市, @wikidata:Q10922882; coordinates: 25.80046N, 114.74174E (TGAZ 唐江圩 hvd_141495, 1911)/town%bourg/deh-r1701-tankiang
                   atr$active/no/1701
 
          geo1$Kwangsi#Guangxi 广西, @wikidata:Q15176/province/deh-r1701-kwangsi
@@ -553,7 +553,7 @@ kleio$gacto2.str/translations=56
 
             geo2$Chengku#Chenggu 城固, @wikidata:Q1069968/fou#?/deh-r1701-chengku
 
-               geo3$Siao-tchai%Siao-tchai du Chengku#(?)No wikidata, Dehergne 1957 «Il y a aussi une chrétienté à "Siao tchai tse" , 小塞子, "Siao tsai pe" près de Chengku. Vers 1635, le yays est délivré par deux fois des sauterelles, grâce aux prières du P. Le Fèvre, qui a une florissante chrétienté à Siao tchai tse; de même, en 1641, il délivre le mont "Ts'inling" 秦嶺 entre Sian et Yanghsien, des tigres qui l'infestent (Pf. 203,2205)»/tchou-hien/deh-r1701-siao-tchai
+               geo3$Siao-tchai%Siao-tchai du Chengku#Dehergne 1957:110 «Il y a aussi une chrétienté à "Siao tchai tse" , 小塞子, "Siao tsai pe" près de Chengku. Vers 1635, le yays est délivré par deux fois des sauterelles, grâce aux prières du P. Le Fèvre, qui a une florissante chrétienté à Siao tchai tse; de même, en 1641, il délivre le mont "Ts'inling" 秦嶺 entre Sian et Yanghsien, des tigres qui l'infestent (Pf. 203,2205)» today 小寨村 (Q13763099, 董家营镇 (Q13763015), 城固县 (Q1069968), 汉中市 — the chrétienté of 方德望 Étienne Le Fèvre (Q55916565), site of the first Catholic church in southern Shaanxi (1635); the modern 小寨天主教堂 (GCatholic) is in the village, and 古路坝 (Q13763142; cathedral Q117437158, 1893) is 9.3 km away, @wikidata:Q13763099; coordinates: 33.1092N, 107.2572E (GCatholic pin for 城固县小寨耶稣圣心堂, Plus Code 8P594754+MV; the 17th-c. site not separately located)/tchou-hien/deh-r1701-siao-tchai
                   atr$active/no/1701
 
          geo1$Szechwan%actuel SICHUAN)Sichuan 四川, @wikidata:Q19770/province/deh-r1701-szechwan/obs=nada
