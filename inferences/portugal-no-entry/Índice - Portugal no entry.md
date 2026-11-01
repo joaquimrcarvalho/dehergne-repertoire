@@ -12,15 +12,15 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **44** · **média**: **38** · **baixa**: **14** · **não determinado**: **14**
+- lugar proposto com confiança **alta**: **44** · **média**: **43** · **baixa**: **17** · **não determinado**: **6**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
 
 | lugar | nº de pessoas |
 |---|---:|
-| Coimbra | 41 |
-| Lisboa | 39 |
+| Lisboa | 45 |
+| Coimbra | 43 |
 | Évora | 14 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
 
@@ -110,10 +110,12 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-inacio-da-costa]] | Inácio da Costa | 212 | not ARSI LUS ver Schutte JS | **Lisboa (Casa de Provação do Monte Olivete)** | c. 1621 (4 anos de Companhia no catálogo de 1625) — contra 1617 em Dehergne/Pfister | média |
 | [[deh-jeronimo-rodrigues-senior]] | Jerónimo Rodrigues, sénior | 703 | noviço em Évora em 1585 | **Coimbra** | 1585 | média |
 | [[deh-jose-estevao-de-almeida]] | José Estêvão de Almeida | 24 | ? | **Lisboa (Casa de Provação do Monte Olivete)** | 1628 | média |
+| [[deh-jose-soares]] | José Soares | 796 | — | **Coimbra (noviciado do Colégio de Jesus) — por identificação provável** | Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673) | média |
 | [[deh-jose-de-almeida-ii]] | José de Almeida | 21 | — | **Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)** | 1684-04-16 | média |
 | [[deh-joao-cabral]] | João Cabral | 126 | ? viajou com | **Coimbra (Colégio de Jesus — noviciado)** | 1615-06-13 | média |
 | [[deh-joao-cardoso]] | João Cardoso | 140 | Não é referido por Dehergne nos catálogos, apenas na lista das profissões de voto, mas está em LUS-44-II-584v | **Coimbra** | 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39) | média |
 | [[deh-joao-couceiro]] | João Couceiro | 220 | — | **Coimbra (inferido)** | 1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111) | média |
+| [[deh-joao-duarte]] | João Duarte | 266 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-joao-francisco-cardoso]] | João Francisco Cardoso | 141 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 22 de Dezembro de 1692 (Dehergne; confirmado pela data de entrada do noviço «Fr. Franciscus Cardozo», n.º 420 da lista de noviços de 1693) | média |
 | [[deh-joao-nunes]] | João Nunes | 590 | talvez Coimbra incerto | **— não determinado —** | hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636) | média |
 | [[deh-joao-da-veiga]] | João da Veiga | 876 | Goa? | **Évora (Real Colégio do Espírito Santo — noviciado)** | 1614-11-25 | média |
@@ -122,10 +124,13 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-luis-da-gama]] | Luís da Gama | 349 | Lisboa Santo Antão | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1625 | média |
 | [[deh-manoel-soares]] | Manoel Soares | 797 | — | **Évora** | 1630 (Dehergne; o catálogo de Maio de 1633 dá-lhe «da Companhia 3») | média |
 | [[deh-manuel-carvalho-ii]] | Manuel Carvalho | 149 | — | **Coimbra (Colégio de Coimbra)** | 1678 (o catálogo de 1681 dá-lhe «Societ. ad 3tium») | média |
+| [[deh-manuel-marques]] | Manuel Marques | 516 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-manuel-pinto-ii]] | Manuel Pinto | 646 | — | **Coimbra** | 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654) | média |
+| [[deh-manuel-teles]] | Manuel Teles | 838 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-manuel-da-mata]] | Manuel da Mata | 529 | — | **Coimbra (Colégio de Coimbra)** | 1682-02-04 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) | média |
 | [[deh-manuel-de-figueiredo]] | Manuel de Figueiredo | 310 | Évora | **Évora** | 1611 (Dehergne; Pfister diz 1610) — a primeira menção documental é de Agosto de 1612, em Évora | média |
 | [[deh-manuel-de-pereira-ii]] | Manuel de Pereira | 625 | — | **Coimbra (Colégio de Coimbra)** | 1655 (Dehergne e base Timelink); o catálogo de 1655 (Lus. 45, f. 181) dá-lhe 2 anos de Companhia, o que implicaria 1653 | média |
+| [[deh-manuel-de-sousa]] | Manuel de Sousa | 809 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-mateus-gago]] | Mateus Gago | 346 | Coimbra 1611 | **Coimbra (Colégio de Jesus / noviciado de Coimbra)** | 1608 (Dehergne: E. 1608; Schütte: «circa anno 1608») | média |
 | [[deh-pedro-ribeiro]] | Pedro Ribeiro | 682 | Santo Antão em 1593 | **Coimbra** | 1588 (o suplemento de 1 Jan 1588 dá-lhe «2 meses» de Companhia, o que aponta para o final de 1587) | média |
 | [[deh-pedro-zuzarte]] | Pedro Zuzarte | 918 | Coimbra | **Coimbra (noviciado / Real Colégio de Jesus)** | c. 1634 (5 anos de Companhia em 1639; Dehergne: 1635; Goa 25: 1632) | média |
@@ -144,40 +149,27 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-joao-baptista]] | João Baptista | 71 | — | **Coimbra (noviciado)** | 1671-05-20 (manuscrito ARSI; Dehergne lê 20-03-1671) | baixa |
 | [[deh-joao-fernandes-fou]] | João Fernandes Fou | 292 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1663 (Dehergne; Lus. 45, 394) | baixa |
 | [[deh-joao-de-figueiredo]] | João de Figueiredo | 308 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1650 (Dehergne; confirmado pelo catálogo de 1655: 5 anos de Companhia) | baixa |
+| [[deh-manuel-ribeiro-junior]] | Manuel Ribeiro, junior | 680 | — | **Lisboa (Casa de Provação) — inferido** | — | baixa |
 | [[deh-pedro-de-lis]] | Pedro de Lis | 475 | — | **Lisboa (noviciado da Companhia na corte) — inferência** | 1649-08-15 | baixa |
+| [[deh-simao-pinto]] | Simão Pinto | 648 | — | **Coimbra (inferido)** | 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) | baixa |
 | [[deh-simao-rodrigues]] | Simão Rodrigues | 719 | — | **Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas** | 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia) | baixa |
+| [[deh-teotonio-leitao]] | Teotónio Leitão | 462 | — | **Lisboa (Casa de Provação) — inferido** | — | baixa |
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
-| [[deh-jose-soares]] | José Soares | 796 | — | **— não determinado —** | — | nenhuma |
-| [[deh-joao-duarte]] | João Duarte | 266 | — | **— não determinado —** | — | nenhuma |
 | [[deh-joao-simoes]] | João Simões | 786 | — | **— não determinado —** | 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) | nenhuma |
 | [[deh-joao-de-abreu]] | João de Abreu | 4 | — | **— não determinado —** | 1649 (provável; Dehergne infere 1648 dos «dois anos e meio» do catálogo de 1651) | nenhuma |
 | [[deh-joao-de-seixas]] | João de Seixas | 754 | — | **— não determinado —** | 1727-11-25 (Dehergne) ou 1729-11-25 (Sommervogel; Pfister nota a variante) | nenhuma |
 | [[deh-manuel-jose]] | Manuel José | 422 | — | **— não determinado —** | 1729-08-20 (Dehergne, Lus. 48, 45v); 1729-08-02 (JS 134, 435v e Pfister) | nenhuma |
-| [[deh-manuel-marques]] | Manuel Marques | 516 | — | **— não determinado —** | — | nenhuma |
-| [[deh-manuel-ribeiro-junior]] | Manuel Ribeiro, junior | 680 | — | **— não determinado —** | — | nenhuma |
-| [[deh-manuel-teles]] | Manuel Teles | 838 | — | **— não determinado —** | — | nenhuma |
-| [[deh-manuel-de-sousa]] | Manuel de Sousa | 809 | — | **— não determinado —** | — | nenhuma |
-| [[deh-simao-pinto]] | Simão Pinto | 648 | — | **— não determinado —** | — | nenhuma |
-| [[deh-teotonio-leitao]] | Teotónio Leitão | 462 | — | **— não determinado —** | — | nenhuma |
 
 ## Casos não determinados
 
 - [[deh-joao-nunes]] — João Nunes (entrada 16320000): ver a nota para o que foi procurado e o que falta.
 - [[deh-antonio-simoes-i]] — António Simões (entrada 1678): ver a nota para o que foi procurado e o que falta.
 - [[deh-inacio-lobo]] — Inácio Lobo (entrada 1624): ver a nota para o que foi procurado e o que falta.
-- [[deh-jose-soares]] — José Soares (entrada 16730300): ver a nota para o que foi procurado e o que falta.
-- [[deh-joao-duarte]] — João Duarte (entrada 16900717): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-simoes]] — João Simões (entrada 17340517): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-abreu]] — João de Abreu (entrada 16480000): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-seixas]] — João de Seixas (entrada 17271125): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-jose]] — Manuel José (entrada 17290820): ver a nota para o que foi procurado e o que falta.
-- [[deh-manuel-marques]] — Manuel Marques (entrada 16931125): ver a nota para o que foi procurado e o que falta.
-- [[deh-manuel-ribeiro-junior]] — Manuel Ribeiro, junior (entrada 17000301): ver a nota para o que foi procurado e o que falta.
-- [[deh-manuel-teles]] — Manuel Teles (entrada 16930824): ver a nota para o que foi procurado e o que falta.
-- [[deh-manuel-de-sousa]] — Manuel de Sousa (entrada 16940825): ver a nota para o que foi procurado e o que falta.
-- [[deh-simao-pinto]] — Simão Pinto (entrada 16750000): ver a nota para o que foi procurado e o que falta.
-- [[deh-teotonio-leitao]] — Teotónio Leitão (entrada 1699): ver a nota para o que foi procurado e o que falta.
 
 ## Referências
 

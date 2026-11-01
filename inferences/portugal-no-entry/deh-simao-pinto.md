@@ -4,9 +4,9 @@ person_id: deh-simao-pinto
 name: Simão Pinto
 dehergne_no: 648
 nationality: Portugal
-entry_place: não determinado
-entry_date: —
-confidence: nenhuma
+entry_place: Coimbra (inferido)
+entry_date: 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678)
+confidence: baixa
 source: "[[0 Portugal no entry]]"
 created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,9 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Simão Pinto (`deh-simao-pinto`)
 
-**Lugar de entrada: não determinado** — — (confiança: **nenhuma**).
+**Lugar de entrada: Coimbra (inferido)** — 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) (confiança: **baixa**).
 
-O lugar de entrada não fica estabelecido. No índice do catálogo de 1675 (Lus. 45, pp. 483-487) não identifiquei nenhum «Simon Pinto» — compatível com uma entrada no fim de 1675 ou depois de o catálogo estar feito. No índice do catálogo de 1678 (Lus. 46, p. 51) aparece «Fr. Simon Pinto — 31. 523», isto é, já como irmão (não sacerdote), mas a referência remete para a numeração interna do códice (o número 523 pertence à ordem das centenas do «Catalogus II») e não dá casa. O fólio que Dehergne cita para a entrada, Lus. 46, 199v, está, segundo o índice datilografado da folha de guarda, dentro da secção do Colégio de Coimbra do catálogo de 1690 — casa de residência em 1690, não de entrada. Não sobrevive nenhuma lista de noviços de 1675-1677, e a de 1678 (Colégio de Coimbra, p. 8) já não o pode conter.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Lugar não provado documentalmente; inferência estrutural para **Coimbra**, com confiança baixa. (1) O catálogo de 1678 identifica-o e data-o: «Fr. Simon Pinto, ex oppido S. Pedro do Sul, Diæc. Viseensi, an. 24, fuit 3, viribus bonis, studet litteris Humanioribus…» (Lus. 46, f. 16, n.º 523) — três anos de Companhia em 1678 ⇒ entrada em 1675, como Dehergne. (2) Esse catálogo dá a **residência** (o colégio em que estudava humanidades), não o noviciado. (3) O único catálogo do ano da entrada — o de 1675 — foi compilado antes de ele entrar: não figura na lista de noviços que fecha o bloco de Coimbra (n.os 201-225, ff. 451-451v), cujos noviços mais recentes tinham apenas 2 meses de Companhia. (4) Em 1675 a lista de noviços da província está toda no bloco de **Coimbra**, e não há noviços na Domus Probationis de Lisboa (ff. 456v-457) nem em Évora (ff. 451v-455): donde, por inferência, Coimbra. A inferência é enfraquecida por Franco, que atesta a existência de até três noviciados (Coimbra, Lisboa, Évora) antes da unificação de Junho de 1685.
+
+A entrada de Simão Pinto em 1675 está confirmada pelo catálogo provincial de 1678, que o inscreve como escolar de humanidades com 24 anos e «fuit 3» (três anos de Companhia): Lus. 46, f. 16, n.º 523. O lugar de entrada, porém, não fica provado: o único catálogo do ano da entrada (1675) foi compilado antes de ele entrar, e não sobrevive nenhum catálogo de 1676-1677. Em 1675 os noviços da província estão inscritos no fim do bloco do **Colégio de Coimbra** e não há noviços em Lisboa nem em Évora, pelo que o lugar mais provável é **Coimbra** — mas trata-se de uma inferência estrutural (confiança **baixa**), não de um assento nominal.
 
 ## Identificação
 
@@ -34,8 +36,8 @@ O lugar de entrada não fica estabelecido. No índice do catálogo de 1675 (Lus.
 |---|---|
 | Dehergne, entrada (`E.`) | 1675 |
 | Base Timelink (actual) | `?` / 16750000 |
-| Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **não determinado** — — (nenhuma) |
+| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
+| **Proposta desta nota** | **Coimbra (inferido)** — 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) (baixa) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -45,7 +47,7 @@ Dehergne (doc 65, nº 648) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-Simão Pinto, português, natural de São Pedro do Sul, diocese de Viseu (1654). Entrou na Companhia em 1675. Em 1678 era irmão (não sacerdote). Em 1685 um P. Simeão Pinto fazia os votos de «c. spir.» no colégio de Bragança (Lus. 23, 98), mas Dehergne pergunta «Est-ce le même?» e não o identifica com segurança. Em 1693 estava destinado à China (JS 134, 378v) e embarcou em 1694 (Wicki 1327, 117.ª expedição).
+Simão Pinto, português, natural de São Pedro do Sul, diocese de Viseu (1654). Entrou na Companhia em 1675. Em 1678 era «Fr. Simon Pinto», com 24 anos e três anos de Companhia, estudante de humanidades no colégio que o catálogo inscreve imediatamente antes do «Collegium Portuense» (Braga; Lus. 46, f. 16, n.º 523). Em 1685 um P. Simeão Pinto fazia os votos de «c. spir.» no colégio de «Brigantia» (Bragança) a 15 de Agosto (Lus. 23, 98, citado por Dehergne, que pergunta «Est-ce le même?»). Em 1693 estava destinado à China (JS 134, 378v) e embarcou em 1694 (Wicki 1327, 117.ª expedição).
 
 ## 3. Cronologia (base Timelink)
 
@@ -62,41 +64,48 @@ Simão Pinto, português, natural de São Pedro do Sul, diocese de Viseu (1654).
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 1. O que Dehergne diz e cita
+### 4.1 1. O catálogo de 1678: identificação, idade e anos de Companhia
 
-«N. S. Pedro do Sul, d. Vico, 1654 -E. 1675 (Lus. 46, 199v). Emb. 1694 (W 1327). Il était destiné à la Chine en 1693 (JS 134, 378v). Un P. Simeon Pinto fait ses V. de c. spir. au collège de « Brigantia » (Bragance) le 15 août 1685 (Lus. 23, 98). Est-ce le même?» — a citação de entrada é um fólio do catálogo de 1690.
+No catálogo primeiro de 1678 (Lus. 46, ff. 1-21v), no f. 16, na parte final do bloco que precede o cabeçalho «Collegium Portuense» (portanto o Colégio de Braga), lê-se:
 
-### 4.2 2. O que é o fólio 199v (segundo o índice do códice)
+> «523. Fr. Simon Pinto, ex oppido S. Pedro do Sul, Diæc. Viseensi, an. 24, fuit 3, viribus bonis, studet litteris Humanioribus…»
 
-A tabela datilografada da folha de guarda do Lus. 46 indica, para o catálogo de 1690: «Conimbricens. C 195 … S. Felicis R 201 …». O fólio 199v cai, portanto, na secção do Colégio de Coimbra de 1690: uma lista de residência, cujo «Societ. N» permitiu a Dehergne calcular o ano da entrada (1690 − 15 = 1675), mas que não diz onde ela se deu.
+— ARSI, *Lus. 46*, f. 16 (imagem `LUS. 46/016.jpg`), leitura directa do manuscrito. Fólio confirmado pelo índice alfabético do mesmo catálogo (T5, ff. 46-50), onde o nome aparece como «Fr. Simon Pinto».
 
-### 4.3 3. As listas de noviços e o que mostram
+«S. Pedro do Sul, diocese de Viseu» é exactamente a naturalidade que Dehergne lhe dá («N. S. Pedro do Sul, d. Vico, 1654»), e «an. 24» em 1678 é compatível com o nascimento em 1654. «Fuit 3» fixa a entrada em **1675** — a data de Dehergne. O que o assento dá é a **residência** em 1678 (escolar de humanidades), não a casa do noviciado.
 
-Em 1675 os noviços estavam no Colégio de Coimbra (Lus. 45, p. 451, n.os 201-221, com «fuit N menses»): nenhum Simão Pinto. Em 1678 os noviços estavam ainda em Coimbra (Lus. 46, p. 8, «Fratres Novitii», n.os 220-236): também não figura — e já não devia figurar, pois quem entrou em 1675 completara o noviciado em 1677. Quem entrou em 1675 teria sido noviço entre 1675 e 1677; não existe, nas digitalizações, nenhum catálogo português de 1676 nem de 1677 (o Lus. 45 vai até 1675 e o Lus. 46 começa em 1678).
+### 4.2 2. O catálogo de 1675: compilado antes da sua entrada
+
+O único catálogo provincial do ano da entrada é o de 1675 (Lus. 45, ff. 444-463v). A lista dos noviços da província está no fim do bloco do **Colégio de Coimbra** (n.os 201-225, f. 451 e alto do f. 451v), e os seus membros mais recentes tinham «fuit 2 menses»: o catálogo foi, pois, compilado alguns meses antes do fim de 1675. Simão Pinto **não figura** nessa lista (nem em nenhuma outra do catálogo: o índice do T5, ff. 483-487v, não tem «Simon Pinto»), o que é coerente com uma entrada posterior à compilação — mas significa que não existe assento de noviço que o nomeie. Não há catálogos de 1676 nem de 1677.
+
+### 4.3 3. A inferência para Coimbra e os seus limites
+
+Em 1675, o catálogo mostra os noviços da província reunidos no **Colégio de Coimbra**; a secção da Domus Probationis de Lisboa (ff. 456v-457) tem padres, «Fratres Coadjutores Temporales» e «Varia», mas nenhum noviço, e a secção de Évora (ff. 451v-455) também não tem lista de noviços. Se o noviciado continuava em Coimbra no segundo semestre de 1675 — quando Simão Pinto entrou —, a casa de entrada é Coimbra. É uma inferência razoável, mas não é prova: António Franco atesta que só em Junho de 1685 se reduziram «a hum só Noviciado de Lisboa os tres da Provincia» (Coimbra, Lisboa e Évora), pelo que a província podia ter mais do que um noviciado activo antes dessa data, e o catálogo de 1675 pode simplesmente não listar noviços nas outras casas. Daí a confiança **baixa**, e não média: não há assento nominal no ano da entrada.
 
 ### O que não foi encontrado
 
-Procurou-se: (1) o índice do catálogo de 1675 (Lus. 45, pp. 483-487) — nenhum «Simon Pinto» nas páginas lidas; (2) a lista de noviços de Coimbra de 1675 (Lus. 45, pp. 450-451) — não figura; (3) a lista «Fratres Novitii» de Coimbra de 1678 (Lus. 46, p. 8) — não figura (seria tardia); (4) as listas de noviços de 1681 e 1685 (Lus. 46, pp. 70v-71 e 139v-140) — tardias; (5) buscas no pha por «Simão Pinto»/«Simeon Pinto» — só homónimos dos séculos XVI e XVIII (doc 40, doc 66). Não existem catálogos portugueses de 1676-1677 nas digitalizações.
+Procurou-se e não se encontrou: (1) Simão Pinto em qualquer lista de noviços: não consta da lista de noviços do Colégio de Coimbra no catálogo de 1675 (Lus. 45, ff. 451-451v, n.os 201-225) — o catálogo é anterior à sua entrada; a lista «Fratres Novitii» do Colégio de Coimbra no catálogo de 1678 (Lus. 46, f. 8) é posterior ao seu noviciado; não existem catálogos provinciais de 1676-1677; (2) o índice do T5 de 1675 (ff. 483-487v) não o regista; (3) o fólio que Dehergne cita para a data, «Lus. 46, 199v» (= imagem `LUS. 46/198v.jpg`, fim do bloco de Coimbra do catálogo de 1690), foi lido: contém «Patres Coadjutores Spirituales» (n.os 175-176) e «Fratres Coadjutores Temporales» (n.os 177-183), e **não** o assento de Simão Pinto — pelo que a cote de Dehergne não ficou esclarecida (talvez se refira a outra numeração); (4) o «P. Simeon Pinto» que em 1685 fazia os votos em Bragança (Lus. 23, 98, citado por Dehergne) não pôde ser confirmado como o mesmo, porque o Lus. 23 não está nas digitalizações de trabalho. Fica também por confirmar o colégio exacto da sua residência em 1678 (o bloco que precede o «Collegium Portuense», que pela ordem do índice é o Colégio de Braga).
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 45, índice do catálogo de 1675, pp. 483-487, formato «nome — n. [número] — Fol. [fólio]» — imagens `LUS. 45/483.jpg` a `LUS. 45/487.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/486.jpg"` · prova indireta (busca negativa)
-  - o índice é alfabético pelo **nome próprio** (A = Antonius/Andreas/Augustinus, J = Jacobus/Joannes/Josephus/Julianus, S = Sebastianus/Stephanus/Simon…) e remete para número e fólio internos; nas páginas lidas não identifiquei nenhum «Josephus de Almeyda», «Josephus Suarez/Soares» nem «Simon Pinto»
-- ARSI, *Lusitania* 46, p. 51, índice alfabético do catálogo de 1678 (formato «nome — número — número») — imagem `LUS. 46/050.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/050.jpg"` · prova direta quanto à presença em 1678
-  - «Fr. Simon Pinto — 31. 523»: Simão Pinto estava na província em 1678, como irmão (não sacerdote), com o n.º 523 na numeração interna (ordem das centenas, própria do «Catalogus II»); a referência não dá casa
-- ARSI, *Lusitania* 45, pp. 450-451, secção do Colégio de Coimbra do catálogo de 1675: «Frat.» juniores (n.os 158-200) e noviços com «Societ. N menses» (n.os 201-221) — imagens `LUS. 45/450.jpg`, `LUS. 45/450v.jpg` e `LUS. 45/451.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg"` · prova direta (existência e teor da lista de noviços de 1675)
-  - em 1675 os noviços estavam no Colégio de Coimbra (21 noviços, «fuit 2 menses» a «fuit 22 menses»); nenhum deles é José de Almeida, José Soares ou Simão Pinto
-- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (existência e teor da lista de noviços de 1678)
-  - em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa
-- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
-  - estrutura do códice por casas: 1678 «Conimbricens. C 2v … D.Prb 14»; 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 648 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-p`) · `python3 tools/packet.py deh-simao-pinto` · `python3 tools/packet.py deh-simao-pinto` · prova indireta (fonte da data)
-  - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
+- ARSI, *Lus. 46*, catálogo de 1678, f. 16 (imagem `LUS. 46/016.jpg`), n.º 523: «Fr. Simon Pinto, ex oppido S. Pedro do Sul, Diæc. Viseensi, an. 24, fuit 3, viribus bonis, studet litteris Humanioribus…» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/016.jpg"` · prova direta (para identificação e data)
+  - identificação (São Pedro do Sul, Viseu), idade (24 anos em 1678) e ano de entrada (3 anos de Companhia ⇒ 1675); mostra-o como estudante de humanidades num colégio (residência), não no noviciado
+- ARSI, *Lus. 45*, catálogo de 1675, f. 451 e f. 451v, lista de noviços do Colégio de Coimbra (n.os 201-225, com «fuit N menses»; a lista fecha antes do cabeçalho «Collegium Eborense») — imagens `LUS. 45/451.jpg` e `LUS. 45/451v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451v.jpg"` · prova indireta (busca negativa + contexto)
+  - que os noviços da província estavam em Coimbra em 1675 e que o catálogo é anterior à entrada de Simão Pinto (nenhum Simon Pinto na lista; os noviços mais recentes tinham 2 meses)
+- ARSI, *Lus. 45*, índice do catálogo de 1675 (T5, ff. 483-487v), secção «S»: entradas «P. Simon Teixeira», «P. Simon de Moraes», «P. Simon a Gama»… mas nenhum «Simon Pinto» — imagem `LUS. 45/487.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/487.jpg"` · prova indireta
+  - que não há Simão Pinto no catálogo de 1675 (busca negativa no índice alfabético)
+- ARSI, *Lus. 45*, catálogo de 1675, f. 456v: cabeçalho «Domus Probationis Ulyssiponensis» seguido de padres e coadjutores, sem noviços — imagem `LUS. 45/456v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/456v.jpg"` · prova indireta
+  - que em 1675 a Casa de Provação de Lisboa não tinha noviços, o que reforça (sem provar) a atribuição a Coimbra
+- António Franco, *Imagem da virtude em o noviciado… de Évora* (doc 52), p. 49 — raw (`transcription-ocr@tesseract-psm3`): «No anno de 1685… mandou se reduzissem a hum só Noviciado de Lisboa os tres da Provincia» · `pha page 52 49` · `pha page 52 49` · prova indireta (limite da inferência)
+  - que antes de 1685 a província podia ter até três noviciados (Coimbra, Lisboa, Évora): limita a força da inferência «todos os noviços em Coimbra ⇒ entrada em Coimbra»
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 648 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-p`) · `python3 tools/packet.py deh-simao-pinto` · `python3 tools/packet.py deh-simao-pinto` · prova indireta
+  - estado da questão: «N. S. Pedro do Sul, d. Vico, 1654 — E. 1675 (Lus. 46, 199v)», lugar em branco; destino à China em 1693 e embarque em 1694
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-simao-pinto]]
+- **doc 52** — Franco, Antonio. Imagem da virtude em o noviciado da Companhia de Jesus do Real Collegio do Espirito Santo de Evora do Reyno de Portugal ... (Lisboa: na Officina Real Deslandesiana, 1714). (fetched-from-zotero-unverified)
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---

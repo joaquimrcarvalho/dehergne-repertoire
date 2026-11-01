@@ -4,9 +4,9 @@ person_id: deh-manuel-ribeiro-junior
 name: Manuel Ribeiro, junior
 dehergne_no: 680
 nationality: Portugal
-entry_place: não determinado
+entry_place: Lisboa (Casa de Provação) — inferido
 entry_date: —
-confidence: nenhuma
+confidence: baixa
 source: "[[0 Portugal no entry]]"
 created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,7 +14,7 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Manuel Ribeiro, junior (`deh-manuel-ribeiro-junior`)
 
-**Lugar de entrada: não determinado** — — (confiança: **nenhuma**).
+**Lugar de entrada: Lisboa (Casa de Provação) — inferido** — — (confiança: **baixa**).
 
 Não foi possível estabelecer o lugar de entrada. O catálogo de 1700 (Lus. 47) não o inclui: nem na lista de noviços da Casa de Provação de Lisboa (ff. 22v-23v, entradas de 1698-1700), nem nas listas do Colégio de Coimbra e dos «Missionarii» (f. 16, ff. 16-16v). Foi ainda procurado, sem êxito, na lista de noviços da Casa de Provação de Lisboa do catálogo de 1705 (f. 86), onde estão os seus companheiros de destino chinês (Cordes, Pinheiro, Lima). A única prova coeva que o nomeia é a folha 115v do catálogo de 1711 (lista «Ad Sinensem»), que o diz «Novitius» — noviço — quando destinado à China, sem indicar a casa.
 
@@ -35,7 +35,7 @@ Não foi possível estabelecer o lugar de entrada. O catálogo de 1700 (Lus. 47)
 | Dehergne, entrada (`E.`) | 1er mars 1700 |
 | Base Timelink (actual) | `?` / 17000301 |
 | Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **não determinado** — — (nenhuma) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação) — inferido** — — (baixa) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -91,9 +91,13 @@ A folha 115v (catálogo de 1711, «Supplementum», título «Ad Sinensem») list
 
 Percorridas as três listas de noviços da Casa de Provação de Lisboa no catálogo de 1700 (Lus. 47, ff. 22v-23: nn. 393-412, 415-428 e 429-436), **não figura nenhum «Ribeiro»**. Confirma-se o resultado da sessão anterior (que já tinha visto as entradas de 1698-1700). O lugar de entrada continua por estabelecer.
 
+### 4.4 Prova institucional: noviciado único em Lisboa desde Junho de 1685
+
+Prova institucional (nova, 2026-11-01): António Franco, *Imagem da virtude… Évora* (doc 52), p. 49, regista que em 1685 o Geral mandou reduzir «a hum só Noviciado de Lisboa os tres da Provincia» (Coimbra, Lisboa e Évora), com execução em **Junho de 1685**. Os catálogos confirmam: em 1685/1686 os noviços da província aparecem todos na «Domus Probationis Ulyssiponensis» (Lus. 39, T4 de 1686, ff. 140-143v) e o bloco de Coimbra já não tem lista de noviços. Logo, **quem entrou depois de Junho de 1685 entrou em Lisboa** — salvo se o noviciado único tiver sido desfeito depois; em 1711 já há listas de noviços em Coimbra, Évora e Lisboa, pelo que a regra se aplica com segurança só até cerca de 1700.
+
 ### O que não foi encontrado
 
-Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emmanuel Ribeiro» no pha (docs 63/64 de Rodrigues, 65 Dehergne, 66 Wicki, 44 Missões dos jesuítas no Oriente) e leram-se as listas de noviços de 1700 e 1705 do códice ARSI Lus. 47 (ff. 16, 16v, 22-23v, 72v-73, 85v-86v). O único «Manuel Ribeiro» encontrado no pha é de Alcácer-do-Sal, entrado a 11 de Janeiro de 1610, missionário em Angola (doc 63, p. 379) — homónimo. Falta, para resolver o caso, um catálogo da província de Portugal de 1700-1701 que registe a sua admissão (o códice Lus. 46a, «Catalogus 1.us ... anno 1700», foi apenas parcialmente explorado). Acrescenta-se (2026-11-01) a verificação das listas de noviços de 1700 (nn. 393-436), sem resultado.
+Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emmanuel Ribeiro» no pha (docs 63/64 de Rodrigues, 65 Dehergne, 66 Wicki, 44 Missões dos jesuítas no Oriente) e leram-se as listas de noviços de 1700 e 1705 do códice ARSI Lus. 47 (ff. 16, 16v, 22-23v, 72v-73, 85v-86v). O único «Manuel Ribeiro» encontrado no pha é de Alcácer-do-Sal, entrado a 11 de Janeiro de 1610, missionário em Angola (doc 63, p. 379) — homónimo. Falta, para resolver o caso, um catálogo da província de Portugal de 1700-1701 que registe a sua admissão (o códice Lus. 46a, «Catalogus 1.us ... anno 1700», foi apenas parcialmente explorado). Acrescenta-se (2026-11-01) a verificação das listas de noviços de 1700 (nn. 393-436), sem resultado. Entrou em 1700 ⇒ noviciado de Lisboa (regra de Junho de 1685); não figura nas listas nominais de 1700 (nn. 393-436), mas era a única casa de noviciado.
 
 ## 5. Evidência
 
@@ -105,6 +109,8 @@ Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emma
   - «N. 28 févr. 1680 -E. 1er mars 1700 (JS 25, 279, 282). Emb. non prêtre en 1701 pour la Chine (W 1447), étant novice (Lus. 47, 115v)» — a data de entrada e a qualidade de noviço, sem lugar
 - ARSI, *Lus. 47*, catálogo de 1700, «Novitij Scholastici» da Domus Probationis (nn. 393-436), ff. 22v-23 — imagens `LUS. 47/022v.jpg` e `LUS. 47/023.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/022v.jpg"` · prova negativa
   - NEGATIVA: não está entre os noviços da Casa de Provação em 1700
+- António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra*… / *…no noviciado de Évora* (doc 52), p. 49 — edited (`franco-imagem-virtude`) · `pha page 52 49 --edited` · prova direta (para a regra), indireta para a pessoa
+  - em 1685 o Geral mandou reduzir a um só noviciado, em Lisboa, os três da província (Coimbra, Lisboa, Évora), com execução em Junho de 1685
 
 ## 6. Referências
 
@@ -112,6 +118,7 @@ Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emma
 - [[deh-manuel-ribeiro-junior]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
+- **doc 52** — Franco, Antonio. Imagem da virtude em o noviciado da Companhia de Jesus do Real Collegio do Espirito Santo de Evora do Reyno de Portugal ... (Lisboa: na Officina Real Deslandesiana, 1714). (fetched-from-zotero-unverified)
 
 ---
 

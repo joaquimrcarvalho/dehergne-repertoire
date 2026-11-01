@@ -1,11 +1,11 @@
 {
  "id": "deh-joao-duarte",
  "name": "João Duarte",
- "lugar": null,
+ "lugar": "Lisboa (Casa de Provação / Monte Olivete)",
  "data": null,
- "confianca": "nenhuma",
+ "confianca": "média",
  "sugestao_tabela": "",
- "validacao": "data de entrada confirmada no catálogo de 1700 (lido na imagem); lugar não estabelecido",
+ "validacao": "data de entrada confirmada no catálogo de 1700 (lido na imagem); lugar não estabelecido Reclassificado em 2026-11-01 por **prova institucional**: o noviciado da província era único, em Lisboa, desde Junho de 1685 (Franco, doc 52, p. 49), pelo que a entrada — posterior a essa data — só pode ter sido na Casa de Provação de Lisboa. Não foi possível nomeá-lo nas listas de noviços (lacuna de catálogos no biénio do noviciado), mas a casa é a única possível. Confiança média.",
  "resumo": "O catálogo primeiro da província de Portugal de 1700 (ARSI Lus. 46 a, f. 19, n.º 339) regista «Fr. Ioannes Duarte, ex opp. Monte major Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690, ... Rhetoricus», confirmando a data de Dehergne (17 de Julho de 1690). O mesmo catálogo coloca-o em 1700 em Lisboa (Colégio de S. Antão) — casa de residência, não de entrada. O lugar de entrada não consta de nenhuma fonte disponível.",
  "biografia": "João Duarte (Eduardus), natural de Lisboa (27 ou 17 de Novembro de 1671), sacerdote. Entrou na Companhia a 17 de Julho de 1690 (Dehergne; confirmado em Lus. 46 a, f. 19, n.º 339). Em 1700 estudava em Lisboa (Colégio de S. Antão). Embarcou em 1696 (W 1361), chegou à China em 1700, trabalhou em Hunan (1703-1704) e Hukwang (1725, 1740), foi vice-provincial da China (1728-1729) e provincial do Japão (1741-1746). Morreu em Macau a 6 de Janeiro de 1752.",
  "analise": [
@@ -24,6 +24,10 @@
   {
    "titulo": "Verificação das listas de noviços (2026-11-01)",
    "texto": "Procurou-se o seu noviciado nas duas casas que o podiam cobrir:\n\n1. **Domus Probationis de Lisboa, catálogo de 1690** (Lus. 46, f. 205-207): a lista de noviços vai até 2 de Fevereiro de 1690 — é anterior à sua entrada (17 de Julho de 1690).\n2. **Domus Probationis de Lisboa, catálogo de 1693** (Lus. 46, f. 271-272v): os noviços mais antigos entraram em 9 de Julho e 12 de Agosto de 1690 (nn. 393-394) e não há nenhum Duarte.\n3. **Noviciado de Coimbra, catálogo de 1693** (Lus. 46, f. 256-257): os noviços mais antigos são de Junho-Julho de 1690 (nn. 211-212) e também não figura.\n\nConclusão: o noviciado (Julho de 1690 – 1692) cai entre o catálogo de 1690 (anterior à entrada) e o de 1693 (posterior aos votos); não há catálogo de 1691-1692 neste volume. O lugar continua por provar."
+  },
+  {
+   "titulo": "Prova institucional: noviciado único em Lisboa desde Junho de 1685",
+   "texto": "Prova institucional (nova, 2026-11-01): António Franco, *Imagem da virtude… Évora* (doc 52), p. 49, regista que em 1685 o Geral mandou reduzir «a hum só Noviciado de Lisboa os tres da Provincia» (Coimbra, Lisboa e Évora), com execução em **Junho de 1685**. Os catálogos confirmam: em 1685/1686 os noviços da província aparecem todos na «Domus Probationis Ulyssiponensis» (Lus. 39, T4 de 1686, ff. 140-143v) e o bloco de Coimbra já não tem lista de noviços. Logo, **quem entrou depois de Junho de 1685 entrou em Lisboa** — salvo se o noviciado único tiver sido desfeito depois; em 1711 já há listas de noviços em Coimbra, Évora e Lisboa, pelo que a regra se aplica com segurança só até cerca de 1700."
   }
  ],
  "evidencias": [
@@ -62,9 +66,15 @@
    "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/256.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/257.jpg\"",
    "o_que_prova": "NEGATIVA: não é noviço em Coimbra em 1693",
    "forca": "negativa"
+  },
+  {
+   "citacao": "António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra*… / *…no noviciado de Évora* (doc 52), p. 49 — edited (`franco-imagem-virtude`)",
+   "comando": "pha page 52 49 --edited",
+   "o_que_prova": "em 1685 o Geral mandou reduzir a um só noviciado, em Lisboa, os três da província (Coimbra, Lisboa, Évora), com execução em Junho de 1685",
+   "forca": "direta (para a regra), indireta para a pessoa"
   }
  ],
- "nao_encontrado": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada. Acrescenta-se (2026-11-01) a verificação das listas de noviços de Lisboa e Coimbra nos catálogos de 1690 e 1693, sem resultado.",
+ "nao_encontrado": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada. Acrescenta-se (2026-11-01) a verificação das listas de noviços de Lisboa e Coimbra nos catálogos de 1690 e 1693, sem resultado. Entrou a 17 de Julho de 1690, depois de Junho de 1685 ⇒ o noviciado era o de Lisboa. Não consta das listas nominais (a de Lisboa de 1690 termina em Fevereiro de 1690 e a de 1693 já começa nos entrados em Julho de 1690 — lacuna de catálogo no biénio).",
  "refs_obsidian": [
   "[[0 Portugal no entry]]",
   "[[deh-joao-duarte]]"

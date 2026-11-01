@@ -4,9 +4,9 @@ person_id: deh-jose-soares
 name: José Soares
 dehergne_no: 796
 nationality: Portugal
-entry_place: não determinado
-entry_date: —
-confidence: nenhuma
+entry_place: Coimbra (noviciado do Colégio de Jesus) — por identificação provável
+entry_date: Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673)
+confidence: média
 source: "[[0 Portugal no entry]]"
 created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,9 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # José Soares (`deh-jose-soares`)
 
-**Lugar de entrada: não determinado** — — (confiança: **nenhuma**).
+**Lugar de entrada: Coimbra (noviciado do Colégio de Jesus) — por identificação provável** — Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673) (confiança: **média**).
 
-O lugar de entrada não fica estabelecido. As listas de noviços portuguesas que sobrevivem não o incluem: o catálogo de 1675 (ARSI Lus. 45, secção do Colégio de Coimbra, pp. 450-451, 21 noviços com «Societ. N menses») e o de 1678 (ARSI Lus. 46, p. 8, «Fratres Novitii», n.os 220-236) são as únicas listas de noviços dos anos 1673-1678 e em nenhuma figura. O índice do catálogo de 1675 (Lus. 45, pp. 483-487), composto por nome próprio, não regista nenhum «Josephus Suarez/Soares» nas páginas que li. Para a data, Dehergne cita apenas JS 26, 55 e JS 134, 380 (catálogos da missão da China), códices que não existem no arquivo pha nem nas digitalizações disponíveis.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Lugar estabelecido por identificação provável. O catálogo de 1675 (Lus. 45) é o único catálogo provincial que cobre o noviciado de José Soares (Março de 1673 – Março de 1675) e, na lista de noviços do **Colégio de Coimbra** (f. 451, n.º 213), está «Frat. Josephus Teixeyra, ex oppido S. Combadão, Diæc. Conimb., aetat. 18, viribus bonis, fuit 13 menses, Scholasticus». Naturalidade (Santa Comba Dão), diocese (Coimbra), idade (18 anos em 1675 ⇒ nascimento em 1656/57) e estado (escolar, isto é, estudante destinado ao sacerdócio) coincidem com o verbete de Dehergne; não há na província, em 1675, outro «Josephus» de Santa Comba Dão. O apelido do catálogo é, porém, **Teixeira**, não Soares/Suarez: é essa a razão da confiança **média** (e não alta). Se a equação Teixeira = Soares se confirmar (nome composto, como no caso paralelo «Felix/Francisco Barbosa»), a confiança sobe a alta, porque se trata de noviço nomeado na casa de noviciado.
+
+José Soares (Suarez), natural de Santa Comba Dão, entrou na Companhia em Março de 1673 (15, 23 ou 25, conforme as três variantes que Dehergne cita). Em 1675 era noviço no **Colégio de Coimbra**: a única lista de noviços que sobrevive para esse biénio — a que fecha o bloco de Coimbra no catálogo primeiro de 1675 — inscreve «Frat. Josephus Teixeyra, ex oppido S. Combadão, Diæc. Conimb., aetat. 18… fuit 13 menses, Scholasticus» (Lus. 45, f. 451, n.º 213). É o único noviço de Santa Comba Dão do catálogo, e a idade e a diocese batem com o Dehergne; o apelido diverge (Teixeira em vez de Soares), pelo que o lugar fica com confiança **média**. Não havia noviciado em Lisboa (a secção da Domus Probationis, ff. 456v-457, só tem padres e coadjutores) nem em Évora (ff. 451v-455): em 1675 os noviços da província estavam em Coimbra.
 
 ## Identificação
 
@@ -34,8 +36,8 @@ O lugar de entrada não fica estabelecido. As listas de noviços portuguesas que
 |---|---|
 | Dehergne, entrada (`E.`) | en mars 1673 |
 | Base Timelink (actual) | `?` / 16730300 |
-| Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **não determinado** — — (nenhuma) |
+| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
+| **Proposta desta nota** | **Coimbra (noviciado do Colégio de Jesus) — por identificação provável** — Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673) (média) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -45,7 +47,7 @@ Dehergne (doc 65, nº 796) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-José Soares (Suarez), português, natural de Santa Comba Dão, diocese de Coimbra (15 de Fevereiro de 1656). Entrou na Companhia em Março de 1673 (15, 23 ou 25 de Março, segundo as três variantes que Dehergne cita). Embarcou no Santo António a 4 de Abril de 1680 (Wicki 1197, 103.ª expedição) e chegou a Macau no mesmo ano. Esteve em Xangai (1684), Yangzhou (1685) e Pequim (1688), onde foi reitor do colégio (1692-1697); distribuiu socorros na fome de 1704, converteu os príncipes Sourniama e foi vice-provincial da China (1707-1711); em 1716 estava na Grande Muralha. Professou os 4 votos em Pequim a 15 de Agosto de 1690. Morreu em Pequim a 14 de Setembro de 1736.
+José Soares (Suarez), português, natural de Santa Comba Dão, diocese de Coimbra (n. 15 de Fevereiro de 1656). Entrou na Companhia em Março de 1673 e fez o noviciado no Colégio de Coimbra. Embarcou no Santo António a 4 de Abril de 1680 (Wicki 1197, 103.ª expedição) e chegou a Macau no mesmo ano. Esteve em Xangai (1684), Yangzhou (1685) e Pequim (1688), onde foi reitor do colégio (1692-1697); distribuiu socorros na fome de 1704, converteu os príncipes Sourniama e foi vice-provincial da China (1707-1711); em 1716 estava na Grande Muralha. Professou os 4 votos em Pequim a 15 de Agosto de 1690. Morreu em Pequim a 14 de Setembro de 1736, com 81 anos de idade e 63 de Religião.
 
 ## 3. Cronologia (base Timelink)
 
@@ -88,32 +90,48 @@ José Soares (Suarez), português, natural de Santa Comba Dão, diocese de Coimb
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 1. O que Dehergne diz e cita
+### 4.1 1. As listas de noviços do catálogo de 1675 e o lugar de Coimbra
 
-«N. Santa Comba Dão, dioc. de Coïmbre, 15 févr. 1656 (JS 134, 397v). E. en mars 1673 (le 15, JS 26, 55., le 23., le 25, JS 134, 380).» — Dehergne não cita para a entrada nenhum catálogo português, apenas os catálogos da missão da China (JS), que não dão a casa do noviciado.
+O catálogo primeiro de 1675 (Lus. 45, ff. 444-463v) está organizado por casas: Domus Professa de Lisboa f. 444, **Colégio de Coimbra f. 446**, Évora f. 451v, Santo Antão de Lisboa f. 455, **Domus Probationis f. 456v**, Braga f. 457v, Porto f. 458v, etc. (índice dactilografado, ff. 000i1-000i3). No fim do bloco de Coimbra — como é hábito nos catálogos trienais — vem a lista dos noviços: numeração contínua n.os 201-225, começando no f. 451 e acabando no alto do f. 451v, imediatamente antes do cabeçalho «Collegium Eborense». Todos os assentos desta cauda têm «fuit N menses» (2 a 22 meses de Companhia), ou seja, são os noviços.
 
-### 4.2 2. As listas de noviços dos anos 1673-1678 não o incluem
+O lugar de noviciado em 1675 é, portanto, o **Colégio de Coimbra**. Confirma-o o resto do catálogo: na secção da Domus Probationis de Lisboa (ff. 456v-457) estão padres, «Fratres Coadjutores Temporales» e «Varia», mas nenhum noviço; na secção de Évora (ff. 451v-455) também não há lista de noviços. Nesse ano, a província tinha um único noviciado activo, o de Coimbra.
 
-Só duas listas de noviços portuguesas cobrem 1673-1678: a do catálogo de 1675, no fim da secção do Colégio de Coimbra (Lus. 45, p. 451, n.os 201-221), e a do catálogo de 1678, também no fim da secção de Coimbra (Lus. 46, p. 8, «Fratres Novitii», n.os 220-236). Li ambas integralmente: nenhum «Josephus Suarez/Soares» figura nelas. Note-se que um noviço entrado em Março de 1673 já teria completado os dois anos de noviciado quando o catálogo de 1675 foi feito — mas continuaria a constar da secção da casa onde estudava, e não consta do índice do catálogo.
+### 4.2 2. O assento n.º 213: «Fr. Josephus Teixeyra», de Santa Comba Dão
 
-### 4.3 3. O que se procurou e não existe
+A lista dos noviços de Coimbra, no f. 451, n.º 213, diz:
 
-O índice do catálogo de 1675 (pp. 483-487) não apresenta nenhum «Josephus Suarez/Soares» nas páginas que li (o índice é alfabético pelo nome próprio, e as entradas «Josephus …» que identifiquei são Lopes, Amney, a Cunha, Sessa, Duarte, Borges). Não há, nas digitalizações, catálogos portugueses de 1673, 1674, 1676, 1677, 1679 ou 1680; o códice Lus. 45 termina no catálogo de 1675 e o Lus. 46 começa no de 1678. O arquivo pha não tem os códices JS citados por Dehergne nem catálogos portugueses posteriores a 1625.
+> «213. Frat. Josephus Teixeyra, ex oppido S. Combadão, Diæc. Conimb., aetat. 18, viribus bonis, fuit 13 menses, Scholasticus.»
+
+— ARSI, *Lus. 45*, f. 451, n.º 213 (imagem `LUS. 45/451.jpg`), leitura directa do manuscrito. O índice alfabético do mesmo catálogo (T5, f. 486) regista «Fr. Josephus Teixeyra» entre as entradas em J, e no mesmo catálogo há ainda um **P. Josephus Teixeira** (índice, f. 485v) — outro religioso, mais velho, que em 1685 seria «Magister Novitiorum» da Domus Probationis de Lisboa (Lus. 39, f. 140): são dois Teixeira distintos, e o noviço é o mais novo.
+
+A identificação com José Soares apoia-se em quatro coincidências: (1) a naturalidade — **Santa Comba Dão**, e é o único noviço do catálogo com essa origem; (2) a diocese — Coimbra, como o «dioc. de Coïmbre» de Dehergne; (3) a idade — 18 anos em 1675 ⇒ nascimento em 1656/57, e Dehergne dá 15 de Fevereiro de 1656; (4) a cronologia — o «fuit 13 menses» situa a entrada em finais de 1673/inícios de 1674, próximo do «Março de 1673» de Dehergne (a leitura «23 menses», que daria Março de 1673, não está excluída; o algarismo é ambíguo). A História da Companhia de Jesus (doc 63, p. 185, nota 2) acrescenta que «José Soares faleceu em Pequim com 81 anos de idade e 63 de Religião» — 1736 − 63 = 1673, o que confirma o ano da entrada.
+
+O que não bate é o **apelido**: Teixeira em vez de Soares/Suarez. A hipótese mais económica é um nome composto (do tipo «José Soares Teixeira»), usado de forma diferente nas duas tradições: os catálogos da província chamam-lhe Teixeira, os catálogos da missão da China (JS 26, JS 134) e Dehergne chamam-lhe Soares/Suarez. O caso paralelo de Francisco Barbosa — «Fr. Felix Barbosa» no catálogo da província de 1693, «Francisco» em Dehergne — mostra que este tipo de divergência de nome é real neste corpus. Fica registado, não resolvido.
+
+### 4.3 3. O que se procurou e o que falta
+
+Não existe catálogo provincial de 1674 nem de 1676-1677 (Lus. 45 tem 1672 e 1675; Lus. 46 começa em 1678), pelo que a lista de 1675 é o único documento do noviciado de Soares. O índice do catálogo de 1675 não tem nenhum «Josephus Suares/Soares»: as entradas em J são Teixeyra, Jarayva e Duarte (f. 486). No catálogo de 1678 (Lus. 46, ff. 1-21v) também não há «Josephus Suares» no índice (ff. 46-50); há um «Fr. Josephus Teixeyra» (índice, f. 50), que deve ser o mesmo homem dois anos e meio depois. Os códices JS 26 (f. 55) e JS 134 (f. 380), que dão as datas de 15/23/25 de Março, não existem no arquivo pha nem nas digitalizações de trabalho.
 
 ### O que não foi encontrado
 
-Procurou-se: (1) o índice do catálogo de 1675 (Lus. 45, pp. 483-487) — nenhum «Josephus Suarez/Soares» nas páginas lidas; (2) a lista de noviços do Colégio de Coimbra de 1675 (Lus. 45, pp. 450-451) — não figura; (3) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus. 46, p. 8) — não figura; (4) a lista de noviços da Domus Probationis de 1681 (Lus. 46, pp. 70v-71) — não figura (e seria tardia); (5) buscas no arquivo pha por «Soares» e «Suarez» — só homónimos dos séculos XVI-XVII; (6) os códices JS 26 e JS 134, citados por Dehergne para a data, não existem no arquivo nem nas digitalizações de trabalho.
+Procurou-se e não se encontrou: (1) o apelido «Soares» ou «Suarez» em qualquer lista do catálogo de 1675 (índice do T5, f. 483-487v: as entradas em J são Teixeyra, Jarayva e Duarte) nem no índice de 1678 (Lus. 46, ff. 46-50: há «Fr. Josephus Teixeyra», mas nenhum Suares); (2) um catálogo provincial de 1674, 1676 ou 1677, que fixaria o assento de noviço no ano exacto da entrada — não existem (Lus. 45: 1672 e 1675; Lus. 46: a partir de 1678); (3) os códices JS 26 (f. 55) e JS 134 (f. 380), citados por Dehergne para as datas de 15/23/25 de Março de 1673, que não estão no pha nem nas digitalizações de trabalho; (4) uma declaração explícita da casa de noviciado para José Soares em qualquer fonte impressa acessível (Pfister não dá o noviciado; a História da Companhia só diz «de Santa Comba Dão»). Fica em aberto a equação Teixeira = Soares; e a leitura do tempo de Companhia no f. 451 («13 menses», possivelmente «23»).
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 45, pp. 450-451, secção do Colégio de Coimbra do catálogo de 1675: «Frat.» juniores (n.os 158-200) e noviços com «Societ. N menses» (n.os 201-221) — imagens `LUS. 45/450.jpg`, `LUS. 45/450v.jpg` e `LUS. 45/451.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg"` · prova direta (existência e teor da lista de noviços de 1675)
-  - em 1675 os noviços estavam no Colégio de Coimbra (21 noviços, «fuit 2 menses» a «fuit 22 menses»); nenhum deles é José de Almeida, José Soares ou Simão Pinto
-- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (existência e teor da lista de noviços de 1678)
-  - em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa
-- ARSI, *Lusitania* 45, índice do catálogo de 1675, pp. 483-487, formato «nome — n. [número] — Fol. [fólio]» — imagens `LUS. 45/483.jpg` a `LUS. 45/487.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/486.jpg"` · prova indireta (busca negativa)
-  - o índice é alfabético pelo **nome próprio** (A = Antonius/Andreas/Augustinus, J = Jacobus/Joannes/Josephus/Julianus, S = Sebastianus/Stephanus/Simon…) e remete para número e fólio internos; nas páginas lidas não identifiquei nenhum «Josephus de Almeyda», «Josephus Suarez/Soares» nem «Simon Pinto»
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 796 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-s`) · `python3 tools/packet.py deh-jose-soares` · `python3 tools/packet.py deh-jose-soares` · prova indireta (fonte da data)
-  - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
+- ARSI, *Lus. 45*, catálogo de 1675, f. 451, n.º 213 (lista de noviços do Colégio de Coimbra): «Frat. Josephus Teixeyra, ex oppido S. Combadão, Diæc. Conimb., aetat. 18, viribus bonis, fuit 13 menses, Scholasticus.» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg"` · prova direta (para o assento); indireta (para a identificação)
+  - que o único noviço chamado Josephus, natural de Santa Comba Dão, estava no noviciado do Colégio de Coimbra em 1675, com 18 anos e poucos meses de Companhia — o retrato de José Soares (salvo o apelido, Teixeira em vez de Soares)
+- ARSI, *Lus. 45*, catálogo de 1675, f. 451v: fim da lista de noviços (n.os 222-225) e cabeçalho «Collegium Eborense» — imagem `LUS. 45/451v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451v.jpg"` · prova direta
+  - que a lista de noviços n.os 201-225 pertence ao bloco de Coimbra (começa no f. 451 e fecha antes do cabeçalho de Évora), confirmando a casa do noviciado
+- ARSI, *Lus. 45*, índice dactilografado do volume, f. 000i2 («Cat.trienn.Lus.», coluna 1675): «Conimbricens. C 446 … Eborens. C 451v … Ulyssip. S. Ant. C 455 … Ulyss. D. Prb 456v …» — imagem `LUS. 45/000i2.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/000i2.jpg"` · prova indireta (instrumento de navegação)
+  - a divisão interna do catálogo de 1675 por casas, necessária para atribuir o assento ao Colégio de Coimbra e não a Évora/Lisboa
+- ARSI, *Lus. 45*, catálogo de 1675, f. 456v: cabeçalho «Domus Probationis Ulyssiponensis» seguido de padres, «Fratres Coadjutores Temporales» e «Varia», sem lista de noviços — imagem `LUS. 45/456v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/456v.jpg"` · prova indireta (busca negativa)
+  - que em 1675 a Casa de Provação de Lisboa não tinha noviços — logo o noviciado era o de Coimbra
+- ARSI, *Lus. 45*, índice do catálogo de 1675 (T5), f. 486, entradas em «J»: «Fr. Josephus Teixeyra» (a par de «Fr. Josephus Jarayva» e «Fr. Josephus Duarte») — imagem `LUS. 45/486.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/486.jpg"` · prova indireta (busca negativa)
+  - que o único «Josephus» que pode corresponder a José Soares em 1675 é Teixeira (não há nenhum Suares/Soares no índice)
+- F. Rodrigues, *História da Companhia de Jesus…* t. 3, vol. 2 (doc 63), p. 185 e nota 2 — raw (`transcription-ocr@liteparse-embedded`): «o P. José Soares, de Santa Comba Dão…»; «José Soares faleceu em Pequim com 81 anos de idade e 63 de Religião» · `pha page 63 185` · `pha page 63 185` · prova indireta
+  - que o missionário da China era «de Santa Comba Dão» e que tinha 63 anos de Religião em 1736 ⇒ entrada em 1673, como no assento de 1675
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 796 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-s`) · `python3 tools/packet.py deh-jose-soares` · `python3 tools/packet.py deh-jose-soares` · prova indireta
+  - estado da questão: «N. Santa Comba Dão, dioc. de Coïmbre, 15 févr. 1656 — E. en mars 1673», sem lugar; fontes JS 26 e JS 134 para a data
 
 ## 6. Referências
 
