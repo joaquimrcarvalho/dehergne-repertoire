@@ -37,7 +37,7 @@
     },
     {
       "citacao": "ARSI Lus. 44 II, f. 405v (índice alfabético do catálogo de 1622, secção F; imagem `405v.jpg`) — leitura direta da imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/405v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/405v.jpg\"",
       "o_que_prova": "prova negativa: a lista completa dos «Francisco…» do catálogo de 1622 (padres e irmãos, com página e número) não contém nenhum Francisco Pereira; os «Fco Pz» correspondem a Pires/Perez.",
       "forca": "contrária"
     },

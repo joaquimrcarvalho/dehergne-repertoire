@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Jesus / noviciado de Coimbra)
 entry_date: 1608 (Dehergne: E. 1608; Schütte: «circa anno 1608»)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -116,6 +116,7 @@ O fólio Lus. 44, 290v, citado por Dehergne para o ano de entrada, não existe n
 - [[0 Portugal no entry]]
 - [[deh-mateus-gago]]
 - **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

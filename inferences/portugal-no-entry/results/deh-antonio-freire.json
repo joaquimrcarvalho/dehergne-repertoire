@@ -17,13 +17,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 46, f. 198v (catálogo trienal de 1690), lista «Vota Nuncupata in 4.ª Die Anni», n.º 146: «Fr. Antonius Freyre Bracharensis an. 21. soc. 6. virib. bonis. Physicae modo incumbit.» — manuscrito ARSI lido directamente na imagem digital",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/197v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/197v.jpg\"",
       "o_que_prova": "que em 1690 tinha 6 anos de Companhia (entrada em 1685) e estudava Física; NÃO prova o lugar de entrada",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, f. 129 (catálogo de 1685), fim da secção do Colégio de Coimbra: cabeçalho «Fratres Novitij» com os noviços entrados em 1683-1684 («Ingress. die 20 Aug. 1683», «Ingress. die 19 Martii 1683», «nomen dedit fidei die ... 1684») — nenhum Freire",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/128.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/128.jpg\"",
       "o_que_prova": "que o noviciado do Colégio de Coimbra existia em 1683-1684 mas a lista conservada não inclui entradas de 1685",
       "forca": "indireta"
     },

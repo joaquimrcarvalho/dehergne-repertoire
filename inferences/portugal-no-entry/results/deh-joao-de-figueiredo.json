@@ -25,25 +25,25 @@
   "evidencias": [
     {
       "citacao": "ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 112) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg\"",
       "o_que_prova": "«Fr. Ioannes de Figueiredo. Viana. 24. 5. Mediocres. Philosophus ex 1.º» — naturalidade Viana, 24 anos e 5 anos de Companhia em 1655 ⇒ entrada em 1650; era membro do Colégio de Coimbra",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
       "o_que_prova": "a secção de Coimbra termina com «Novitii extra ordinem Alphabeti, qui post hunc catalogum confectum ingressi sunt» (noviços inscritos na casa de Coimbra) — indicador de que o noviciado do norte funcionava em Coimbra",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 177 (mesmo catálogo, início da secção de Coimbra, p. interna 4) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/177.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg\"",
       "o_que_prova": "título «Catalogus primus Collegii Conimbricensis Anno 1655»: identifica a casa da lista dos ff. 177-181",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 79 (catálogo trienal de 1654, fim da secção do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
       "o_que_prova": "lista «Novitij» com dezasseis noviços (todos «In primo anno» ou «In fine biennij»): confirma Coimbra como casa de noviciado; nenhum deles é Figueiredo (o mais antigo entrou em 1652), o que mostra que a lista de 1650 não existe neste volume",
       "forca": "indireta"
     },

@@ -23,13 +23,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 47, f. 72v, n.º 211 (catálogo de 1705, secção de Coimbra, lista «Novitii Scholastici») — imagem `LUS. 47/072v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/072v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/072v.jpg\"",
       "o_que_prova": "«Fr. Franciscus Moreira ex Civitate Conimbricensi, eiusd. Dioec., natus an. 1689, ingressus Societ. 1. Januarii an. 1704. Vires optimae» — noviço de Coimbra, entrada a 1 de Janeiro de 1704",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 125, n.º 152 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/125.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/125.jpg\"",
       "o_que_prova": "«Fr. Franciscus Moreira Conimb. Dioec. eiusdem, natus 27. Dec. ann. 1689, ingressus Soc. 1. Jan. 1704» — data exacta confirmada e residência em Coimbra em 1711",
       "forca": "direta quanto à data"
     },

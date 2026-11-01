@@ -8,7 +8,7 @@ entry_place: Coimbra (Noviciado de Coimbra)
 entry_date: 1712-10-31
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -114,13 +114,14 @@ O códice ARSI Lus. 48 (1730-1748) e os fólios de Lus. 47 posteriores ao fólio
   - entrada «neste Noviciado de Coimbra», para estudante, a 31 de Outubro de 1712; baptizado a 2-XII-1696
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), aviso 811 — p. 297 · `python3 tools/packet.py deh-policarpo-de-sousa  (aviso de Dehergne transcrito do campo obs da base Timelink; a página de doc 65 correspondente, p. 297, foi vista em pha_research/hint)` · prova indireta
   - registava «E. 31 oct. 1712 (JS 134, 435)» e, em nota, «Lus. 47, 191v le dit N. 1696, E. 3 oct. 1711» — a data de 1712 fica confirmada, a de 1711 afastada
-- ARSI Lus. 47, f. 191v (imagem LUS. 47/191v.jpg) — leitura directa da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/191v.jpg"` · prova indireta
+- ARSI Lus. 47, f. 191v (imagem LUS. 47/191v.jpg) — leitura directa da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/191v.jpg"` · prova indireta
   - catálogo trienal da província (entradas numeradas, com ano e dia de «ingressus»); página em que Dehergne diz ter lido «N. 1696, E. 3 oct. 1711»; a caligrafia é aqui mais difícil e não se confirmou a data nesta imagem
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-policarpo-de-sousa]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

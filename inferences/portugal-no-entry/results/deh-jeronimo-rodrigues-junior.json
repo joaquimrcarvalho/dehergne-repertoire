@@ -11,7 +11,7 @@
  "analise": [
   {
    "titulo": "O catálogo de Abril de 1593: noviço do Colégio de Évora",
-   "texto": "No «Catalogo primeiro dos Padres y Irmãos da Provincia de Portugal, hecho en Abril de 1593» (ARSI Lus. 44 I), a secção do Colégio de Évora corre pelos n.os 113-245 e termina com a lista dos noviços; imediatamente a seguir — no mesmo fólio — está o cabeçalho «COLEGIO DE Coimbra» com o n.º 246. Na lista «Nouiciés Estudiantes» lê-se, com o n.º 233:\n\n> «Jeronymo Roiz de monte mayor el nuevo arçebispado de Euora, de 18 años, buenas fuerças, de la Comp.ª 7 meses.»\n\n— ARSI Lus. 44 I, f. 73v, n.º 233 (página interna 18) — imagem `LUS. 44 I/093.jpg` — leitura directa da imagem · open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg\"\n\nNaturalidade (Montemor-o-Novo, arcebispado de Évora), idade (18 anos em 1593 ⇒ nascimento c. 1575) e tempo de Companhia (7 meses ⇒ entrada em Setembro de 1592) coincidem com a notícia de Dehergne; a cota que ele cita («Lus. 44, 73v») é exactamente este fólio (a numeração a lápis do códice está deslocada em relação à numeração das imagens: a imagem 093 = fólio 73v)."
+   "texto": "No «Catalogo primeiro dos Padres y Irmãos da Provincia de Portugal, hecho en Abril de 1593» (ARSI Lus. 44 I), a secção do Colégio de Évora corre pelos n.os 113-245 e termina com a lista dos noviços; imediatamente a seguir — no mesmo fólio — está o cabeçalho «COLEGIO DE Coimbra» com o n.º 246. Na lista «Nouiciés Estudiantes» lê-se, com o n.º 233:\n\n> «Jeronymo Roiz de monte mayor el nuevo arçebispado de Euora, de 18 años, buenas fuerças, de la Comp.ª 7 meses.»\n\n— ARSI Lus. 44 I, f. 73v, n.º 233 (página interna 18) — imagem `LUS. 44 I/093.jpg` — leitura directa da imagem · open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg\"\n\nNaturalidade (Montemor-o-Novo, arcebispado de Évora), idade (18 anos em 1593 ⇒ nascimento c. 1575) e tempo de Companhia (7 meses ⇒ entrada em Setembro de 1592) coincidem com a notícia de Dehergne; a cota que ele cita («Lus. 44, 73v») é exactamente este fólio (a numeração a lápis do códice está deslocada em relação à numeração das imagens: a imagem 093 = fólio 73v)."
   },
   {
    "titulo": "O homónimo sénior, para não confundir",
@@ -21,13 +21,13 @@
  "evidencias": [
   {
    "citacao": "ARSI Lus. 44 I, f. 73v, n.º 233 (p. interna 18), «Catalogo primeiro … Abril de 1593», lista «Nouiciés Estudiantes» da secção do Colégio de Évora — imagem `LUS. 44 I/093.jpg`",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg\"",
    "o_que_prova": "Jerónimo Rodrigues de Montemor-o-Novo, 18 anos, 7 meses de Companhia (entrada c. Setembro de 1592), noviço do Colégio de Évora — lugar e data de entrada",
    "forca": "direta"
   },
   {
    "citacao": "ARSI Lus. 44 I, f. 73v (imagem 093.jpg): fim da secção de Évora (n.º 245) e cabeçalho «COLEGIO DE Coimbra» com o n.º 246",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg\"",
    "o_que_prova": "delimita a secção de Évora onde está o n.º 233 (os noviços 223-238 são de Évora, não de Coimbra)",
    "forca": "direta"
   },

@@ -8,7 +8,7 @@ entry_place: Évora (noviciado do Colégio de Évora)
 entry_date: 1592 (c. Setembro de 1592; o catálogo de Abril de 1593 dá-lhe «7 meses» de Companhia)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -87,7 +87,7 @@ No «Catalogo primeiro dos Padres y Irmãos da Provincia de Portugal, hecho en A
 
 > «Jeronymo Roiz de monte mayor el nuevo arçebispado de Euora, de 18 años, buenas fuerças, de la Comp.ª 7 meses.»
 
-— ARSI Lus. 44 I, f. 73v, n.º 233 (página interna 18) — imagem `LUS. 44 I/093.jpg` — leitura directa da imagem · open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg"
+— ARSI Lus. 44 I, f. 73v, n.º 233 (página interna 18) — imagem `LUS. 44 I/093.jpg` — leitura directa da imagem · open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg"
 
 Naturalidade (Montemor-o-Novo, arcebispado de Évora), idade (18 anos em 1593 ⇒ nascimento c. 1575) e tempo de Companhia (7 meses ⇒ entrada em Setembro de 1592) coincidem com a notícia de Dehergne; a cota que ele cita («Lus. 44, 73v») é exactamente este fólio (a numeração a lápis do códice está deslocada em relação à numeração das imagens: a imagem 093 = fólio 73v).
 
@@ -101,9 +101,9 @@ Os registos próprios do noviciado de Évora («Noviços de Évora», ARSI Lus. 
 
 ## 5. Evidência
 
-- ARSI Lus. 44 I, f. 73v, n.º 233 (p. interna 18), «Catalogo primeiro … Abril de 1593», lista «Nouiciés Estudiantes» da secção do Colégio de Évora — imagem `LUS. 44 I/093.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg"` · prova direta
+- ARSI Lus. 44 I, f. 73v, n.º 233 (p. interna 18), «Catalogo primeiro … Abril de 1593», lista «Nouiciés Estudiantes» da secção do Colégio de Évora — imagem `LUS. 44 I/093.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg"` · prova direta
   - Jerónimo Rodrigues de Montemor-o-Novo, 18 anos, 7 meses de Companhia (entrada c. Setembro de 1592), noviço do Colégio de Évora — lugar e data de entrada
-- ARSI Lus. 44 I, f. 73v (imagem 093.jpg): fim da secção de Évora (n.º 245) e cabeçalho «COLEGIO DE Coimbra» com o n.º 246 · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg"` · prova direta
+- ARSI Lus. 44 I, f. 73v (imagem 093.jpg): fim da secção de Évora (n.º 245) e cabeçalho «COLEGIO DE Coimbra» com o n.º 246 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/093.jpg"` · prova direta
   - delimita a secção de Évora onde está o n.º 233 (os noviços 223-238 são de Évora, não de Coimbra)
 - ARSI Lus. 44 I, n.º 312 (secção do Colégio de Coimbra): «Hieronymo Roiz de Monforte obispado de Eluas, de 25 años … de la Comp.ª 8 años» · `open "…/LUS. 44 I/095v.jpg"` · prova instrumental
   - separa o homónimo sénior (Monforte, entrada 1585, Coimbra) do júnior (Montemor, entrada 1592, Évora)
@@ -114,6 +114,7 @@ Os registos próprios do noviciado de Évora («Noviços de Évora», ARSI Lus. 
 
 - [[0 Portugal no entry]]
 - [[deh-jeronimo-rodrigues-junior]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

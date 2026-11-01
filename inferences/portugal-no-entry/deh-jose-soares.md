@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -106,11 +106,11 @@ Procurou-se: (1) o índice do catálogo de 1675 (Lus. 45, pp. 483-487) — nenhu
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 45, pp. 450-451, secção do Colégio de Coimbra do catálogo de 1675: «Frat.» juniores (n.os 158-200) e noviços com «Societ. N menses» (n.os 201-221) — imagens `LUS. 45/450.jpg`, `LUS. 45/450v.jpg` e `LUS. 45/451.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg"` · prova direta (existência e teor da lista de noviços de 1675)
+- ARSI, *Lusitania* 45, pp. 450-451, secção do Colégio de Coimbra do catálogo de 1675: «Frat.» juniores (n.os 158-200) e noviços com «Societ. N menses» (n.os 201-221) — imagens `LUS. 45/450.jpg`, `LUS. 45/450v.jpg` e `LUS. 45/451.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/451.jpg"` · prova direta (existência e teor da lista de noviços de 1675)
   - em 1675 os noviços estavam no Colégio de Coimbra (21 noviços, «fuit 2 menses» a «fuit 22 menses»); nenhum deles é José de Almeida, José Soares ou Simão Pinto
-- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (existência e teor da lista de noviços de 1678)
+- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (existência e teor da lista de noviços de 1678)
   - em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa
-- ARSI, *Lusitania* 45, índice do catálogo de 1675, pp. 483-487, formato «nome — n. [número] — Fol. [fólio]» — imagens `LUS. 45/483.jpg` a `LUS. 45/487.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/486.jpg"` · prova indireta (busca negativa)
+- ARSI, *Lusitania* 45, índice do catálogo de 1675, pp. 483-487, formato «nome — n. [número] — Fol. [fólio]» — imagens `LUS. 45/483.jpg` a `LUS. 45/487.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/486.jpg"` · prova indireta (busca negativa)
   - o índice é alfabético pelo **nome próprio** (A = Antonius/Andreas/Augustinus, J = Jacobus/Joannes/Josephus/Julianus, S = Sebastianus/Stephanus/Simon…) e remete para número e fólio internos; nas páginas lidas não identifiquei nenhum «Josephus de Almeyda», «Josephus Suarez/Soares» nem «Simon Pinto»
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 796 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-s`) · `python3 tools/packet.py deh-jose-soares` · `python3 tools/packet.py deh-jose-soares` · prova indireta (fonte da data)
   - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
@@ -119,6 +119,7 @@ Procurou-se: (1) o índice do catálogo de 1675 (Lus. 45, pp. 483-487) — nenhu
 
 - [[0 Portugal no entry]]
 - [[deh-jose-soares]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

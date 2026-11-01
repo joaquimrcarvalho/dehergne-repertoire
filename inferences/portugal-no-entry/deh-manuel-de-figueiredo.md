@@ -8,7 +8,7 @@ entry_place: Évora
 entry_date: 1611 (Dehergne; Pfister diz 1610) — a primeira menção documental é de Agosto de 1612, em Évora
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -127,17 +127,17 @@ Fólios negativos lidos nesta passagem: Lus. 44 I, ff. 267-269 (índice do catá
 
 ## 5. Evidência
 
-- ARSI Lus. 39, f. 72 (catálogo breve da província de Portugal, Verão de 1612, secção do Colégio de Évora, sub-rubrica «Coadjutores»: «I. Fco Dias. / I. Manoel de fig.º»; imagem `072.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/072.jpg"` · prova indireta forte
+- ARSI Lus. 39, f. 72 (catálogo breve da província de Portugal, Verão de 1612, secção do Colégio de Évora, sub-rubrica «Coadjutores»: «I. Fco Dias. / I. Manoel de fig.º»; imagem `072.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/072.jpg"` · prova indireta forte
   - prova principal do lugar: um irmão «Manoel de fig.º» (Figueiredo) pertence à comunidade do Colégio de Évora em Agosto de 1612, um a dois anos depois da entrada de 1610/1611; a secção é inequivocamente a de Évora porque a antecedente é Coimbra (noviços no f. 70v) e a seguinte é o Colégio do Porto (mesmo fólio) e Braga (fólio seguinte).
-- ARSI Lus. 39, f. 70v (mesmo catálogo de 1612, fim da parte do Colégio de Coimbra com os «Ir. Nouiços» e início da parte «Collegio d'Evora»; imagem `070v.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg"` · prova contexto
+- ARSI Lus. 39, f. 70v (mesmo catálogo de 1612, fim da parte do Colégio de Coimbra com os «Ir. Nouiços» e início da parte «Collegio d'Evora»; imagem `070v.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg"` · prova contexto
   - fixa a ordem das casas no catálogo de 1612 (Coimbra → Évora → Porto → Braga) e portanto a atribuição do fólio 72 ao Colégio de Évora.
-- ARSI Lus. 44 I, ff. 267-269 (índice alfabético do catálogo de 1611, letras G a P, incluindo a letra M completa; imagens `267.jpg`, `268.jpg`, `269.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/268.jpg"` · prova contrária
+- ARSI Lus. 44 I, ff. 267-269 (índice alfabético do catálogo de 1611, letras G a P, incluindo a letra M completa; imagens `267.jpg`, `268.jpg`, `269.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/268.jpg"` · prova contrária
   - prova negativa: nenhum Manoel de Figueiredo no catálogo de 1611, embora o índice inclua noviços — logo a entrada é posterior a esse catálogo (fim de 1611 ou 1612), o que favorece o E. 1611 de Dehergne sobre o E. 1610 de Pfister.
-- ARSI Lus. 44 I, f. 151v-152 («Cat. admissorum in Provinciam a 1601 ad mai. 1628», listas dos Beirenses e Interamnenses por ano; imagens `151v.jpg` e `152.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/151v.jpg"` · prova contrária
+- ARSI Lus. 44 I, f. 151v-152 («Cat. admissorum in Provinciam a 1601 ad mai. 1628», listas dos Beirenses e Interamnenses por ano; imagens `151v.jpg` e `152.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/151v.jpg"` · prova contrária
   - prova negativa: nenhum Figueiredo entre os admitidos de 1610 e 1611 do seu trato de origem (Beira/Lamego ou Entre-Douro-e-Minho/Porto).
-- ARSI Lus. 44 II, f. 315 (catálogo de Janeiro de 1614, «Irmãos Nouiços Estudantes» do Colégio de Coimbra, n.os 319-342; imagem `315v.jpg`) e f. 316 (mesma casa, «Irmãos Coadiutores», n.os 343-350; imagem `316.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg"` · prova contrária
+- ARSI Lus. 44 II, f. 315 (catálogo de Janeiro de 1614, «Irmãos Nouiços Estudantes» do Colégio de Coimbra, n.os 319-342; imagem `315v.jpg`) e f. 316 (mesma casa, «Irmãos Coadiutores», n.os 343-350; imagem `316.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg"` · prova contrária
   - prova negativa: não era noviço nem coadjutor noviço em Coimbra em 1614 (já teria concluído o noviciado); as listas mostram, pelo contrário, que os «Irmãos Coadiutores» de uma casa incluíam noviços de 15 dias a 2 anos de Companhia — o que dá sentido à sua inscrição em Évora em 1612.
-- ARSI Lus. 39, f. 75 (catálogo breve de 1612/1613, «Novitii Beirenses et Interamnenses recepti 1610-1613»; imagem `075.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/075.jpg"` · prova contrária
+- ARSI Lus. 39, f. 75 (catálogo breve de 1612/1613, «Novitii Beirenses et Interamnenses recepti 1610-1613»; imagem `075.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/075.jpg"` · prova contrária
   - prova negativa: a lista de noviços da Beira e de Entre-Douro-e-Minho recebidos entre 1610 e 1613 (nome, pátria e diocese, sem data nem casa) não contém nenhum Figueiredo nas páginas lidas.
 - Pfister, *Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine* (doc 47), p. 221 — edited (`french-ocr`) · `pha page 47 221 --edited` · prova indireta
   - «50. LE FR. EMMANUEL DE FIGUEREDO. E. 1610. — N. 1589. — C. T. — À. 1622. Franco, Synopsis, ann.»: dá o ano de entrada (1610) mas nenhum lugar.
@@ -154,6 +154,7 @@ Fólios negativos lidos nesta passagem: Lus. 44 I, ff. 267-269 (índice do catá
 - [[deh-manuel-de-figueiredo]]
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 - **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

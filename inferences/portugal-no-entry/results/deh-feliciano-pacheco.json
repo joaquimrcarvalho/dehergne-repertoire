@@ -17,13 +17,13 @@
  "evidencias": [
   {
    "citacao": "ARSI, *Lusitania 44 II*, f. 575r — catálogo trienal de 1639 (I catálogo da província de Portugal), «Collegio de Coimbra», secção «Noviços», n. 288: «Fr. Feliciano Pacheco de Braga, idade 17, da Comp.ª 2, Rhetorico» (manuscrito; documento ausente do pha)",
-   "comando": "open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0575v-0576.jpg'",
+   "comando": "open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0575v-0576.jpg'",
    "o_que_prova": "prova indirecta forte: era noviço do Colégio de Coimbra com 2 anos de Companhia em 1639 ⇒ entrada em Coimbra c. 1636, ano que Dehergne indica",
    "forca": "indireta forte"
   },
   {
    "citacao": "ARSI, *Lusitania 44 II*, f. 580v — catálogo trienal de 1645, «Collegio de Coimbra», estudantes (n. 259-289): «Fr. Feliciano Pacheco de Braga, idade 17, da Comp.ª 2, Rhetorico» (manuscrito; documento ausente do pha)",
-   "comando": "open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg'",
+   "comando": "open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg'",
    "o_que_prova": "confirma que continuava no Colégio de Coimbra (a nota de trabalho que citava «Lus. 44 II, 580» refere-se a este fólio)",
    "forca": "indireta"
   },

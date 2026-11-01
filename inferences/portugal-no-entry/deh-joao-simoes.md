@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -117,9 +117,9 @@ Procurou-se o lugar de entrada (a) no registo de entrantes da província de Port
   - prova negativa directa: nenhum destes assentos (1733-1738, folhas 106-108) é de João Simões; o único assento de 1734 na folha 106r é «Joseph Marinho … entrou no Nov.º de Lisboa … a 9 de Abril 1734»
 - Registo da Província de Portugal, «Catalogo dos Sogeitos que entraram em a Companhia de Jesus na Provincia de Portugal 1711-1758», edição impressa apensa ao *Catalogus Provinciae Lusitaniae* de 1911 (ARSI), pp. 98-99, n.º 721-747 — texto impresso, lido na imagem da página (ficheiro local `LUSITANIAE_1911.pdf`) · `pdftoppm -f 98 -l 99 -r 300 -png _scratch/LUSITANIAE_1911.pdf _scratch/pdfimg/l1911` · `open "/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/pdfimg/l1911_98-098.png"  ·  open "…/l1911_99-099.png"` · prova direta
   - edição impressa do mesmo registo, com a coluna NOVICIADO: os assentos da letra J de 1734 são os n.º 730-736 (José Marinho 9 Abril, Innocencio de Almeida 18 Abril, João Paulo 26 Maio, Joaquim Barreto 5 Set., Ignacio de Carvalho 10 Out., José da Fonseca 14 Out., José Esteves 21 Nov.) — nenhum João Simões
-- ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768, n.º 1 «P. Ioannes Simões … 8 Sept. 1713 Penela» — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg"` · prova direta
+- ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768, n.º 1 «P. Ioannes Simões … 8 Sept. 1713 Penela» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg"` · prova direta
   - nome, naturalidade (Penela), data e diocese de nascimento
-- ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768, n.º 1: «Diocesis Coimbric. | Ingressus 17 Mai. 1734 | Gradus 15 Aug. 1751» — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg"` · prova direta
+- ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768, n.º 1: «Diocesis Coimbric. | Ingressus 17 Mai. 1734 | Gradus 15 Aug. 1751» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg"` · prova direta
   - data exacta da entrada na Companhia: 17 de Maio de 1734 (sem casa)
 - Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 164, anotação ao n.º 1888 — raw (`wicki-indienfahrer-1967`) · `pha page 66 164 --raw` · `pha page 66 164 --raw` · prova indireta
   - entrada em 17 de Maio de 1734 e menção «spectat ad Provinciam Sinicam» (Lus. 48, 91r, n.º 256) — destino de missão, não casa de noviciado
@@ -138,6 +138,7 @@ Procurou-se o lugar de entrada (a) no registo de entrantes da província de Port
 - [[deh-joao-simoes]]
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 50** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

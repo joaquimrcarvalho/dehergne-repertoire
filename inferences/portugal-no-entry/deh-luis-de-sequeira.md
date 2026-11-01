@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1709-09-01
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -107,7 +107,7 @@ Procurou-se: (a) o registo provincial de entradas 1711-1758 (BNP, Pombalina 231)
 
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), aviso 761 — p. 284 · `python3 tools/packet.py deh-luis-de-sequeira  (aviso de Dehergne transcrito do campo obs da base Timelink; a página de doc 65 correspondente, p. 284, foi vista em pha_research/hint)` · prova indireta
   - «E. 1 Sept. 1709 (Lus. 47, 196v) et non le 7 (JS 134, 440)» — data, não casa
-- ARSI Lus. 47, f. 196v (imagem LUS. 47/196v.jpg) — leitura directa da imagem (manuscrito) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/196v.jpg"` · prova indireta
+- ARSI Lus. 47, f. 196v (imagem LUS. 47/196v.jpg) — leitura directa da imagem (manuscrito) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/196v.jpg"` · prova indireta
   - é o catálogo trienal da província, com assentos numerados (n.os 246-259 na página), que dão «in ingressu / ingress.» com ano e dia mas **nunca a casa**
 - F. Rodrigues, *História da Companhia…* t. IV/1 (doc 64), p. 260, nota 5 — raw · `python3 results/_scratch/q.py "Sequeira" 64 --ctx 320` · prova indireta
   - identifica um homónimo (Luís de Sequeira de Elvas, n. 1708, E. 1726) — a não confundir com este
@@ -122,6 +122,7 @@ Procurou-se: (a) o registo provincial de entradas 1711-1758 (BNP, Pombalina 231)
 
 - [[0 Portugal no entry]]
 - [[deh-luis-de-sequeira]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

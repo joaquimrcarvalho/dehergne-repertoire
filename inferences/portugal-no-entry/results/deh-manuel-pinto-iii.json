@@ -23,13 +23,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 47, f. 73, n.º 228 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg\"",
       "o_que_prova": "«Fr. Emanuel Pin[t]o ex oppido Nespereira, Dioec. Viseensi, natus an. 1690, ingressus Societ. 30. Decemb. an. 1704. Vires mediocres» — noviço de Coimbra, entrada a 30 de Dezembro de 1704",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 133, n.º 343 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg\"",
       "o_que_prova": "mesmos dados de origem (Nespereira, diocese de Viseu, n. 1690) e mesma data de entrada (30 de Dezembro de 1704); é a folha citada por Dehergne, mas é lista de residência",
       "forca": "direta quanto à data"
     },

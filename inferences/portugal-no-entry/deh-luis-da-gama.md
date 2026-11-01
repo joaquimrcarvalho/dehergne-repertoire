@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete — noviciado da proví
 entry_date: 1625
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -113,7 +113,7 @@ Luís da Gama não foi encontrado em nenhum catálogo com a indicação de novic
 
 - Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · `pha page 54 25 --edited` · prova indireta
   - «No anno de mil seiscentos, & dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa (...) no anno de mil seiscentos, & trinta (...) se mandaram pera os dous Collegios alguns Noviços» — em 1625 o noviciado da província era o de Lisboa
-- ARSI, *Lus. 44 II*, f. 416 (catálogo da província de Portugal de 1625, que abre no f. 410): secção «Irmãos Coadjutores e Noviços» (n.os 163-173), seguida de «Seminario Irlandes» e do início do «Collegio de Coimbra» (n.º 181) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/416.jpg"` · prova contexto
+- ARSI, *Lus. 44 II*, f. 416 (catálogo da província de Portugal de 1625, que abre no f. 410): secção «Irmãos Coadjutores e Noviços» (n.os 163-173), seguida de «Seminario Irlandes» e do início do «Collegio de Coimbra» (n.º 181) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/416.jpg"` · prova contexto
   - em 1625 os noviços da província (11 irmãos noviços, entrados entre 1623 e 1625) estão na casa de Lisboa imediatamente anterior ao Seminário dos Irlandeses e ao Colégio de Coimbra — a Casa de Provação; Luís da Gama NÃO consta dessa lista nem do fólio seguinte
 - Franco, *Imagem da virtude em o noviciado da Companhia de Jesus na corte de Lisboa* (doc 53), p. 445 (folha de rosto) — raw (`franco-imagem-virtude`) · `pha page 53 445 --raw` · `pha page 53 445 --raw` · prova contexto
   - «Imagem da virtude em o noviciado da Companhia de Jesu em Lisboa... a caza do Monte Olivete» — o volume que descreve o noviciado da província na casa do Monte Olivete, em Lisboa

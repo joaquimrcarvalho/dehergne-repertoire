@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -91,11 +91,11 @@ Procurou-se: (1) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
+- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
   - estrutura do códice por casas: 1681 «Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
-- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (teor da lista de noviços de 1678)
+- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (teor da lista de noviços de 1678)
   - em 1678 os noviços da província estavam no Colégio de Coimbra: 17 noviços com «Societ. mens.» de 4 a 17 meses, nenhum deles Carvalho, Simões ou Costa
-- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
+- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
   - em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 204 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-c`) · `python3 tools/packet.py deh-andre-da-costa` · `python3 tools/packet.py deh-andre-da-costa` · prova indireta (fonte da data)
   - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
@@ -104,6 +104,7 @@ Procurou-se: (1) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus
 
 - [[0 Portugal no entry]]
 - [[deh-andre-da-costa]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

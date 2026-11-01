@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra)
 entry_date: 1682-02-04 (o catálogo de 1685 dá-lhe os anos de Companhia indicados)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -113,7 +113,7 @@ Manuel da Mata (Matta), português, natural de Lisboa (10 de Outubro de 1667). E
 
 O catálogo trienal de 1685 está organizado por casas. A entrada está em f. 127v, n.º 186 («Fr. Emmanuel da Matta, Ulyssiponen., an. 17, societ. ad 3um»). Lendo para trás a partir dessa página, o cabeçalho de casa encontra-se no fim de **f. 121** («Collegium Conimbricense»); o índice datilografado do códice, em **f. 000v**, confirma a correspondência — 1685: Conimbricens. C. 121, S. Felicis R. 129v, Eborens. C. 136. A página está portanto dentro da secção de Coimbra.
 
-— ARSI Lus. 46, f. 127v, n.º 186 e f. 121 + f. 000v — imagens `126v.jpg`, `120.jpg`, `000v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"`
+— ARSI Lus. 46, f. 127v, n.º 186 e f. 121 + f. 000v — imagens `126v.jpg`, `120.jpg`, `000v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"`
 
 ### 4.2 1. A prova da data: a p. 128 do catálogo de 1685
 
@@ -129,17 +129,17 @@ Procurou-se: (1) a lista de noviços da Domus Probationis de 1685 (Lus. 46, pp. 
 
 ## 5. Evidência
 
-- ARSI Lus. 46, f. 127v, n.º 186 (catálogo de 1685) — «Fr. Emmanuel da Matta, Ulyssiponen., an. 17, societ. ad 3um» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta (data) / indireta (lugar)
+- ARSI Lus. 46, f. 127v, n.º 186 (catálogo de 1685) — «Fr. Emmanuel da Matta, Ulyssiponen., an. 17, societ. ad 3um» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta (data) / indireta (lugar)
   - regista-o com os anos de Companhia que datam a entrada; a casa vem do cabeçalho que precede a secção
-- ARSI Lus. 46, f. 121 (fim) — cabeçalho «Collegium Conimbricense»; f. 000v — índice datilografado: 1685 «Conimbricens. C. 121 … S. Felicis R. 129v» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova direta
+- ARSI Lus. 46, f. 121 (fim) — cabeçalho «Collegium Conimbricense»; f. 000v — índice datilografado: 1685 «Conimbricens. C. 121 … S. Felicis R. 129v» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova direta
   - situa as entradas de f. 127-127v dentro da secção do Colégio de Coimbra
-- ARSI, *Lusitania* 46, pp. 127-128 (secção do Colégio de Coimbra do catálogo de 1685), n.os 168-196 — imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta quanto à residência em 1685
+- ARSI, *Lusitania* 46, pp. 127-128 (secção do Colégio de Coimbra do catálogo de 1685), n.os 168-196 — imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta quanto à residência em 1685
   - lista de juniores «Fr.» de Coimbra em 1685, com idade e anos de Companhia: n.º 170 «Fr. Antonius de Barros … Societ. 4» e n.º 186 «Fr. Emmanuel da Matta, Ulyssipon., an. 17, Societ. ad 3um, studet humanit.»; não figura nenhum «Ignatius Lopes»
-- ARSI, *Lusitania* 46, pp. ~139v-140, cabeça «Fratres Novitii» no n.º 474 e registo dos noviços n.os 474-491, com «Societ. … dedit die …» / «Intravit Societatem die …» (secção da Domus Probationis do catálogo de 1685) — imagens `LUS. 46/138v.jpg` e `LUS. 46/139.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg"` · prova direta (teor da lista de noviços de 1685)
+- ARSI, *Lusitania* 46, pp. ~139v-140, cabeça «Fratres Novitii» no n.º 474 e registo dos noviços n.os 474-491, com «Societ. … dedit die …» / «Intravit Societatem die …» (secção da Domus Probationis do catálogo de 1685) — imagens `LUS. 46/138v.jpg` e `LUS. 46/139.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg"` · prova direta (teor da lista de noviços de 1685)
   - os noviços da Domus Probationis de Lisboa em 1685 tinham entrado entre 22 de Agosto de 1682 (n.º 477) e 5 de Fevereiro de 1685 (n.º 490); nenhum é Lopes, Dias, Barros ou Mata
-- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
+- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
   - em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos
-- ARSI, *Lusitania* 46, p. ~207v, registo de noviços da «Domus Probationis» no catálogo de 1690 (n.os 414-429, com «Soc. init.» de 1689 e 1690) — imagem `LUS. 46/207v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/207v.jpg"` · prova indireta (busca negativa)
+- ARSI, *Lusitania* 46, p. ~207v, registo de noviços da «Domus Probationis» no catálogo de 1690 (n.os 414-429, com «Soc. init.» de 1689 e 1690) — imagem `LUS. 46/207v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/207v.jpg"` · prova indireta (busca negativa)
   - o registo de noviços de 1690 só cobre entradas de 1689-1690; não serve para as entradas de 1673-1682
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 529 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-m`) · `python3 tools/packet.py deh-manuel-da-mata` · `python3 tools/packet.py deh-manuel-da-mata` · prova indireta (fonte da data)
   - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
@@ -148,6 +148,7 @@ Procurou-se: (1) a lista de noviços da Domus Probationis de 1685 (Lus. 46, pp. 
 
 - [[0 Portugal no entry]]
 - [[deh-manuel-da-mata]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Jesus — noviciado)
 entry_date: 1615-09-02
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -117,11 +117,11 @@ Não estão no pha os catálogos citados por Dehergne (Lus. 39, 1617 — imagem 
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 39, imagem `LUS. 39/096.jpg` (spread 96v+97; fólio de trabalho «97»), catálogo breve da província de Portugal de 1617, secção do Colégio de Coimbra — título «¶ Irmãos Nouiços Estudantes ¶», com o n.º marginal 180 na página: «Ir João Cabral / Ir Ant.º Veloso» · `ler a imagem "/Users/jrc/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg" (terço superior da página direita)` · prova direta (noviço nomeado na casa do noviciado, dentro do biénio de 1615-1617); lida por mim na imagem ARSI, não numa página pha
+- ARSI, *Lusitania* 39, imagem `LUS. 39/096.jpg` (spread 96v+97; fólio de trabalho «97»), catálogo breve da província de Portugal de 1617, secção do Colégio de Coimbra — título «¶ Irmãos Nouiços Estudantes ¶», com o n.º marginal 180 na página: «Ir João Cabral / Ir Ant.º Veloso» · `ler a imagem "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg" (terço superior da página direita)` · prova direta (noviço nomeado na casa do noviciado, dentro do biénio de 1615-1617); lida por mim na imagem ARSI, não numa página pha
   - António Veloso era noviço do Colégio de Coimbra em 1617, dois anos depois da entrada de 2 de Setembro de 1615 — prova direta de que o noviciado (e a entrada) foi em Coimbra; na mesma lista está João Cabral, com quem embarcaria em 1624
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 325, entrada n.º 880 «Veloso (Velloso, forme ancienne du nom), Anténio (port.) P.» — edited (`french-ocr`) · `pha page 65 325 --edited` · prova indireta
   - «N. Braga, 1597 - E. 2 sept. 1615 (Lus. 44 II, 361). Emb. 25 mars 1624 pour les Indes (W 709)...» — a data de entrada que o catálogo de 1617 confirma
-- ARSI, *Lusitania* 44 II, imagem `LUS. 44 II/361.jpg` (catálogo de maio de 1619, Colégio de Jesus de Coimbra, f. 357 ss.), n.os 105-121 · `ler as imagens "/Users/jrc/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/360v.jpg" e ".../LUS. 44 II/361.jpg"` · prova indireta (corrobora Coimbra em 1619 e a data citada por Dehergne)
+- ARSI, *Lusitania* 44 II, imagem `LUS. 44 II/361.jpg` (catálogo de maio de 1619, Colégio de Jesus de Coimbra, f. 357 ss.), n.os 105-121 · `ler as imagens "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/360v.jpg" e ".../LUS. 44 II/361.jpg"` · prova indireta (corrobora Coimbra em 1619 e a data citada por Dehergne)
   - em 1619 os noviços de Coimbra de 1617 aparecem como irmãos cursistas do mesmo colégio, com 3-5 anos de Companhia (Silvestre Cardoso, André Saraiva, Miguel Brandão, Gaspar de Macedo, Pero Barroso, Vicente Metela, Diogo de Novais, Bernardo Botto); é o fólio 361 que Dehergne cita para a data de 2 de Setembro de 1615 — a página direita, onde estará a entrada nominal de Veloso, está mal captada na digitalização
 - Josef Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 45 — raw (`wicki-indienfahrer-1967`) · `pha page 66 45` · `pha page 66 45` · prova indireta (embarque)
   - «709. P. António Veloso, Pott. ... 711. P. Joào Cabral, Port.» na 62.ª expedição (1624, partida a 25 de Março) — confirma o indivíduo e o embarque citado por Dehergne (W 709), na mesma frota de João Cabral
@@ -138,8 +138,10 @@ Não estão no pha os catálogos citados por Dehergne (Lus. 39, 1617 — imagem 
 - [[1617-T4-LUS-39-95]]
 - [[1619-T1-LUS-44II-349]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
+- **doc 90** — Wicki, Josef; Gomes, John. Documenta Indica, vol. XV (1588-1592). (Romae: Institutum Historicum Societatis Iesu, 1981). (agent-drafted-unverified (volume, years, series number and year read from this volume's own title pages in the archive transcription, 2026-10-20; year and series number also checked against the MHSI series bibliography in AHSI 2012))
 
 ---
 

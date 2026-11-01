@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado do Real Colégio de Jesus) — inferência
 entry_date: 1650 (Dehergne; confirmado pelo catálogo de 1655: 5 anos de Companhia)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -99,13 +99,13 @@ Procurei João de Figueiredo (Ioannes/Ioão/Jean de Figueiredo/Figueredo) em tod
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 112) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg"` · prova direta
+- ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 112) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg"` · prova direta
   - «Fr. Ioannes de Figueiredo. Viana. 24. 5. Mediocres. Philosophus ex 1.º» — naturalidade Viana, 24 anos e 5 anos de Companhia em 1655 ⇒ entrada em 1650; era membro do Colégio de Coimbra
-- ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
   - a secção de Coimbra termina com «Novitii extra ordinem Alphabeti, qui post hunc catalogum confectum ingressi sunt» (noviços inscritos na casa de Coimbra) — indicador de que o noviciado do norte funcionava em Coimbra
-- ARSI, Lus. 45, f. 177 (mesmo catálogo, início da secção de Coimbra, p. interna 4) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/177.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 177 (mesmo catálogo, início da secção de Coimbra, p. interna 4) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/177.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova indireta
   - título «Catalogus primus Collegii Conimbricensis Anno 1655»: identifica a casa da lista dos ff. 177-181
-- ARSI, Lus. 45, f. 79 (catálogo trienal de 1654, fim da secção do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 79 (catálogo trienal de 1654, fim da secção do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova indireta
   - lista «Novitij» com dezasseis noviços (todos «In primo anno» ou «In fine biennij»): confirma Coimbra como casa de noviciado; nenhum deles é Figueiredo (o mais antigo entrou em 1652), o que mostra que a lista de 1650 não existe neste volume
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 131 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 131` · prova direta
   - «N. Viana, 1631 et -E. 1650 (Lus. 45, 180)»: o ano, sem lugar — o problema a resolver
@@ -114,6 +114,7 @@ Procurei João de Figueiredo (Ioannes/Ioão/Jean de Figueiredo/Figueredo) em tod
 
 - [[0 Portugal no entry]]
 - [[deh-joao-de-figueiredo]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

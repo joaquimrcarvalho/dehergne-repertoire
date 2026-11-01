@@ -24,20 +24,20 @@
   ],
   "evidencias": [
     {
-      "citacao": "ARSI, Lus. 44 I, fólio 116, «Suplemento do Primeiro Catalogo da casa da Provação de Lx.ª do ano de 97», n.º 3 — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg (a imagem mostra o fólio 116, numerado no canto inferior direito)",
-      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg\"",
+      "citacao": "ARSI, Lus. 44 I, fólio 116, «Suplemento do Primeiro Catalogo da casa da Provação de Lx.ª do ano de 97», n.º 3 — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg (a imagem mostra o fólio 116, numerado no canto inferior direito)",
+      "comando": "read_image \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg\"",
       "o_que_prova": "«Manoel d'Azevedo da cidade e Bispado de Viseu 16 anos de idade, entrou na primeira provação a 10 de Maio, é estudante, andava no primeiro curso do Colégio de Coimbra» — entrada no noviciado de Lisboa a 10 de Maio de 1597 (prova direta do lugar e da data)",
       "forca": "direta"
     },
     {
-      "citacao": "ARSI, Lus. 44 I, fólio 115, «Suplemento do primeiro Catalago da Provação do Colégio d'Évora de 97» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg",
-      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg\"",
+      "citacao": "ARSI, Lus. 44 I, fólio 115, «Suplemento do primeiro Catalago da Provação do Colégio d'Évora de 97» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg",
+      "comando": "read_image \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg\"",
       "o_que_prova": "negativa útil: a primeira provação de Évora em 1597 tem nove nomes (Estêvão da Ponte, Rodrigo da Costa, Diogo Roiz, António d'Amaral, Pero Barreto, Manoel Ribeiro, Tomás Malhos, Manoel Lameira, Lourenço Pires) e não inclui Manuel de Azevedo",
       "forca": "indireta"
     },
     {
-      "citacao": "ARSI, Lus. 44 I, fólio 117, «Suplemento do Primeiro catálogo da Provação do Colégio de Coimbra de 97» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg",
-      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg\"",
+      "citacao": "ARSI, Lus. 44 I, fólio 117, «Suplemento do Primeiro catálogo da Provação do Colégio de Coimbra de 97» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg",
+      "comando": "read_image \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg\"",
       "o_que_prova": "negativa útil: a primeira provação de Coimbra em 1597 (António de Seixa, António Lopes, Mateus Talboto, Tomás Bray, Miguel Carvalho, Diogo Pereira, António Ferreira, Manuel Nogueira, Miguel de Faria, António Couro, P.º Alves, Fr.º Roiz) não inclui Manuel de Azevedo",
       "forca": "indireta"
     },

@@ -8,7 +8,7 @@ entry_place: Lisboa (Noviciado de Lisboa)
 entry_date: 1728-05-01
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -169,6 +169,7 @@ O caso fica resolvido pelo registo provincial de entradas (f. 72r). O códice AR
 - [[deh-felix-da-rocha]]
 - **doc 50** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 - **doc 143** — Backer, Augustin de; Backer, Aloys de; Sommervogel, Carlos; Carayon, Auguste. Bibliothèque de la Compagnie de Jésus : T. 6: Bibliographie, OTAZO-RODRIGUEZ. vol. 6. (Bruxelles; Paris: O. Schepens; A. Picard, 1895). Hathi Trust. (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

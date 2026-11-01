@@ -25,25 +25,25 @@
   "evidencias": [
     {
       "citacao": "ARSI, Lus. 45, f. 319v (catálogo de 1665 — secção «Collegium Eborense» (continuação), n.º 313) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/319v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/319v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/319v.jpg\"",
       "o_que_prova": "«Fr. Josephus Monteyro Vlyssiponensis: … aetatis 17: soc. 3» — José Monteiro, de Lisboa, com três anos de Companhia em 1665 (entrada ~1661/62); era membro do Colégio de Évora",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 316v (catálogo de 1665 — início da secção de Évora (p. interna 16)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/316v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg\"",
       "o_que_prova": "título «Collegium Eborense»: identifica a casa em que Monteiro aparece em 1665",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 303 (índice alfabético do catálogo transstagano de 1661/62 (letras I-P)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/303.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/303.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/303.jpg\"",
       "o_que_prova": "na coluna dos «Joseph» não há nenhum Joseph Monteyro: em 1661/62 não era membro daquela província (que compreendia a Casa de Provação de Lisboa)",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 298 (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», lista «Novitij») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/298.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/298.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/298.jpg\"",
       "o_que_prova": "noviços da Casa de Provação de Lisboa com «mens. 12-28» (entradas de 1659-1661); nenhum Monteiro",
       "forca": "negativa"
     },

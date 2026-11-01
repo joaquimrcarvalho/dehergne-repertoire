@@ -25,25 +25,25 @@
  "evidencias": [
   {
    "citacao": "ARSI, Lus. 45, f. 302v (índice alfabético do catálogo transstagano de 1661/62 (letras E-G)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/302v.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/302v.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/302v.jpg\"",
    "o_que_prova": "regista «Eman. Pinto» entre os membros indexados (sem página/número): em 1661/62 era membro dessa província",
    "forca": "indireta"
   },
   {
    "citacao": "ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
    "o_que_prova": "dezasseis noviços entrados entre 1652 e 1654; nenhum Manuel Pinto do Porto — a lista não o inclui",
    "forca": "negativa"
   },
   {
    "citacao": "ARSI, Lus. 45, f. 116 (catálogo de 1654/55 — «Primus Catalogus Domus Probationis Vlyssiponensis») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/116.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/116.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/116.jpg\"",
    "o_que_prova": "a casa de noviciado de Lisboa em 1654/55: só membros antigos (n.º 1-8), nenhum noviço de 1652",
    "forca": "negativa"
   },
   {
    "citacao": "ARSI, Lus. 46, f. 322 (catálogo da província, 1678-1696; na digitalização a imagem «LUS. 46/322.jpg» tem o selo 327) — manuscrito ARSI lido em imagem",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/317.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/317.jpg\"",
    "o_que_prova": "verifica que neste volume os registos de irmãos coadjutores dão a data de entrada na forma «Ing. <dia> <mês> <ano>» (ex.: «Ing. 29 Mart. 652»), mas não dão o lugar de entrada; e que a numeração das imagens não coincide com os fólios selados",
    "forca": "indireta"
   },

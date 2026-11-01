@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra)
 entry_date: 1681 (o catálogo de 1685 dá-lhe os anos de Companhia indicados)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -73,7 +73,7 @@ Inácio Lopes, português, natural de Braga (21 de Dezembro de 1662). Entrou na 
 
 O catálogo trienal de 1685 está organizado por casas. A entrada está em f. 127, n.º 168 («Fr. Ignatius Lopes … societ. 4 (coorte de 1681, Colégio de Coimbra)»). Lendo para trás a partir dessa página, o cabeçalho de casa encontra-se no fim de **f. 121** («Collegium Conimbricense»); o índice datilografado do códice, em **f. 000v**, confirma a correspondência — 1685: Conimbricens. C. 121, S. Felicis R. 129v, Eborens. C. 136. A página está portanto dentro da secção de Coimbra.
 
-— ARSI Lus. 46, f. 127, n.º 168 e f. 121 + f. 000v — imagens `126.jpg`, `120.jpg`, `000v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg"`
+— ARSI Lus. 46, f. 127, n.º 168 e f. 121 + f. 000v — imagens `126.jpg`, `120.jpg`, `000v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg"`
 
 ### 4.2 1. O que Dehergne diz e cita
 
@@ -93,17 +93,17 @@ Procurou-se: (1) as pp. 127-128 do catálogo de 1685 (imagens `LUS. 46/126.jpg` 
 
 ## 5. Evidência
 
-- ARSI Lus. 46, f. 127, n.º 168 (catálogo de 1685) — «Fr. Ignatius Lopes … societ. 4 (coorte de 1681, Colégio de Coimbra)» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg"` · prova direta (data) / indireta (lugar)
+- ARSI Lus. 46, f. 127, n.º 168 (catálogo de 1685) — «Fr. Ignatius Lopes … societ. 4 (coorte de 1681, Colégio de Coimbra)» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/126.jpg"` · prova direta (data) / indireta (lugar)
   - regista-o com os anos de Companhia que datam a entrada; a casa vem do cabeçalho que precede a secção
-- ARSI Lus. 46, f. 121 (fim) — cabeçalho «Collegium Conimbricense»; f. 000v — índice datilografado: 1685 «Conimbricens. C. 121 … S. Felicis R. 129v» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova direta
+- ARSI Lus. 46, f. 121 (fim) — cabeçalho «Collegium Conimbricense»; f. 000v — índice datilografado: 1685 «Conimbricens. C. 121 … S. Felicis R. 129v» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova direta
   - situa as entradas de f. 127-127v dentro da secção do Colégio de Coimbra
-- ARSI, *Lusitania* 46, pp. 127-128 (secção do Colégio de Coimbra do catálogo de 1685), n.os 168-196 — imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta quanto à residência em 1685
+- ARSI, *Lusitania* 46, pp. 127-128 (secção do Colégio de Coimbra do catálogo de 1685), n.os 168-196 — imagens `LUS. 46/126.jpg` e `LUS. 46/126v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/126v.jpg"` · prova direta quanto à residência em 1685
   - lista de juniores «Fr.» de Coimbra em 1685, com idade e anos de Companhia: n.º 170 «Fr. Antonius de Barros … Societ. 4» e n.º 186 «Fr. Emmanuel da Matta, Ulyssipon., an. 17, Societ. ad 3um, studet humanit.»; não figura nenhum «Ignatius Lopes»
-- ARSI, *Lusitania* 46, f. 000v (índice datilografado: «1685») e p. 121 (início da secção do Colégio de Coimbra do catálogo de 1685) — imagens `LUS. 46/000v.jpg` e `LUS. 46/120.jpg` (tabela e manuscrito lidos directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg"` · prova indireta
+- ARSI, *Lusitania* 46, f. 000v (índice datilografado: «1685») e p. 121 (início da secção do Colégio de Coimbra do catálogo de 1685) — imagens `LUS. 46/000v.jpg` e `LUS. 46/120.jpg` (tabela e manuscrito lidos directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/120.jpg"` · prova indireta
   - as folhas 121-129 são a secção do Colégio de Coimbra do catálogo de 1685
-- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
+- ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg"` · prova direta (teor da lista de noviços de 1681)
   - em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos
-- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
+- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
   - estrutura do códice por casas: 1681 «Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 489 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-l`) · `python3 tools/packet.py deh-inacio-lopes` · `python3 tools/packet.py deh-inacio-lopes` · prova indireta (fonte da data)
   - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
@@ -112,6 +112,7 @@ Procurou-se: (1) as pp. 127-128 do catálogo de 1685 (imagens `LUS. 46/126.jpg` 
 
 - [[0 Portugal no entry]]
 - [[deh-inacio-lopes]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete)
 entry_date: 1628 (Dehergne; cota Lus. 44 II, 548) — entre 1619 e 1630 o único noviciado da província era o Monte Olivete, em Lisboa
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-25
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -99,13 +99,13 @@ Não existe no arquivo pha nem na série digitalizada local uma lista nominal do
 
 - António Franco, *Imagem da virtude… no noviciado de Coimbra* I (1719), p. 25 (impressa p. 5) — «No anno de mil seiscentos, & dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa…» · `pha page 54 25 --edited` · prova direta
   - fixa o único noviciado da província entre 1619 e 1630 em Lisboa (Monte Olivete); Coimbra e Évora só são restituídos em Abril de 1630 — logo um noviço de 1628 entrou em Lisboa
-- ARSI, *Lus. 44 II*, catálogo primeiro de Maio de 1633 (T1), p. 25, n.º 258 (f. 494r): «Ir. Lucas Correa de Lx.ª boas forças: idade 21 annos: da Companhia 5: estuda curso» — imagem `0493v-0494.jpg`, relida a 2026-10-25 · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0493v-0494.jpg"` · prova direta
+- ARSI, *Lus. 44 II*, catálogo primeiro de Maio de 1633 (T1), p. 25, n.º 258 (f. 494r): «Ir. Lucas Correa de Lx.ª boas forças: idade 21 annos: da Companhia 5: estuda curso» — imagem `0493v-0494.jpg`, relida a 2026-10-25 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0493v-0494.jpg"` · prova direta
   - 21 anos e 5 de Companhia em Maio de 1633 ⇒ entrada em 1628 (como Dehergne); em Coimbra está a estudar, não a entrar — e o «5» (não «3») confirma 1628
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 99, s.v. «Correa, Lucas», n.º 196 — edited: «Correa, Lucas (port.) P. 196 / N. 1612, Lisbonne -E. 1628 (Lus. 44 II, 548). / Emb. le 30 mars 1641 (W 898)…» · `pha page 65 99 --edited` · prova indireta
   - dá o ano de entrada (1628) e a cota Lus. 44 II, 548, mas nenhum lugar
 - Schütte, *Monumenta historica Japoniae*, doc. 92 (catalogue of the China vice-province, 1648), p. 1112, n.º 53: «P. Lucas Correa Olisiponensis 36 infirma 20 Absolvit studia Docuit litteras humaniores» · `pha page 18 1112` · prova indireta
   - catálogo de 1648: 36 anos e 20 de Companhia ⇒ entrada em 1628; confirma o ano, não o lugar
-- ARSI, *Lus. 44 II*, índice alfabético do catálogo de 1628 (T5A, ff. 467-472): a secção «L» começa em «Luis Lobo», sem nenhum Lucas — imagem `0467v-0468.jpg` a `0472v-0473.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0470v-0471.jpg"` · prova indireta
+- ARSI, *Lus. 44 II*, índice alfabético do catálogo de 1628 (T5A, ff. 467-472): a secção «L» começa em «Luis Lobo», sem nenhum Lucas — imagem `0467v-0468.jpg` a `0472v-0473.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0470v-0471.jpg"` · prova indireta
   - prova negativa: o catálogo de 1628 é anterior à entrada — não serve para localizar o noviciado, só para datar a entrada depois dele
 - Wicki, *Liste der Jesuiten-Indienfahrer* (doc 66), p. 51 — edited: embarque de 30 de Março de 1641, n.º 898 · `pha page 66 51 --edited` · prova indireta
   - confirma a identificação e o embarque (não o lugar de entrada); o nome sai corrompido no OCR («Cotteia»)
@@ -116,6 +116,7 @@ Não existe no arquivo pha nem na série digitalizada local uma lista nominal do
 - [[deh-lucas-correa]]
 - [[Coimbra Entry Changes]]
 - [[deh-bartolomeu-de-roboredo]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

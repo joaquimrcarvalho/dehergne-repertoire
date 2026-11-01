@@ -27,13 +27,13 @@
  "evidencias": [
   {
    "citacao": "ARSI, *Lusitania* 47, f. 133, n.º 352 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg\"",
    "o_que_prova": "«Fr. Franciscus da Costa ex Portu, et Dioec. Bracharen., natus 22. April. 1691, ingressus Societ. 9. Febr. 1707» — confirma a data exacta da entrada, mas é lista de residência, não de noviciado",
    "forca": "direta quanto à data; indirecta quanto ao lugar"
   },
   {
    "citacao": "ARSI, *Lusitania* 47, f. 000v — índice do códice: os catálogos conservados são os de 1700 (ff. 2-54), 1705 (ff. 55-110), 1711 (ff. 113-166) e 1717 (ff. 167-219) — imagem `LUS. 47/000v.jpg`",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
    "o_que_prova": "não há catálogo de 1707-1710, pelo que nenhuma lista de noviços desse biénio está disponível neste códice",
    "forca": "indireta (lacuna documental)"
   },

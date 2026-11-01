@@ -8,7 +8,7 @@ entry_place: Lisboa (Santo Antão)
 entry_date: 1561 (provável; ver conflito com a data de Dehergne)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -126,6 +126,8 @@ Não foi possível consultar **Lus. 43** (a cota citada pelo Dehergne) nem os ca
 
 - [[0 Portugal no entry]]
 - [[deh-diogo-pinto]]
+- **doc 81** — Wicki, Josef. Documenta Indica, vol. X (1575-1577). (Romae: Institutum Historicum Societatis Iesu, 1968). (agent-drafted-unverified (volume, years, series number and year read from this volume's own title pages in the archive transcription, 2026-10-20; year and series number also checked against the MHSI series bibliography in AHSI 2012))
+- **doc 91** — Wicki, Josef; Gomes, John. Documenta Indica, vol. XVI (1592-1594). (Romae: Institutum Historicum Societatis Iesu, 1984). (agent-drafted-unverified (volume, years, series number and year read from this volume's own title pages in the archive transcription, 2026-10-20; year and series number also checked against the MHSI series bibliography in AHSI 2012))
 
 ---
 

@@ -21,7 +21,7 @@
  "evidencias": [
   {
    "citacao": "ARSI Lus. 46, f. 68v, n.º 380 (catálogo trienal de 1681, secção «Collegium Eborense»; imagem `LUS. 46/067v.jpg`)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/067v.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/067v.jpg\"",
    "o_que_prova": "António Dias, de Lavre (diocese de Évora), 15 anos, dois meses de Companhia em 1681, listado no Colégio de Évora — lugar de entrada",
    "forca": "direta"
   },

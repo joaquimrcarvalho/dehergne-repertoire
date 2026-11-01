@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra)
 entry_date: 1651 (o catálogo de 1655 dá-lhe «Ann. Soc. 4»)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -118,13 +118,13 @@ O catálogo de 1655 é uma lista de residência por casa: não declara noviciado
 
 ## 5. Evidência
 
-- ARSI Lus. 45, f. 176 — «Index Collegiorum Provinciae Lusitanae» do catálogo de 1655: «Collegium Conimbricense — pag. 4», «Collegium Bracarense — pag. 10» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/176.jpg"` · prova direta
+- ARSI Lus. 45, f. 176 — «Index Collegiorum Provinciae Lusitanae» do catálogo de 1655: «Collegium Conimbricense — pag. 4», «Collegium Bracarense — pag. 10» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/176.jpg"` · prova direta
   - atribui a secção de Coimbra às páginas internas 4-9 do catálogo de 1655 (Braga começa na 10)
-- ARSI Lus. 45, f. 177 — «Catalogus primus Collegii Conimbricensis Anno 1655» (cabeçalho da secção) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova direta
+- ARSI Lus. 45, f. 177 — «Catalogus primus Collegii Conimbricensis Anno 1655» (cabeçalho da secção) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova direta
   - o catálogo que começa neste fólio é o do Colégio de Coimbra
-- ARSI Lus. 45, f. 180v, n.º 135 — «Fr. Amador Fernandes. Miranda. 24. 4. Robustus. Coadj. temp. non formatus», no bloco «Coadjutores e Noviços» (páginas internas 7-8 do catálogo de Coimbra) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/180v.jpg"` · prova direta (residência) / indireta (lugar de entrada)
+- ARSI Lus. 45, f. 180v, n.º 135 — «Fr. Amador Fernandes. Miranda. 24. 4. Robustus. Coadj. temp. non formatus», no bloco «Coadjutores e Noviços» (páginas internas 7-8 do catálogo de Coimbra) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180v.jpg"` · prova direta (residência) / indireta (lugar de entrada)
   - está no Colégio de Coimbra em 1655, com 4 anos de Companhia (entrada em 1651); lugar atribuído a Coimbra
-- ARSI Lus. 45, f. 181, apêndice «Novitii. Extra ordinem Alphabeticum, quos post hunc catalogum confectum ingressi sunt», n.º 194 — «Fr. Amador Fernandes. Miranda. 20. men. 1.» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova instrumental
+- ARSI Lus. 45, f. 181, apêndice «Novitii. Extra ordinem Alphabeticum, quos post hunc catalogum confectum ingressi sunt», n.º 194 — «Fr. Amador Fernandes. Miranda. 20. men. 1.» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova instrumental
   - homónimo mais novo (n. c. 1635), noviço de 1655 — não é o nosso, nascido em 1631
 
 ## 6. Referências

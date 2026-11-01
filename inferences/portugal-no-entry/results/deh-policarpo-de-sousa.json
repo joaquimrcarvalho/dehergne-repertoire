@@ -29,7 +29,7 @@
     },
     {
       "citacao": "ARSI Lus. 47, f. 191v (imagem LUS. 47/191v.jpg) — leitura directa da imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/191v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/191v.jpg\"",
       "o_que_prova": "catálogo trienal da província (entradas numeradas, com ano e dia de «ingressus»); página em que Dehergne diz ter lido «N. 1696, E. 3 oct. 1711»; a caligrafia é aqui mais difícil e não se confirmou a data nesta imagem",
       "forca": "indireta"
     }

@@ -20,14 +20,14 @@
   ],
   "evidencias": [
     {
-      "citacao": "ARSI, *Lus. 39*, fol. 70v (catálogo terceiro da província de Portugal, 1612), fim da lista do Colégio de Coimbra, secção «Irmãos Nouiços»: «Aluaro Cabral» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg (a imagem mostra o spread 70v + 71)",
-      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg\"",
+      "citacao": "ARSI, *Lus. 39*, fol. 70v (catálogo terceiro da província de Portugal, 1612), fim da lista do Colégio de Coimbra, secção «Irmãos Nouiços»: «Aluaro Cabral» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg (a imagem mostra o spread 70v + 71)",
+      "comando": "read_image \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg\"",
       "o_que_prova": "Álvaro Cabral era noviço do Colégio de Coimbra em 1612 — prova de que o noviciado (e a entrada) foi em Coimbra",
       "forca": "direta"
     },
     {
-      "citacao": "ARSI, *Lus. 44 II*, fol. 313v (catálogo primeiro da província de Portugal, Janeiro de 1614), n.º 273, lista do Colégio de Coimbra — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/314.jpg (a imagem mostra o fólio 313v)",
-      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/314.jpg\"",
+      "citacao": "ARSI, *Lus. 44 II*, fol. 313v (catálogo primeiro da província de Portugal, Janeiro de 1614), n.º 273, lista do Colégio de Coimbra — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/314.jpg (a imagem mostra o fólio 313v)",
+      "comando": "read_image \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/314.jpg\"",
       "o_que_prova": "«Aluaro Cabral, de Frechas Bispado de Viseu, Vinte e hum annos d'idade, da Compª 3... vay em 2 annos que estuda latim» — 3 anos de Companhia em Jan. 1614, isto é, entrada em 1611, em Coimbra",
       "forca": "direta"
     },

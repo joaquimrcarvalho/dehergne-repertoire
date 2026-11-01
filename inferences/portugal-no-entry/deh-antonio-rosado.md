@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)
 entry_date: 1688-04-22
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -72,9 +72,9 @@ A diocese («Aegitaniensis» = Guarda, onde fica Idanha-a-Nova), a idade (18 ano
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 46, f. 207 (catálogo trienal da província de Portugal, 1690), lista de noviços da «Domus Probationis», n.º 376: «Fr. Antonius Rosado ... Diæc. Aegitaniensi. ætatis 18 an. laborat. Soc. ingressus est 22 Aprilis an. 1688. studebat Dialecticæ.» — manuscrito ARSI lido directamente na imagem digital · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/206.jpg"` · prova direta
+- ARSI, *Lusitania* 46, f. 207 (catálogo trienal da província de Portugal, 1690), lista de noviços da «Domus Probationis», n.º 376: «Fr. Antonius Rosado ... Diæc. Aegitaniensi. ætatis 18 an. laborat. Soc. ingressus est 22 Aprilis an. 1688. studebat Dialecticæ.» — manuscrito ARSI lido directamente na imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/206.jpg"` · prova direta
   - que era noviço da Casa de Provação e a data exacta da entrada na Companhia
-- ARSI, *Lusitania* 46, f. 206 (catálogo de 1690): cabeçalho «Domus Probationis» a seguir aos religiosos da casa anterior; e ARSI, *Lusitania* 46, f. 70v (catálogo de 1681), onde a mesma casa é expressamente «Domus Probationis Ulyssipon.» (n.º 427, P. Vicente Leyrera, «modo Rector Domus Probationis Ulyssipon.») — manuscrito ARSI lido em imagem digital · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg"` · prova direta
+- ARSI, *Lusitania* 46, f. 206 (catálogo de 1690): cabeçalho «Domus Probationis» a seguir aos religiosos da casa anterior; e ARSI, *Lusitania* 46, f. 70v (catálogo de 1681), onde a mesma casa é expressamente «Domus Probationis Ulyssipon.» (n.º 427, P. Vicente Leyrera, «modo Rector Domus Probationis Ulyssipon.») — manuscrito ARSI lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg"` · prova direta
   - que a casa em cuja lista de noviços foi inscrito é a Casa de Provação de Lisboa
 - Dehergne, *Répertoire des Jésuites de Chine*, s.v. «Rosado (Rozado), Antonio», notícia integral na base Timelink · `python3 tools/packet.py deh-antonio-rosado` · prova indireta
   - a mesma data de entrada e a citação «Lus. 46, 207»

@@ -21,7 +21,7 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lus. 46 a*, f. 19, n.º 338 (catálogo primeiro da província de Portugal, 1700) — manuscrito ARSI lido na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg\"",
       "o_que_prova": "«Fr. Emanuel de Sousa (...) ingressus Societat. 06. Septembris an. 1690 ... Rhetoricus» — data de entrada e estudos, sem casa de entrada",
       "forca": "direta"
     },

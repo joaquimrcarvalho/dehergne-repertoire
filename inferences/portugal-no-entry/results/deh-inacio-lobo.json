@@ -47,19 +47,19 @@
     },
     {
       "citacao": "ARSI Lus. 44 II, f. 430v (índice alfabético do catálogo de 1625; a imagem `0430v-0431.jpg` mostra os ff. 430v-431) — leitura direta da imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0430v-0431.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0430v-0431.jpg\"",
       "o_que_prova": "prova negativa: nas letras B-E-F-G do índice do catálogo de 1625 não há nenhum Lobo/Lopo (o índice é alfabético por nome próprio, com a página e o número de cada verbete).",
       "forca": "contrária"
     },
     {
       "citacao": "ARSI Lus. 44 II, f. 535v-536 (catálogo da província de Portugal, Abril de 1636, «Casa de Provação», n.os 130-149; imagem `0535v-0536.jpg`) — leitura direta da imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg\"",
       "o_que_prova": "prova negativa: a lista integral dos noviços da Casa de Provação de Lisboa em Abril de 1636 (de 9 meses a um ano de noviciado) não contém nenhum Lobo; uma reentrada em 1635 deveria aí figurar.",
       "forca": "contrária"
     },
     {
       "citacao": "ARSI Lus. 44 II, f. 536 (mesmo catálogo de 1636, «Collegio do Seminario dos Hibernios», n.º 154: «Ir. Ant.º Lobo N.al da cidade de Braga de idade 20 annos … da Comp.ª vai pª tres annos, he Coadjutor temporal»; imagem `0535v-0536.jpg`) — leitura direta da imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg\"",
       "o_que_prova": "o único Lobo do catálogo de 1636 naquele passo é António Lobo, natural de Braga, coadjutor temporal — homónimo que não deve ser confundido com Inácio Lobo.",
       "forca": "contexto"
     },

@@ -11,7 +11,7 @@
  "analise": [
   {
    "titulo": "Verificação no catálogo de Coimbra de 1 de Janeiro de 1569 (resultado: negativo com reserva)",
-   "texto": "O catálogo de Coimbra de 1 de Janeiro de 1569 (LUS. 43 II a, f. 345, título «Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.») lista a comunidade por cursos e, no fólio seguinte (f. 346 = p. 349), os «**Novitii**» dessa casa — 25 nomes. **Rui Barreto não está entre eles.**\n\nComo ler este negativo: (a) se a data de 28 de Dezembro de 1568 é exacta, ele tinha quatro dias de noviciado quando o catálogo foi feito — um noviço acabado de entrar pode ainda não estar inscrito na lista; (b) o próprio Dehergne admite a variante «E. 28 déc. 1568, ou 1572», e nesse caso o catálogo de 1569 é anterior à entrada. O teste, portanto, não refuta Coimbra, mas também não a confirma: mostra apenas que ele não era um noviço já estabelecido em Coimbra em 1 de Janeiro de 1569.\n\n— ARSI, LUS. 43 II a, ff. 345-346 — imagens `LUS. 43 II a/345.jpg` e `346.jpg` · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg\"`"
+   "texto": "O catálogo de Coimbra de 1 de Janeiro de 1569 (LUS. 43 II a, f. 345, título «Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.») lista a comunidade por cursos e, no fólio seguinte (f. 346 = p. 349), os «**Novitii**» dessa casa — 25 nomes. **Rui Barreto não está entre eles.**\n\nComo ler este negativo: (a) se a data de 28 de Dezembro de 1568 é exacta, ele tinha quatro dias de noviciado quando o catálogo foi feito — um noviço acabado de entrar pode ainda não estar inscrito na lista; (b) o próprio Dehergne admite a variante «E. 28 déc. 1568, ou 1572», e nesse caso o catálogo de 1569 é anterior à entrada. O teste, portanto, não refuta Coimbra, mas também não a confirma: mostra apenas que ele não era um noviço já estabelecido em Coimbra em 1 de Janeiro de 1569.\n\n— ARSI, LUS. 43 II a, ff. 345-346 — imagens `LUS. 43 II a/345.jpg` e `346.jpg` · `open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg\"`"
   },
   {
    "titulo": "A entrada na Companhia segundo a Documenta Indica",
@@ -25,7 +25,7 @@
  "evidencias": [
   {
    "citacao": "ARSI, *Lus. 43 II a*, f. 345 (p. 348 impressa) — título «**Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.**»; f. 346 (p. 349) — lista dos «**Novitii**» de Coimbra (25 nomes: Balthasar …, Franciscus Guernet, Christophorus Simend, Georgius/Sebastianus/Gaspar Fernandes, Gaspar Siqueira, Petrus Lopes, Jacobus a Valle, Antonius Botelhus, Joannes a Gouvea, Petrus Teixeira, Christophorus/Andreas Pereira, Simon Couting, Petrus Alvares, Innocentius a Matos, Raphael Carneiro, Emanuel Fernandes, Franciscus Lopes Hisp., Andreas Gonçalves, Joannes ab Oliveira, Antonius Carvalhus) — **Rui Barreto não consta**",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/346.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/346.jpg\"",
    "o_que_prova": "verificação da atribuição a Coimbra: o catálogo de Coimbra de 1 de Janeiro de 1569 não o inclui entre os noviços — negativo com reserva (entrada de 28 Dez. 1568, quatro dias antes; ou variante de 1572)",
    "forca": "negativa"
   },

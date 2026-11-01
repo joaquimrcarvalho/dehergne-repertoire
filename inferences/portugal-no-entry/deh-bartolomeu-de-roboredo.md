@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete)
 entry_date: 1625 (catálogo de 1625: «1 mês» de Companhia; confirma-o o catálogo de 1628, onde tem «3 annos» de Companhia)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -144,6 +144,7 @@ Não existe neste arquivo nenhum catálogo português de 1625 além do que está
 - [[Jesuitas - Portugal - 1619-1630 - Noviciado Monte do Olivete]]
 - **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
 - **doc 55** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

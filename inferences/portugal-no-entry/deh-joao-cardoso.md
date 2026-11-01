@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -105,13 +105,13 @@ O frontispício do catálogo (fólio 529) lê-se na imagem `.../0528av-0529.jpg`
 
 > «[Catalogo dos Padres da Com]panhia de Jesus … feito em Abril dos annos de 1636»
 
-— ARSI Lus. 44 II, f. 529 (imagem `LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg"`
+— ARSI Lus. 44 II, f. 529 (imagem `LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg"`
 
 O índice alfabético «dos Padres & Irmãos» desse catálogo, no fólio 557, contém, entre as entradas «I.» (irmãos):
 
 > «I. João Denis — 211 — 210 … I. Inêz de Seixas — 213 — 212 … I. João Cardoso. — I. Jeronimo Cabral. — I. João Dias.»
 
-— ARSI Lus. 44 II, f. 557 (imagem `.../0556v-0557.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0556v-0557.jpg"`
+— ARSI Lus. 44 II, f. 557 (imagem `.../0556v-0557.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0556v-0557.jpg"`
 
 Nesse índice a entrada não traz número (muitas entradas «I.» também não trazem), mas o nome está lá — e é o único João Cardoso do índice.
 
@@ -121,7 +121,7 @@ No catálogo imediatamente posterior (índice próprio nos ff. 563-567), a entra
 
 > «413. H. João Cardoso de Setuval Arc[ebispa]do de Lx.ª idade 19.ª da Comp.ª 4. vai no primeiro curso boas forças.»
 
-— ARSI Lus. 44 II, f. 584v (imagem `.../0584v-0585.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0584v-0585.jpg"`
+— ARSI Lus. 44 II, f. 584v (imagem `.../0584v-0585.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0584v-0585.jpg"`
 
 O índice alfabético desse mesmo catálogo confirma o número: «H. João Cardoso n.º 413» (f. 566v, imagem `.../0566v-0567.jpg`).
 
@@ -137,15 +137,15 @@ Não se encontrou qualquer menção de João Cardoso numa lista de Évora nos f�
 
 ## 5. Evidência
 
-- ARSI Lus. 44 II, f. 529, frontispício «feito em Abril dos annos de 1636» (imagem `LUS. 44 II_continuação.../0528av-0529.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg"` · prova contexto
+- ARSI Lus. 44 II, f. 529, frontispício «feito em Abril dos annos de 1636» (imagem `LUS. 44 II_continuação.../0528av-0529.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0528av-0529.jpg"` · prova contexto
   - data do catálogo de 1636 em que ele é indexado
-- ARSI Lus. 44 II, f. 557, índice alfabético: «I. João Cardoso» (imagem `LUS. 44 II_continuação.../0556v-0557.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0556v-0557.jpg"` · prova direta
+- ARSI Lus. 44 II, f. 557, índice alfabético: «I. João Cardoso» (imagem `LUS. 44 II_continuação.../0556v-0557.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0556v-0557.jpg"` · prova direta
   - João Cardoso está presente no catálogo de Abril de 1636 (índice), como irmão
-- ARSI Lus. 44 II, f. 584v, entrada n.º 413: «H. João Cardoso de Setuval Arc. de Lx.ª idade 19.ª da Comp.ª 4. vai no primeiro curso boas forças» (imagem `LUS. 44 II_continuação.../0584v-0585.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0584v-0585.jpg"` · prova direta
+- ARSI Lus. 44 II, f. 584v, entrada n.º 413: «H. João Cardoso de Setuval Arc. de Lx.ª idade 19.ª da Comp.ª 4. vai no primeiro curso boas forças» (imagem `LUS. 44 II_continuação.../0584v-0585.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0584v-0585.jpg"` · prova direta
   - naturalidade (Setúbal), idade (19), tempo de Companhia (4) e estudos (1.º curso) — dados que confirmam a identificação e a cronologia de Dehergne (E. 1634)
-- ARSI Lus. 44 II, f. 566v, índice do catálogo seguinte: «H. João Cardoso n.º 413» (imagem `LUS. 44 II_continuação.../0566v-0567.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0566v-0567.jpg"` · prova direta
+- ARSI Lus. 44 II, f. 566v, índice do catálogo seguinte: «H. João Cardoso n.º 413» (imagem `LUS. 44 II_continuação.../0566v-0567.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0566v-0567.jpg"` · prova direta
   - liga a pessoa à entrada n.º 413 do catálogo seguinte
-- ARSI Lus. 44 II, f. 576v, cabeçalho «Collegio de Coimbra» (imagem `LUS. 44 II_continuação.../0576v-0577.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0576v-0577.jpg"` · prova indireta forte
+- ARSI Lus. 44 II, f. 576v, cabeçalho «Collegio de Coimbra» (imagem `LUS. 44 II_continuação.../0576v-0577.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0576v-0577.jpg"` · prova indireta forte
   - a casa da lista que contém a entrada n.º 413 é o Colégio de Coimbra (a lista corre até ao f. 585v, antes de «Colegio de Braga», f. 586v)
 
 ## 6. Referências

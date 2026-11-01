@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -76,7 +76,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 ## 5. Evidência
 
-- ARSI, *Lus. 47*, f. 1 — «Catalogus Missionariorum qui ab Aprili anni 1696 usque ad Aprilis anni 1700 in Indias vetterunt» — manuscrito ARSI lido na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/001.jpg"` · prova direta
+- ARSI, *Lus. 47*, f. 1 — «Catalogus Missionariorum qui ab Aprili anni 1696 usque ad Aprilis anni 1700 in Indias vetterunt» — manuscrito ARSI lido na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/001.jpg"` · prova direta
   - «Anno 1700 (...) Fr. Theotonius Leytam Lusit.» — confirma o embarque de 1700 (e portanto a data de Dehergne), não o lugar de entrada
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 462 (doc 65), p. 189 — edited (`dehergne-ocr`) · `pha page 65 189 --edited` · prova indireta
   - notícia biográfica: «E. v. 1699. Emb. comme novice pour la Chine en 1700, vers avril (W 1434., Lus. 47, 1)» — data aproximada, sem lugar
@@ -87,6 +87,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-teotonio-leitao]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

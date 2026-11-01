@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca
 entry_date: 1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -95,9 +95,9 @@ Procurei «António/Antonio/Antonius Preto», «Prieto», «Pretot» em todo o a
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 93) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg"` · prova direta
+- ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 93) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg"` · prova direta
   - «Fr. Antonius Preto. Golegam. 21. 4. Optima. Philosophus ex 1.º» — 21 anos e 4 anos de Companhia em 1655 ⇒ entrada em 1651; era estudante de filosofia em Coimbra
-- ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
   - lista «Novitii extra ordinem… qui post hunc catalogum confectum ingressi sunt»: os noviços do norte eram inscritos em Coimbra (indício para a hipótese Coimbra)
 - Franco, *Imagem da virtude… Évora* (doc 52), p. 701 (André Freire, da Golegã, noviço em Évora em 1644) — raw · `pha page 52 701` · prova indireta
   - contra-exemplo à inferência «Golegã (arcebispado de Lisboa) → noviciado de Lisboa»
@@ -111,6 +111,7 @@ Procurei «António/Antonio/Antonius Preto», «Prieto», «Pretot» em todo o a
 - [[0 Portugal no entry]]
 - [[deh-antonio-preto]]
 - **doc 52** — Franco, Antonio. Imagem da virtude em o noviciado da Companhia de Jesus do Real Collegio do Espirito Santo de Evora do Reyno de Portugal ... (Lisboa: na Officina Real Deslandesiana, 1714). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 
 ---

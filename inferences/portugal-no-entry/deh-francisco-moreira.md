@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado do Colégio de Coimbra)
 entry_date: 1704-01-01
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -91,9 +91,9 @@ O pha não tem catálogos portugueses posteriores a 1625. Procurou-se «Francisc
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 72v, n.º 211 (catálogo de 1705, secção de Coimbra, lista «Novitii Scholastici») — imagem `LUS. 47/072v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/072v.jpg"` · prova direta
+- ARSI, *Lusitania* 47, f. 72v, n.º 211 (catálogo de 1705, secção de Coimbra, lista «Novitii Scholastici») — imagem `LUS. 47/072v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/072v.jpg"` · prova direta
   - «Fr. Franciscus Moreira ex Civitate Conimbricensi, eiusd. Dioec., natus an. 1689, ingressus Societ. 1. Januarii an. 1704. Vires optimae» — noviço de Coimbra, entrada a 1 de Janeiro de 1704
-- ARSI, *Lusitania* 47, f. 125, n.º 152 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/125.jpg"` · prova direta quanto à data
+- ARSI, *Lusitania* 47, f. 125, n.º 152 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/125.jpg"` · prova direta quanto à data
   - «Fr. Franciscus Moreira Conimb. Dioec. eiusdem, natus 27. Dec. ann. 1689, ingressus Soc. 1. Jan. 1704» — data exacta confirmada e residência em Coimbra em 1711
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 210, n.º 569 « Moreira (Moreyra), Francisco (port.) » — edited (`french-ocr`) · `pha page 65 210 --edited` · `pha page 65 210 --edited` · prova indireta (fonte da data)
   - «N. Coïmbre 27 déc. 1689 - E. 1 janv. 1704 (Lus. 47, 125)» — notícia-base, sem lugar de entrada
@@ -103,6 +103,7 @@ O pha não tem catálogos portugueses posteriores a 1625. Procurou-se «Francisc
 - [[0 Portugal no entry]]
 - [[deh-francisco-moreira]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

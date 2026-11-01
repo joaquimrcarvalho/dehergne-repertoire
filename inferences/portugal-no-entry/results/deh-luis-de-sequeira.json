@@ -27,7 +27,7 @@
     },
     {
       "citacao": "ARSI Lus. 47, f. 196v (imagem LUS. 47/196v.jpg) — leitura directa da imagem (manuscrito)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/196v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/196v.jpg\"",
       "o_que_prova": "é o catálogo trienal da província, com assentos numerados (n.os 246-259 na página), que dão «in ingressu / ingress.» com ano e dia mas **nunca a casa**",
       "forca": "indireta"
     },

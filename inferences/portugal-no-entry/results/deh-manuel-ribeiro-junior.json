@@ -23,13 +23,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 47, f. 115v (catálogo de 1711, «Supplementum», lista «Ad Sinensem») — imagem `LUS. 47/115v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg\"",
       "o_que_prova": "«Fr. Emmanuel Rib[eiro] Novitius ...» — era noviço quando foi destinado à China; não indica a casa do noviciado. É a folha citada por Dehergne",
       "forca": "indireta (não estabelece o lugar)"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, ff. 22v-23v (catálogo de 1700, Casa de Provação de Lisboa, listas de noviços, n.os 395-440) — imagens `LUS. 47/022v.jpg`, `023.jpg`, `023v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/022v.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/023.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/022v.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/023.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg\"",
       "o_que_prova": "procura negativa: Manuel/Emanuel Ribeiro não figura entre os noviços de Lisboa em 1700 (n.os 429-440), onde estão, por exemplo, Camello (n.º 439) e Francisco Simões (n.º 435)",
       "forca": "indireta (contra-hipótese)"
     },

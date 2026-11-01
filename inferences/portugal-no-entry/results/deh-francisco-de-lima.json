@@ -23,13 +23,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 47, f. 73, n.º 225 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg\"",
       "o_que_prova": "«Fr. Franciscus de Sá Lima ex Civitate Bracar., eiusd. Dioec., natus an. 1688, ingressus Societ. 26. Decemb. an. 1704. Vires debiles» — noviço de Coimbra, entrada a 26 de Dezembro de 1704",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 125v, n.º 165 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/125v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/125v.jpg\"",
       "o_que_prova": "«Fr. Franciscus de Lima Bracaren., Dioec. eiusdem, natus 4. octob. an. 1688, ingressus Societ. 26. Decemb. an. 1704» — confirma a identificação (Braga, 1688) e a data exacta que Dehergne cita",
       "forca": "direta quanto à data e à identificação"
     },

@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado do Colégio de Coimbra)
 entry_date: 1704-12-30
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -101,9 +101,9 @@ O pha não tem catálogos portugueses posteriores a 1625. Procurou-se «Manuel P
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 73, n.º 228 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg"` · prova direta
+- ARSI, *Lusitania* 47, f. 73, n.º 228 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg"` · prova direta
   - «Fr. Emanuel Pin[t]o ex oppido Nespereira, Dioec. Viseensi, natus an. 1690, ingressus Societ. 30. Decemb. an. 1704. Vires mediocres» — noviço de Coimbra, entrada a 30 de Dezembro de 1704
-- ARSI, *Lusitania* 47, f. 133, n.º 343 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg"` · prova direta quanto à data
+- ARSI, *Lusitania* 47, f. 133, n.º 343 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg"` · prova direta quanto à data
   - mesmos dados de origem (Nespereira, diocese de Viseu, n. 1690) e mesma data de entrada (30 de Dezembro de 1704); é a folha citada por Dehergne, mas é lista de residência
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 244, n.º 647 « Pinto, Manuel (port.) (III) » — edited (`french-ocr`) · `pha page 65 244 --edited` · `pha page 65 244 --edited` · prova indireta (fonte da data)
   - «N. Nespereira, d. de Viseu, 4 août 1690 -E. 30 déc. 1704 (Lus. 47, 133)» — notícia-base, com o lugar em branco
@@ -113,6 +113,7 @@ O pha não tem catálogos portugueses posteriores a 1625. Procurou-se «Manuel P
 - [[0 Portugal no entry]]
 - [[deh-manuel-pinto-iii]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

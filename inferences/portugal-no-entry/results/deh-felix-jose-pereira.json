@@ -27,7 +27,7 @@
     },
     {
       "citacao": "ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/269v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/269v.jpg\"",
       "o_que_prova": "o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**",
       "forca": "contexto"
     },

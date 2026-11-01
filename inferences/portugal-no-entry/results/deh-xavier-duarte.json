@@ -31,7 +31,7 @@
     },
     {
       "citacao": "ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768 (imagem `LUS. 41/098.jpg`), n.º 10 «Fr. Xaverius Duarte … Coimbrica» — manuscrito lido em imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg\"",
       "o_que_prova": "nascimento em Coimbra (o Dehergne diz 11 de Novembro de 1714) e inserção na lista da província de Portugal em 1768",
       "forca": "direta"
     },
@@ -43,7 +43,7 @@
     },
     {
       "citacao": "ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768 (imagem `LUS. 41/099.jpg`), n.º 10: «Ingressus 3 Nov. 1736» — manuscrito lido em imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg\"",
       "o_que_prova": "data exacta da entrada na Companhia: 3 de Novembro de 1736",
       "forca": "direta"
     },

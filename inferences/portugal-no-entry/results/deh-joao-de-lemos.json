@@ -31,7 +31,7 @@
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice « Lus. 47, 1-349 — Catalogi triennales Prov. Lus. 1700-1726 » (imagem `LUS. 47/000v.jpg`) — manuscrito lido em imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
       "o_que_prova": "o códice Lus. 47 contém os catálogos trienais da província de Portugal de 1700 a 1726 (ff. 1-349) — portanto o fólio 330v citado pelo Dehergne para a entrada de João de Lemos existe no volume, mas não na digitalização de trabalho, que termina no f. 252",
       "forca": "negativa"
     },

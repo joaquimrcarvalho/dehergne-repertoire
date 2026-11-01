@@ -37,7 +37,7 @@
     },
     {
       "citacao": "ARSI, *Lus. 46 a*, f. 42 (índice do catálogo de 1700) — manuscrito ARSI lido na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/042.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/042.jpg\"",
       "o_que_prova": "«Fr. Emmanuel Marques — 486»: o índice remete para a notícia n.º 486, que dá data de entrada e estudos, não a casa",
       "forca": "contexto"
     },

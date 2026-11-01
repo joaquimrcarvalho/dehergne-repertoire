@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1557-08-05
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -145,6 +145,7 @@ Lus. 43 I, 46 — a cota citada por Dehergne para a entrada («E. 5 août 1557»
 
 - [[0 Portugal no entry]]
 - [[deh-amador-da-costa]]
+- **doc 81** — Wicki, Josef. Documenta Indica, vol. X (1575-1577). (Romae: Institutum Historicum Societatis Iesu, 1968). (agent-drafted-unverified (volume, years, series number and year read from this volume's own title pages in the archive transcription, 2026-10-20; year and series number also checked against the MHSI series bibliography in AHSI 2012))
 - **doc 45** — Juan Ruiz-de-Medina. Documentos del Japon 1547-1557. vol. II. (Roma: Instituto Histórico de la Compañia de Jesús, 1990). (human-confirmed (owner-corrected in Zotero))
 
 ---

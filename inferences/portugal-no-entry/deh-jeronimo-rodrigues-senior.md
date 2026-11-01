@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1585
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -136,6 +136,7 @@ Não existe neste arquivo nenhum catálogo do noviciado de Évora de 1585 nem qu
 - [[0 Portugal no entry]]
 - [[deh-jeronimo-rodrigues-senior]]
 - **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
+- **doc 92** — Wicki, Josef. Documenta Indica, vol. XVII (1595-1597). (Romae: Institutum Historicum Societatis Iesu, 1988). (agent-drafted-unverified (volume, years, series number and year read from this volume's own title pages in the archive transcription, 2026-10-20; year and series number also checked against the MHSI series bibliography in AHSI 2012))
 
 ---
 

@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1685-07-02
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -88,9 +88,9 @@ Procurou-se António Freire em todas as listas de noviços de Lus. 46 acessívei
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 46, f. 198v (catálogo trienal de 1690), lista «Vota Nuncupata in 4.ª Die Anni», n.º 146: «Fr. Antonius Freyre Bracharensis an. 21. soc. 6. virib. bonis. Physicae modo incumbit.» — manuscrito ARSI lido directamente na imagem digital · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/197v.jpg"` · prova indireta
+- ARSI, *Lusitania* 46, f. 198v (catálogo trienal de 1690), lista «Vota Nuncupata in 4.ª Die Anni», n.º 146: «Fr. Antonius Freyre Bracharensis an. 21. soc. 6. virib. bonis. Physicae modo incumbit.» — manuscrito ARSI lido directamente na imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/197v.jpg"` · prova indireta
   - que em 1690 tinha 6 anos de Companhia (entrada em 1685) e estudava Física; NÃO prova o lugar de entrada
-- ARSI, *Lusitania* 46, f. 129 (catálogo de 1685), fim da secção do Colégio de Coimbra: cabeçalho «Fratres Novitij» com os noviços entrados em 1683-1684 («Ingress. die 20 Aug. 1683», «Ingress. die 19 Martii 1683», «nomen dedit fidei die ... 1684») — nenhum Freire · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/128.jpg"` · prova indireta
+- ARSI, *Lusitania* 46, f. 129 (catálogo de 1685), fim da secção do Colégio de Coimbra: cabeçalho «Fratres Novitij» com os noviços entrados em 1683-1684 («Ingress. die 20 Aug. 1683», «Ingress. die 19 Martii 1683», «nomen dedit fidei die ... 1684») — nenhum Freire · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/128.jpg"` · prova indireta
   - que o noviciado do Colégio de Coimbra existia em 1683-1684 mas a lista conservada não inclui entradas de 1685
 - Dehergne, *Répertoire des Jésuites de Chine*, s.v. «Freire (Freyre), Antonio», n.º 338 — notícia integral na base Timelink: «N. 1 nov. 1670, Braga -E. 2 juill. 1685 (JS 25, 278., Lus. 46, 198v)» · `python3 tools/packet.py deh-antonio-freire` · prova indireta
   - a data exacta de entrada e a citação do fólio 198v

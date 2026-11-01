@@ -8,7 +8,7 @@ entry_place: Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Mo
 entry_date: 1684-04-16
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -108,13 +108,13 @@ O fólio que Dehergne cita para a data de 1673 (Lus. 46, 196v — catálogo de 1
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 46, p. 140, n.º 484 (registo dos noviços da «Domus Probationis» no catálogo de 1685) — imagem `LUS. 46/139.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg"` · prova direta
+- ARSI, *Lusitania* 46, p. 140, n.º 484 (registo dos noviços da «Domus Probationis» no catálogo de 1685) — imagem `LUS. 46/139.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg"` · prova direta
   - «Fr. Josephus de Almeyda. Ulyssiponensis. an. 20 … dedit die 16. Aprilis 1684. Viribus bonis.» — noviço da Domus Probationis de Lisboa, entrada a 16 de Abril de 1684
-- ARSI, *Lusitania* 46, p. ~137v, n.º 422 (catálogo de 1685) — imagem `LUS. 46/136v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/136v.jpg"` · prova direta (para o homónimo)
+- ARSI, *Lusitania* 46, p. ~137v, n.º 422 (catálogo de 1685) — imagem `LUS. 46/136v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/136v.jpg"` · prova direta (para o homónimo)
   - «Fr. Josephus de Almeyda, Ulyssiponensis, an. 27, Societ. 12, viribus bonis, docet …» — homónimo mais velho, entrado c. 1673, que explica o «N. 1658 / E. 1673» da base
-- ARSI, *Lusitania* 46, p. ~140, cabeça «Fratres Novitii» no n.º 474, com noviços datados de Agosto de 1682 a 1683 (catálogo de 1685) — imagem `LUS. 46/138v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/138v.jpg"` · prova indireta (contexto da prova)
+- ARSI, *Lusitania* 46, p. ~140, cabeça «Fratres Novitii» no n.º 474, com noviços datados de Agosto de 1682 a 1683 (catálogo de 1685) — imagem `LUS. 46/138v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/138v.jpg"` · prova indireta (contexto da prova)
   - a lista «Fratres Novitii» (onde está o n.º 484) insere-se no fim da secção da Domus Probationis e regista as entradas desde 1682
-- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» (uma coluna por ano, uma linha por casa) — imagem `LUS. 46/000v.jpg` (manuscrito/tabela lida directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
+- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» (uma coluna por ano, uma linha por casa) — imagem `LUS. 46/000v.jpg` (manuscrito/tabela lida directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
   - estrutura do códice: cada catálogo está organizado por casas; para 1678 «Conimbricens. C 2v … D.Prb 14»; para 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; para 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; para 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 21 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-a`) · `python3 tools/packet.py deh-jose-de-almeida-ii` · `python3 tools/packet.py deh-jose-de-almeida-ii` · prova indireta (fonte da data)
   - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
@@ -123,6 +123,7 @@ O fólio que Dehergne cita para a data de 1673 (Lus. 46, 196v — catálogo de 1
 
 - [[0 Portugal no entry]]
 - [[deh-jose-de-almeida-ii]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

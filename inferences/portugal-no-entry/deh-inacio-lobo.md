@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -146,11 +146,11 @@ Procurou-se «Inacio Lobo», «Inácio Lobo», «Ignacio Lobo», «Lobo», «Lop
   - Notícia n.º 67: «N. — E. —» em branco; só diz que era de Coimbra e que fizera todos os estudos e ensinara gramática quatro anos antes de vir para a China. Nenhum lugar de entrada.
 - *Catálogo trienal da província de Portugal, 1625* (doc 28), pp. 1-28 — edited (`jesuit-cat1`) · `pha page 28 5 --edited` · prova contrária
   - prova negativa: a transcrição integral do catálogo de 1625 não contém nenhum «Lobo»/«Lopo»/«Lobbo» (busca sobre o texto completo do doc 28); o único Lobo aparente é «Villalobos», topónimo de outro homem. Inácio Simões (n.º 508) aparece como sacerdote e mestre em Bragança, com 3 anos de Companhia.
-- ARSI Lus. 44 II, f. 430v (índice alfabético do catálogo de 1625; a imagem `0430v-0431.jpg` mostra os ff. 430v-431) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0430v-0431.jpg"` · prova contrária
+- ARSI Lus. 44 II, f. 430v (índice alfabético do catálogo de 1625; a imagem `0430v-0431.jpg` mostra os ff. 430v-431) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0430v-0431.jpg"` · prova contrária
   - prova negativa: nas letras B-E-F-G do índice do catálogo de 1625 não há nenhum Lobo/Lopo (o índice é alfabético por nome próprio, com a página e o número de cada verbete).
-- ARSI Lus. 44 II, f. 535v-536 (catálogo da província de Portugal, Abril de 1636, «Casa de Provação», n.os 130-149; imagem `0535v-0536.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg"` · prova contrária
+- ARSI Lus. 44 II, f. 535v-536 (catálogo da província de Portugal, Abril de 1636, «Casa de Provação», n.os 130-149; imagem `0535v-0536.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg"` · prova contrária
   - prova negativa: a lista integral dos noviços da Casa de Provação de Lisboa em Abril de 1636 (de 9 meses a um ano de noviciado) não contém nenhum Lobo; uma reentrada em 1635 deveria aí figurar.
-- ARSI Lus. 44 II, f. 536 (mesmo catálogo de 1636, «Collegio do Seminario dos Hibernios», n.º 154: «Ir. Ant.º Lobo N.al da cidade de Braga de idade 20 annos … da Comp.ª vai pª tres annos, he Coadjutor temporal»; imagem `0535v-0536.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg"` · prova contexto
+- ARSI Lus. 44 II, f. 536 (mesmo catálogo de 1636, «Collegio do Seminario dos Hibernios», n.º 154: «Ir. Ant.º Lobo N.al da cidade de Braga de idade 20 annos … da Comp.ª vai pª tres annos, he Coadjutor temporal»; imagem `0535v-0536.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg"` · prova contexto
   - o único Lobo do catálogo de 1636 naquele passo é António Lobo, natural de Braga, coadjutor temporal — homónimo que não deve ser confundido com Inácio Lobo.
 - Franco, *Imagem da virtude… Coimbra* I (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · prova indireta
   - entre 1619 e 1630 o único noviciado da província era o do Monte Olivete, em Lisboa: se a entrada de 1624 se deu em Portugal, o lugar não podia ser Coimbra.
@@ -161,6 +161,7 @@ Procurou-se «Inacio Lobo», «Inácio Lobo», «Ignacio Lobo», «Lobo», «Lop
 - [[deh-inacio-lobo]]
 - [[Coimbra Entry Changes]]
 - [[Jesuitas - Portugal - 1619-1630 - Noviciado Monte do Olivete]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 - **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
 

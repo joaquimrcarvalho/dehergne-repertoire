@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra) — atribuição provisória
 entry_date: 1637 (Pfister/Dehergne) ou 1638 (o catálogo de 1645 dá-lhe «Societ. 7»)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -73,7 +73,7 @@ Gonçalo de Oliveira, com o nome chinês Lin Kong-sa, nasceu em 1619 (ou em 1623
 
 A entrada está em f. 646, n.º 484, numa série de irmãos («Fr.»). Lendo para trás, o cabeçalho de casa mais próximo é «**Collegium Conimbricense**» no alto de f. 643v (n.º 401); entre esse fólio e f. 646 (ff. 643v-644, 644v-645, 645v-646) não aparece outro cabeçalho.
 
-— ARSI Lus. 44 II, f. 646, n.º 484; f. 643v (cabeçalho) — imagens `0645v-0646.jpg`, `0643v-0644.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0643v-0644.jpg"`
+— ARSI Lus. 44 II, f. 646, n.º 484; f. 643v (cabeçalho) — imagens `0645v-0646.jpg`, `0643v-0644.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0643v-0644.jpg"`
 
 **Ressalva:** o catálogo é uma lista de residência; com 7 anos de Companhia, a casa de 1645 não é necessariamente a do noviciado. A atribuição fica, por isso, em confiança baixa.
 
@@ -101,9 +101,9 @@ Fica a ressalva: o catálogo de 1645 é uma lista de residência, a lista é de 
 
 ## 5. Evidência
 
-- ARSI Lus. 44 II, f. 643v, n.º 401 — cabeçalho «Collegium Conimbricense»; sem outro cabeçalho entre f. 643v e f. 646 · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0643v-0644.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0645v-0646.jpg"` · prova indireta
+- ARSI Lus. 44 II, f. 643v, n.º 401 — cabeçalho «Collegium Conimbricense»; sem outro cabeçalho entre f. 643v e f. 646 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0643v-0644.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0645v-0646.jpg"` · prova indireta
   - situa o n.º 484 (f. 646) na secção de Coimbra — atribuição provisória
-- ARSI, *Lus. 44 II*, f. 646, n.º 484 (catálogo primeiro da província de Portugal, 1645; o catálogo abre no f. 630) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0645v-0646.jpg"` · prova direta
+- ARSI, *Lus. 44 II*, f. 646, n.º 484 (catálogo primeiro da província de Portugal, 1645; o catálogo abre no f. 630) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0645v-0646.jpg"` · prova direta
   - «484. Fr. Gundisalus de Oliv.ra natus [Ovar?] Duc. Ulixb. an. 22. Societ. 7. viribus mediocr.» — natural da diocese de Lisboa, 22 anos e 7 anos de Companhia em 1645 (nascimento c. 1623, entrada c. 1638), numa lista de irmãos que não nomeia a casa nem o lugar de entrada
 - Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · `pha page 54 25 --edited` · prova inferencia
   - em 1619 os noviciados de Coimbra e Évora foram extintos, com todos os noviços reunidos no Monte Olivete de Lisboa; em 1630 voltaram noviços «pera os dous Collegios» — em 1637-1638 o noviciado era em Coimbra ou em Évora

@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação / Monte Olivete, Cotovia)
 entry_date: 1704-11-09
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -121,9 +121,9 @@ Não existe no pha nenhum catálogo da província de Portugal do século XVIII (
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 86, n.º 526 (catálogo de 1705, «Domus Probationis Ulyssiponensis», «Novitii Secundi anni») — imagem `LUS. 47/086.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg"` · prova direta
+- ARSI, *Lusitania* 47, f. 86, n.º 526 (catálogo de 1705, «Domus Probationis Ulyssiponensis», «Novitii Secundi anni») — imagem `LUS. 47/086.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg"` · prova direta
   - «Fr. Dominicus Pinheiro ex oppido Loures, Dioec. Ulyssiponen., natus an. 688, ingressus Societ. 9. Novemb. an. 704» — noviço da Casa de Provação de Lisboa, entrada a 9 de Novembro de 1704
-- ARSI, *Lusitania* 47, f. 133, n.º 340 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg"` · prova direta quanto à data; indirecta quanto ao lugar
+- ARSI, *Lusitania* 47, f. 133, n.º 340 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg"` · prova direta quanto à data; indirecta quanto ao lugar
   - reproduz a data exacta da entrada (9 de Novembro de 1704) e a naturalidade (Loures, diocese de Lisboa); é a folha citada por Dehergne, mas é uma lista de residência, não de noviciado
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 242, n.º 638 « Pinheiro (Pinheyro), Domingos (port.) » — edited (`french-ocr`) · `pha page 65 242 --edited` · `pha page 65 242 --edited` · prova indireta (fonte da data)
   - «N. Loures, dioc. de Lisbonne, 21 mars 1688, et E. 9 nov. 1704 (Lus. 47, 133., JS 134, 435)» — notícia-base, com o lugar de entrada em branco
@@ -133,6 +133,7 @@ Não existe no pha nenhum catálogo da província de Portugal do século XVIII (
 - [[0 Portugal no entry]]
 - [[deh-domingos-pinheiro]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

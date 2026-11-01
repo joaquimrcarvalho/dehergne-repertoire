@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação / noviciado)
 entry_date: 1635 (princípios; em Abril de 1636 contava «hum anno de noviciado») — Dehergne: E. 1635
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -86,9 +86,9 @@ O pha não contém os códices ARSI Lus. 44 II (nem Lus. 43, 45, 47, etc.) nem q
 
 ## 5. Evidência
 
-- ARSI, *Lusitania 44 II*, f. 536r — catálogo trienal da província de Portugal, I catálogo, Abril de 1636, secção «Casa da Provação», n. 147: «Fr. Miguel Barbosa N.al de Braga de 15 annos, boas forças, tem hum anno de noviciado, estuda Retorica» (manuscrito; documento ausente do pha, citação por fólio e ficheiro de imagem) · `open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg'` · prova direta
+- ARSI, *Lusitania 44 II*, f. 536r — catálogo trienal da província de Portugal, I catálogo, Abril de 1636, secção «Casa da Provação», n. 147: «Fr. Miguel Barbosa N.al de Braga de 15 annos, boas forças, tem hum anno de noviciado, estuda Retorica» (manuscrito; documento ausente do pha, citação por fólio e ficheiro de imagem) · `open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg'` · prova direta
   - prova directa: era noviço da Casa de Provação de Lisboa com um ano de noviciado em Abril de 1636 ⇒ entrada em 1635 no noviciado de Lisboa
-- ARSI, *Lusitania 44 II*, f. 584r — catálogo trienal de 1639, «Collegio de Coimbra», irmãos estudantes (n. 420/421): «Fr. Miguel Barbosa de Braga … 19 annos … 3 annos da Companhia … humanista, boas forças» (manuscrito; documento ausente do pha) · `open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0583v-0584.jpg'` · prova indireta
+- ARSI, *Lusitania 44 II*, f. 584r — catálogo trienal de 1639, «Collegio de Coimbra», irmãos estudantes (n. 420/421): «Fr. Miguel Barbosa de Braga … 19 annos … 3 annos da Companhia … humanista, boas forças» (manuscrito; documento ausente do pha) · `open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0583v-0584.jpg'` · prova indireta
   - situa-o em Coimbra em 1639 com 3 anos de Companhia — residência de estudo posterior ao noviciado, coerente com entrada em 1635; NÃO é lugar de entrada
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 62, s.v. «Barbosa, Miguel» — edited: «N. Braga 1620 - E. 1635 (Lus. 44 II, 616). Emb. le 30 mars 1643 (W 917). Pf. 264…» · `pha page 65 62 --edited` (página lida) · `pha page 65 62 --edited` · prova indireta forte
   - dá o ano de entrada (1635) e remete para Lus. 44 II, 616, a série onde estão as listas de noviciado/provação
@@ -99,6 +99,7 @@ O pha não contém os códices ARSI Lus. 44 II (nem Lus. 43, 45, 47, etc.) nem q
 
 - [[0 Portugal no entry]]
 - [[deh-miguel-barbosa]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

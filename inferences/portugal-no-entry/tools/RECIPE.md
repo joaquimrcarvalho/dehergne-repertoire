@@ -107,13 +107,27 @@ PY
 
 ## 2 bis. As digitalizações do ARSI (Lusitania) estão em disco — usar SEMPRE
 
+> [!important] Os catálogos digitais estão agora no **SSD externo «ARSI»**
+> (volume montado em `/Volumes/ARSI`). O caminho de trabalho — o que deve ir nas
+> citações e no campo `comando` dos JSON (`open "…"`) — é
+> **`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`**. A cópia antiga em iCloud
+> (`~/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/`)
+> ainda existe, mas já não é a cópia de referência: não citar por ela.
+> No SSD **não é preciso «aquecer» imagens** (não há paginação iCloud). Se
+> `/Volumes/ARSI` não estiver montado, **montar o disco antes de ler** — a
+> ausência do volume não é prova de que o fólio não existe.
+> A pasta traz `index.html` + `indexes/` (índice completo dos 274 catálogos:
+> `INDICE-cronologico`, `INDICE-sistematico-por-volume`, `catalogos/`, `_data/`),
+> que é a versão mais recente do índice — substitui a vista antiga em
+> `catalogos/` da cópia iCloud.
+
 O arquivo pha **não tem** os códices ARSI *Lus*. 39/42-47 que o Dehergne cita
 (`Lus. 43`, `Lus. 44 I/II`, `Lus. 45`, `Lus. 47`) nem qualquer catálogo
 português posterior a 1625. Mas o investigador tem as **digitalizações de
 trabalho** em:
 
 ```
-/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/
+/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/
 ├── LUS. 39/                 (289 imgs, fólios 0-143v) — catálogos breves 1579-1608
 ├── LUS. 42 nova aquisição/  (47 imgs)
 ├── LUS. 43 II a/            (234 imgs, ff. 270-385v)
@@ -138,7 +152,7 @@ Citações destes fólios fazem-se assim:
 ARSI Lus. 44 II, f. 315v (imagem LUS. 44 II/315v.jpg) — leitura direta da imagem
 ```
 
-e o campo `comando` fica `open "/Users/jrc/Documents/.../LUS. 44 II/315v.jpg"`.
+e o campo `comando` fica `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg"`.
 Indicar sempre no JSON que a prova é **manuscrito ARSI lido em imagem** (não
 `pha page`), para que a citação seja honesta.
 
@@ -158,7 +172,8 @@ naturalidade/diocese, os pais, o baptismo e, sobretudo:
 
 > «Entrou no Noviciado de **Coimbra** / **Évora** / **Lx.ª** … aos <dia> de <mês> de <ano>»
 
-Cópia local (imagens descarregadas):
+Cópia local (imagens descarregadas) — **já não existe em `results/_scratch/`
+(limpeza de 2026-11): re-descarregar** com a skill `bnp-digital-download`:
 `results/_scratch/bnp47525/hires_NNNNNN.jpg`. Calibração verificada:
 **página N (número impresso no canto superior direito) = imagem N+10**
 (a p. 1 = imagem 11; a imagem 351 = p. 172). O registo está ordenado por data
@@ -172,7 +187,7 @@ Citação: `BNP, Pombalina 231, «Catalogo dos Sogeitos…», p. <N> (imagem hir
 
 > [!warning] «Não está no pha» ≠ «não existe»
 > Os códices Lus. 43‑47 **não** estão no arquivo pha, mas as digitalizações de trabalho
-> em `v2-2025-01-19/` estão **completas** (Lus. 44 I ff. 0‑298; Lus. 44 II ff. 0‑655;
+> em `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/` estão **completas** (Lus. 44 I ff. 0‑298; Lus. 44 II ff. 0‑655;
 > Lus. 45 ff. 0‑487v; Lus. 46 ff. 0‑376), excepto o **Lus. 47, ff. 253‑349** e o
 > **Lus. 48** (inexistente). Antes de escrever «fólio não existe», verificar a pasta —
 > e confirmar a correspondência imagem↔fólio no pé da página.

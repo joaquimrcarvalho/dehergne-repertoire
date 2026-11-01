@@ -21,19 +21,19 @@
  "evidencias": [
   {
    "citacao": "ARSI, *Lus. 44 II*, catálogo primeiro de 1628, pp. 16-17 (ff. 448v-449) — secções «Irmãos Coadjutores do Colégio» (n.º 110) e «Irmãos Noviços» (n.º 115-139): são os noviços entrados em 1627-1628 (10-16 meses de Companhia); não consta entre eles",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0448v-0449.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0448v-0449.jpg\"",
    "o_que_prova": "verificação: o catálogo de 1628 não o tem entre os noviços (coerente com a entrada de 1624, quatro anos antes); os «Antonio Roiz» do índice nessas páginas são noviços homónimos, não ele",
    "forca": "negativa"
   },
   {
    "citacao": "ARSI, *Lus. 44 II*, f. 492, n.º 193 (catálogo primeiro da província de Portugal, Maio de 1633), secção do Colégio de Coimbra — manuscrito ARSI lido directamente na imagem digitalizada",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0491v-0492.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0491v-0492.jpg\"",
    "o_que_prova": "«P. António Roiz/Rodrigues da Covilhã, Bispado da Guarda: 32 annos de idade, 8 da Comp.ª (...) he Theologo, mestre em artes: leo Latim 4 annos» — confirma o nascimento de 1601 e dá entrada c. 1625; situa-o no Colégio de Coimbra em 1633, sem indicar o lugar do noviciado",
    "forca": "direta"
   },
   {
    "citacao": "ARSI, *Lus. 44 II*, f. 490v (título «Colégio de Coimbra» e primeiros padres da casa, n.os 162-178, no mesmo catálogo de 1633) — manuscrito ARSI lido directamente na imagem digitalizada",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0490v-0491.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0490v-0491.jpg\"",
    "o_que_prova": "prova que o fólio 492 (n.º 193) está dentro da secção do Colégio de Coimbra do catálogo de 1633 — ou seja, que a casa aí indicada é Coimbra, residência e não noviciado",
    "forca": "contexto"
   },
@@ -45,7 +45,7 @@
   },
   {
    "citacao": "ARSI, *Lus. 44 II*, f. 416 (catálogo da província de 1625, que abre no f. 410), secção «Irmãos Coadjutores e Noviços» (n.os 163-173) — manuscrito ARSI lido directamente na imagem digitalizada",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/416.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/416.jpg\"",
    "o_que_prova": "em 1625 os noviços da província (entrados entre 1623 e 1625) estão na casa de Lisboa que precede o Seminário dos Irlandeses e o Colégio de Coimbra; António Rodrigues não consta da lista, o que concorda com uma entrada em 1625 posterior ao catálogo",
    "forca": "contexto"
   },

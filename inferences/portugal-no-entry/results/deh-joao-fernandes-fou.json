@@ -25,31 +25,31 @@
   "evidencias": [
     {
       "citacao": "ARSI, Lus. 45, f. 394 (catálogo de 1672 — fim da lista da casa anterior («Collegium Conimbricense» começa no mesmo fólio, no n.º 46)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/394.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/394.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/394.jpg\"",
       "o_que_prova": "«Fr. Ignatius Pereira ex Insula vulgo Madeira, an. 32, Societ. 9» — natural da Madeira, 32 anos e 9 anos de Companhia em 1672 ⇒ entrada em 1663; é o registo que o Dehergne cita, mas com outro nome",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 322v (catálogo de 1665 — «Domus Probationis Vlyssiponensis», lista «Novitij» (ingressos de 1662-1665)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/322v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/322v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/322v.jpg\"",
       "o_que_prova": "sete entradas datadas (Didacus Marques 4 Out. 1665; Nuno Correa 2 Dez. 1664; Lourenço de Matos 15 Out. 1663; Emanuel Alves 20 Dez. 1663; João de Matos 15 Fev. 1662; Sebastião Lobo 25 Set. 1663; Emanuel Marques 24 Maio 1664): nenhuma é Fernandes/Pereira da Madeira",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 323 (catálogo de 1665 — continuação da lista «Novitij» da Casa de Provação de Lisboa (n.º 406-422)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/323.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/323.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/323.jpg\"",
       "o_que_prova": "mais dezassete entradas datadas (1662-1664), entre as quais vários irmãos coadjutores temporais; nenhum Fernandes/Pereira da Madeira",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 315v (catálogo de 1665 — «SS. Seminarii Maranhonis», lista «Novitij Scholastici») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/315v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/315v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/315v.jpg\"",
       "o_que_prova": "noviços escolásticos do Seminário do Maranhão com ingressos de 1663-1664 (Marcelo de Faria, Dâmaso Esgueira, Inácio Emanuel, José …, Emanuel de Lima, Tomé Pereira, etc.); não inclui Fou",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 326 (catálogo de 1665 — «Collegium Funcalense» (Funchal)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/326.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/326.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/326.jpg\"",
       "o_que_prova": "a lista do colégio da Madeira em 1665 não tem nenhum noviço nem nenhum Fernandes/Pereira de 1663: só padres e irmãos antigos",
       "forca": "negativa"
     },

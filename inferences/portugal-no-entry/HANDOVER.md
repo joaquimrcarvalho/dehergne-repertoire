@@ -5,10 +5,10 @@
 ## TL;DR
 
 - **Tarefa:** determinar o **lugar de entrada na Companhia** (atributo Timelink `jesuita-entrada`) dos **110 missionários portugueses da China** a quem o Dehergne deixa `E. <ano>` **sem lugar**.
-- **Estado:** **110 tratados — 37 confiança alta · 33 média · 10 baixa · 30 não determinados.**
+- **Estado:** **110 tratados — 37 confiança alta · 34 média · 10 baixa · 29 não determinados** (2026‑11‑01).
 - **Fonte de verdade:** esta pasta — `results/<id>.json` (uma ficha por pessoa), 110 notas `deh-<id>.md` geradas a partir delas, `tools/` (pipeline) e `Índice - Portugal no entry.md` (gerado).
 - **Cópia de leitura:** vault `04 Biographies/dehergne/portugal_noentry/` — **gerada** por `tools/vault_copy.py`; não editar à mão lá.
-- **Próximo passo:** atacar os **30 em aberto** pela ordem da tabela §7 (começar por **1649 T1** — João de Abreu / João Couceiro; depois **1651/1654** — Diogo de Sotomaior / Manuel Pinto II; **1678 T1** — André da Costa / António Simões; etc.).
+- **Próximo passo:** continuar a tabela §7 pelos **29 em aberto** — o par de 1649 já foi revisto (Couceiro fechado; Abreu em aberto), segue-se **1651/1654** — Diogo de Sotomaior / Manuel Pinto II; depois **1678 T1** — André da Costa / António Simões; etc.
 
 ## 1. Contexto
 
@@ -26,8 +26,8 @@ Casas de formação mais frequentes: **Coimbra** (Real Colégio de Jesus / novic
 | Cópia no vault | `~/jrc-notes/04 Biographies/dehergne/portugal_noentry/` (114 ficheiros; front matter `source_note`/`source_repo`/`copied`; comandos `pha page` convertidos em links vivos) |
 | Tabela de trabalho (bandeiras 🟢/🟡/🔴) | vault `04 Biographies/dehergne/portugal_noentry/0 Portugal no entry.md` |
 | Nota de tarefa do quadro | vault `01 Notes/Portugal-no-entry.md` (com `status`/`next`/`log`; aparece em [[Agents - tasks - ongoing]]) |
-| Relatório de fólios em falta | vault `01 Notes/ARSI Lusitania - fólios em falta - Portugal no entry.md`; cópia canónica em `~/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/INDICE-folios-em-falta-Portugal-no-entry.md` |
-| Digitalizações ARSI (iCloud) | `~/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/` — índice cronológico em `INDICE-cronologico.md` (270 catálogos, 1548‑1795, com tipo/volume/fólios) |
+| Relatório de fólios em falta | vault `01 Notes/ARSI Lusitania - fólios em falta - Portugal no entry.md`; cópia canónica em `/Volumes/ARSI/ARSI Lusitania/INDICE-folios-em-falta-Portugal-no-entry.md` |
+| Digitalizações ARSI (**SSD externo «ARSI»**, antes iCloud) | `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/` — índice em `indexes/INDICE-cronologico.md` (274 catálogos, 1548‑1795, com tipo/volume/fólios); cópia antiga em `~/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/` (não é a de referência) |
 | pha (arquivo digital) | `~/jesuit-archive`; viewer `http://127.0.0.1:8765/doc/<slug>/p<NNN>` (página com 3 dígitos) |
 
 ⚠️ **O directório `~/mhk-home/sources/dehergne` é hoje um stub** (só `extras/ARSI-catalogs-indexes`). O repositório vivo é **este**: `~/develop/dehergne-repertoire-mbook-air` (git, branch `main`); existe um gémeo em `~/develop/dehergne-repertoire`.
@@ -66,13 +66,15 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 
 ## 6. Armadilhas conhecidas (não repetir)
 
-- **«Não está no pha» ≠ «não existe».** Os catálogos ARSI estão em disco (iCloud), fora do pha. Foi este erro que gerou o relatório de fólios errado (Lus. 44 II ff. 350‑440 existem).
-- **iCloud:** as imagens podem estar «paginadas»; aquecer antes de ler com `cat "<ficheiro>" > /dev/null` (o `brctl` não corre no sandbox). Depois a leitura é rápida.
+- **«Não está no pha» ≠ «não existe».** Os catálogos ARSI estão em disco (SSD «ARSI», `/Volumes/ARSI`), fora do pha. Foi este erro que gerou o relatório de fólios errado (Lus. 44 II ff. 350‑440 existem).
+- **SSD «ARSI»:** desde 2026‑11 as digitalizações estão no **SSD externo «ARSI»** — `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`. **Não há paginação iCloud, logo não é preciso aquecer as imagens.** Se o volume não estiver montado, **montá‑lo** antes de ler: a ausência do volume não é prova de que o fólio não existe. A cópia antiga em iCloud ainda existe (mesmos nomes de ficheiro), mas já não se cita por ela; os `comando` dos JSON foram migrados para o caminho do SSD.
+- **iCloud (legado):** nas cópias antigas as imagens podiam estar «paginadas»; aquecer com `cat "<ficheiro>" > /dev/null`. Só relevante se se voltar a ler a cópia iCloud.
 - **Lus. 41** = *Catalogus Assistentiae* de **1768** (422 imagens, +41a/+41b): dá a data de entrada e a residência 30+ anos depois — **não** a casa do noviciado.
 - **pha doc 157** = registo impresso 1711‑1758, mas **só A‑E** (n.os 1‑351). O F‑J impresso não está no pha; o M‑Z não existe nos scans; a única cópia completa é o **BNP Pombalina 231** (<https://purl.pt/47525>), a que **falta o f. 106v** (maio de 1734).
 - **Cabeçalhos:** «Collegium Conimbricense» ≠ «Missio Conimbricense» (Lus. 47 f. 120) — **ampliar e confirmar** o cabeçalho antes de o transcrever.
 - **Numeração:** a imagem, o fólio impresso e o fólio antigo divergem (ex.: imagem `419.jpg` = f. 419v actual = f. 219v antigo = p. 420 impressa). Confirmar sempre pelo número impresso na página.
 - **Notas `catalogos/*.md` do projecto**: só **duas** têm transcrição nominal (1617 e 1566); as restantes são galerias de imagens.
+- **Índices dactilografados por volume** (`LUS. NN/000i1.jpg`, `000i2.jpg`, `000i3.jpg`): são o **primeiro instrumento de localização** — dão, para cada catálogo, as casas e os fólios (ex.: Lus. 45 `000i1` = Lusitana 1649‑1676; `000i3` = Transstagana 1651‑1661). Mapeiam as casas onde estão os noviços (ex.: 1649: Domus Probationis de Lisboa f. 20; Colégio de Coimbra f. 10, com «Novitii» no fim) e evitam varrer fólios às cegas.
 - **T6 enganadores:** o «T6» de 1678 (Lus. 46 f. 22) é o *Supplementa* com os «Excierunt» (saídas), não entrantes; o «T6» de 1700 (Lus. 47 f. 1) é o *Catalogus Missionariorum* 1696‑1700 (partidas para a Índia).
 - **O «T1 1651» (Lus. 45 ff. 57‑64v) é o caderno trans‑tagano** («Pro Domo & Collegiis Transtaganis»), não a província inteira.
 - **Erros já corrigidos (não reverter):** doc 28 p. 20 (Luís da Gama → «Luiz da Gama … Évora»); Zuzarte (Abrantes/Guarda em 1636, «de Lx.ª» em 1639, Loures em Dehergne); «Missio» → «Collegium» em Lus. 47 f. 120; Lus. 41 disponível; ff. 350‑440 do Lus. 44 II existem.
@@ -85,8 +87,8 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 | 1630 | Manoel Soares | 1633 T1 | a ler |
 | 1635 | Luís de Moura | 1636 T1 | a ler |
 | 1647 | Manuel Carvalho I | 1649 T1 | a ler |
-| 1648 | João de Abreu | 1651 trans‑tagano | **lido**: Lus. 45 f. 61v n.º 99 — estudante de filosofia, 2,5 anos; residência |
-| 1649 | João Couceiro | cote *Lus. 45, 180* (caderno de 1655) | não localizado no f. 180; ver f. 179‑181 e variantes Couceiro/Couceyro/Coceiro |
+| 1648 | João de Abreu | 1651 trans‑tagano | **lido e qualificado (2026‑11‑01)**: Lus. 45 f. 61v n.º 99 = «Philosophia primi anni» do **Colégio de Évora**, 17 anos e 2,5 de Companhia ⇒ residência, não noviciado. **Não consta** dos noviciados de 1649 (Lisboa ff. 20v‑21v; Coimbra ff. 12v‑13) ⇒ entrada provavelmente em **1649**, não 1648; lugar **em aberto** |
+| 1649 | João Couceiro | cote *Lus. 45, 180* (caderno de 1655) | **fechado (2026‑11‑01)**: f. 180 n.º 111 do «Catalogus primus Collegii Conimbricensis 1655» — 22 anos, 6 de Companhia, 2.º ano de filosofia ⇒ entrada 1649 confirmada; **Coimbra (inferido), média**; Lisboa não excluída |
 | 1651 | Diogo de Sotomaior | 1654/1655 T1 | a ler (o «1651 T1» é trans‑tagano) |
 | 1652 | Manuel Pinto II | 1654 T1/T4 | a ler |
 | 1663 | João Fernandes Fou | 1665 T1 | a ler |
@@ -130,12 +132,13 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 - **2026-10-23** — índice cronológico dos 270 catálogos; lista dos casos com «look‑back»; verificações Caetano Lopes, Zuzarte (1636/1639), Lucas Correa (1633, f. 490v).
 - **2026-10-24/25** — Inácio da Costa = Inácio Nunes (1625 f. 419v n.º 288) ⇒ Lisboa (Monte Olivete); Lucas Correa revisto para Lisboa; estado fixado em 37/33/10/30.
 - **2026-11-01** — nota de tarefa preenchida e movida para `01 Notes`; este handover criado.
+- **2026-11-01 (2.ª sessão)** — pasta `inferences/portugal-no-entry/` retirada do `.gitignore` e versionada (commit inicial, 312 ficheiros); **digitalizações ARSI migradas para o SSD externo «ARSI»** (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`) — caminhos dos JSON e documentação actualizados. Primeiros dois casos do §7 revistos: **Couceiro** fechado por inferência (Coimbra, média; cote f. 180 n.º 111 localizado) e **Abreu** qualificado (f. 61v = Évora 1651, residência; ausente dos noviciados de 1649 ⇒ entrada provavelmente 1649, lugar em aberto). Estado: 37 alta · 34 média · 10 baixa · 29 não determinados.
 
 ## 10. Ligações úteis
 
 - Viewer pha: `http://127.0.0.1:8765/doc/<slug>/p<NNN>`; exemplos: Dehergne `reference-works-joseph-dehergne-1973-repertoire-des-jesuites-de-chine-de-1542-a-1800`, Wicki `reference-works-wicki-liste-jesuiten-indienfahrer-1967`, Pfister `pfister-notices-notices-biographiques-et-bibliographiques-sur-pfister-louis-t1` (e `-t2`), François `franco-imagens-franco-imagem-virtude-coimbra-1719-v1`, catálogo 1625 `jesuit-catalogues-jesuit-cat-type1-portugal-1625-t1-lus-44ii-410`.
 - BNP Pombalina 231: <https://purl.pt/47525>.
-- Índice cronológico dos catálogos: `.../v2-2025-01-19/INDICE-cronologico.md` (e `.html`).
+- Índice cronológico dos catálogos: `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/indexes/INDICE-cronologico.md` (e `.html`).
 - Nota de tarefa: `01 Notes/Portugal-no-entry.md` (quadro de tarefas).
 - Relatório de fólios: `01 Notes/ARSI Lusitania - fólios em falta - Portugal no entry.md`.
 - Nota de método: `Determining college or noviciate from catalog reference 2026-10-19.md`.

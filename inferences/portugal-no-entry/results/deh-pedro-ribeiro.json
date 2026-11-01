@@ -11,11 +11,11 @@
   "analise": [
     {
       "titulo": "A prova manuscrita de 1588: Casa de Coimbra",
-      "texto": "O suplemento do catálogo comum da província de Portugal, feito a 1 de Janeiro de 1588, está digitalizado como «LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf» (ARSI Lus. 39, f. 17). A p. 2 do PDF, na continuação da lista aberta com o título **Casa de Coimbra**, lê-se, com o n.º 13:\n\n> «13. Pero Ribero de Portalegre Ob[is]pado de 21 años, y de los [meses] de la Comp.ª 2 meses, buenas fuerzas, es coadjutor.»\n\n— ARSI Lus. 39, f. 17 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf\"`\n\nDois meses de Companhia a 1 de Janeiro de 1588 colocam a entrada em Novembro de 1587; a naturalidade (Portalegre) e o estatuto de coadjutor coincidem com a notícia de Dehergne (doc 65, p. 256: «N. Portalègre, 1570 -E. 1588 (Lus. 44, 69)»)."
+      "texto": "O suplemento do catálogo comum da província de Portugal, feito a 1 de Janeiro de 1588, está digitalizado como «LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf» (ARSI Lus. 39, f. 17). A p. 2 do PDF, na continuação da lista aberta com o título **Casa de Coimbra**, lê-se, com o n.º 13:\n\n> «13. Pero Ribero de Portalegre Ob[is]pado de 21 años, y de los [meses] de la Comp.ª 2 meses, buenas fuerzas, es coadjutor.»\n\n— ARSI Lus. 39, f. 17 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf\"`\n\nDois meses de Companhia a 1 de Janeiro de 1588 colocam a entrada em Novembro de 1587; a naturalidade (Portalegre) e o estatuto de coadjutor coincidem com a notícia de Dehergne (doc 65, p. 256: «N. Portalègre, 1570 -E. 1588 (Lus. 44, 69)»)."
     },
     {
       "titulo": "Maio de 1590: o mesmo homem, três anos de Companhia",
-      "texto": "No catálogo da província de Portugal «Catalogo Primero … hecho en Mayo de 1590» (ARSI Lus. 44 I, cujo frontispício com o fólio n.º 25 é o «Lus. 44, 25» citado por Dehergne noutros processos), encontra-se no fólio 39:\n\n> «146. H. Pedro Ribeiro de la Ciudad de Portalegre Ob[is]p[ado] … de la Compañía 3 años, exercitose en diversos officios.»\n\n— ARSI Lus. 44 I, f. 39 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg\"`\n\nTrês anos em Maio de 1590 confirmam a entrada em 1587 (e não em 1590, como pretendia a fonte alternativa rejeitada por Dehergne). O bloco de folhas em que esta entrada aparece precede imediatamente o início do «Collegio de Coimbra» (f. 35, imagem `LUS. 44 I/035.jpg`, cabeçalho «Collegio de Coimbra» com as entradas 1-7), o que concorda com a atribuição a Coimbra já dada pelo suplemento de 1588."
+      "texto": "No catálogo da província de Portugal «Catalogo Primero … hecho en Mayo de 1590» (ARSI Lus. 44 I, cujo frontispício com o fólio n.º 25 é o «Lus. 44, 25» citado por Dehergne noutros processos), encontra-se no fólio 39:\n\n> «146. H. Pedro Ribeiro de la Ciudad de Portalegre Ob[is]p[ado] … de la Compañía 3 años, exercitose en diversos officios.»\n\n— ARSI Lus. 44 I, f. 39 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg\"`\n\nTrês anos em Maio de 1590 confirmam a entrada em 1587 (e não em 1590, como pretendia a fonte alternativa rejeitada por Dehergne). O bloco de folhas em que esta entrada aparece precede imediatamente o início do «Collegio de Coimbra» (f. 35, imagem `LUS. 44 I/035.jpg`, cabeçalho «Collegio de Coimbra» com as entradas 1-7), o que concorda com a atribuição a Coimbra já dada pelo suplemento de 1588."
     },
     {
       "titulo": "A sugestão «Santo Antão (1588)» não se confirma",
@@ -25,19 +25,19 @@
   "evidencias": [
     {
       "citacao": "ARSI Lus. 39, f. 17, lista «Casa de Coimbra», n.º 13 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf\"",
       "o_que_prova": "«Pero Ribero de Portalegre … de la Comp.ª 2 meses … es coadjutor» na lista da Casa de Coimbra do suplemento de 1 de Janeiro de 1588 — entrada em Coimbra no final de 1587",
       "forca": "direta"
     },
     {
       "citacao": "ARSI Lus. 44 I, f. 39, n.º 146 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg\"",
       "o_que_prova": "«H. Pedro Ribeiro de la Ciudad de Portalegre … de la Compañía 3 años, exercitose en diversos officios» no catálogo de Maio de 1590 — confirma a entrada em 1587/88 e a casa de Coimbra",
       "forca": "direta"
     },
     {
       "citacao": "ARSI Lus. 44 I, f. 35 (imagem `LUS. 44 I/035.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/035.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/035.jpg\"",
       "o_que_prova": "cabeçalho «Collegio de Coimbra» com as entradas 1-7: fixa a casa do bloco de folhas onde se insere a entrada n.º 146",
       "forca": "indireta forte"
     },

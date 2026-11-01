@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado / Real Colégio de Jesus)
 entry_date: 1636 (Dehergne); catálogo de 1639: «2 annos da Companhia» ⇒ entrada em 1636-1637
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -163,9 +163,9 @@ O pha não possui os códices ARSI Lus. 44 (nem catálogos portugueses posterior
 
 ## 5. Evidência
 
-- ARSI, *Lusitania 44 II*, f. 575r — catálogo trienal de 1639 (I catálogo da província de Portugal), «Collegio de Coimbra», secção «Noviços», n. 288: «Fr. Feliciano Pacheco de Braga, idade 17, da Comp.ª 2, Rhetorico» (manuscrito; documento ausente do pha) · `open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0575v-0576.jpg'` · prova indireta forte
+- ARSI, *Lusitania 44 II*, f. 575r — catálogo trienal de 1639 (I catálogo da província de Portugal), «Collegio de Coimbra», secção «Noviços», n. 288: «Fr. Feliciano Pacheco de Braga, idade 17, da Comp.ª 2, Rhetorico» (manuscrito; documento ausente do pha) · `open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0575v-0576.jpg'` · prova indireta forte
   - prova indirecta forte: era noviço do Colégio de Coimbra com 2 anos de Companhia em 1639 ⇒ entrada em Coimbra c. 1636, ano que Dehergne indica
-- ARSI, *Lusitania 44 II*, f. 580v — catálogo trienal de 1645, «Collegio de Coimbra», estudantes (n. 259-289): «Fr. Feliciano Pacheco de Braga, idade 17, da Comp.ª 2, Rhetorico» (manuscrito; documento ausente do pha) · `open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg'` · prova indireta
+- ARSI, *Lusitania 44 II*, f. 580v — catálogo trienal de 1645, «Collegio de Coimbra», estudantes (n. 259-289): «Fr. Feliciano Pacheco de Braga, idade 17, da Comp.ª 2, Rhetorico» (manuscrito; documento ausente do pha) · `open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg'` · prova indireta
   - confirma que continuava no Colégio de Coimbra (a nota de trabalho que citava «Lus. 44 II, 580» refere-se a este fólio)
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), s.v. «Pacheco, Feliciano», n.º 601 — edited: «Pacheco, Feliciano (port.) P. 601 … N. Braga, 1622 -E. 1636 (Lus. 44 IT [II], 612v). Emb. 30 mars 1643, non prêtre (W 914)…» · `pha page 65 229 --edited` (página lida) · `pha page 65 229 --edited` · prova direta
   - dá o ano de entrada (1636) e a cota Lus. 44 II, 612v, que pertence à mesma série de catálogos (listas de casa com anos de Companhia)
@@ -175,6 +175,7 @@ O pha não possui os códices ARSI Lus. 44 (nem catálogos portugueses posterior
 - [[0 Portugal no entry]]
 - [[deh-feliciano-pacheco]]
 - [[Coimbra Entry Changes]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

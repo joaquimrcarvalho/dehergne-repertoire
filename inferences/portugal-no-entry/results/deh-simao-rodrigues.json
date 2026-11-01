@@ -25,25 +25,25 @@
   "evidencias": [
     {
       "citacao": "ARSI, Lus. 45, f. 319 (catálogo de 1665 — secção «Collegium Eborense», n.º 287) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/319.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/319.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/319.jpg\"",
       "o_que_prova": "«Fr. Simon Roderigus Eborensis: … aetatis 20: soc. 5/6» — Simão Rodrigues, de Évora, 20 anos e 5-6 anos de Companhia em 1665 ⇒ entrada em 1659; era membro do Colégio de Évora",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 316v (catálogo de 1665 — início da secção de Évora (p. interna 16)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/316v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg\"",
       "o_que_prova": "título «Collegium Eborense»: identifica a casa da lista em que aparece o n.º 287",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 297v (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», lista «Novitij» (entradas de 1659-1662)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/297v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg\"",
       "o_que_prova": "lista de noviços da casa de noviciado de Lisboa, com os mais antigos entrados em 1659 («ingressus 2 Jan. 1659», «4 Maij 1659»); não inclui Simão Rodrigues",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 303v (índice alfabético do catálogo transstagano de 1661/62 (letras P-V)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/303v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/303v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/303v.jpg\"",
       "o_que_prova": "o bloco dos Simões (Simon de Almeida, Simon de Moraes, Simon Cachero, …) não tem nenhum «Simon Roderigus»: não era membro daquela província em 1661/62",
       "forca": "negativa"
     },

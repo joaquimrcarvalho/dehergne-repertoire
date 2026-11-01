@@ -8,7 +8,7 @@ entry_place: Lisboa (Domus Probationis Ulyssiponensis — noviciado)
 entry_date: 1689-03-09
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -68,7 +68,7 @@ Bernardo Osório, natural de Carapito, diocese de Viseu (1673), escolar. Entrou 
 
 O catálogo de 1690 está organizado por casas. Em **f. 206** está o cabeçalho «Domus Probationis» (Casa de Provação de Lisboa); as páginas seguintes, ff. 207-208, contêm o registo cronológico dos noviços dessa casa, com «init. Societ.» e a data ao lado de cada nome (por exemplo, n.º 370 «Fr. João Lopez … init. 16 Martii 1688», n.º 376 «Fr. António Rosado … 22 Aprilis 1688»). A cota de Dehergne para este homem (f. 208) cai dentro desse registo, na data de 1689-03-09.
 
-— ARSI Lus. 46, f. 206 (cabeçalho), f. 208 — imagens `205.jpg`, `207.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg"`
+— ARSI Lus. 46, f. 206 (cabeçalho), f. 208 — imagens `205.jpg`, `207.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg"`
 
 ### 4.2 A data de entrada e o que o fólio citado contém
 
@@ -84,21 +84,22 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 ## 5. Evidência
 
-- ARSI Lus. 46, f. 208 — registo de noviços da «Domus Probationis» (catálogo de 1690), data de entrada 1689-03-09 · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg"` · prova direta
+- ARSI Lus. 46, f. 208 — registo de noviços da «Domus Probationis» (catálogo de 1690), data de entrada 1689-03-09 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg"` · prova direta
   - noviço da Casa de Provação de Lisboa, com a data de entrada
-- ARSI Lus. 46, f. 206 — cabeçalho «Domus Probationis» que abre a secção em que o registo de noviços está inserido · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg"` · prova direta
+- ARSI Lus. 46, f. 206 — cabeçalho «Domus Probationis» que abre a secção em que o registo de noviços está inserido · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg"` · prova direta
   - atribui o registo de ff. 207-208 à Casa de Provação de Lisboa
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 599 (doc 65), p. 228 — raw (`dehergne-ocr`) · `pha page 65 228` · prova indireta
   - notícia biográfica: «E. 9 mars 1689 (Lus. 46, 208)» — data e cota, sem lugar
 - António Franco, *Synopsis Annalium Societatis Iesu in Lusitania* (doc 16), p. 405 — raw · `pha page 16 405` · prova contexto
   - «Bernardus Ozorius scholasticus Lusitanus Carapentini» morreu em 1693 — naturalidade e estatuto, sem lugar de entrada
-- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/208.jpg"` · prova contexto
+- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/208.jpg"` · prova contexto
   - o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-bernardo-osorio]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 16** — Franco, António; National Central Library of Rome. Synopsis annalium Societatis Jesu in Lusitania ab anno 1540. usque ad annum 1725. Authore R. P. Antonio Franco Societatis ejusdem sacerdote. (sumptibus Philippi, Martini, & Joannis Veith, hæredum, 1726). (fetched-from-zotero-unverified)
 
 ---

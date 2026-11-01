@@ -1,7 +1,7 @@
 # Lugar de entrada na Companhia — 9 missionários do «Portugal no entry» (entradas 1700-1707)
 
 Prova primária: **ARSI, *Lusitania* 47** («Catalogi triennales Prov. Lus. 1700-1726»), digitalização de trabalho em
-`/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/`
+`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/`
 (nome do ficheiro = fólio). Índice do códice no f. 000v: catálogos de 1700 (ff. 2-54), 1705 (ff. 55-110),
 1711 (ff. 113-166), 1717 (ff. 167-219); **não há catálogo de 1707-1710**.
 

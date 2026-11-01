@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -113,19 +113,19 @@ A confirmação indirecta está nas ausências: em Maio de 1633 o índice do cat
 
 ## 5. Evidência
 
-- ARSI Lus. 44 II, f. 501v (catálogo da província de Portugal de 1633, «Colegio do Porto», n.º 478: «P. Ioam Nunez de Montemor o Velho Bispado de Coimbra, idade 39 annos, da Companhia 24 … he professo de 4 votos»; imagem `0501v-0502.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0501v-0502.jpg"` · prova direta
+- ARSI Lus. 44 II, f. 501v (catálogo da província de Portugal de 1633, «Colegio do Porto», n.º 478: «P. Ioam Nunez de Montemor o Velho Bispado de Coimbra, idade 39 annos, da Companhia 24 … he professo de 4 votos»; imagem `0501v-0502.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0501v-0502.jpg"` · prova direta
   - prova direta da existência e da identificação da hipótese I: 39 anos e 24 de Companhia em 1633 → nascido c. 1594, entrada c. 1609; professo de 4 votos.
-- ARSI Lus. 44 II, f. 589 (catálogo trienal de 1639, «Caza Professa de Villa Viçosa», n.º 545: «P. João Nunes de Montemor o Velho Bp.º de Coimbra idade 45 an. da Comp.ª 30 … professo de 4 votos ha 11 annos, actualmente Prepósito desta caza»; imagem `0588v-0589.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0588v-0589.jpg"` · prova direta
+- ARSI Lus. 44 II, f. 589 (catálogo trienal de 1639, «Caza Professa de Villa Viçosa», n.º 545: «P. João Nunes de Montemor o Velho Bp.º de Coimbra idade 45 an. da Comp.ª 30 … professo de 4 votos ha 11 annos, actualmente Prepósito desta caza»; imagem `0588v-0589.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0588v-0589.jpg"` · prova direta
   - prova direta: 45 anos e 30 de Companhia em 1639 → nascido c. 1594, entrada c. 1609; profissão em 1628 («ha 11 annos»), o mesmo que Dehergne diz. É a cota «Lus. 44 II, 589» da notícia de Dehergne, e mostra que o homem era sacerdote professo e Prepósito — não o embarque de 1640.
-- ARSI Lus. 44 II, f. 539v (catálogo da província de Portugal, Abril de 1636, «Collegio de Coimbra», n.º 259: «Ir. Ioas Nunes N.al de Lx.ª de idade 19. anos E da Comp.ª 4. ouve Logica, boas forças»; imagem `0539v-0540.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0539v-0540.jpg"` · prova direta
+- ARSI Lus. 44 II, f. 539v (catálogo da província de Portugal, Abril de 1636, «Collegio de Coimbra», n.º 259: «Ir. Ioas Nunes N.al de Lx.ª de idade 19. anos E da Comp.ª 4. ouve Logica, boas forças»; imagem `0539v-0540.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0539v-0540.jpg"` · prova direta
   - prova directa da hipótese II: natural de Lisboa, 19 anos e 4 anos de Companhia em Abril de 1636 (nascido c. 1617, entrada c. 1632), escolar não sacerdote, estudando Lógica em Coimbra.
-- ARSI Lus. 44 II, f. 536v (mesmo catálogo de 1636: título «Collegio de Coimbra» e primeiro verbete, «P. M.el Fernandes … n.º 155»; imagem `0536v-0537.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0536v-0537.jpg"` · prova contexto
+- ARSI Lus. 44 II, f. 536v (mesmo catálogo de 1636: título «Collegio de Coimbra» e primeiro verbete, «P. M.el Fernandes … n.º 155»; imagem `0536v-0537.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0536v-0537.jpg"` · prova contexto
   - fixa a casa do n.º 259: a secção do Colégio de Coimbra começa no f. 536v, com o n.º 155, e vai até aos coadjutores (n.os 275 ss.) — logo o n.º 259 pertence ao Colégio de Coimbra.
-- ARSI Lus. 44 I, f. 274v (catálogo de 1611, p. 9, n.º 88: «Ir. João Nunez natural de Elvas, idade 27 annos, da Comp.ª 2 annos, ouvio artes, leo Latim 1 anno e actualmente [estuda] casos»; imagem `274v.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/274v.jpg"` · prova contrária
+- ARSI Lus. 44 I, f. 274v (catálogo de 1611, p. 9, n.º 88: «Ir. João Nunez natural de Elvas, idade 27 annos, da Comp.ª 2 annos, ouvio artes, leo Latim 1 anno e actualmente [estuda] casos»; imagem `274v.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/274v.jpg"` · prova contrária
   - prova contrária / desambiguação: o único João Nunes do catálogo de 1611 é natural de Elvas e tem 27 anos — não é o homem de Montemor-o-Velho (que teria 17 anos), nem o de Lisboa (que nasceria em 1617). O noviciado do nosso homem de 1609 não pode, por isso, ser localizado por este catálogo.
-- ARSI Lus. 44 II, ff. 524v-525 (índice alfabético do catálogo de 1633: «I. Ioam Nunez P.40 n.478» é o único João Nunes; imagem `0524v-0525.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0524v-0525.jpg"` · prova contrária
+- ARSI Lus. 44 II, ff. 524v-525 (índice alfabético do catálogo de 1633: «I. Ioam Nunez P.40 n.478» é o único João Nunes; imagem `0524v-0525.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0524v-0525.jpg"` · prova contrária
   - prova negativa: no catálogo de Maio de 1633 só existe um João Nunes, o P. de Montemor-o-Velho (n.º 478); o escolar de Lisboa não figura nem entre os noviços de Coimbra (n.os 460-477) nem em qualquer outra casa.
-- ARSI Lus. 44 II, ff. 565v-566 e 566v-567 (índice do catálogo de 1639: a letra João só tem «D. João Nunes n.545»; imagens `0565v-0566.jpg` e `0566v-0567.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0566v-0567.jpg"` · prova contrária
+- ARSI Lus. 44 II, ff. 565v-566 e 566v-567 (índice do catálogo de 1639: a letra João só tem «D. João Nunes n.545»; imagens `0565v-0566.jpg` e `0566v-0567.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0566v-0567.jpg"` · prova contrária
   - prova negativa: no catálogo de 1639 só existe um João Nunes, o sacerdote de Vila Viçosa (n.º 545); o escolar de Lisboa já não consta da província — compatível com a partida para as missões.
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 226-227, s.v. «Nunes (Nunez), Joâo», n.º 590 — edited (`french-ocr`) · `pha page 65 226 --edited` · `pha page 65 226 --edited` · prova direta
   - apresenta as duas hipóteses e as cotas: «Nous connaissons un P. Joâo Nunes N. Montemor-o-Velho, d. de Coïmbre, 1594, E. 1609, V. de pr. en 1628 … (Lus. 44 II, 589), et un Joâo Nunes, N. Lisbonne 1617, E. 1631, et qui, en 1639 était scolastique non prêtre (Lus. 44 II, 579)». Os fólios confirmam o primeiro e, para o segundo, dão 1636 em vez de 1639 e a entrada em 1632.
@@ -135,6 +135,7 @@ A confirmação indirecta está nas ausências: em Maio de 1633 o índice do cat
 - [[0 Portugal no entry]]
 - [[deh-joao-nunes]]
 - [[Coimbra Entry Changes]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

@@ -24,8 +24,8 @@
   ],
   "evidencias": [
     {
-      "citacao": "ARSI, *Lus. 39*, fol. 71 (catálogo terceiro da província de Portugal, 1612), lista do Colégio de Coimbra, secção «Irmãos Nouiços»: «Matias de Sousa» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg (a imagem mostra o spread 70v + 71)",
-      "comando": "read_image \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg\"",
+      "citacao": "ARSI, *Lus. 39*, fol. 71 (catálogo terceiro da província de Portugal, 1612), lista do Colégio de Coimbra, secção «Irmãos Nouiços»: «Matias de Sousa» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg (a imagem mostra o spread 70v + 71)",
+      "comando": "read_image \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg\"",
       "o_que_prova": "Matias de Sousa era noviço do Colégio de Coimbra em 1612 — prova do noviciado em Coimbra",
       "forca": "direta"
     },

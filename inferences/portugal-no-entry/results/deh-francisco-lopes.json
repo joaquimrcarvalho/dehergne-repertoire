@@ -11,7 +11,7 @@
   "analise": [
     {
       "titulo": "O catálogo de 1 de Janeiro de 1592 (Lus. 44 I)",
-      "texto": "O frontispício do catálogo lê-se no fólio 65 do códice (imagem `LUS. 44 I/064v.jpg`):\n\n> «Catalogo dos Padres E Irmãos da Provincia de Portugal feito no principio de Janr.º de 1592.»\n\n— ARSI Lus. 44 I, f. 65 (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg\"`\n\nNa sequência das casas, o «Collegio de Coimbra» abre no f. 66v (imagem `LUS. 44 I/066v.jpg`), e a lista dos seus noviços recebidos para estudar fecha no f. 68v (imagem `LUS. 44 I/068v.jpg`): «Noviços recebidos p.ª estudantes», com nomes como Sebastião de Hueles, Jacome Monteiro, Ant.º Simoens / Sebastião Vieira, Juan Godino, Estevan Godino, Jeronymo Peixoto, Jorge de Figueiredo, Fr.º Diaz, Luis Brandão, Ruy Nuaz, Manuel Lz, Diogo Seco, … P. Juan Hernandez, **Fr.º Lop[es]**, Damian Botello, … Gaspar de Azevedo."
+      "texto": "O frontispício do catálogo lê-se no fólio 65 do códice (imagem `LUS. 44 I/064v.jpg`):\n\n> «Catalogo dos Padres E Irmãos da Provincia de Portugal feito no principio de Janr.º de 1592.»\n\n— ARSI Lus. 44 I, f. 65 (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg\"`\n\nNa sequência das casas, o «Collegio de Coimbra» abre no f. 66v (imagem `LUS. 44 I/066v.jpg`), e a lista dos seus noviços recebidos para estudar fecha no f. 68v (imagem `LUS. 44 I/068v.jpg`): «Noviços recebidos p.ª estudantes», com nomes como Sebastião de Hueles, Jacome Monteiro, Ant.º Simoens / Sebastião Vieira, Juan Godino, Estevan Godino, Jeronymo Peixoto, Jorge de Figueiredo, Fr.º Diaz, Luis Brandão, Ruy Nuaz, Manuel Lz, Diogo Seco, … P. Juan Hernandez, **Fr.º Lop[es]**, Damian Botello, … Gaspar de Azevedo."
     },
     {
       "titulo": "A leitura do nome e a cronologia",
@@ -25,25 +25,25 @@
   "evidencias": [
     {
       "citacao": "ARSI Lus. 44 I, f. 65, frontispício: «Catalogo dos Padres E Irmãos da Provincia de Portugal feito no principio de Janr.º de 1592» (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg\"",
       "o_que_prova": "data e identidade do catálogo usado para situar o noviço de 1590 (janeiro de 1592)",
       "forca": "contexto"
     },
     {
       "citacao": "ARSI Lus. 44 I, f. 68v, rubrica «Noviços recebidos p.ª estudantes» (imagem `LUS. 44 I/068v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/068v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/068v.jpg\"",
       "o_que_prova": "na lista de noviços do Colégio de Coimbra figura «Fr.º Lop[es]» — candidato a ser o Francisco Lopes entrado em fevereiro de 1590; a casa do noviciado é Coimbra",
       "forca": "indireta forte"
     },
     {
       "citacao": "ARSI Lus. 44 I, f. 66v, cabeçalho «Collegio de Coimbra» (imagem `LUS. 44 I/066v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/066v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/066v.jpg\"",
       "o_que_prova": "fixa a casa a que pertence a lista de noviços do f. 68v: Colégio de Coimbra",
       "forca": "indireta forte"
     },
     {
       "citacao": "ARSI Lus. 44 I, f. 25, frontispício «Catalogo Primero … hecho en Mayo de 1590» (imagem `LUS. 44 I/025v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/025v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/025v.jpg\"",
       "o_que_prova": "identifica o catálogo de Maio de 1590, cujo fólio 25 é a cota «Lus. 44, 25» de Dehergne; nele não se identificou o nome nas listas de noviços inspecionadas (ff. 39-40)",
       "forca": "indireta"
     },

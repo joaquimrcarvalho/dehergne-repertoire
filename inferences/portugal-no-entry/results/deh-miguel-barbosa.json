@@ -17,13 +17,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania 44 II*, f. 536r — catálogo trienal da província de Portugal, I catálogo, Abril de 1636, secção «Casa da Provação», n. 147: «Fr. Miguel Barbosa N.al de Braga de 15 annos, boas forças, tem hum anno de noviciado, estuda Retorica» (manuscrito; documento ausente do pha, citação por fólio e ficheiro de imagem)",
-      "comando": "open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg'",
+      "comando": "open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0535v-0536.jpg'",
       "o_que_prova": "prova directa: era noviço da Casa de Provação de Lisboa com um ano de noviciado em Abril de 1636 ⇒ entrada em 1635 no noviciado de Lisboa",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania 44 II*, f. 584r — catálogo trienal de 1639, «Collegio de Coimbra», irmãos estudantes (n. 420/421): «Fr. Miguel Barbosa de Braga … 19 annos … 3 annos da Companhia … humanista, boas forças» (manuscrito; documento ausente do pha)",
-      "comando": "open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0583v-0584.jpg'",
+      "comando": "open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0583v-0584.jpg'",
       "o_que_prova": "situa-o em Coimbra em 1639 com 3 anos de Companhia — residência de estudo posterior ao noviciado, coerente com entrada em 1635; NÃO é lugar de entrada",
       "forca": "indireta"
     },

@@ -31,7 +31,7 @@
     },
     {
       "citacao": "ARSI, *Lus. 44 II*, catálogo primeiro de Maio de 1633 (T1), p. 25, n.º 258 (f. 494r): «Ir. Lucas Correa de Lx.ª boas forças: idade 21 annos: da Companhia 5: estuda curso» — imagem `0493v-0494.jpg`, relida a 2026-10-25",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0493v-0494.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0493v-0494.jpg\"",
       "o_que_prova": "21 anos e 5 de Companhia em Maio de 1633 ⇒ entrada em 1628 (como Dehergne); em Coimbra está a estudar, não a entrar — e o «5» (não «3») confirma 1628",
       "forca": "direta"
     },
@@ -49,7 +49,7 @@
     },
     {
       "citacao": "ARSI, *Lus. 44 II*, índice alfabético do catálogo de 1628 (T5A, ff. 467-472): a secção «L» começa em «Luis Lobo», sem nenhum Lucas — imagem `0467v-0468.jpg` a `0472v-0473.jpg`",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0470v-0471.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0470v-0471.jpg\"",
       "o_que_prova": "prova negativa: o catálogo de 1628 é anterior à entrada — não serve para localizar o noviciado, só para datar a entrada depois dele",
       "forca": "indireta"
     },

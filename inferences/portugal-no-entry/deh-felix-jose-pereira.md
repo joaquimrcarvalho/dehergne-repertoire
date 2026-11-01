@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -88,7 +88,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 617 (doc 65), p. 236 — edited (`dehergne-ocr`) · `pha page 65 236 --edited` · prova indireta
   - notícia biográfica: «E. 14 janv. 1690 (Lus. 46, 269v)» — data e cota, sem lugar
-- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/269v.jpg"` · prova contexto
+- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/269v.jpg"` · prova contexto
   - o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 236 — edited · `pha page 65 236 --edited` · prova negativa
   - os índices de nomes da obra (entidades nomeadas) não trazem nenhum lugar de entrada para este religioso
@@ -97,6 +97,8 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-felix-jose-pereira]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

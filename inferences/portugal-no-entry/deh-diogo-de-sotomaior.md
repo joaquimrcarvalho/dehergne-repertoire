@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1651 (Dehergne, citando JS 25, 185v — códice não disponível neste disco)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -104,13 +104,13 @@ Procurei «Diogo de Sotomaior/Sottomayor/Sotomayor/Didacus de Sotomaior» em tod
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 302 (índice alfabético do catálogo transstagano de 1661/62, bloco D) — manuscrito ARSI lido em imagem (LUS. 45/302.jpg) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/302.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 302 (índice alfabético do catálogo transstagano de 1661/62, bloco D) — manuscrito ARSI lido em imagem (LUS. 45/302.jpg) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/302.jpg"` · prova indireta
   - regista «Didac. de Sotomaio[r]» entre os membros indexados, mas sem página nem número — vestígio inutilizável (ele embarcara a 6 de Abril de 1661)
-- ARSI, Lus. 45, f. 56 (índice alfabético do catálogo de 1651 (letras L-V, onde estaria sob D em f. 55)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/56.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/56.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 56 (índice alfabético do catálogo de 1651 (letras L-V, onde estaria sob D em f. 55)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/56.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/56.jpg"` · prova negativa
   - confirma que o índice do catálogo de 1651 cobre as casas transstaganas (Évora, Elvas, Vila Viçosa, Faro, Portalegre, Casa Professa de Lisboa) mas não menciona nenhum Sotomaior
-- ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova negativa
   - dezasseis noviços (entrados entre 1652 e 1654), nenhum Sotomaior: a lista não cobre 1651
-- ARSI, Lus. 45, f. 297v (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», início da lista «Novitij») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/297v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 297v (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», início da lista «Novitij») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/297v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg"` · prova negativa
   - lista de noviços da casa de noviciado de Lisboa com entradas de 1659 em diante; nenhum Sotomaior
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 296 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 296` · prova direta
   - «N. « Transtaganus Vianensis », Viana do Alentejo, 1635 -E. 1651 (JS 25, 185v)»: o problema a resolver e a cota indisponível
@@ -119,6 +119,7 @@ Procurei «Diogo de Sotomaior/Sottomayor/Sotomayor/Didacus de Sotomaior» em tod
 
 - [[0 Portugal no entry]]
 - [[deh-diogo-de-sotomaior]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

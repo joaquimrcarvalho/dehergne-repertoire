@@ -21,19 +21,19 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lus. 47*, f. 126v, n.º 193 (catálogo primeiro da província de Portugal, 1711), secção do Colégio de Coimbra — manuscrito ARSI lido directamente na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/126v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/126v.jpg\"",
       "o_que_prova": "«Fr. Stephanus Lopes ex oppido S. Antonii de Terrugem Dioec. Elven. natus 21 Mart. 1693. ingressus Societ. 21 Martii 1708 (...) Theologiae studet» — confirma a data de entrada (21 Mar. 1708) e a naturalidade; não nomeia o lugar de entrada; em 1711 estava no Colégio de Coimbra, já fora do noviciado",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lus. 47*, f. 143, secção «Novitii» da Casa de Provação de Lisboa (catálogo de 1711; a Casa de Provação ocupa os ff. 142v-143v) — manuscrito ARSI lido directamente na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/143.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/143.jpg\"",
       "o_que_prova": "os noviços da província presentes em 1711 (n.os 583-594) entraram entre Agosto de 1709 e Março de 1710 e encontram-se na Casa de Provação de Lisboa: o noviciado da província era em Lisboa, não em Coimbra",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, *Lus. 47*, f. 120 (início da secção do Colégio de Coimbra no catálogo de 1711, com o título da casa e os primeiros padres) — manuscrito ARSI lido directamente na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg\"",
       "o_que_prova": "o Colégio de Coimbra abre no fólio 120 (nota do vault: Coimbra ff. 120-129), com padres de entrada antiga (1637, 1657, 1662, 1629) e depois os irmãos estudantes entrados em 1707-1708 — é a casa onde Estêvão Lopes estudava, não o noviciado",
       "forca": "contexto"
     },

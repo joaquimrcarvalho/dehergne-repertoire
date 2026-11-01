@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Jesus — noviciado)
 entry_date: 1615-06-13
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -124,11 +124,11 @@ Dehergne não cita fólio para a entrada deste João Cabral — o «Lus. 44 II, 
 
 ## 5. Evidência
 
-- ARSI, *Lus. 39*, catálogo breve da província de Portugal de 1617, secção «Irmãos Nouiços Estudantes» do Colégio de Coimbra (f. 97; a imagem LUS. 39/096.jpg mostra o fólio 96v à esquerda e o fólio 97 à direita) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg"` · prova direta
+- ARSI, *Lus. 39*, catálogo breve da província de Portugal de 1617, secção «Irmãos Nouiços Estudantes» do Colégio de Coimbra (f. 97; a imagem LUS. 39/096.jpg mostra o fólio 96v à esquerda e o fólio 97 à direita) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg"` · prova direta
   - «Ir. João Cabral» entre os 23 Irmãos Noviços Estudantes do Colégio de Coimbra, cerca de 19 meses depois da entrada de 13 de Junho de 1615 — um noviço do noviciado de Coimbra; o mesmo catálogo nomeia «P. Diogo Monteiro mestre do noviços» naquela casa
 - Nota do investigador *1617-T4-LUS-39-95* (vault Obsidian), transcrição integral do catálogo de 1617 com a estrutura das casas e das secções · `open "/Users/jrc/jrc-notes/01 Notes/1617-T4-LUS-39-95.md"` · prova contexto
   - transcreve a secção «Irmãos noviços estudantes» sob o título «Colégio de Coimbra» (com a nota «ir João Cabral (talvez deh-joao-cabral)»), além do «P. Diogo Monteiro mestre do noviços»; é a base da atribuição da lista a Coimbra, já que a página do manuscrito não repete o título da casa
-- ARSI, *Lus. 39*, f. 96v (fim da parte do Colégio de Coimbra e início do «Catalogo dos Padres e Irmãos do Coll.º de Évora», com as «Lentes de Theologia») — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg"` · prova contexto
+- ARSI, *Lus. 39*, f. 96v (fim da parte do Colégio de Coimbra e início do «Catalogo dos Padres e Irmãos do Coll.º de Évora», com as «Lentes de Theologia») — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg"` · prova contexto
   - mostra que o catálogo de 1617 tem, além de Coimbra, a parte de Évora (outro noviciado possível em 1615-1617) — a razão pela qual a atribuição a Coimbra, embora provável, fica em «média»
 - Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · `pha page 54 25 --edited` · prova inferencia
   - em 1619 os noviciados de Coimbra e Évora foram extintos e reunidos no Monte Olivete de Lisboa; logo, em 1615-1617 havia noviciado em Coimbra (e em Évora)

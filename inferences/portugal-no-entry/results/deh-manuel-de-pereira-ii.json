@@ -25,25 +25,25 @@
  "evidencias": [
   {
    "citacao": "ARSI, Lus. 45, f. 181 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 177) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
    "o_que_prova": "«Fr. Emanuel Pereira. Lugar da Cruz. 17. 2.» — natural do Lugar da Cruz, 17 anos e 2 anos de Companhia em 1655 ⇒ entrada ~1653; membro do Colégio de Coimbra",
    "forca": "direta"
   },
   {
    "citacao": "ARSI, Lus. 45, f. 181 (mesmo catálogo, fim da secção de Coimbra (n.º 190-195)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
    "o_que_prova": "lista «Novitii extra ordinem Alphabeti, qui post hunc catalogum confectum ingressi sunt»: os noviços eram inscritos na casa de Coimbra — base da inferência",
    "forca": "indireta"
   },
   {
    "citacao": "ARSI, Lus. 45, f. 177 (início da secção de Coimbra no catálogo de 1655 (p. interna 4)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/177.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg\"",
    "o_que_prova": "«Catalogus primus Collegii Conimbricensis Anno 1655»: identifica a casa da lista em que Pereira aparece",
    "forca": "indireta"
   },
   {
    "citacao": "ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg»)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
    "o_que_prova": "confirma Coimbra como casa de noviciado (dezasseis noviços, 1652-1654); nenhum deles é Pereira",
    "forca": "indireta"
   },

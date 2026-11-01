@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado) — inferência, com Évora e Lisboa como alter
 entry_date: 17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -118,13 +118,13 @@ Não encontrei nenhuma lista de noviços que inclua José Monteiro. Procurei em 
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 319v (catálogo de 1665 — secção «Collegium Eborense» (continuação), n.º 313) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/319v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/319v.jpg"` · prova direta
+- ARSI, Lus. 45, f. 319v (catálogo de 1665 — secção «Collegium Eborense» (continuação), n.º 313) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/319v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/319v.jpg"` · prova direta
   - «Fr. Josephus Monteyro Vlyssiponensis: … aetatis 17: soc. 3» — José Monteiro, de Lisboa, com três anos de Companhia em 1665 (entrada ~1661/62); era membro do Colégio de Évora
-- ARSI, Lus. 45, f. 316v (catálogo de 1665 — início da secção de Évora (p. interna 16)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/316v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 316v (catálogo de 1665 — início da secção de Évora (p. interna 16)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/316v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg"` · prova indireta
   - título «Collegium Eborense»: identifica a casa em que Monteiro aparece em 1665
-- ARSI, Lus. 45, f. 303 (índice alfabético do catálogo transstagano de 1661/62 (letras I-P)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/303.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/303.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 303 (índice alfabético do catálogo transstagano de 1661/62 (letras I-P)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/303.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/303.jpg"` · prova negativa
   - na coluna dos «Joseph» não há nenhum Joseph Monteyro: em 1661/62 não era membro daquela província (que compreendia a Casa de Provação de Lisboa)
-- ARSI, Lus. 45, f. 298 (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», lista «Novitij») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/298.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/298.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 298 (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», lista «Novitij») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/298.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/298.jpg"` · prova negativa
   - noviços da Casa de Provação de Lisboa com «mens. 12-28» (entradas de 1659-1661); nenhum Monteiro
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 217 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 217` · prova direta
   - «N. 9 août 1646, Lisbonne -E. 17 déc. 1661 (Lus. 45, 319v) ou N. 1649, E. 1663 (Lus. 45, 409)» sem lugar: o problema a resolver
@@ -133,6 +133,7 @@ Não encontrei nenhuma lista de noviços que inclua José Monteiro. Procurei em 
 
 - [[0 Portugal no entry]]
 - [[deh-jose-monteiro]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

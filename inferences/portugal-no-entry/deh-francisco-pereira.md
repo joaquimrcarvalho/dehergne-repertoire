@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete) — por inferência, n
 entry_date: 1622
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -115,7 +115,7 @@ Fólios e textos negativos desta passagem: índice alfabético do catálogo de 1
   - «N. Lisbonne, 1607 -E. 1622. Emb. sur le Sacramento, 3 avr. 1629 (W 762), non prêtre» e a nota sobre o homónimo do Porto (E. 1627, Lus. 44 II, 506v).
 - Pfister, *Notices biographiques…* t. I (doc 47), p. 259 — edited (`french-ocr`) · `pha page 47 259 --edited` · prova direta
   - Notícia n.º 76: «N. — E. 1622. — A. 1633. — M. aux Indes» — entrada em 1622, sem lugar.
-- ARSI Lus. 44 II, f. 405v (índice alfabético do catálogo de 1622, secção F; imagem `405v.jpg`) — leitura direta da imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/405v.jpg"` · prova contrária
+- ARSI Lus. 44 II, f. 405v (índice alfabético do catálogo de 1622, secção F; imagem `405v.jpg`) — leitura direta da imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/405v.jpg"` · prova contrária
   - prova negativa: a lista completa dos «Francisco…» do catálogo de 1622 (padres e irmãos, com página e número) não contém nenhum Francisco Pereira; os «Fco Pz» correspondem a Pires/Perez.
 - *Catálogo trienal da província de Portugal, 1625* (doc 28), pp. 1-28 — edited (`jesuit-cat1`) · `pha page 28 1 --edited` · prova contrária
   - prova negativa: busca no texto integral do catálogo de 1625 («Pereira», «Perreira», «Pereyra») — nenhuma ocorrência atribuível a Francisco Pereira.
@@ -131,6 +131,7 @@ Fólios e textos negativos desta passagem: índice alfabético do catálogo de 1
 - [[0 Portugal no entry]]
 - [[deh-francisco-pereira]]
 - [[Jesuitas - Portugal - 1619-1630 - Noviciado Monte do Olivete]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)

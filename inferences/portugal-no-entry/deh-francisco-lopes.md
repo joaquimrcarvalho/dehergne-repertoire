@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1590-02 (data de Dehergne; confirmada apenas por via indireta)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -83,7 +83,7 @@ O frontispício do catálogo lê-se no fólio 65 do códice (imagem `LUS. 44 I/0
 
 > «Catalogo dos Padres E Irmãos da Provincia de Portugal feito no principio de Janr.º de 1592.»
 
-— ARSI Lus. 44 I, f. 65 (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg"`
+— ARSI Lus. 44 I, f. 65 (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg"`
 
 Na sequência das casas, o «Collegio de Coimbra» abre no f. 66v (imagem `LUS. 44 I/066v.jpg`), e a lista dos seus noviços recebidos para estudar fecha no f. 68v (imagem `LUS. 44 I/068v.jpg`): «Noviços recebidos p.ª estudantes», com nomes como Sebastião de Hueles, Jacome Monteiro, Ant.º Simoens / Sebastião Vieira, Juan Godino, Estevan Godino, Jeronymo Peixoto, Jorge de Figueiredo, Fr.º Diaz, Luis Brandão, Ruy Nuaz, Manuel Lz, Diogo Seco, … P. Juan Hernandez, **Fr.º Lop[es]**, Damian Botello, … Gaspar de Azevedo.
 
@@ -109,13 +109,13 @@ O nome não foi identificado no catálogo de Maio de 1590 (ARSI Lus. 44 I, f. 25
 
 ## 5. Evidência
 
-- ARSI Lus. 44 I, f. 65, frontispício: «Catalogo dos Padres E Irmãos da Provincia de Portugal feito no principio de Janr.º de 1592» (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg"` · prova contexto
+- ARSI Lus. 44 I, f. 65, frontispício: «Catalogo dos Padres E Irmãos da Provincia de Portugal feito no principio de Janr.º de 1592» (imagem `LUS. 44 I/064v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/064v.jpg"` · prova contexto
   - data e identidade do catálogo usado para situar o noviço de 1590 (janeiro de 1592)
-- ARSI Lus. 44 I, f. 68v, rubrica «Noviços recebidos p.ª estudantes» (imagem `LUS. 44 I/068v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/068v.jpg"` · prova indireta forte
+- ARSI Lus. 44 I, f. 68v, rubrica «Noviços recebidos p.ª estudantes» (imagem `LUS. 44 I/068v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/068v.jpg"` · prova indireta forte
   - na lista de noviços do Colégio de Coimbra figura «Fr.º Lop[es]» — candidato a ser o Francisco Lopes entrado em fevereiro de 1590; a casa do noviciado é Coimbra
-- ARSI Lus. 44 I, f. 66v, cabeçalho «Collegio de Coimbra» (imagem `LUS. 44 I/066v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/066v.jpg"` · prova indireta forte
+- ARSI Lus. 44 I, f. 66v, cabeçalho «Collegio de Coimbra» (imagem `LUS. 44 I/066v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/066v.jpg"` · prova indireta forte
   - fixa a casa a que pertence a lista de noviços do f. 68v: Colégio de Coimbra
-- ARSI Lus. 44 I, f. 25, frontispício «Catalogo Primero … hecho en Mayo de 1590» (imagem `LUS. 44 I/025v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/025v.jpg"` · prova indireta
+- ARSI Lus. 44 I, f. 25, frontispício «Catalogo Primero … hecho en Mayo de 1590» (imagem `LUS. 44 I/025v.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/025v.jpg"` · prova indireta
   - identifica o catálogo de Maio de 1590, cujo fólio 25 é a cota «Lus. 44, 25» de Dehergne; nele não se identificou o nome nas listas de noviços inspecionadas (ff. 39-40)
 - *Dehergne, Répertoire des Jésuites de Chine* (doc 65), p. 193 (impr. 155) — edited (`french-ocr`) · `pha page 65 193 --edited` · `pha page 65 193 --edited` · prova direta
   - N. Proença a Nueva 1574; E. févr. 1590 (Lus. 44, 25); dúvida do próprio Dehergne sobre a identificação com o embarcado de 1592
@@ -126,6 +126,7 @@ O nome não foi identificado no catálogo de Maio de 1590 (ARSI Lus. 44 I, f. 25
 
 - [[0 Portugal no entry]]
 - [[deh-francisco-lopes]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

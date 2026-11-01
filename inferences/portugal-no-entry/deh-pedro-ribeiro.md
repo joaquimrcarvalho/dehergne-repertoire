@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1588 (o suplemento de 1 Jan 1588 dá-lhe «2 meses» de Companhia, o que aponta para o final de 1587)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -91,7 +91,7 @@ O suplemento do catálogo comum da província de Portugal, feito a 1 de Janeiro 
 
 > «13. Pero Ribero de Portalegre Ob[is]pado de 21 años, y de los [meses] de la Comp.ª 2 meses, buenas fuerzas, es coadjutor.»
 
-— ARSI Lus. 39, f. 17 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf"`
+— ARSI Lus. 39, f. 17 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf"`
 
 Dois meses de Companhia a 1 de Janeiro de 1588 colocam a entrada em Novembro de 1587; a naturalidade (Portalegre) e o estatuto de coadjutor coincidem com a notícia de Dehergne (doc 65, p. 256: «N. Portalègre, 1570 -E. 1588 (Lus. 44, 69)»).
 
@@ -101,7 +101,7 @@ No catálogo da província de Portugal «Catalogo Primero … hecho en Mayo de 1
 
 > «146. H. Pedro Ribeiro de la Ciudad de Portalegre Ob[is]p[ado] … de la Compañía 3 años, exercitose en diversos officios.»
 
-— ARSI Lus. 44 I, f. 39 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg"`
+— ARSI Lus. 44 I, f. 39 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg"`
 
 Três anos em Maio de 1590 confirmam a entrada em 1587 (e não em 1590, como pretendia a fonte alternativa rejeitada por Dehergne). O bloco de folhas em que esta entrada aparece precede imediatamente o início do «Collegio de Coimbra» (f. 35, imagem `LUS. 44 I/035.jpg`, cabeçalho «Collegio de Coimbra» com as entradas 1-7), o que concorda com a atribuição a Coimbra já dada pelo suplemento de 1588.
 
@@ -115,11 +115,11 @@ A cota «Lus. 44, 69» de Dehergne não corresponde, no códice digitalizado, a 
 
 ## 5. Evidência
 
-- ARSI Lus. 39, f. 17, lista «Casa de Coimbra», n.º 13 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf"` · prova direta
+- ARSI Lus. 39, f. 17, lista «Casa de Coimbra», n.º 13 (imagem/catálogo `LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf`, p. 2) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS.1588-01-01.arsi.39.f17.Cat.brev..pdf"` · prova direta
   - «Pero Ribero de Portalegre … de la Comp.ª 2 meses … es coadjutor» na lista da Casa de Coimbra do suplemento de 1 de Janeiro de 1588 — entrada em Coimbra no final de 1587
-- ARSI Lus. 44 I, f. 39, n.º 146 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg"` · prova direta
+- ARSI Lus. 44 I, f. 39, n.º 146 (imagem `LUS. 44 I/039.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/039.jpg"` · prova direta
   - «H. Pedro Ribeiro de la Ciudad de Portalegre … de la Compañía 3 años, exercitose en diversos officios» no catálogo de Maio de 1590 — confirma a entrada em 1587/88 e a casa de Coimbra
-- ARSI Lus. 44 I, f. 35 (imagem `LUS. 44 I/035.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/035.jpg"` · prova indireta forte
+- ARSI Lus. 44 I, f. 35 (imagem `LUS. 44 I/035.jpg`) — leitura direta da imagem (manuscrito ARSI, não `pha page`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/035.jpg"` · prova indireta forte
   - cabeçalho «Collegio de Coimbra» com as entradas 1-7: fixa a casa do bloco de folhas onde se insere a entrada n.º 146
 - *Dehergne, Répertoire des Jésuites de Chine* (doc 65), p. 256 — edited (`french-ocr`) · `pha page 65 256 --edited` · `pha page 65 256 --edited` · prova direta
   - notícia impressa: N. Portalegre 1570, E. 1588 (Lus. 44, 69), rejeitando a variante «N. Petrogam, 1572, E. 1590»
@@ -130,6 +130,7 @@ A cota «Lus. 44, 69» de Dehergne não corresponde, no códice digitalizado, a 
 
 - [[0 Portugal no entry]]
 - [[deh-pedro-ribeiro]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

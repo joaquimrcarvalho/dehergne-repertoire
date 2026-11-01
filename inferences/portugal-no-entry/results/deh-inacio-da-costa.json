@@ -45,25 +45,25 @@
  "evidencias": [
   {
    "citacao": "ARSI, *Lus. 44 II*, catálogo de Maio de 1619, f. 354 — «**Casa do Noviciado**»: «Esta casa se vay laurando, residem nella 5. da Comp.ª, dous P.es e tres Irmãos», com os cinco nomes (P. Álvaro de Almeida, P. Fernão Carvalho, Ir. Gonçalo Álvares, Ir. António Pereira, Ir. Lourenço Lombardo) — **sem lista de noviços**; o caderno termina em f. 376v com «Cabo Verde»",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/354.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/376v.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/354.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/376v.jpg\"",
    "o_que_prova": "o catálogo de 1619 não tem lista de noviços (a Casa do Noviciado só regista os cinco residentes) e não inclui Inácio Nunes — coerente com uma entrada posterior a Maio de 1619",
    "forca": "negativa"
   },
   {
    "citacao": "ARSI, *Lus. 44 II*, catálogo primeiro de 1625, f. 419v (imagem `419.jpg`; pha doc 28, p. 27), n.º **288**: «**I. Ignacio Nunes Natural de Ilha do Faial, b[ispa]do de Angra, idade 20 annos, da Comp.ª 4, forças mediocres, Estuda 2.º anno de artes**» — «I.» = *Ir.* (irmão escolástico, **não** P.); secção do Colégio de Coimbra (cabeçalho f. 416v)",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/419.jpg\" · pha page 28 27 --edited",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/419.jpg\" · pha page 28 27 --edited",
    "o_que_prova": "identifica o homem como irmão escolástico: Inácio Nunes, natural do Faial (bispado de Angra), no Colégio de Coimbra em 1625, estudante do 2.º ano de artes — confirma a casa de estudos e o grau (escolástico), consistente com o Rol de 1627 («Ir. Ignacio Nunez, 1.º anno de Theologia»); era padre em 1629 (Wicki 748)",
    "forca": "direta"
   },
   {
    "citacao": "ARSI, *Lus. 39*, catálogo de 1617 (T4), «Catalogo da Provincia de Portugal Anno 1617», ff. 93v-101v — transcrição em `catalogos/1617-T4-LUS-39-95.md`. Em f. 94v, no fim da secção de São Roque (Lisboa), há o cabeçalho «**Irmãos Noviços 3**» **sem nomes, só o número 3**; os noviços nomeados («Irmãos noviços estudantes», lista de 29) pertencem ao Colégio de Coimbra e **não incluem Inácio da Costa**",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/catalogos/1617-T4-LUS-39-95.md\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/094v.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/catalogos/1617-T4-LUS-39-95.md\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/094v.jpg\"",
    "o_que_prova": "o catálogo de 1617 regista três noviços em Lisboa (sem os nomear) e lista nominalmente os noviços de Coimbra (onde estão João Cabral e António Veloso), sem Inácio da Costa — neutro quanto a Lisboa, negativo quanto a Coimbra",
    "forca": "negativa"
   },
   {
    "citacao": "ARSI, *Lus. 39*, f. 94v-102v — catálogo de 1617 (T4): f. 94v tem o título «Catalogo dos Padres e Irmãos do Collegio de Coimbra como se segue» e a secção «Irmãos Noviços 3» (os três nomes não estão legíveis na digitalização); ff. 95-102v listam teólogos, artistas e coadjutores do colégio, sem Inácio da Costa",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/094.jpg\" ; open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/095.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/094.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/095.jpg\"",
    "o_que_prova": "existe um catálogo de 1617 (no LUS. 39, e não no LUS. 44 II, que salta de 1614 a 1619): é o catálogo do Colégio de Coimbra, com uma secção de três noviços por ler — o lugar onde ele deveria estar se entrasse em Coimbra",
    "forca": "contexto"
   },
@@ -81,13 +81,13 @@
   },
   {
    "citacao": "ARSI Lus. 44 II, f. 438 (imagem `0437v-0438.jpg`), «Rol dos Missionarios q vam em de 27. p.ª as Indias, Aethiopia, e Angola», sob a rubrica «Bera Japão»: «Ir. Ignacio Nunez. 1.º anno de Theologia» — leitura direta da imagem",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0437v-0438.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0437v-0438.jpg\"",
    "o_que_prova": "prova direta de que em 1627 era escolástico no 1.º ano de Teologia, com o nome «Ignacio Nunez», e destinado à missão do Japão — a cota que Wicki citava para o alias Nunes. Não diz onde entrou.",
    "forca": "indireta"
   },
   {
    "citacao": "ARSI Lus. 44 II, f. 354 (catálogo de Maio de 1619, «Casa do Nouiciado», n.os 1-5; imagem `354.jpg`) — leitura direta da imagem",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/354.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/354.jpg\"",
    "o_que_prova": "prova negativa: em Maio de 1619 a casa do noviciado de Lisboa tinha cinco membros (dois padres e três coadjutores) e nenhuma lista de noviços; Inácio da Costa, que teria então dois anos de Companhia, não figura.",
    "forca": "contrária"
   },

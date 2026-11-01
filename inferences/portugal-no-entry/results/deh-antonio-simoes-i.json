@@ -21,19 +21,19 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
       "o_que_prova": "estrutura do códice por casas: 1678 «Conimbricens. C 2v … D.Prb 14»; 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»",
       "forca": "indireta (instrumento de navegação do códice)"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
       "o_que_prova": "em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa",
       "forca": "direta (existência e teor da lista de noviços de 1678)"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, p. 52 (imagem `LUS. 46/051.jpg`): «Catalogus Primus Provinciae Lusitanae. annus 1681. Domus Professa Ulyssiponensis…» (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/051.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/051.jpg\"",
       "o_que_prova": "o catálogo de 1681 começa na p. 52; o catálogo está datado de 1681",
       "forca": "direta"
     },

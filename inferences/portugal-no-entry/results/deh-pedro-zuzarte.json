@@ -27,19 +27,19 @@
   },
   {
    "citacao": "ARSI, *Lus. 44 II*, catálogo de 1639, f. 579v-580 (secção do **Colégio de Coimbra**, cujo cabeçalho está em f. 576v), n.º 263 — «**Ir. P.° Zuzarte de Lx.ª, idade 22 an., da Comp.ª 5, boas forças, philosopho**»",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg\"",
    "o_que_prova": "em 1639 estava no Colégio de Coimbra, com 22 anos e 5 de Companhia, estudante de filosofia — a casa de formação é Coimbra; a naturalidade («de Lx.ª») contradiz «Abrantes, bispado da Guarda» do catálogo de 1636 e «Loures» de Dehergne",
    "forca": "direta"
   },
   {
    "citacao": "ARSI, *Lus. 44 II*, catálogo de 1636, f. 554 (p. 51), n.º 648 — no apêndice «**ficaram fora dos catálogos os seg.**»: «**Ir. P.° Zuzarte n.al de Abrantes, Bp.° da goarda, de idade 17 a. e na Comp.ª 2, vai estudar p.ª Coimbra**»",
-   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0553v-0554.jpg\"",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0553v-0554.jpg\"",
    "o_que_prova": "primeiro registo posterior à entrada: 17 anos, natural de Abrantes (o manuscrito diz «Bp.° da goarda», que se reconcilia com a diocese de Lisboa do catálogo de 1639 — ver análise), dois anos de Companhia, mandado estudar para Coimbra",
    "forca": "indireta"
   },
   {
    "citacao": "ARSI, *Lusitania 44 II*, f. 619 — catálogo trienal de 1645, Colégio de Coimbra, lista de casa (n. 475-476): «Fr. Petrus Jusarte natus … Dioe. Conimbri., annos c. 10 Societ., … studuit philosophia …» (manuscrito; documento ausente do pha)",
-   "comando": "open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0618v-0619.jpg'",
+   "comando": "open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0618v-0619.jpg'",
    "o_que_prova": "prova indirecta forte: em 1645 estava no Colégio de Coimbra com c. 10 anos de Companhia ⇒ Coimbra como casa de formação e cronologia compatível com a entrada em 1635",
    "forca": "indireta forte"
   },

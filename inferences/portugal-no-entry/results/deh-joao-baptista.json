@@ -21,7 +21,7 @@
   "evidencias": [
     {
       "citacao": "ARSI Lus. 46, f. 347, n.º 657 (imagem `LUS. 46/342.jpg`, numeração impressa 347-348) — leitura directa da imagem (manuscrito, não OCR)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/342.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/342.jpg\"",
       "o_que_prova": "origem (Bombarral, diocese de Lisboa), idade 42, 25 anos de Companhia e data de entrada «20 Mai. 671» — é este o fólio citado por Dehergne; não nomeia a casa de entrada",
       "forca": "direta quanto à data e à origem, silente quanto ao lugar"
     },

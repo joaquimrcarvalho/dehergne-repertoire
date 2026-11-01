@@ -8,7 +8,7 @@ entry_place: Évora (Colégio de Évora — noviciado)
 entry_date: 1681-03-26 (catálogo de 1681: «Societ. ad 2 menses»)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -102,7 +102,7 @@ Não foi possível confirmar o segundo casamento de datas sugerido pelo catálog
 
 ## 5. Evidência
 
-- ARSI Lus. 46, f. 68v, n.º 380 (catálogo trienal de 1681, secção «Collegium Eborense»; imagem `LUS. 46/067v.jpg`) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/067v.jpg"` · prova direta
+- ARSI Lus. 46, f. 68v, n.º 380 (catálogo trienal de 1681, secção «Collegium Eborense»; imagem `LUS. 46/067v.jpg`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/067v.jpg"` · prova direta
   - António Dias, de Lavre (diocese de Évora), 15 anos, dois meses de Companhia em 1681, listado no Colégio de Évora — lugar de entrada
 - ARSI Lus. 46, f. 62 (fólio 61.jpg), cabeçalho «Collegium Eborense» com o n.º 235, e f. 68v, cabeçalho «Collegium Divi Antonii» com o n.º 381 · `open "…/LUS. 46/061.jpg" ; open "…/LUS. 46/067v.jpg"` · prova direta
   - delimita a secção de Évora (n.os 235-380), dentro da qual está a entrada de António Dias
@@ -115,6 +115,7 @@ Não foi possível confirmar o segundo casamento de datas sugerido pelo catálog
 
 - [[0 Portugal no entry]]
 - [[deh-antonio-dias]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

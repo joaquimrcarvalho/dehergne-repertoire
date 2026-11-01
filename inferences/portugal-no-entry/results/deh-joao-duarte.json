@@ -25,7 +25,7 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lus. 46 a*, f. 19 (catálogo primeiro da província de Portugal, ano 1700), n.os 338-339 — manuscrito ARSI lido directamente na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg\"",
       "o_que_prova": "«Fr. Ioannes Duarte, ex opp. Monte major Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690, viribus bonis, Rhetoricus» — confirma a data de entrada (17 Jul. 1690) e a naturalidade, mas não nomeia o lugar de entrada; em 1700 estava em Lisboa (Colégio de S. Antão)",
       "forca": "direta"
     },
@@ -43,7 +43,7 @@
     },
     {
       "citacao": "ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/341v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/341v.jpg\"",
       "o_que_prova": "o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**",
       "forca": "contexto"
     }

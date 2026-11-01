@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -83,11 +83,11 @@ Procurou-se: (1) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
+- ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg"` · prova indireta (instrumento de navegação do códice)
   - estrutura do códice por casas: 1678 «Conimbricens. C 2v … D.Prb 14»; 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»
-- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (existência e teor da lista de noviços de 1678)
+- ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg"` · prova direta (existência e teor da lista de noviços de 1678)
   - em 1678 os noviços da província estavam no Colégio de Coimbra: a lista «Fratres Novitii» fecha a secção de Coimbra e inscreve 17 noviços com «Societ. mens.» de 4 a 17 meses (entradas c. Agosto de 1677 - 1678); nenhum deles é Carvalho, Simões ou Costa
-- ARSI, *Lusitania* 46, p. 52 (imagem `LUS. 46/051.jpg`): «Catalogus Primus Provinciae Lusitanae. annus 1681. Domus Professa Ulyssiponensis…» (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/051.jpg"` · prova direta
+- ARSI, *Lusitania* 46, p. 52 (imagem `LUS. 46/051.jpg`): «Catalogus Primus Provinciae Lusitanae. annus 1681. Domus Professa Ulyssiponensis…» (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/051.jpg"` · prova direta
   - o catálogo de 1681 começa na p. 52; o catálogo está datado de 1681
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 782 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-s`) · `python3 tools/packet.py deh-antonio-simoes-i` · `python3 tools/packet.py deh-antonio-simoes-i` · prova indireta (fonte da data)
   - texto integral da notícia de Dehergne, com a data de entrada e as fontes que ele cita
@@ -96,6 +96,7 @@ Procurou-se: (1) a lista «Fratres Novitii» do Colégio de Coimbra de 1678 (Lus
 
 - [[0 Portugal no entry]]
 - [[deh-antonio-simoes-i]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

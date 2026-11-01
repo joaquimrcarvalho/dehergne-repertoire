@@ -25,7 +25,7 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 39, imagem `LUS. 39/096.jpg` (spread 96v+97; fólio de trabalho «97»), catálogo breve da província de Portugal de 1617, secção do Colégio de Coimbra — título «¶ Irmãos Nouiços Estudantes ¶», com o n.º marginal 180 na página: «Ir João Cabral / Ir Ant.º Veloso»",
-      "comando": "ler a imagem \"/Users/jrc/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg\" (terço superior da página direita)",
+      "comando": "ler a imagem \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/096.jpg\" (terço superior da página direita)",
       "o_que_prova": "António Veloso era noviço do Colégio de Coimbra em 1617, dois anos depois da entrada de 2 de Setembro de 1615 — prova direta de que o noviciado (e a entrada) foi em Coimbra; na mesma lista está João Cabral, com quem embarcaria em 1624",
       "forca": "direta (noviço nomeado na casa do noviciado, dentro do biénio de 1615-1617); lida por mim na imagem ARSI, não numa página pha"
     },
@@ -37,7 +37,7 @@
     },
     {
       "citacao": "ARSI, *Lusitania* 44 II, imagem `LUS. 44 II/361.jpg` (catálogo de maio de 1619, Colégio de Jesus de Coimbra, f. 357 ss.), n.os 105-121",
-      "comando": "ler as imagens \"/Users/jrc/Library/Mobile Documents/com~apple~CloudDocs/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/360v.jpg\" e \".../LUS. 44 II/361.jpg\"",
+      "comando": "ler as imagens \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/360v.jpg\" e \".../LUS. 44 II/361.jpg\"",
       "o_que_prova": "em 1619 os noviços de Coimbra de 1617 aparecem como irmãos cursistas do mesmo colégio, com 3-5 anos de Companhia (Silvestre Cardoso, André Saraiva, Miguel Brandão, Gaspar de Macedo, Pero Barroso, Vicente Metela, Diogo de Novais, Bernardo Botto); é o fólio 361 que Dehergne cita para a data de 2 de Setembro de 1615 — a página direita, onde estará a entrada nominal de Veloso, está mal captada na digitalização",
       "forca": "indireta (corrobora Coimbra em 1619 e a data citada por Dehergne)"
     },

@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -93,9 +93,9 @@ Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emma
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 115v (catálogo de 1711, «Supplementum», lista «Ad Sinensem») — imagem `LUS. 47/115v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg"` · prova indireta (não estabelece o lugar)
+- ARSI, *Lusitania* 47, f. 115v (catálogo de 1711, «Supplementum», lista «Ad Sinensem») — imagem `LUS. 47/115v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg"` · prova indireta (não estabelece o lugar)
   - «Fr. Emmanuel Rib[eiro] Novitius ...» — era noviço quando foi destinado à China; não indica a casa do noviciado. É a folha citada por Dehergne
-- ARSI, *Lusitania* 47, ff. 22v-23v (catálogo de 1700, Casa de Provação de Lisboa, listas de noviços, n.os 395-440) — imagens `LUS. 47/022v.jpg`, `023.jpg`, `023v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/022v.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/023.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg"` · prova indireta (contra-hipótese)
+- ARSI, *Lusitania* 47, ff. 22v-23v (catálogo de 1700, Casa de Provação de Lisboa, listas de noviços, n.os 395-440) — imagens `LUS. 47/022v.jpg`, `023.jpg`, `023v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/022v.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/023.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg"` · prova indireta (contra-hipótese)
   - procura negativa: Manuel/Emanuel Ribeiro não figura entre os noviços de Lisboa em 1700 (n.os 429-440), onde estão, por exemplo, Camello (n.º 439) e Francisco Simões (n.º 435)
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 255, n.º 680 « Ribeiro, Manuel junior (port.) (II) » — edited (`french-ocr`) · `pha page 65 255 --edited` · `pha page 65 255 --edited` · prova indireta (fonte da data)
   - «N. 28 févr. 1680 -E. 1er mars 1700 (JS 25, 279, 282). Emb. non prêtre en 1701 pour la Chine (W 1447), étant novice (Lus. 47, 115v)» — a data de entrada e a qualidade de noviço, sem lugar
@@ -105,6 +105,7 @@ Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emma
 - [[0 Portugal no entry]]
 - [[deh-manuel-ribeiro-junior]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

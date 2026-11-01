@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1568-12-28
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-23
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -81,7 +81,7 @@ O catálogo de Coimbra de 1 de Janeiro de 1569 (LUS. 43 II a, f. 345, título «
 
 Como ler este negativo: (a) se a data de 28 de Dezembro de 1568 é exacta, ele tinha quatro dias de noviciado quando o catálogo foi feito — um noviço acabado de entrar pode ainda não estar inscrito na lista; (b) o próprio Dehergne admite a variante «E. 28 déc. 1568, ou 1572», e nesse caso o catálogo de 1569 é anterior à entrada. O teste, portanto, não refuta Coimbra, mas também não a confirma: mostra apenas que ele não era um noviço já estabelecido em Coimbra em 1 de Janeiro de 1569.
 
-— ARSI, LUS. 43 II a, ff. 345-346 — imagens `LUS. 43 II a/345.jpg` e `346.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg"`
+— ARSI, LUS. 43 II a, ff. 345-346 — imagens `LUS. 43 II a/345.jpg` e `346.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg"`
 
 ### 4.2 A entrada na Companhia segundo a Documenta Indica
 
@@ -109,7 +109,7 @@ Verificação feita no catálogo de Coimbra de 1 de Janeiro de 1569 (LUS. 43 II 
 
 ## 5. Evidência
 
-- ARSI, *Lus. 43 II a*, f. 345 (p. 348 impressa) — título «**Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.**»; f. 346 (p. 349) — lista dos «**Novitii**» de Coimbra (25 nomes: Balthasar …, Franciscus Guernet, Christophorus Simend, Georgius/Sebastianus/Gaspar Fernandes, Gaspar Siqueira, Petrus Lopes, Jacobus a Valle, Antonius Botelhus, Joannes a Gouvea, Petrus Teixeira, Christophorus/Andreas Pereira, Simon Couting, Petrus Alvares, Innocentius a Matos, Raphael Carneiro, Emanuel Fernandes, Franciscus Lopes Hisp., Andreas Gonçalves, Joannes ab Oliveira, Antonius Carvalhus) — **Rui Barreto não consta** · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/346.jpg"` · prova negativa
+- ARSI, *Lus. 43 II a*, f. 345 (p. 348 impressa) — título «**Catalogus omnium nostrorum in Collegio Conimb. anno domini 1569. cal. Ianuar.**»; f. 346 (p. 349) — lista dos «**Novitii**» de Coimbra (25 nomes: Balthasar …, Franciscus Guernet, Christophorus Simend, Georgius/Sebastianus/Gaspar Fernandes, Gaspar Siqueira, Petrus Lopes, Jacobus a Valle, Antonius Botelhus, Joannes a Gouvea, Petrus Teixeira, Christophorus/Andreas Pereira, Simon Couting, Petrus Alvares, Innocentius a Matos, Raphael Carneiro, Emanuel Fernandes, Franciscus Lopes Hisp., Andreas Gonçalves, Joannes ab Oliveira, Antonius Carvalhus) — **Rui Barreto não consta** · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/345.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 43 II a/346.jpg"` · prova negativa
   - verificação da atribuição a Coimbra: o catálogo de Coimbra de 1 de Janeiro de 1569 não o inclui entre os noviços — negativo com reserva (entrada de 28 Dez. 1568, quatro dias antes; ou variante de 1572)
 - *Documenta Indica* XI (1577-1580) (doc 82), p. 56 (impr. 24*) — edited (`documenta-indica-ocr`) · `pha page 82 56 --edited` · `pha page 82 56 --edited` · prova direta
   - entrou na Companhia a 28 de dezembro de 1568 e estudou casos de consciência em Coimbra

@@ -23,13 +23,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 47, f. 86, n.º 525 (catálogo de 1705, secção «Domus Probationis Ulyssiponensis», sub-lista «Novitii Secundi anni») — digitalização ARSI `LUS. 47/086.jpg`, manuscrito lido directamente na imagem (não é página pha)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg\"",
       "o_que_prova": "«Fr. Franciscus de Cordes ex Civitate, et Dioec. Ulyssipon., natus an. 688, ingressus Societ. 21. Septemb. an. 704. Vires bonae.» — noviço da Casa de Provação de Lisboa, entrada a 21 de Setembro de 1704",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice (Casa de Provação de Lisboa no f. 85 do catálogo de 1705) — imagem `LUS. 47/000v.jpg`",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg\"",
       "o_que_prova": "identifica a secção das ff. 85-86v como «Ulyssipon. D. Prb» = Casa de Provação de Lisboa, e não um colégio",
       "forca": "indireta (identificação da casa)"
     },

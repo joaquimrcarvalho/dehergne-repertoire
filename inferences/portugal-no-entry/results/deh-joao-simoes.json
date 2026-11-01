@@ -33,13 +33,13 @@
     },
     {
       "citacao": "ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768, n.º 1 «P. Ioannes Simões … 8 Sept. 1713 Penela» — manuscrito lido em imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg\"",
       "o_que_prova": "nome, naturalidade (Penela), data e diocese de nascimento",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768, n.º 1: «Diocesis Coimbric. | Ingressus 17 Mai. 1734 | Gradus 15 Aug. 1751» — manuscrito lido em imagem",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg\"",
       "o_que_prova": "data exacta da entrada na Companhia: 17 de Maio de 1734 (sem casa)",
       "forca": "direta"
     },

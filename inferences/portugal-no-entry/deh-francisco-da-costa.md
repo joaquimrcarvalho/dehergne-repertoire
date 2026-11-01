@@ -8,7 +8,7 @@ entry_place: Évora (Colégio de Évora)
 entry_date: 1707-02-09 (o catálogo de 1711 situa-o em Évora)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -101,9 +101,9 @@ O catálogo de 1711 é uma lista de residência por casa e não declara o novici
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 133, n.º 352 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg"` · prova direta quanto à data; indirecta quanto ao lugar
+- ARSI, *Lusitania* 47, f. 133, n.º 352 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg"` · prova direta quanto à data; indirecta quanto ao lugar
   - «Fr. Franciscus da Costa ex Portu, et Dioec. Bracharen., natus 22. April. 1691, ingressus Societ. 9. Febr. 1707» — confirma a data exacta da entrada, mas é lista de residência, não de noviciado
-- ARSI, *Lusitania* 47, f. 000v — índice do códice: os catálogos conservados são os de 1700 (ff. 2-54), 1705 (ff. 55-110), 1711 (ff. 113-166) e 1717 (ff. 167-219) — imagem `LUS. 47/000v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta (lacuna documental)
+- ARSI, *Lusitania* 47, f. 000v — índice do códice: os catálogos conservados são os de 1700 (ff. 2-54), 1705 (ff. 55-110), 1711 (ff. 113-166) e 1717 (ff. 167-219) — imagem `LUS. 47/000v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta (lacuna documental)
   - não há catálogo de 1707-1710, pelo que nenhuma lista de noviços desse biénio está disponível neste códice
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 210, n.º 210 « Costa, Francisco da (port.) » — edited (`french-ocr`) · `pha page 65 210 --edited` · `pha page 65 210 --edited` · prova indireta (fonte da data)
   - «N. 22 avril 1691, Braga. E. 9 févr. 1707 (Lus. 47, 133). Emb. 12 avr. 1714 (W 1585)» — notícia-base, com o lugar de entrada em branco
@@ -117,6 +117,7 @@ O catálogo de 1711 é uma lista de residência por casa e não declara o novici
 - [[0 Portugal no entry]]
 - [[deh-francisco-da-costa]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

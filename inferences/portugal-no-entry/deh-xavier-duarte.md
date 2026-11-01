@@ -8,7 +8,7 @@ entry_place: Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciad
 entry_date: 1736-11-03 (o Dehergne admitia 3 ou 4 de Novembro)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -104,11 +104,11 @@ A identificação da casa é reforçada pelo próprio Dehergne: para António Pi
 
 - Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), p. 197 (impresso 167), citando «Arq. S. J., catál. de 1737; Lus. 48, f. 168» — raw (`ocr`) · `pha page 64 197 --raw` · `pha page 64 197 --raw` · prova direta
   - lista nominativa dos noviços do Noviciado do Oriente com o dia da entrada: n.º 6 «Bartolomeu de Azevedo 22 de Março 1736» e n.º 13 «Xavier Duarte 3 … 1736» — é a prova de que fizeram o noviciado nessa casa de Arroios (Lisboa)
-- ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768 (imagem `LUS. 41/098.jpg`), n.º 10 «Fr. Xaverius Duarte … Coimbrica» — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg"` · prova direta
+- ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768 (imagem `LUS. 41/098.jpg`), n.º 10 «Fr. Xaverius Duarte … Coimbrica» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg"` · prova direta
   - nascimento em Coimbra (o Dehergne diz 11 de Novembro de 1714) e inserção na lista da província de Portugal em 1768
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 244 (impresso 206), notícia n.º 649 (António Pires): «N. Lisbonne, 1er mai 1721 -E. 24 mars 1736, Lisbonne, pour les missions (Lus. 48, 167v)» — raw (`french-ocr`) · `pha page 65 244 --raw` · `pha page 65 244 --raw` · prova contexto
   - o próprio Dehergne, lendo o catálogo Lus. 48, f. 167v (a lista do Noviciado do Oriente de 1737), identifica o lugar da entrada como «Lisbonne, pour les missions» — a mesma casa em que a lista nomeia Xavier Duarte (n.º 13) e Bartolomeu de Azevedo (n.º 6)
-- ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768 (imagem `LUS. 41/099.jpg`), n.º 10: «Ingressus 3 Nov. 1736» — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg"` · prova direta
+- ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768 (imagem `LUS. 41/099.jpg`), n.º 10: «Ingressus 3 Nov. 1736» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg"` · prova direta
   - data exacta da entrada na Companhia: 3 de Novembro de 1736
 - Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 165, anotação ao n.º 1896 — raw (`wicki-indienfahrer-1967`) · `pha page 66 165 --raw` · `pha page 66 165 --raw` · prova indireta
   - entrada em 3 de Novembro de 1736, ainda irmão em Portugal em 1740 (Lus. 48, 233r, n.º 630), chegada à China em 1744
@@ -125,8 +125,10 @@ A identificação da casa é reforçada pelo próprio Dehergne: para António Pi
 
 - [[0 Portugal no entry]]
 - [[deh-xavier-duarte]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 50** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

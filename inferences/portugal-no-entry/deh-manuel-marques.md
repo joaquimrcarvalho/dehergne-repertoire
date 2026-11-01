@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -93,7 +93,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
   - notícia biográfica: «E. 25 nov. 1693 (JS 134, 399v)» — data e cota, sem lugar
 - Louis Pfister, *Notices biographiques et bibliographiques sur les jésuites de l'ancienne mission de Chine* (doc 47), p. 576 — raw (`pfister-ocr`) · `pha page 47 576` · prova indireta
   - «LE P. EMMANUEL MARQUES. 5 TANG MA-NO. N. janv. 1674, — E. nov. 1693. — A. avril 1699» — data, sem lugar
-- ARSI, *Lus. 46 a*, f. 42 (índice do catálogo de 1700) — manuscrito ARSI lido na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/042.jpg"` · prova contexto
+- ARSI, *Lus. 46 a*, f. 42 (índice do catálogo de 1700) — manuscrito ARSI lido na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/042.jpg"` · prova contexto
   - «Fr. Emmanuel Marques — 486»: o índice remete para a notícia n.º 486, que dá data de entrada e estudos, não a casa
 - busca no arquivo pha por «Manuel Marques», «Manoel Marques» e «Emmanuel Marques» · `python3 tools/pha_research.py --name "Manuel Marques" --variant "Emmanuel Marques" --limit 8` · prova negativa
   - nenhum resultado pertinente (apenas homónimos dos séculos XVI-XVII sem relação com este religioso)
@@ -102,6 +102,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-manuel-marques]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 
 ---

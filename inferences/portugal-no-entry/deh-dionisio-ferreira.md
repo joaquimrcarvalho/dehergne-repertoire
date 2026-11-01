@@ -8,7 +8,7 @@ entry_place: Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciad
 entry_date: 1738-02-05
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -148,6 +148,7 @@ O registo de entrantes da província de Portugal (BNP, Pombalina 231) foi lido n
 - [[deh-dionisio-ferreira]]
 - **doc 157** — Companhia de Jesus. Província de Portugal. Catalogo dos Sojeitos que entraram em a Companhia de Jesus na Provincia de Portugal : 1711-1758. (Lisboa: Typographia Domus Catholica, 1909). Archivum Romanum Societatis Iesu (ARSI). (agent-drafted-unverified)
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

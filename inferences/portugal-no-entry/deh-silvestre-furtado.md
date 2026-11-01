@@ -8,7 +8,7 @@ entry_place: Lisboa (Domus Probationis Ulyssiponensis — noviciado)
 entry_date: 1688-11-28
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -69,7 +69,7 @@ Silvestre Furtado, natural de Lamego (1674), escolar. Entrou na Companhia a 28 d
 
 O catálogo de 1690 está organizado por casas. Em **f. 206** está o cabeçalho «Domus Probationis» (Casa de Provação de Lisboa); as páginas seguintes, ff. 207-208, contêm o registo cronológico dos noviços dessa casa, com «init. Societ.» e a data ao lado de cada nome (por exemplo, n.º 370 «Fr. João Lopez … init. 16 Martii 1688», n.º 376 «Fr. António Rosado … 22 Aprilis 1688»). A cota de Dehergne para este homem (f. 207v) cai dentro desse registo, na data de 1688-11-28.
 
-— ARSI Lus. 46, f. 206 (cabeçalho), f. 207v — imagens `205.jpg`, `206v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/206v.jpg"`
+— ARSI Lus. 46, f. 206 (cabeçalho), f. 207v — imagens `205.jpg`, `206v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/206v.jpg"`
 
 ### 4.2 A data de entrada e o que o fólio citado contém
 
@@ -85,13 +85,13 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 ## 5. Evidência
 
-- ARSI Lus. 46, f. 207v — registo de noviços da «Domus Probationis» (catálogo de 1690), data de entrada 1688-11-28 · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/206v.jpg"` · prova direta
+- ARSI Lus. 46, f. 207v — registo de noviços da «Domus Probationis» (catálogo de 1690), data de entrada 1688-11-28 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/206v.jpg"` · prova direta
   - noviço da Casa de Provação de Lisboa, com a data de entrada
-- ARSI Lus. 46, f. 206 — cabeçalho «Domus Probationis» que abre a secção em que o registo de noviços está inserido · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg"` · prova direta
+- ARSI Lus. 46, f. 206 — cabeçalho «Domus Probationis» que abre a secção em que o registo de noviços está inserido · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg"` · prova direta
   - atribui o registo de ff. 207-208 à Casa de Provação de Lisboa
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 343 (doc 65), p. 141 — edited (`dehergne-ocr`) · `pha page 65 141 --edited` · prova indireta
   - notícia biográfica: «E. 28 nov. 1688 (Lus. 46, 207v)» — data e cota, sem lugar
-- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/207v.jpg"` · prova contexto
+- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/207v.jpg"` · prova contexto
   - o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**
 - Josef Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 63 — edited (`wicki-ocr`) · `pha page 66 63 --edited` · prova contexto
   - «Silvestre Furtado (Ir., Port., no. 1302)» na expedição de 1691 — confirma o embarque, não o lugar de entrada
@@ -100,6 +100,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-silvestre-furtado]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

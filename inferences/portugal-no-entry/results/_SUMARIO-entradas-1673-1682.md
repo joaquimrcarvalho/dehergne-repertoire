@@ -1,7 +1,7 @@
 # «Portugal no entry» — as 10 pessoas com entrada em 1673-1682 (bloco ARSI Lus. 45 / 46)
 
 Prova primária: digitalizações de trabalho em
-`/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/`
+`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`
 (nome do ficheiro ≈ imagem; **não** é sempre o fólio selado — ver «Nota de método»).
 Todas as páginas citadas foram lidas como manuscrito (imagem), nunca por OCR.
 

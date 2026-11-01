@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -103,7 +103,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 141 (doc 65), p. 72 — edited (`dehergne-ocr`) · `pha page 65 72 --edited` · prova indireta
   - notícia biográfica: «E. 22 déc. 1692 (Lus. 46, 326)» — data e cota, sem lugar
-- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/326.jpg"` · prova contexto
+- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/326.jpg"` · prova contexto
   - página do registo cronológico de entradas (1691-1693): nome, naturalidade, idade, data de entrada e estudos — sem casa de entrada
 - busca no arquivo pha por «João Francisco Cardoso», «Joao Francisco Cardoso» e «Joannes Franciscus Cardoso» · `python3 tools/pha_research.py --name "Joao Francisco Cardoso" --variant "Joannes Franciscus Cardoso" --limit 8` · prova negativa
   - nenhum resultado: o arquivo pha não tem nenhuma notícia deste religioso
@@ -112,6 +112,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-joao-francisco-cardoso]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

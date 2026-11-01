@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado do Colégio de Coimbra)
 entry_date: 1704-12-26
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -89,9 +89,9 @@ Não há no pha catálogos portugueses do século XVIII. Procurou-se «Francisco
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 73, n.º 225 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg"` · prova direta
+- ARSI, *Lusitania* 47, f. 73, n.º 225 (catálogo de 1705, secção de Coimbra, «Novitii Scholastici») — imagem `LUS. 47/073.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/073.jpg"` · prova direta
   - «Fr. Franciscus de Sá Lima ex Civitate Bracar., eiusd. Dioec., natus an. 1688, ingressus Societ. 26. Decemb. an. 1704. Vires debiles» — noviço de Coimbra, entrada a 26 de Dezembro de 1704
-- ARSI, *Lusitania* 47, f. 125v, n.º 165 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/125v.jpg"` · prova direta quanto à data e à identificação
+- ARSI, *Lusitania* 47, f. 125v, n.º 165 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/125v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/125v.jpg"` · prova direta quanto à data e à identificação
   - «Fr. Franciscus de Lima Bracaren., Dioec. eiusdem, natus 4. octob. an. 1688, ingressus Societ. 26. Decemb. an. 1704» — confirma a identificação (Braga, 1688) e a data exacta que Dehergne cita
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 193, n.º 472 « Lima, Francisco de (port.) » — edited (`french-ocr`) · `pha page 65 193 --edited` · `pha page 65 193 --edited` · prova indireta (fonte da data)
   - «N. 4 oct. 1688, Braga -E. 26 déc. 1704 (Lus. 47, 125v)» — notícia-base, com o lugar em branco
@@ -101,6 +101,7 @@ Não há no pha catálogos portugueses do século XVIII. Procurou-se «Francisco
 - [[0 Portugal no entry]]
 - [[deh-francisco-de-lima]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

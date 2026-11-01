@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1686-01-21
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -76,7 +76,7 @@ Procurou-se a lista de noviços que cobrisse 1686-1688: a única conservada em L
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 46, f. 255v (catálogo trienal de 1693), n.º 132: «Fr. ... Barbosa, ex oppido Scalabis. Diæc. Ulyssiponens., natus an. 671, ingressus Societ. 21 Januarii an. 686, viribus mediocribus. Philosophiae 4. anni.» — manuscrito ARSI lido directamente na imagem digital · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/252v.jpg"` · prova direta
+- ARSI, *Lusitania* 46, f. 255v (catálogo trienal de 1693), n.º 132: «Fr. ... Barbosa, ex oppido Scalabis. Diæc. Ulyssiponens., natus an. 671, ingressus Societ. 21 Januarii an. 686, viribus mediocribus. Philosophiae 4. anni.» — manuscrito ARSI lido directamente na imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/252v.jpg"` · prova direta
   - a data de entrada (21 de Janeiro de 1686) e a naturalidade; NÃO prova o lugar de entrada
 - Dehergne, *Répertoire des Jésuites de Chine*, s.v. «Barbosa, Francisco», n.º 72 — notícia integral na base Timelink: «N. Scalabis, d. de Lisbonne, 1671 -E. 21 janv. 1686 (Lus. 46, 255v)» · `python3 tools/packet.py deh-francisco-barbosa` · prova indireta
   - a mesma data e a citação do fólio

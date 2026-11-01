@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -94,7 +94,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 838 (doc 65), p. 306 — edited (`dehergne-ocr`) · `pha page 65 306 --edited` · prova indireta
   - notícia biográfica: «E. 24 août 1693 (Lus. 46, 341v)» e o conflito com JS 25, 252 (4 de Agosto de 1693; 25 de Setembro de 1697, Évora) — datas, sem lugar de entrada
-- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/341v.jpg"` · prova contexto
+- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/341v.jpg"` · prova contexto
   - página do catálogo provincial de 1696: coadjutores temporais e lista dos que hão-de navegar para a Índia, com datas de entrada e votos — sem casa de entrada
 - Josef Wicki, *Liste der Jesuiten-Indienfahrer* (doc 66), p. 202 — raw (`wicki-ocr`) · `pha page 66 202` · prova contexto
   - índice: «Teles, Manuel, 1399» — confirma o embarque de 1699 (W 1399), não a entrada
@@ -103,6 +103,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-manuel-teles]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

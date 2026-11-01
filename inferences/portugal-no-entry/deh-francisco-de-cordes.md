@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação / Monte Olivete, Cotovia)
 entry_date: 1704-09-21
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -133,9 +133,9 @@ O arquivo pha não tem catálogos da província de Portugal posteriores a 1625 (
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 86, n.º 525 (catálogo de 1705, secção «Domus Probationis Ulyssiponensis», sub-lista «Novitii Secundi anni») — digitalização ARSI `LUS. 47/086.jpg`, manuscrito lido directamente na imagem (não é página pha) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg"` · prova direta
+- ARSI, *Lusitania* 47, f. 86, n.º 525 (catálogo de 1705, secção «Domus Probationis Ulyssiponensis», sub-lista «Novitii Secundi anni») — digitalização ARSI `LUS. 47/086.jpg`, manuscrito lido directamente na imagem (não é página pha) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg"` · prova direta
   - «Fr. Franciscus de Cordes ex Civitate, et Dioec. Ulyssipon., natus an. 688, ingressus Societ. 21. Septemb. an. 704. Vires bonae.» — noviço da Casa de Provação de Lisboa, entrada a 21 de Setembro de 1704
-- ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice (Casa de Provação de Lisboa no f. 85 do catálogo de 1705) — imagem `LUS. 47/000v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta (identificação da casa)
+- ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice (Casa de Provação de Lisboa no f. 85 do catálogo de 1705) — imagem `LUS. 47/000v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta (identificação da casa)
   - identifica a secção das ff. 85-86v como «Ulyssipon. D. Prb» = Casa de Provação de Lisboa, e não um colégio
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 193, n.º 193 « Cordes, Francisco de (port.) » — edited (`french-ocr`) · `pha page 65 193 --edited` · `pha page 65 193 --edited` · prova indireta (fonte da data e da cota)
   - «N. 17 févr. 1689, Lisbonne (JS 26, 47) - E. 21 sept. 1704 (Lus. 47, 86)» — a notícia-base, que deixa o lugar em branco e cita a mesma folha 86
@@ -145,6 +145,7 @@ O arquivo pha não tem catálogos da província de Portugal posteriores a 1625 (
 - [[0 Portugal no entry]]
 - [[deh-francisco-de-cordes]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

@@ -8,7 +8,7 @@ entry_place: Évora (noviciado do Colégio de Jesus de Évora)
 entry_date: 1604 (c. Junho de 1604; Dehergne: E. 1604)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -128,6 +128,7 @@ Não procurei nem encontrei registo de entrada para além do catálogo de 1606: 
 - [[deh-estevao-coelho]]
 - **doc 18** — Schütte, Josef Franz. Monumenta historica Japoniae: Textus Catalogorum Japoniae 1553-1654. vol. I. (Romae: Apud Monumenta historica Soc. Iesu, 1975). (fetched-from-zotero-unverified)
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 16** — Franco, António; National Central Library of Rome. Synopsis annalium Societatis Jesu in Lusitania ab anno 1540. usque ad annum 1725. Authore R. P. Antonio Franco Societatis ejusdem sacerdote. (sumptibus Philippi, Martini, & Joannis Veith, hæredum, 1726). (fetched-from-zotero-unverified)
 
 ---

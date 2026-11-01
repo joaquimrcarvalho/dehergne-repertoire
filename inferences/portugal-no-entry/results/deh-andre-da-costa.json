@@ -21,19 +21,19 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» — imagem `LUS. 46/000v.jpg` (tabela lida directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
       "o_que_prova": "estrutura do códice por casas: 1681 «Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»",
       "forca": "indireta (instrumento de navegação do códice)"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, p. 8, secção do Colégio de Coimbra, lista «Fratres Novitii», n.os 220-236 (catálogo de 1678) — imagem `LUS. 46/008.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/008.jpg\"",
       "o_que_prova": "em 1678 os noviços da província estavam no Colégio de Coimbra: 17 noviços com «Societ. mens.» de 4 a 17 meses, nenhum deles Carvalho, Simões ou Costa",
       "forca": "direta (teor da lista de noviços de 1678)"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, pp. 70-71 (cabeça «Domus Probationis» na p. 70), lista dos noviços n.os 444-468, com «Societ. … menses» (catálogo de 1681) — imagens `LUS. 46/069v.jpg`, `LUS. 46/070v.jpg` e `LUS. 46/071.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/071.jpg\"",
       "o_que_prova": "em 1681 os noviços da província estavam na Domus Probationis de Lisboa (25 noviços, entradas c. Março de 1679 - início de 1681); inclui «Fr. Antonius Dias, Ex Oppido Melgaço, Dioec. Bracharensis, an. 27, Societ. 8 menses, Coadj. spiritualis» (n.º 466) e «Fr. Andreas de Costa, Bracharensis, an. 1? et 3 menses, Societ. 21 menses» (n.º 446) — ambos homónimos",
       "forca": "direta (teor da lista de noviços de 1681)"
     },

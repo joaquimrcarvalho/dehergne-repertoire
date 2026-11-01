@@ -25,13 +25,13 @@
   "evidencias": [
     {
       "citacao": "ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 93) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/180.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg\"",
       "o_que_prova": "«Fr. Antonius Preto. Golegam. 21. 4. Optima. Philosophus ex 1.º» — 21 anos e 4 anos de Companhia em 1655 ⇒ entrada em 1651; era estudante de filosofia em Coimbra",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 181 (mesmo catálogo de 1655, fim da secção de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg\"",
       "o_que_prova": "lista «Novitii extra ordinem… qui post hunc catalogum confectum ingressi sunt»: os noviços do norte eram inscritos em Coimbra (indício para a hipótese Coimbra)",
       "forca": "indireta"
     },

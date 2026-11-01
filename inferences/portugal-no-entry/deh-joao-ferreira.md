@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Jesus — noviciado)
 entry_date: 1614 (Dehergne); o catálogo de Janeiro de 1614 atribui-lhe 19 meses de Companhia, o que aponta para entrada em meados de 1612
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -92,7 +92,7 @@ Não existe no pha o catálogo de Coimbra de 1612 nem o de 1614 (Lus. 44 II, fol
 
 ## 5. Evidência
 
-- ARSI, *Lus. 44 II*, fol. 315 (catálogo primeiro da província de Portugal, Janeiro de 1614), n.º 324, secção «Irmãos Nouiços Estudantes» do Colégio de Coimbra — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg (a imagem mostra o fólio 315) · `read_image "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg"` · prova direta
+- ARSI, *Lus. 44 II*, fol. 315 (catálogo primeiro da província de Portugal, Janeiro de 1614), n.º 324, secção «Irmãos Nouiços Estudantes» do Colégio de Coimbra — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg (a imagem mostra o fólio 315) · `read_image "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/315v.jpg"` · prova direta
   - João Ferreira, do Funchal, noviço do Colégio de Coimbra em Janeiro de 1614, com 19 meses de Companhia — prova direta de que o noviciado (e portanto a entrada) foi em Coimbra
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 130, entrada n.º 304 «Ferreira (Ferreyra), Joâo (port.) fr.» — edited (`french-ocr`) · `pha page 65 130 --edited` · prova indireta
   - «N. Funchal, île Madère, 1597 et E. 1614 (Lus. 44 II, 315). Emb. pour la Chine sur le S. Carlos, milieu d'avril 1618 (W 663)» — a notícia e a citação que aqui se localiza e se discute
@@ -106,6 +106,7 @@ Não existe no pha o catálogo de Coimbra de 1612 nem o de 1614 (Lus. 44 II, fol
 - [[João Ferreira]]
 - [[Portugal no entry 1618]]
 - [[Coimbra Entry Changes]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

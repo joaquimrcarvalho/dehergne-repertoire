@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado / Real Colégio de Jesus)
 entry_date: c. 1634 (5 anos de Companhia em 1639; Dehergne: 1635; Goa 25: 1632)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-23
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -110,11 +110,11 @@ O pha não possui os códices ARSI Lus. 44 (nem Lus. 7, Goa 25, HS 49); a prova 
 
 - Josef Wicki, *Liste der Jesuiten-Indienfahrer* (doc 66), p. 52 (impressa 298) — «**79. Aussendung: 1645, Abfahrt 6. April**», n.º **927: «P. Pedro Zuzarte, Port.»** — edited (OCR local) · `pha page 66 52 --edited` · prova direta
   - confirma a partida para a Índia a 6 de Abril de 1645, como padre, na 79.ª expedição — é a fonte «W 927» de Dehergne
-- ARSI, *Lus. 44 II*, catálogo de 1639, f. 579v-580 (secção do **Colégio de Coimbra**, cujo cabeçalho está em f. 576v), n.º 263 — «**Ir. P.° Zuzarte de Lx.ª, idade 22 an., da Comp.ª 5, boas forças, philosopho**» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg"` · prova direta
+- ARSI, *Lus. 44 II*, catálogo de 1639, f. 579v-580 (secção do **Colégio de Coimbra**, cujo cabeçalho está em f. 576v), n.º 263 — «**Ir. P.° Zuzarte de Lx.ª, idade 22 an., da Comp.ª 5, boas forças, philosopho**» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0579v-0580.jpg"` · prova direta
   - em 1639 estava no Colégio de Coimbra, com 22 anos e 5 de Companhia, estudante de filosofia — a casa de formação é Coimbra; a naturalidade («de Lx.ª») contradiz «Abrantes, bispado da Guarda» do catálogo de 1636 e «Loures» de Dehergne
-- ARSI, *Lus. 44 II*, catálogo de 1636, f. 554 (p. 51), n.º 648 — no apêndice «**ficaram fora dos catálogos os seg.**»: «**Ir. P.° Zuzarte n.al de Abrantes, Bp.° da goarda, de idade 17 a. e na Comp.ª 2, vai estudar p.ª Coimbra**» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0553v-0554.jpg"` · prova indireta
+- ARSI, *Lus. 44 II*, catálogo de 1636, f. 554 (p. 51), n.º 648 — no apêndice «**ficaram fora dos catálogos os seg.**»: «**Ir. P.° Zuzarte n.al de Abrantes, Bp.° da goarda, de idade 17 a. e na Comp.ª 2, vai estudar p.ª Coimbra**» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0553v-0554.jpg"` · prova indireta
   - primeiro registo posterior à entrada: 17 anos, natural de Abrantes (o manuscrito diz «Bp.° da goarda», que se reconcilia com a diocese de Lisboa do catálogo de 1639 — ver análise), dois anos de Companhia, mandado estudar para Coimbra
-- ARSI, *Lusitania 44 II*, f. 619 — catálogo trienal de 1645, Colégio de Coimbra, lista de casa (n. 475-476): «Fr. Petrus Jusarte natus … Dioe. Conimbri., annos c. 10 Societ., … studuit philosophia …» (manuscrito; documento ausente do pha) · `open '/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0618v-0619.jpg'` · prova indireta forte
+- ARSI, *Lusitania 44 II*, f. 619 — catálogo trienal de 1645, Colégio de Coimbra, lista de casa (n. 475-476): «Fr. Petrus Jusarte natus … Dioe. Conimbri., annos c. 10 Societ., … studuit philosophia …» (manuscrito; documento ausente do pha) · `open '/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0618v-0619.jpg'` · prova indireta forte
   - prova indirecta forte: em 1645 estava no Colégio de Coimbra com c. 10 anos de Companhia ⇒ Coimbra como casa de formação e cronologia compatível com a entrada em 1635
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), pp. 341-342, s.v. «Zuzarte (Jusarte), Pedro», n.º 918 — edited: «N. Loures, d. de Lisbonne, 1616 -et E. 1635 (Lus. 44 II, 619: JUSARTE)… V. Goa, 8 sept. 1652, pr. (Lus. 7, 68): Petrus JUSARTE. M. Lisbonne, 28 févr. 1688 (HS 49, 216). Goa 25, le dit N. 1618, E. 1632.» · `pha page 65 341 --edited` e `pha page 65 342 --edited` · `pha page 65 341 --edited` · prova direta
   - dá o ano de entrada (1635) e a cota (Lus. 44 II, 619), regista a variante Jusarte e o conflito de data com Goa 25 (1632), mas omite o lugar
@@ -126,6 +126,7 @@ O pha não possui os códices ARSI Lus. 44 (nem Lus. 7, Goa 25, HS 49); a prova 
 - [[0 Portugal no entry]]
 - [[deh-pedro-zuzarte]]
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra)
 entry_date: 1655 (Dehergne e base Timelink); o catálogo de 1655 (Lus. 45, f. 181) dá-lhe 2 anos de Companhia, o que implicaria 1653
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -109,13 +109,13 @@ Procurei «Manuel de Pereira/Pereyra/Emmanuel Pererius/Eman. Pereira» no arquiv
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 181 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 177) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova direta
+- ARSI, Lus. 45, f. 181 (catálogo trienal da província, 1655 — secção do Colégio de Coimbra, n.º 177) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova direta
   - «Fr. Emanuel Pereira. Lugar da Cruz. 17. 2.» — natural do Lugar da Cruz, 17 anos e 2 anos de Companhia em 1655 ⇒ entrada ~1653; membro do Colégio de Coimbra
-- ARSI, Lus. 45, f. 181 (mesmo catálogo, fim da secção de Coimbra (n.º 190-195)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 181 (mesmo catálogo, fim da secção de Coimbra (n.º 190-195)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/181.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
   - lista «Novitii extra ordinem Alphabeti, qui post hunc catalogum confectum ingressi sunt»: os noviços eram inscritos na casa de Coimbra — base da inferência
-- ARSI, Lus. 45, f. 177 (início da secção de Coimbra no catálogo de 1655 (p. interna 4)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/177.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 177 (início da secção de Coimbra no catálogo de 1655 (p. interna 4)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/177.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova indireta
   - «Catalogus primus Collegii Conimbricensis Anno 1655»: identifica a casa da lista em que Pereira aparece
-- ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova indireta
   - confirma Coimbra como casa de noviciado (dezasseis noviços, 1652-1654); nenhum deles é Pereira
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 238 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 238` · prova direta
   - «N. 1637, Lugar da Cruz -E. 1655 (Lus. 45, 181)» sem lugar: o problema a resolver
@@ -126,6 +126,7 @@ Procurei «Manuel de Pereira/Pereyra/Emmanuel Pererius/Eman. Pereira» no arquiv
 
 - [[0 Portugal no entry]]
 - [[deh-manuel-de-pereira-ii]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 
 ---

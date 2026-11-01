@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 14 de Março de 1652 (Dehergne, citando Lus. 46, 322 — catálogo de 1678-1696)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -87,13 +87,13 @@ Procurei «Manuel/Manoel/Emanuel Pinto» (e «Manoel Pimto», «Eman. Pinto») e
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 302v (índice alfabético do catálogo transstagano de 1661/62 (letras E-G)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/302v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/302v.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 302v (índice alfabético do catálogo transstagano de 1661/62 (letras E-G)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/302v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/302v.jpg"` · prova indireta
   - regista «Eman. Pinto» entre os membros indexados (sem página/número): em 1661/62 era membro dessa província
-- ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg"` · prova negativa
   - dezasseis noviços entrados entre 1652 e 1654; nenhum Manuel Pinto do Porto — a lista não o inclui
-- ARSI, Lus. 45, f. 116 (catálogo de 1654/55 — «Primus Catalogus Domus Probationis Vlyssiponensis») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/116.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/116.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 116 (catálogo de 1654/55 — «Primus Catalogus Domus Probationis Vlyssiponensis») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/116.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/116.jpg"` · prova negativa
   - a casa de noviciado de Lisboa em 1654/55: só membros antigos (n.º 1-8), nenhum noviço de 1652
-- ARSI, Lus. 46, f. 322 (catálogo da província, 1678-1696; na digitalização a imagem «LUS. 46/322.jpg» tem o selo 327) — manuscrito ARSI lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/317.jpg"` · prova indireta
+- ARSI, Lus. 46, f. 322 (catálogo da província, 1678-1696; na digitalização a imagem «LUS. 46/322.jpg» tem o selo 327) — manuscrito ARSI lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/317.jpg"` · prova indireta
   - verifica que neste volume os registos de irmãos coadjutores dão a data de entrada na forma «Ing. <dia> <mês> <ano>» (ex.: «Ing. 29 Mart. 652»), mas não dão o lugar de entrada; e que a numeração das imagens não coincide com os fólios selados
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 244 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 244` · prova direta
   - «N. Porto, 1637 -E. 14 mars 1652 (Lus. 46, 322)», sem lugar: o problema a resolver
@@ -102,6 +102,7 @@ Procurei «Manuel/Manoel/Emanuel Pinto» (e «Manoel Pimto», «Eman. Pinto») e
 
 - [[0 Portugal no entry]]
 - [[deh-manuel-pinto-ii]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

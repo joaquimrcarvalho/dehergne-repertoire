@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -100,7 +100,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 ## 5. Evidência
 
-- ARSI, *Lus. 46 a*, f. 19, n.º 338 (catálogo primeiro da província de Portugal, 1700) — manuscrito ARSI lido na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg"` · prova direta
+- ARSI, *Lus. 46 a*, f. 19, n.º 338 (catálogo primeiro da província de Portugal, 1700) — manuscrito ARSI lido na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg"` · prova direta
   - «Fr. Emanuel de Sousa (...) ingressus Societat. 06. Septembris an. 1690 ... Rhetoricus» — data de entrada e estudos, sem casa de entrada
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 809 (doc 65), p. 296 — edited (`dehergne-ocr`) · `pha page 65 296 --edited` · prova indireta
   - notícia biográfica: «-E. 25 août 1694 (JS 134, 413v)... Goa 27, 118v col. 2, le met au juvénat de Goa en 1697» — data de Dehergne, sem lugar
@@ -111,6 +111,7 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 - [[0 Portugal no entry]]
 - [[deh-manuel-de-sousa]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

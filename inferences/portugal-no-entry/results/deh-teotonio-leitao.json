@@ -21,7 +21,7 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lus. 47*, f. 1 — «Catalogus Missionariorum qui ab Aprili anni 1696 usque ad Aprilis anni 1700 in Indias vetterunt» — manuscrito ARSI lido na imagem digitalizada",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/001.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/001.jpg\"",
       "o_que_prova": "«Anno 1700 (...) Fr. Theotonius Leytam Lusit.» — confirma o embarque de 1700 (e portanto a data de Dehergne), não o lugar de entrada",
       "forca": "direta"
     },

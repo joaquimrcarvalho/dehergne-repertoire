@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra) — atribuição provisória
 entry_date: 1707-02-17 (o catálogo de 1711 situa-o no Colégio de Coimbra)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-22
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -97,7 +97,7 @@ Caetano Lopes (Lopez), português de Lisboa (n. 2 de Julho de 1690), nome chinê
 
 A entrada está em f. 126, n.º 172. Lendo para trás, o cabeçalho é «**Collegium Conimbricense**» no meio de f. 120 (n.º 48), que abre a série de entradas em que a dele se inclui; o índice datilografado do códice (f. 000v) confirma a correspondência — Coimbra 1711 = 120, Évora = 129v.
 
-— ARSI Lus. 47, f. 126, n.º 172; f. 120, n.º 48 — imagens `LUS. 47/126.jpg`, `LUS. 47/120.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/126.jpg"`
+— ARSI Lus. 47, f. 126, n.º 172; f. 120, n.º 48 — imagens `LUS. 47/126.jpg`, `LUS. 47/120.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/126.jpg"`
 
 **Ressalva:** o catálogo é uma lista de residência e são 4 anos de Companhia. Em 1711 o Colégio de Coimbra não tem lista de noviços (os noviciados estavam em Lisboa e Évora), mas em **1707**, ano da entrada, Coimbra era casa de noviciado — pelo que a atribuição, embora plausível, não é uma declaração de noviciado. Fica em confiança média.
 
@@ -107,11 +107,11 @@ Ressalva: o catálogo de 1711 é uma lista de residência e não declara o novic
 
 ## 5. Evidência
 
-- ARSI Lus. 47, f. 120, n.º 48 — cabeçalho «Collegium Conimbricense» que abre a série em que f. 126, n.º 172 aparece; f. 000v — índice: 1711 «Coimbra 120, Évora 129v» · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg" ; open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta
+- ARSI Lus. 47, f. 120, n.º 48 — cabeçalho «Collegium Conimbricense» que abre a série em que f. 126, n.º 172 aparece; f. 000v — índice: 1711 «Coimbra 120, Évora 129v» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta
   - situa Caetano Lopes no Colégio de Coimbra em 1711 — atribuição provisória a Coimbra
-- ARSI, *Lusitania* 47, f. 126, n.º 172 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/126.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/126.jpg"` · prova direta quanto à data; indirecta quanto ao lugar
+- ARSI, *Lusitania* 47, f. 126, n.º 172 (catálogo de 1711, secção da Missão de Coimbra) — imagem `LUS. 47/126.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/126.jpg"` · prova direta quanto à data; indirecta quanto ao lugar
   - «Fr. Caietanus Lopes Ulyssip. Dioec. eiusdem, natus 2. Jul. an. 1690, ingressus Societ. 17. Febr. 1707 ... modo Philosophiae 2 anni» — data exacta confirmada; residência em Coimbra em 1711
-- ARSI, *Lusitania* 47, f. 000v — índice do códice: catálogos de 1700, 1705, 1711 e 1717 (sem 1707-1710) — imagem `LUS. 47/000v.jpg` · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta (lacuna documental)
+- ARSI, *Lusitania* 47, f. 000v — índice do códice: catálogos de 1700, 1705, 1711 e 1717 (sem 1707-1710) — imagem `LUS. 47/000v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova indireta (lacuna documental)
   - lacuna documental: não há lista de noviços do biénio 1707-1710
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 193, n.º 486 « Lopes (Lopez), Caetano (port.) » — edited (`french-ocr`) · `pha page 65 193 --edited` · `pha page 65 193 --edited` · prova indireta (fonte da data)
   - «N. 2 juill. 1690, Lisbonne -E. 17 févr. 1707 (Lus. 47, 126)» — notícia-base, com o lugar em branco
@@ -125,6 +125,7 @@ Ressalva: o catálogo de 1711 é uma lista de residência e não declara o novic
 - [[0 Portugal no entry]]
 - [[deh-caetano-lopes]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

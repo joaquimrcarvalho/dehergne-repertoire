@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado) — inferência, com Lisboa e Évora como alter
 entry_date: 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -144,13 +144,13 @@ Não encontrei nenhuma lista de noviços que inclua Simão Rodrigues: procurei n
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 319 (catálogo de 1665 — secção «Collegium Eborense», n.º 287) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/319.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/319.jpg"` · prova direta
+- ARSI, Lus. 45, f. 319 (catálogo de 1665 — secção «Collegium Eborense», n.º 287) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/319.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/319.jpg"` · prova direta
   - «Fr. Simon Roderigus Eborensis: … aetatis 20: soc. 5/6» — Simão Rodrigues, de Évora, 20 anos e 5-6 anos de Companhia em 1665 ⇒ entrada em 1659; era membro do Colégio de Évora
-- ARSI, Lus. 45, f. 316v (catálogo de 1665 — início da secção de Évora (p. interna 16)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/316v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg"` · prova indireta
+- ARSI, Lus. 45, f. 316v (catálogo de 1665 — início da secção de Évora (p. interna 16)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/316v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/316v.jpg"` · prova indireta
   - título «Collegium Eborense»: identifica a casa da lista em que aparece o n.º 287
-- ARSI, Lus. 45, f. 297v (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», lista «Novitij» (entradas de 1659-1662)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/297v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 297v (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», lista «Novitij» (entradas de 1659-1662)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/297v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg"` · prova negativa
   - lista de noviços da casa de noviciado de Lisboa, com os mais antigos entrados em 1659 («ingressus 2 Jan. 1659», «4 Maij 1659»); não inclui Simão Rodrigues
-- ARSI, Lus. 45, f. 303v (índice alfabético do catálogo transstagano de 1661/62 (letras P-V)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/303v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/303v.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 303v (índice alfabético do catálogo transstagano de 1661/62 (letras P-V)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/303v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/303v.jpg"` · prova negativa
   - o bloco dos Simões (Simon de Almeida, Simon de Moraes, Simon Cachero, …) não tem nenhum «Simon Roderigus»: não era membro daquela província em 1661/62
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 268 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 268` · prova direta
   - «N. « Eborensis », Evora, 28 oct. 1645 (… Lus. 45, 319). E. 15 oct. 1659» — o ano e a naturalidade, sem lugar de entrada
@@ -159,6 +159,7 @@ Não encontrei nenhuma lista de noviços que inclua Simão Rodrigues: procurei n
 
 - [[0 Portugal no entry]]
 - [[deh-simao-rodrigues]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

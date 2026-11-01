@@ -240,7 +240,7 @@ def rewrite_frontmatter(text: str, pid: str, src_name: str, uses_arsi: bool) -> 
     keep = [ln for ln in fm if not ln.startswith(("created:", "copied:", "source_note", "source_repo", "copy", "arsi_"))]
     add = [
         f"source_note: inferences/portugal-no-entry/{src_name}",
-        "source_repo: mhk-home/sources/dehergne",
+        "source_repo: ~/develop/dehergne-repertoire-mbook-air (inferences/portugal-no-entry)",
         f"copied: {TODAY}",
         "copy: cópia automática — editar o original em inferences/portugal-no-entry/ e re-copiar",
     ]
@@ -259,7 +259,9 @@ def main() -> int:
     print(f"slug validation: {report['checked']} URLs in archive notes, "
           f"{report['matched']} matched by our slug, unmatched={report['unmatched']}")
 
-    notes = sorted(f for f in os.listdir(HERE) if f.endswith(".md") and f != "Índice - Portugal no entry.md")
+    # only the per-person notes (deh-<id>.md) are copied; the working documents of
+    # the folder (HANDOVER.md, etc.) are not vault notes
+    notes = sorted(f for f in os.listdir(HERE) if f.startswith("deh-") and f.endswith(".md"))
     if not args.check:
         os.makedirs(VAULT_DIR, exist_ok=True)
 
@@ -281,7 +283,7 @@ def main() -> int:
             "\n\n---\n\n"
             f"> [!info] Origem e actualização\n"
             f"> Cópia automática da nota de inferência `inferences/portugal-no-entry/{fn}` "
-            f"do projecto Timelink (`mhk-home/sources/dehergne`), copiada a {TODAY}.\n"
+            f"do projecto Timelink (`~/develop/dehergne-repertoire-mbook-air (inferences/portugal-no-entry)`), copiada a {TODAY}.\n"
             f"> A nota original é a fonte de verdade: alterações devem ser feitas lá e "
             f"re-copiadas com `python3 tools/vault_copy.py`.\n"
             f"> As ligações `pha serve` (127.0.0.1:8765) só resolvem com o servidor de leitura "
@@ -311,7 +313,7 @@ def main() -> int:
             "\n\n---\n\n"
             f"> [!info] Origem e actualização\n"
             f"> Cópia automática de `inferences/portugal-no-entry/{idx}` "
-            f"(projecto Timelink, `mhk-home/sources/dehergne`), copiada a {TODAY}.\n"
+            f"(projecto Timelink, `~/develop/dehergne-repertoire-mbook-air (inferences/portugal-no-entry)`), copiada a {TODAY}.\n"
         )
         if not args.check:
             with open(os.path.join(VAULT_DIR, idx), "w", encoding="utf-8") as fh:

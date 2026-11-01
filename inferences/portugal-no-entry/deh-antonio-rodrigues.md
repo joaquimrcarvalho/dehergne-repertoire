@@ -8,7 +8,7 @@ entry_place: Évora (noviciado do Colégio do Espírito Santo de Évora)
 entry_date: 1571-02-18
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -124,6 +124,8 @@ O fólio «Lus. 44 I, 15» (segunda identificação de Dehergne, nascido em Lisb
 - [[0 Portugal no entry]]
 - [[deh-antonio-rodrigues]]
 - **doc 52** — Franco, Antonio. Imagem da virtude em o noviciado da Companhia de Jesus do Real Collegio do Espirito Santo de Evora do Reyno de Portugal ... (Lisboa: na Officina Real Deslandesiana, 1714). (fetched-from-zotero-unverified)
+- **doc 83** — Wicki, Josef. Documenta Indica, vol. XII (1580-1583). (Romae: Institutum Historicum Societatis Iesu, 1972). (agent-drafted-unverified (volume, years, series number and year read from this volume's own title pages in the archive transcription, 2026-10-20; year and series number also checked against the MHSI series bibliography in AHSI 2012))
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

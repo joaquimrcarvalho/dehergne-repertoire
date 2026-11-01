@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação — noviciado da província; casa do Mon
 entry_date: 1708-03-21
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -120,11 +120,11 @@ Não existe neste acervo nenhum catálogo da província de Portugal entre 1705 e
 
 ## 5. Evidência
 
-- ARSI, *Lus. 47*, f. 126v, n.º 193 (catálogo primeiro da província de Portugal, 1711), secção do Colégio de Coimbra — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/126v.jpg"` · prova direta
+- ARSI, *Lus. 47*, f. 126v, n.º 193 (catálogo primeiro da província de Portugal, 1711), secção do Colégio de Coimbra — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/126v.jpg"` · prova direta
   - «Fr. Stephanus Lopes ex oppido S. Antonii de Terrugem Dioec. Elven. natus 21 Mart. 1693. ingressus Societ. 21 Martii 1708 (...) Theologiae studet» — confirma a data de entrada (21 Mar. 1708) e a naturalidade; não nomeia o lugar de entrada; em 1711 estava no Colégio de Coimbra, já fora do noviciado
-- ARSI, *Lus. 47*, f. 143, secção «Novitii» da Casa de Provação de Lisboa (catálogo de 1711; a Casa de Provação ocupa os ff. 142v-143v) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/143.jpg"` · prova indireta
+- ARSI, *Lus. 47*, f. 143, secção «Novitii» da Casa de Provação de Lisboa (catálogo de 1711; a Casa de Provação ocupa os ff. 142v-143v) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/143.jpg"` · prova indireta
   - os noviços da província presentes em 1711 (n.os 583-594) entraram entre Agosto de 1709 e Março de 1710 e encontram-se na Casa de Provação de Lisboa: o noviciado da província era em Lisboa, não em Coimbra
-- ARSI, *Lus. 47*, f. 120 (início da secção do Colégio de Coimbra no catálogo de 1711, com o título da casa e os primeiros padres) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg"` · prova contexto
+- ARSI, *Lus. 47*, f. 120 (início da secção do Colégio de Coimbra no catálogo de 1711, com o título da casa e os primeiros padres) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg"` · prova contexto
   - o Colégio de Coimbra abre no fólio 120 (nota do vault: Coimbra ff. 120-129), com padres de entrada antiga (1637, 1657, 1662, 1629) e depois os irmãos estudantes entrados em 1707-1708 — é a casa onde Estêvão Lopes estudava, não o noviciado
 - Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited` · `pha page 54 25 --edited` · prova indireta
   - «No anno de mil seiscentos e dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa (...) Porem no anno de mil seiscentos e trinta (...) se mandaram pera os dous Collegios alguns Noviços» — história dos noviciados da província

@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação / Monte Olivete, Cotovia)
 entry_date: 1699-05-28 (catálogo de 1700); Dehergne e a base dizem 1700
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -94,11 +94,11 @@ Não há no pha catálogos portugueses posteriores a 1625 nem os códices ARSI. 
 
 ## 5. Evidência
 
-- ARSI, *Lusitania* 47, f. 23v, n.º 439 (catálogo de 1700, secção «Domus Probationis Ulyssipanensis», lista dos «Novitii Scholastici») — imagem `LUS. 47/023v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg"` · prova direta
+- ARSI, *Lusitania* 47, f. 23v, n.º 439 (catálogo de 1700, secção «Domus Probationis Ulyssipanensis», lista dos «Novitii Scholastici») — imagem `LUS. 47/023v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg"` · prova direta
   - «Fr. Emanuel Camello ex oppido Penajoya, Dioec. Lamecen., an. 18» — noviço da Casa de Provação de Lisboa ⇒ lugar de entrada Lisboa
-- ARSI, *Lusitania* 47, f. 16, n.º 223 (catálogo de 1700, lista «Missionarii») — imagem `LUS. 47/016.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/016.jpg"` · prova direta (data)
+- ARSI, *Lusitania* 47, f. 16, n.º 223 (catálogo de 1700, lista «Missionarii») — imagem `LUS. 47/016.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/016.jpg"` · prova direta (data)
   - «Fr. Emanuel Camello ex oppido Penajoia, Dioec. Lamec., an. 19, ingressus Societ. 28. Maij 699» — data exacta da entrada (28 de Maio de 1699)
-- ARSI, *Lusitania* 47, f. 115v (catálogo de 1711, «Supplementum», lista «Ad Sinensem») — imagem `LUS. 47/115v.jpg` (manuscrito lido directamente) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg"` · prova indireta
+- ARSI, *Lusitania* 47, f. 115v (catálogo de 1711, «Supplementum», lista «Ad Sinensem») — imagem `LUS. 47/115v.jpg` (manuscrito lido directamente) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg"` · prova indireta
   - «Fr. Emmanuel Camello Novitius ...» — ainda noviço quando destinado à missão da China; é a folha citada por Dehergne, mas não dá a casa do noviciado
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 132, n.º 132 « Camello, Manuel (port.) » — edited (`french-ocr`) · `pha page 65 132 --edited` · `pha page 65 132 --edited` · prova indireta (fonte da data a corrigir)
   - «E. 1700 (Lus. 47, 115v). Emb. 1701, étant novice, pour la Chine (W 1446...» — notícia-base, com o lugar em branco e a data que o catálogo de 1700 corrige
@@ -108,6 +108,7 @@ Não há no pha catálogos portugueses posteriores a 1625 nem os códices ARSI. 
 - [[0 Portugal no entry]]
 - [[deh-manuel-camello]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

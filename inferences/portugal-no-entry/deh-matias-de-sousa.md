@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Jesus — noviciado)
 entry_date: 1611 (Dehergne, com 14 anos); o catálogo de Janeiro de 1614 dá-lhe 3 anos de Companhia
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -104,7 +104,7 @@ Não estão no pha os catálogos que Dehergne cita (Lus. 44 II, 327 e 620v); só
 
 ## 5. Evidência
 
-- ARSI, *Lus. 39*, fol. 71 (catálogo terceiro da província de Portugal, 1612), lista do Colégio de Coimbra, secção «Irmãos Nouiços»: «Matias de Sousa» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg (a imagem mostra o spread 70v + 71) · `read_image "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg"` · prova direta
+- ARSI, *Lus. 39*, fol. 71 (catálogo terceiro da província de Portugal, 1612), lista do Colégio de Coimbra, secção «Irmãos Nouiços»: «Matias de Sousa» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg (a imagem mostra o spread 70v + 71) · `read_image "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/070v.jpg"` · prova direta
   - Matias de Sousa era noviço do Colégio de Coimbra em 1612 — prova do noviciado em Coimbra
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 297, entrada n.º 810 «Sousa, Matias de (port.) P.» — edited (`french-ocr`) · `pha page 65 297 --edited` · prova indireta
   - «N. 1597, Amarante, d. de Braga - E. 1611 à 14 ans (Lus. 44 II, 327). M. A. (ibid., 620v). Emb. sur le S. Carlos avec Nicolas Trigault pour la Chine, 16 avril 1618 (W 661)»
@@ -117,6 +117,7 @@ Não estão no pha os catálogos que Dehergne cita (Lus. 44 II, 327 e 620v); só
 - [[deh-matias-de-sousa]]
 - [[Matias de Sousa]]
 - [[Coimbra Entry Changes]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---

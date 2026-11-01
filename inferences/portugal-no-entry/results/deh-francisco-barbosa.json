@@ -17,7 +17,7 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 46, f. 255v (catálogo trienal de 1693), n.º 132: «Fr. ... Barbosa, ex oppido Scalabis. Diæc. Ulyssiponens., natus an. 671, ingressus Societ. 21 Januarii an. 686, viribus mediocribus. Philosophiae 4. anni.» — manuscrito ARSI lido directamente na imagem digital",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/252v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/252v.jpg\"",
       "o_que_prova": "a data de entrada (21 de Janeiro de 1686) e a naturalidade; NÃO prova o lugar de entrada",
       "forca": "direta"
     },

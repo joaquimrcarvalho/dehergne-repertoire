@@ -8,7 +8,7 @@ entry_place: «in mari» — admitido a bordo, na viagem de Portugal para a Índ
 entry_date: 1716-03-13
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -93,6 +93,7 @@ ARSI Goa 26, ff. 135v e 149v (citado por Dehergne) não está em disco; ARSI Lus
 
 - [[0 Portugal no entry]]
 - [[deh-pedro-de-figueiredo-ii]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

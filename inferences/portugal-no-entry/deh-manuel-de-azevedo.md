@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação — noviciado)
 entry_date: 1597-05-10
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -104,11 +104,11 @@ Fólios inspecionados nas imagens ARSI de Lus. 44 I: fólio 115 (primeira prova�
 
 ## 5. Evidência
 
-- ARSI, Lus. 44 I, fólio 116, «Suplemento do Primeiro Catalogo da casa da Provação de Lx.ª do ano de 97», n.º 3 — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg (a imagem mostra o fólio 116, numerado no canto inferior direito) · `read_image "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg"` · prova direta
+- ARSI, Lus. 44 I, fólio 116, «Suplemento do Primeiro Catalogo da casa da Provação de Lx.ª do ano de 97», n.º 3 — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg (a imagem mostra o fólio 116, numerado no canto inferior direito) · `read_image "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/115v.jpg"` · prova direta
   - «Manoel d'Azevedo da cidade e Bispado de Viseu 16 anos de idade, entrou na primeira provação a 10 de Maio, é estudante, andava no primeiro curso do Colégio de Coimbra» — entrada no noviciado de Lisboa a 10 de Maio de 1597 (prova direta do lugar e da data)
-- ARSI, Lus. 44 I, fólio 115, «Suplemento do primeiro Catalago da Provação do Colégio d'Évora de 97» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg · `read_image "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg"` · prova indireta
+- ARSI, Lus. 44 I, fólio 115, «Suplemento do primeiro Catalago da Provação do Colégio d'Évora de 97» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg · `read_image "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/114v.jpg"` · prova indireta
   - negativa útil: a primeira provação de Évora em 1597 tem nove nomes (Estêvão da Ponte, Rodrigo da Costa, Diogo Roiz, António d'Amaral, Pero Barreto, Manoel Ribeiro, Tomás Malhos, Manoel Lameira, Lourenço Pires) e não inclui Manuel de Azevedo
-- ARSI, Lus. 44 I, fólio 117, «Suplemento do Primeiro catálogo da Provação do Colégio de Coimbra de 97» — imagem digitalizada /Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg · `read_image "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg"` · prova indireta
+- ARSI, Lus. 44 I, fólio 117, «Suplemento do Primeiro catálogo da Provação do Colégio de Coimbra de 97» — imagem digitalizada /Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg · `read_image "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 I/116v.jpg"` · prova indireta
   - negativa útil: a primeira provação de Coimbra em 1597 (António de Seixa, António Lopes, Mateus Talboto, Tomás Bray, Miguel Carvalho, Diogo Pereira, António Ferreira, Manuel Nogueira, Miguel de Faria, António Couro, P.º Alves, Fr.º Roiz) não inclui Manuel de Azevedo
 - Dehergne, Répertoire des Jésuites de Chine (doc 65), p. 58, entrada n.º 60 «Azevedo, Manuel de (port.) P.» — edited (french-ocr) · `pha page 65 58 --edited` · prova indireta
   - «N. 1581, en la cité de Vizeu (Lus. 44 I, 279 et E. 1597. Emb. sur le S. Felipe, 8 avr. 1614 (W 598) ... V. 11 févr. 1614, Evora, pr. (Lus. 3, 272) ... M. 3 févr. 1650, Macao» — a naturalidade, o ano de entrada (1597, não 1587) e a profissão em Évora que gera a sugestão da tabela
@@ -120,6 +120,7 @@ Fólios inspecionados nas imagens ARSI de Lus. 44 I: fólio 115 (primeira prova�
 - [[0 Portugal no entry]]
 - [[deh-manuel-de-azevedo]]
 - [[Missionários com local de entrada desconhecido - referências LUS]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 54** — Franco (S.I.), Antonio. Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra em Portugal ... (Évora; Coimbra: Vol. I Évora, na Officina da Universidade;Vol. II Coimbra, No Real Collegio das Artes da Companhia de Jesus, 1719). (fetched-from-zotero-unverified)
 
 ---

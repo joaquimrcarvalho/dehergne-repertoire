@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -101,19 +101,20 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 ## 5. Evidência
 
-- ARSI, *Lus. 46 a*, f. 19 (catálogo primeiro da província de Portugal, ano 1700), n.os 338-339 — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg"` · prova direta
+- ARSI, *Lus. 46 a*, f. 19 (catálogo primeiro da província de Portugal, ano 1700), n.os 338-339 — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg"` · prova direta
   - «Fr. Ioannes Duarte, ex opp. Monte major Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690, viribus bonis, Rhetoricus» — confirma a data de entrada (17 Jul. 1690) e a naturalidade, mas não nomeia o lugar de entrada; em 1700 estava em Lisboa (Colégio de S. Antão)
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 266 (doc 65), p. 118 — raw (`dehergne-ocr`) · `pha page 65 118` · prova indireta
   - notícia biográfica: «-E. 17 juill. 1690 (1689, selon JS 134, 435). Emb. 1696 (W 1361)» — data e cota, sem lugar
 - António Franco, *Synopsis* (doc 16), p. 491 — raw (`franco-ocr`) · `pha page 16 491` · prova contexto
   - «An. 1696. P. Joannes Duarte. Luc.» — lista dos que partiram para a missão em 1696; não é a entrada
-- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/341v.jpg"` · prova contexto
+- ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/341v.jpg"` · prova contexto
   - o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-joao-duarte]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 16** — Franco, António; National Central Library of Rome. Synopsis annalium Societatis Jesu in Lusitania ab anno 1540. usque ad annum 1725. Authore R. P. Antonio Franco Societatis ejusdem sacerdote. (sumptibus Philippi, Martini, & Joannis Veith, hæredum, 1726). (fetched-from-zotero-unverified)
 
 ---

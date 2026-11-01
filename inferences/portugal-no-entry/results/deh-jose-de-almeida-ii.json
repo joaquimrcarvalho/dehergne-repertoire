@@ -25,25 +25,25 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 46, p. 140, n.º 484 (registo dos noviços da «Domus Probationis» no catálogo de 1685) — imagem `LUS. 46/139.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/139.jpg\"",
       "o_que_prova": "«Fr. Josephus de Almeyda. Ulyssiponensis. an. 20 … dedit die 16. Aprilis 1684. Viribus bonis.» — noviço da Domus Probationis de Lisboa, entrada a 16 de Abril de 1684",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, p. ~137v, n.º 422 (catálogo de 1685) — imagem `LUS. 46/136v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/136v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/136v.jpg\"",
       "o_que_prova": "«Fr. Josephus de Almeyda, Ulyssiponensis, an. 27, Societ. 12, viribus bonis, docet …» — homónimo mais velho, entrado c. 1673, que explica o «N. 1658 / E. 1673» da base",
       "forca": "direta (para o homónimo)"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, p. ~140, cabeça «Fratres Novitii» no n.º 474, com noviços datados de Agosto de 1682 a 1683 (catálogo de 1685) — imagem `LUS. 46/138v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/138v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/138v.jpg\"",
       "o_que_prova": "a lista «Fratres Novitii» (onde está o n.º 484) insere-se no fim da secção da Domus Probationis e regista as entradas desde 1682",
       "forca": "indireta (contexto da prova)"
     },
     {
       "citacao": "ARSI, *Lusitania* 46, f. 000v — folha de guarda com a tabela datilografada «Lus.46, 1-376 / Catalogi triennales Lus. Prov. ae 1678, 1681, 1685, 1690, 1693, 1696» (uma coluna por ano, uma linha por casa) — imagem `LUS. 46/000v.jpg` (manuscrito/tabela lida directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/000v.jpg\"",
       "o_que_prova": "estrutura do códice: cada catálogo está organizado por casas; para 1678 «Conimbricens. C 2v … D.Prb 14»; para 1681 «Conimbricens. C 54 … Ulyssip. S.Ant. C 68v … D.Prb 70v … Bracarens. C 72 … Portuens. C 73v»; para 1685 «Conimbricens. C 121 … Eborens./Ulyssip. S.Ant. C 136 … D.Prb 138 … Bracarens. C 140v»; para 1690 «Conimbricens. C 195 … D.Prb 206 … Bracarens. C 211v … Portuens. C 212»",
       "forca": "indireta (instrumento de navegação do códice)"
     },

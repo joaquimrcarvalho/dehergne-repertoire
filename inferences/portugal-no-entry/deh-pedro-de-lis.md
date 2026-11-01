@@ -8,7 +8,7 @@ entry_place: Lisboa (noviciado da Companhia na corte) — inferência
 entry_date: 1649-08-15
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -109,6 +109,7 @@ Nenhum documento do pha nomeia Pedro de Lis (nem Petrus/Pero de Lis/Liz/Delis) n
 
 - [[0 Portugal no entry]]
 - [[deh-pedro-de-lis]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 53** — Franco, Antonio. Imagem da virtude em o noviciado da Companhia de Jesus na corte de Lisboa ... (Coimbra: no Real Collegio das Artes da Companhia de Jesus, 1717). (fetched-from-zotero-unverified)
 - **doc 52** — Franco, Antonio. Imagem da virtude em o noviciado da Companhia de Jesus do Real Collegio do Espirito Santo de Evora do Reyno de Portugal ... (Lisboa: na Officina Real Deslandesiana, 1714). (fetched-from-zotero-unverified)
 

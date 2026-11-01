@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1663 (Dehergne, citando Lus. 45, 394)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -95,15 +95,15 @@ Procurei «João/Joan/Ioannes Fernandes Fou/Fo/Foo», «Ignatius Pereira» e «F
 
 ## 5. Evidência
 
-- ARSI, Lus. 45, f. 394 (catálogo de 1672 — fim da lista da casa anterior («Collegium Conimbricense» começa no mesmo fólio, no n.º 46)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/394.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/394.jpg"` · prova direta
+- ARSI, Lus. 45, f. 394 (catálogo de 1672 — fim da lista da casa anterior («Collegium Conimbricense» começa no mesmo fólio, no n.º 46)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/394.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/394.jpg"` · prova direta
   - «Fr. Ignatius Pereira ex Insula vulgo Madeira, an. 32, Societ. 9» — natural da Madeira, 32 anos e 9 anos de Companhia em 1672 ⇒ entrada em 1663; é o registo que o Dehergne cita, mas com outro nome
-- ARSI, Lus. 45, f. 322v (catálogo de 1665 — «Domus Probationis Vlyssiponensis», lista «Novitij» (ingressos de 1662-1665)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/322v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/322v.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 322v (catálogo de 1665 — «Domus Probationis Vlyssiponensis», lista «Novitij» (ingressos de 1662-1665)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/322v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/322v.jpg"` · prova negativa
   - sete entradas datadas (Didacus Marques 4 Out. 1665; Nuno Correa 2 Dez. 1664; Lourenço de Matos 15 Out. 1663; Emanuel Alves 20 Dez. 1663; João de Matos 15 Fev. 1662; Sebastião Lobo 25 Set. 1663; Emanuel Marques 24 Maio 1664): nenhuma é Fernandes/Pereira da Madeira
-- ARSI, Lus. 45, f. 323 (catálogo de 1665 — continuação da lista «Novitij» da Casa de Provação de Lisboa (n.º 406-422)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/323.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/323.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 323 (catálogo de 1665 — continuação da lista «Novitij» da Casa de Provação de Lisboa (n.º 406-422)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/323.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/323.jpg"` · prova negativa
   - mais dezassete entradas datadas (1662-1664), entre as quais vários irmãos coadjutores temporais; nenhum Fernandes/Pereira da Madeira
-- ARSI, Lus. 45, f. 315v (catálogo de 1665 — «SS. Seminarii Maranhonis», lista «Novitij Scholastici») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/315v.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/315v.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 315v (catálogo de 1665 — «SS. Seminarii Maranhonis», lista «Novitij Scholastici») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/315v.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/315v.jpg"` · prova negativa
   - noviços escolásticos do Seminário do Maranhão com ingressos de 1663-1664 (Marcelo de Faria, Dâmaso Esgueira, Inácio Emanuel, José …, Emanuel de Lima, Tomé Pereira, etc.); não inclui Fou
-- ARSI, Lus. 45, f. 326 (catálogo de 1665 — «Collegium Funcalense» (Funchal)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/326.jpg») · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/326.jpg"` · prova negativa
+- ARSI, Lus. 45, f. 326 (catálogo de 1665 — «Collegium Funcalense» (Funchal)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/326.jpg») · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/326.jpg"` · prova negativa
   - a lista do colégio da Madeira em 1665 não tem nenhum noviço nem nenhum Fernandes/Pereira de 1663: só padres e irmãos antigos
 - Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 126 — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 126` · prova direta
   - «N. « ex insula vulgo Madeira », 1640 -E. 1663 (Lus. 45, 394)» sem lugar: o problema a resolver
@@ -112,6 +112,7 @@ Procurei «João/Joan/Ioannes Fernandes Fou/Fo/Foo», «Ignatius Pereira» e «F
 
 - [[0 Portugal no entry]]
 - [[deh-joao-fernandes-fou]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1635 (ano indicado por Dehergne, com a cota Lus. 44 II, 612 — cota ausente deste arquivo)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -121,6 +121,7 @@ Procurou-se «Luis de Moura», «Luís de Moura», «Ludovicus/Ludovico de Moura
 
 - [[0 Portugal no entry]]
 - [[deh-luis-de-moura]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 - **doc 67** — Memorial das Missões que se fizeram desta Provincia desdo Ano de 1541 no qual se começou a fundar a companhia em Portugal. Biblioteca Pública de Évora, Códice CXV 2-8, nº9. (imported-from-zotero-rdf-unverified)

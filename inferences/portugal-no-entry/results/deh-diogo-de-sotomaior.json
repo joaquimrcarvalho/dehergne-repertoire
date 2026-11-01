@@ -25,25 +25,25 @@
   "evidencias": [
     {
       "citacao": "ARSI, Lus. 45, f. 302 (índice alfabético do catálogo transstagano de 1661/62, bloco D) — manuscrito ARSI lido em imagem (LUS. 45/302.jpg)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/302.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/302.jpg\"",
       "o_que_prova": "regista «Didac. de Sotomaio[r]» entre os membros indexados, mas sem página nem número — vestígio inutilizável (ele embarcara a 6 de Abril de 1661)",
       "forca": "indireta"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 56 (índice alfabético do catálogo de 1651 (letras L-V, onde estaria sob D em f. 55)) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/56.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/56.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/56.jpg\"",
       "o_que_prova": "confirma que o índice do catálogo de 1651 cobre as casas transstaganas (Évora, Elvas, Vila Viçosa, Faro, Portalegre, Casa Professa de Lisboa) mas não menciona nenhum Sotomaior",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 79 (catálogo de 1654 — lista «Novitij» do Colégio de Coimbra) — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/79.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/79.jpg\"",
       "o_que_prova": "dezasseis noviços (entrados entre 1652 e 1654), nenhum Sotomaior: a lista não cobre 1651",
       "forca": "negativa"
     },
     {
       "citacao": "ARSI, Lus. 45, f. 297v (catálogo transstagano de 1661/62 — «Domus Probationis Vlyssiponensis», início da lista «Novitij») — manuscrito ARSI lido directamente em imagem digital (ficheiro «LUS. 45/297v.jpg»)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/297v.jpg\"",
       "o_que_prova": "lista de noviços da casa de noviciado de Lisboa com entradas de 1659 em diante; nenhum Sotomaior",
       "forca": "negativa"
     },

@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado)
 entry_date: 1671-05-20 (manuscrito ARSI; Dehergne lê 20-03-1671)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -102,7 +102,7 @@ Não se encontrou nenhuma fonte que nomeie a casa de entrada do homem de Bombarr
 
 ## 5. Evidência
 
-- ARSI Lus. 46, f. 347, n.º 657 (imagem `LUS. 46/342.jpg`, numeração impressa 347-348) — leitura directa da imagem (manuscrito, não OCR) · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/342.jpg"` · prova direta quanto à data e à origem, silente quanto ao lugar
+- ARSI Lus. 46, f. 347, n.º 657 (imagem `LUS. 46/342.jpg`, numeração impressa 347-348) — leitura directa da imagem (manuscrito, não OCR) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/342.jpg"` · prova direta quanto à data e à origem, silente quanto ao lugar
   - origem (Bombarral, diocese de Lisboa), idade 42, 25 anos de Companhia e data de entrada «20 Mai. 671» — é este o fólio citado por Dehergne; não nomeia a casa de entrada
 - Pfister, *Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine* (doc 47), p. 516 do PDF = p. 477 impressa, n.º 204 «Le P. Jean Baptista» — raw (`french-ocr`) · `cd /Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry && python3 tools/read_page.py 47 516 --raw` · prova direta (notícia editorial), mas de identificação duvidosa
   - «Originaire du diocèse de Coïmbre, il entra au noviciat de cette ville» — a única nomeação de casa de noviciado, sob a cronologia E. 12 Nov. 1681
@@ -114,6 +114,7 @@ Não se encontrou nenhuma fonte que nomeie a casa de entrada do homem de Bombarr
 - [[0 Portugal no entry]]
 - [[deh-joao-baptista]]
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 

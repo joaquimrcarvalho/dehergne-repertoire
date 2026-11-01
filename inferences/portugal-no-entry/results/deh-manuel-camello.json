@@ -28,19 +28,19 @@
   "evidencias": [
     {
       "citacao": "ARSI, *Lusitania* 47, f. 23v, n.º 439 (catálogo de 1700, secção «Domus Probationis Ulyssipanensis», lista dos «Novitii Scholastici») — imagem `LUS. 47/023v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/023v.jpg\"",
       "o_que_prova": "«Fr. Emanuel Camello ex oppido Penajoya, Dioec. Lamecen., an. 18» — noviço da Casa de Provação de Lisboa ⇒ lugar de entrada Lisboa",
       "forca": "direta"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 16, n.º 223 (catálogo de 1700, lista «Missionarii») — imagem `LUS. 47/016.jpg` (manuscrito lido directamente; entrada ampliada em cópia de trabalho)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/016.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/016.jpg\"",
       "o_que_prova": "«Fr. Emanuel Camello ex oppido Penajoia, Dioec. Lamec., an. 19, ingressus Societ. 28. Maij 699» — data exacta da entrada (28 de Maio de 1699)",
       "forca": "direta (data)"
     },
     {
       "citacao": "ARSI, *Lusitania* 47, f. 115v (catálogo de 1711, «Supplementum», lista «Ad Sinensem») — imagem `LUS. 47/115v.jpg` (manuscrito lido directamente)",
-      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg\"",
+      "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/115v.jpg\"",
       "o_que_prova": "«Fr. Emmanuel Camello Novitius ...» — ainda noviço quando destinado à missão da China; é a folha citada por Dehergne, mas não dá a casa do noviciado",
       "forca": "indireta"
     },

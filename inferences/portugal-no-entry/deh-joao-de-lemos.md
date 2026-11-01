@@ -8,7 +8,7 @@ entry_place: Coimbra (Noviciado de Coimbra)
 entry_date: 1726-06-02
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-10-19
+created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -95,7 +95,7 @@ O caso fica resolvido. Nota: o fólio citado por Dehergne para a data (ARSI, Lus
 
 - Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 463 (João de Lemos) na base Timelink, atributo `dehergne/obs` · `python3 tools/packet.py deh-joao-de-lemos` · prova indireta
   - data de entrada 2 de Junho de 1726, com a cota Lus. 47, 330v
-- ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice « Lus. 47, 1-349 — Catalogi triennales Prov. Lus. 1700-1726 » (imagem `LUS. 47/000v.jpg`) — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova negativa
+- ARSI, *Lusitania* 47, f. 000v — índice dactilografado do códice « Lus. 47, 1-349 — Catalogi triennales Prov. Lus. 1700-1726 » (imagem `LUS. 47/000v.jpg`) — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/000v.jpg"` · prova negativa
   - o códice Lus. 47 contém os catálogos trienais da província de Portugal de 1700 a 1726 (ff. 1-349) — portanto o fólio 330v citado pelo Dehergne para a entrada de João de Lemos existe no volume, mas não na digitalização de trabalho, que termina no f. 252
 - Dehergne, *Répertoire des Jésuites de Chine de 1552 à 1800* (doc 65), p. 16 = pág. impressa XIV, « E. = Date d'entrée au noviciat. Nous indiquons la ville où il fait son noviciat et la province jésuite qui l'accueille » — raw (`ocr`) · `pha page 65 16` · `pha page 65 16` · prova contexto
   - o campo « E. » do Dehergne é, por definição, a data de entrada no noviciado, e o autor indica a cidade do noviciado sempre que a conhece; para as 12 pessoas deste lote deixou só a data, logo não tinha a cidade
@@ -110,6 +110,7 @@ O caso fica resolvido. Nota: o fólio citado por Dehergne para a data (ARSI, Lus
 
 - [[0 Portugal no entry]]
 - [[deh-joao-de-lemos]]
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 
