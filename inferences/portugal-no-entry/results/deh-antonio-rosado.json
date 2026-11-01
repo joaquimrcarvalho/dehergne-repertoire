@@ -1,0 +1,41 @@
+{
+  "id": "deh-antonio-rosado",
+  "name": "António Rosado",
+  "lugar": "Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)",
+  "data": "1688-04-22",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido: inscrito como noviço («Soc. ingressus est») na secção «Domus Probationis» do catálogo de 1690, com a data explícita",
+  "resumo": "No catálogo trienal de 1690 (ARSI, Lus. 46) a secção «Domus Probationis» (cabeçalho no f. 206, imagem `LUS. 46/205.jpg`; a mesma casa é chamada «Domus Probationis Ulyssipon.» no catálogo de 1681, f. 70v) abre com os seus religiosos e segue-se a lista dos noviços, ordenada pelas datas de entrada. Aí se lê, no f. 207: Fr. Antonius Rosado ... Diæc. Aegitaniensi. ætatis 18 an. laborat. Soc. ingressus est 22 Aprilis an. 1688. studebat Dialecticæ.",
+  "biografia": "António Rosado (Rozado), natural de Idanha-a-Nova, diocese da Guarda («Aegitaniensis»), n. 1672, entrou na Companhia a 22 de Abril de 1688 na Casa de Provação de Lisboa. Destinado à China em 1694, embarcou nesse ano ainda não sacerdote (W 1337); o seu nome já não figura no catálogo de 1697.",
+  "analise": [
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O catálogo de 1690 (Lus. 46, f. 207) inscreve-o na lista de noviços da Casa de Provação:\n\n> «376 / Fr. Antonius Rosado ex Família Souza(?)... Diæc. Aegitaniensi. ætatis 18 an. laborat. Soc. ingressus est 22 Aprilis an. 1688. studebat Dial[ecticæ]. Vires sufficientes.» (Lus. 46, f. 207)\n\nA diocese («Aegitaniensis» = Guarda, onde fica Idanha-a-Nova), a idade (18 anos) e a data (22 de Abril de 1688) confirmam a identificação e a notícia do Dehergne («N. Idanha Nova d. Aegitaniensis 1672. -E. 22 avril 1688 (Lus. 46, 207)»)."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 207 (catálogo trienal da província de Portugal, 1690), lista de noviços da «Domus Probationis», n.º 376: «Fr. Antonius Rosado ... Diæc. Aegitaniensi. ætatis 18 an. laborat. Soc. ingressus est 22 Aprilis an. 1688. studebat Dialecticæ.» — manuscrito ARSI lido directamente na imagem digital",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/206.jpg\"",
+      "o_que_prova": "que era noviço da Casa de Provação e a data exacta da entrada na Companhia",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 46, f. 206 (catálogo de 1690): cabeçalho «Domus Probationis» a seguir aos religiosos da casa anterior; e ARSI, *Lusitania* 46, f. 70v (catálogo de 1681), onde a mesma casa é expressamente «Domus Probationis Ulyssipon.» (n.º 427, P. Vicente Leyrera, «modo Rector Domus Probationis Ulyssipon.») — manuscrito ARSI lido em imagem digital",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg\"",
+      "o_que_prova": "que a casa em cuja lista de noviços foi inscrito é a Casa de Provação de Lisboa",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine*, s.v. «Rosado (Rozado), Antonio», notícia integral na base Timelink",
+      "comando": "python3 tools/packet.py deh-antonio-rosado",
+      "o_que_prova": "a mesma data de entrada e a citação «Lus. 46, 207»",
+      "forca": "indireta"
+    }
+  ],
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-antonio-rosado]]"
+  ]
+}

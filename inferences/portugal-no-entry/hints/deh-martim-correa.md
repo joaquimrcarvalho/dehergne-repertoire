@@ -1,0 +1,41 @@
+# Hints — Martim Correa (`deh-martim-correa`)
+
+Dehergne nº 197 · fonte `dehergne-c` · ficha `/Users/jrc/jrc-notes/04 Biographies/dehergne/deh-martim-correa.md`
+Embarque: 1725 · jesuita-entrada (BD): ?/17200815 · nascimento: Lisboa (16991111)
+
+## Dehergne (base Timelink)
+
+> Correa, Martim (ou Martinho) (port.) P. 197 Ngan Ma-eul-ti-no (= Martinho) (M 436, 223)., Ma-eul-ti-yu selon Pf. Teng (M 443, 677., AHU ms 1659, f 23). N. 11 nov. 1699, Lisbonne -E. 15 août 1720. Emb. 1725 (W 1691)., A. 1726 (JS 134, 435v)., Kiangnan: « Cham-xo, Songkiang, Chang-hai » puis « Ou-si », Wusih. En 1785, seul missionnaire au « Kiang-nan ». V. « Sum kiam, in domo privata cujusdam Xmi » (dans la maison d'un chrétien), 3 août 1732, coadj. spir. (Lus. 24, 133) (et non en 1730, comme le dit JS 134, 446, suivi par Pf.). M. au Sungkiang fou, Kiangnan, 1786. Pf. 703.
+
+## Ficha Obsidian (excerto)
+
+## [[Martim Correa]]
+- id: deh-martim-correa
+- inside: [[dehergne-notices-c]]
+- No identification
+
+
+## Resultados no arquivo pha
+
+- **Martim Correa** → doc 65 (Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf) p.390/479 [raw] (collections/reference-works)
+  >   José  CORREA            AMIOT                                   Martim COrREA            de  GRAMMONT                            et?            LAN                                HUKWANG:            Paul     LIEOU                     PP.  M. LAMATHE            Th.    J.   B. LIEOU                    Louis   Kao            de  PorroT                              Agost.  de AV
+- **Martim Correa** → doc 80 (DOCUMENTA-INDICA-1573-1575.pdf) p.547/851 [edited] (collections/documenta-indica)
+  >  - Afonsso Fernandez (father, Chorão) - Damião Ferreira (brother, Chorão) - Domingos Fernandez (brother, Chorão) - Estevão Ribeiro (brother, Chorão) - Antonio da Costa (father, superior, Salsete) - Antonino (father, Salsete) - Manoel Pyreira (father, Salsete) - Jorge da Fonsequa (brother, Chorão) - Martim Correa (brother, Chorão) - Joseph Victoria (father, Salsete) - Antonio Rapozo (brother, Chorão) - Alvaro Diaz (brother, Chorão) - Simeão d'Almeida (brother, Chorão) - João de Paiva (brother, Chorão) - Manoel Barbudo (brother, Chorão) - Domingos Guerreiro (brother, Chorão) - Marco Antonio (brother, Chorão)
+- **Martim Correa** → doc 65 (Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf) p.390/479 [edited] (collections/reference-works)
+  > nois, Pékin) - Jos. de MAILLA (jésuite, Pékin) - Jean-Denis ATTIRET (jésuite, Pékin) - Gabriel de BROSSARD (jésuite, Pékin) - Joseph TcHEOU (jésuite, Pékin) - Gilles THÉBAULT (jésuite, Pékin) - Etienne RoussET (jésuite, Pékin) - G. X. LAIMBECKHOVEN (évêque, Nankin) - José CORREA (jésuite, Nankin) - Martim COrREA (jésuite, Nankin) - AMIOT (jésuite, Pékin) - de GRAMMONT (jésuite, Pékin) - LAN (jésuite, Pékin) - Paul LIEOU (jésuite, Pékin) - Th. J. B. LIEOU (jésuite, Pékin) - de PorroT (jésuite, Pékin) - de VENTAVON (jésuite, Pékin) - F. PANZI (jésuite, Pékin) - M. LAMATHE (jésuite, Hukwang) - Louis Kao (jésu
+- **Martim Correa** → doc 63 (historia_da_companhia_de_jesus-t3-v2.pdf) p.446/516 [raw] (collections/reference-works/francisco-rodrigues-hcjap)
+  > 426 APÊNDICE DE DOCUMENTOS INÉDITOS sarmíento, homè de grande iustiça, e uirtude, e bem quisto de todos, e assi forão eleitos pollo pouo, per iuis o Capitaõ mor Payo de Araújo, por ureadores o sargento mor Antonio Bruto, Martim correa, e Lourenco de fig.do e por procurador Pascoal Antunes e algus destes homês uendo as cousass mal paradas se escusarão, tanto que o g.dor buscou pedreiras e por amigos os fez aceitar bem contra sua vontade, porque parece que ia aduinhauã os trabalhos perseguicois que auião de ter per fazer seu offic
+- **Martim Correa** → doc 63 (historia_da_companhia_de_jesus-t3-v2.pdf) p.454/516 [raw] (collections/reference-works/francisco-rodrigues-hcjap)
+  > ue ao mais tardar seríão oito mezes. E como todos o deseiauão uer fora da terra consentirão que se embarcasse, antes se fora nec.° lhe farião hua parte não digo de prata, mas de oiro. E antes de se embarcar aos .2. de Mayo mandou degolar em estatua ao juis Payo daraujo, Aos uréadores Antonio Bruto, Martim correa e Lourenço de fig.dü e ao nosso Irmão Gaspar Alures nouisso todos postos no pelourinho. E aos tres de Mayo se embarcou leuando consigo ao seu confessor idiota frade de S. ir.co dos cardaes, de que se queixão tãobem m.tos Esta he a tragédia do que socedeo este ano de 623. e tenho dada meuda conta de
+- **Correa** → doc 19 (DOCUMENTA-INDICA-1540-49.pdf) p.52/1011 [raw] (collections/documenta-indica)
+  > agistratuum     civilium et ecclesiasticorum coneredebatur **,            15 CORREA    III 342.        16 SCHURHAMMER, Q 172.        17 Id.,, Q 1148; cf.  JóPPEN, tab. 16.        1$ Cf,   CORREA  IV,  ind., pp. 40-41.     19 Cf, CORREA II 816 848; SCHURHAMMER, Q 4159 4327.        5º CORREA II     846-49. Simili modo etiam Xaverius a. 1552 tres successores in casu mortis P.  Barzae
+- **Correa** → doc 19 (DOCUMENTA-INDICA-1540-49.pdf) p.50/1011 [raw] (collections/documenta-indica)
+  > n Sinu Persico rex mahometanus Turán     Sháh II (Turanxa), filius regis Salghar Sháh (Salgorxa)     a  praefecto     lusitano Alphonso de Melo     a.  1511 destituti, dominatum tenebat  ?*,       Of. EX I 4348,         SCcITURHAMMER,  Q 589;  CORREA IV 155.     * CORREA     IV 155  448.     3º CORREA    IV 448  684-85.     3!  SCHURHAMMER, Q 1639     1665, CORREA     IV 704.     3   SCHURIIAMMER,    Q 3898.     3 EX I     185.     34 Tb.     3» Tb. I   186-87 2441*.     36 SCHURHAMMER,     Q 831;  CORREA IV 160    222.
+- **Correa** → doc 65 (Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf) p.99/479 [edited] (collections/reference-works)
+  > atim; OCR artifacts cleaned. Script: Latin with Portuguese and French biographical abbreviations; occasional Latin phrases.  ### Named entities - Correa Tcheou, José (Jesuit, Macao/Kiangnan) - Correa, Lucas (Jesuit, Portugal/Macao/Cochin/Goa) - Correa, Martim (ou Martinho) (Jesuit, Portugal/Kiangnan) - Correa, Matias (Jesuit, Portugal/Goa) - Correa, Sebastiäo (Jesuit coadjutor, Macao) - Macao (place) - Lisbonne (place) - Kiangnan (place) - Sungkian
+- **Correa** → doc 139 (backer-sommervogel-bcj-02-boulanger-desideri.pdf) p.753/1014 [raw] (collections/reference-works/backer-sommervogel-bibliotheque-compagnie-jesus)
+  > --- Page 1 ---         1481                                CORREA                                                                                           CORREA                                         1482          Clemiente         Divina     Providentia          Papa           XI.               Datam         Vozes Saudosas da Eloquencia… (Voir l'art.         
+- **Correa** → doc 16 (antonio-franco-synopsis.pdf) p.518/528 [raw] (documents)
+  > elius. - Ametius. † Antonius Andrada martyr. - Andrada. - Andrada. - Araozius. - Araujus. - Arcebedo. - Arcebedo. - Badoera. - Barreius. - Barros. - Brito. - Cabralinus. - Cardimius. - Cardofius. - Cardofus. - Cardonius. - Carrilius. - Carvalho. - Callebrancus. - Chavinus. - Colalius. - Corvinus. - Correa Tirso mag. - Correa. - Correa. - Correa. - Correa. - Correa. - Costa. - Costa. - Costa. - Couto. - Couto. - Couto. - Crassus. - Crucius. - Delgado. - Dinus. - Disius. - Diusius. - Diniulus. - Emmanuel. † Ferdinandus. - Ferdinandus. - Ferdinandus Confes. Anglic. Reg. - Ferdinandus Doctor. - Ferreira
+- **Correa** → doc 16 (antonio-franco-synopsis.pdf) p.518/528 [edited] (documents)
+  > elius. - Ametius. † Antonius Andrada martyr. - Andrada. - Andrada. - Araozius. - Araujus. - Arcebedo. - Arcebedo. - Badoera. - Barreius. - Barros. - Brito. - Cabralinus. - Cardimius. - Cardofius. - Cardofus. - Cardonius. - Carrilius. - Carvalho. - Callebrancus. - Chavinus. - Colalius. - Corvinus. - Correa Tirso mag. - Correa. - Correa. - Correa. - Correa. - Correa. - Costa. - Costa. - Costa. - Couto. - Couto. - Couto. - Crassus. - Crucius. - Delgado. - Dinus. - Disius. - Diusius. - Diniulus. - Emmanuel. † Ferdinandus. - Ferdinandus. - Ferdinandus Confes. Anglic. Reg. - Ferdinandus Doctor. - Ferreira

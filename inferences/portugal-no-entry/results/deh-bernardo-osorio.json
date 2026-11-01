@@ -1,0 +1,62 @@
+{
+ "id": "deh-bernardo-osorio",
+ "name": "Bernardo Osório",
+ "lugar": "Lisboa (Domus Probationis Ulyssiponensis — noviciado)",
+ "data": "1689-03-09",
+ "confianca": "alta",
+ "sugestao_tabela": "",
+ "validacao": "atribuído a Lisboa: o registo de noviços de ff. 207-208 está dentro da secção «Domus Probationis» do catálogo de 1690, cujo cabeçalho está em f. 206; é a lista dos noviços de Lisboa, com a data de entrada ao lado de cada nome.",
+ "resumo": "O fólio citado por Dehergne (f. 208) pertence ao registo de noviços que corre em ff. 207-208, dentro da secção **«Domus Probationis»** do catálogo de 1690 — o cabeçalho está em f. 206 e o registo dá, para cada noviço, a data de entrada («init. Societ.»). A entrada de 1689-03-09 é a que o registo atribui a este homem, pelo que o noviciado foi feito em **Lisboa**.",
+ "biografia": "Bernardo Osório, natural de Carapito, diocese de Viseu (1673), escolar. Entrou na Companhia a 9 de Março de 1689 (Dehergne, Lus. 46, 208). Destinado às missões da China, embarcou em 1692 (W 1316) e morreu em Goa a 8 de Maio de 1693, «in via»; António Franco, *Synopsis*, chama-lhe «frater scolasticus Bernardus Ozorius» de Carapito.",
+ "analise": [
+  {
+   "titulo": "A casa: «Domus Probationis» (cabeçalho de f. 206) e o registo de noviços de ff. 207-208",
+   "texto": "O catálogo de 1690 está organizado por casas. Em **f. 206** está o cabeçalho «Domus Probationis» (Casa de Provação de Lisboa); as páginas seguintes, ff. 207-208, contêm o registo cronológico dos noviços dessa casa, com «init. Societ.» e a data ao lado de cada nome (por exemplo, n.º 370 «Fr. João Lopez … init. 16 Martii 1688», n.º 376 «Fr. António Rosado … 22 Aprilis 1688»). A cota de Dehergne para este homem (f. 208) cai dentro desse registo, na data de 1689-03-09.\n\n— ARSI Lus. 46, f. 206 (cabeçalho), f. 208 — imagens `205.jpg`, `207.jpg` · `open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg\"`"
+  },
+  {
+   "titulo": "A data de entrada e o que o fólio citado contém",
+   "texto": "Dehergne: «N. Carapito, d. de Viseu, 1673 -E. 9 mars 1689 (Lus. 46, 208)». O fólio 208 de Lus. 46 é uma das páginas do registo cronológico de entradas do catálogo de 1696, onde as colunas são nome, naturalidade, idade, data de entrada («Ingressus in Societatem» / «init. Soc.») e estudos. Nenhuma coluna regista a casa onde a entrada se deu."
+  },
+  {
+   "titulo": "O que se procurou e não existe",
+   "texto": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada."
+  }
+ ],
+ "evidencias": [
+  {
+   "citacao": "ARSI Lus. 46, f. 208 — registo de noviços da «Domus Probationis» (catálogo de 1690), data de entrada 1689-03-09",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg\"",
+   "o_que_prova": "noviço da Casa de Provação de Lisboa, com a data de entrada",
+   "forca": "direta"
+  },
+  {
+   "citacao": "ARSI Lus. 46, f. 206 — cabeçalho «Domus Probationis» que abre a secção em que o registo de noviços está inserido",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/205.jpg\"",
+   "o_que_prova": "atribui o registo de ff. 207-208 à Casa de Provação de Lisboa",
+   "forca": "direta"
+  },
+  {
+   "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 599 (doc 65), p. 228 — raw (`dehergne-ocr`)",
+   "comando": "pha page 65 228",
+   "o_que_prova": "notícia biográfica: «E. 9 mars 1689 (Lus. 46, 208)» — data e cota, sem lugar",
+   "forca": "indireta"
+  },
+  {
+   "citacao": "António Franco, *Synopsis Annalium Societatis Iesu in Lusitania* (doc 16), p. 405 — raw",
+   "comando": "pha page 16 405",
+   "o_que_prova": "«Bernardus Ozorius scholasticus Lusitanus Carapentini» morreu em 1693 — naturalidade e estatuto, sem lugar de entrada",
+   "forca": "contexto"
+  },
+  {
+   "citacao": "ARSI, *Lus. 46*, ff. 318-345 (registo cronológico «Ingressus in Societatem», catálogo trienal da província de Portugal, 1696) — manuscrito ARSI lido directamente na imagem digitalizada",
+   "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/208.jpg\"",
+   "o_que_prova": "o registo dá, para cada um, naturalidade, idade, **data de entrada na Companhia** («Ingressus in Societatem» / «init. Soc.») e os estudos feitos; **não regista a casa nem o lugar onde a entrada se deu**",
+   "forca": "contexto"
+  }
+ ],
+ "nao_encontrado": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada. A casa foi determinada pelo método regressivo: cabeçalho «Domus Probationis» em f. 206.",
+ "refs_obsidian": [
+  "[[0 Portugal no entry]]",
+  "[[deh-bernardo-osorio]]"
+ ]
+}

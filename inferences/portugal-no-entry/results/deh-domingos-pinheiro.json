@@ -1,0 +1,49 @@
+{
+  "id": "deh-domingos-pinheiro",
+  "name": "Domingos Pinheiro",
+  "lugar": "Lisboa (Casa de Provação / Monte Olivete, Cotovia)",
+  "data": "1704-11-09",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido por prova directa (lista de noviços da Casa de Provação de Lisboa, catálogo de 1705); data confirmada ao dia (a mesma que Dehergne colheu na f. 133 do catálogo de 1711)",
+  "resumo": "Duas folhas do códice Lus. 47 testemunham a sua entrada a 9 de Novembro de 1704. No catálogo de 1705, f. 86, sob o título «Novitii Secundi anni» da «Domus Probationis Ulyssiponensis» (Casa de Provação de Lisboa), lê-se: «Fr. Dominicus Pinheiro ex oppido Loures, Dioec. Ulyssiponen., natus an. 688, ingressus Societ. 9. Novemb. an. 704». A f. 133 do catálogo de 1711 (secção do Colégio de Évora, onde então estudava) repete a mesma data. A casa do noviciado — e portanto o lugar de entrada — é Lisboa.",
+  "biografia": "Domingos Pinheiro (Pinheyro, Pineiro), português, nasceu em Loures, diocese de Lisboa, a 21 de Março de 1688. Entrou na Companhia a 9 de Novembro de 1704; foi mestre em Artes e preceptor do infante D. José, irmão de D. João V. Embarcou para a China em 1725 (W 1688) e chegou a 26 de Agosto de 1726, acompanhando a embaixada de D. Alexandre Metelo de Sousa a Pequim. Matemático, foi vice-provincial da China (1732-1735 e 1741-1745) e governador da diocese de Pequim, nomeado a 20 de Dezembro de 1739; professou os 4 votos em Lisboa a 2 de Fevereiro de 1722 (Lus. 14, 189). Morreu em Pequim a 16 de Junho de 1748 (Planchet 188; Pfister 696).",
+  "analise": [
+    {
+      "titulo": "1. A entrada na Casa de Provação de Lisboa (catálogo de 1705)",
+      "texto": "Na f. 86 do catálogo de 1705, imediatamente a seguir a Francisco de Cordes, a lista dos «Novitii Secundi anni» da Domus Probationis Ulyssiponensis traz o n.º 526:\n\n> Fr. Dominicus Pinheiro ex oppido Loures, Dioec. Ulyssiponen., natus an. 688, ingressus Societ. 9. Novemb. an. 704. Vires bonae. (ARSI Lus. 47, f. 86)\n\nA naturalidade (Loures, diocese de Lisboa) e a data de nascimento (1688) coincidem com as de Dehergne (Loures, 21 de Março de 1688). Noviço inscrito numa casa de noviciado, fez aí a sua entrada: Lisboa.",
+      "fonte": "ARSI Lus. 47, f. 86; índice no f. 000v"
+    },
+    {
+      "titulo": "2. Confirmação na f. 133 (catálogo de 1711)",
+      "texto": "A folha que Dehergne cita para a data (133) pertence ao catálogo de 1711 e à secção do Colégio de Évora; aí, com o n.º 340, lê-se que era natural de Loures, da diocese de Lisboa, nascido em 1688, e «ingressus Societ. 9. Novemb. 1704», estudando então filosofia. Essa folha prova a data, mas não a casa de entrada — é uma lista de residência; a casa de entrada é dada pela lista de noviços de 1705.",
+      "fonte": "ARSI Lus. 47, f. 133"
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 86, n.º 526 (catálogo de 1705, «Domus Probationis Ulyssiponensis», «Novitii Secundi anni») — imagem `LUS. 47/086.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/086.jpg\"",
+      "o_que_prova": "«Fr. Dominicus Pinheiro ex oppido Loures, Dioec. Ulyssiponen., natus an. 688, ingressus Societ. 9. Novemb. an. 704» — noviço da Casa de Provação de Lisboa, entrada a 9 de Novembro de 1704",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Lusitania* 47, f. 133, n.º 340 (catálogo de 1711, secção do Colégio de Évora) — imagem `LUS. 47/133.jpg` (manuscrito lido directamente)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/133.jpg\"",
+      "o_que_prova": "reproduz a data exacta da entrada (9 de Novembro de 1704) e a naturalidade (Loures, diocese de Lisboa); é a folha citada por Dehergne, mas é uma lista de residência, não de noviciado",
+      "forca": "direta quanto à data; indirecta quanto ao lugar"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 242, n.º 638 « Pinheiro (Pinheyro), Domingos (port.) » — edited (`french-ocr`) · `pha page 65 242 --edited`",
+      "comando": "pha page 65 242 --edited",
+      "o_que_prova": "«N. Loures, dioc. de Lisbonne, 21 mars 1688, et E. 9 nov. 1704 (Lus. 47, 133., JS 134, 435)» — notícia-base, com o lugar de entrada em branco",
+      "forca": "indireta (fonte da data)"
+    }
+  ],
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-domingos-pinheiro]]",
+    "[[Missionários com local de entrada desconhecido - referências LUS]]"
+  ],
+  "nao_encontrado": "Não existe no pha nenhum catálogo da província de Portugal do século XVIII (a colecção jesuit-catalogues termina em 1610/1625); procurou-se «Domingos Pinheiro», «Domingos Pinheyro», «Domingos Pineiro» e «Dominicus Pinheiro» no arquivo e só se encontraram notícias editoriais (doc 50, Pfister; doc 62/64, Rodrigues; doc 66, Wicki) que não declaram o lugar de entrada."
+}

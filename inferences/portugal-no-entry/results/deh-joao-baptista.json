@@ -1,0 +1,43 @@
+{
+  "id": "deh-joao-baptista",
+  "name": "João Baptista",
+  "lugar": "Coimbra (noviciado)",
+  "data": "1671-05-20 (manuscrito ARSI; Dehergne lê 20-03-1671)",
+  "confianca": "baixa",
+  "sugestao_tabela": null,
+  "validacao": "única afirmação de lugar encontrada, mas pertence à cronologia alternativa (diocese de Coimbra, E. 12 Nov. 1681) que o próprio Dehergne rejeita; se a identificação preferida por Dehergne (Bombarral, diocese de Lisboa, E. 1671) estiver certa, a casa de noviciado não está documentada nas fontes lidas",
+  "resumo": "Há dois conjuntos de dados para este missionário (Kouo Jo-wang / 郭若望): Dehergne prefere N. Bombarral, d. de Lisboa, 1654, E. 20 Mar. 1671, «Lus. 46, 347»; Pfister (que lhe dá o nome chinês) tem N. 23 Jun. 1658, diocese de Coimbra, E. 12 Nov. 1681 e diz expressamente que «entra au noviciat de Coïmbre». Li o fólio citado por Dehergne (Lus. 46, f. 347 = imagem 342.jpg): o homem aí registado é efectivamente o de Bombarral, com a data «20 Mai. 671» e 25 anos de Companhia (catálogo de c. 1696), mas o assento não nomeia a casa de entrada. Assim, Coimbra é a única casa nomeada por uma fonte, com confiança baixa por causa do conflito de identificação/cronologia.",
+  "biografia": "Missionário português na China, conhecido pelo nome chinês Kouo Jo-wang (郭若望). Segundo o registo da província portuguesa (Lus. 46, f. 347) nasceu em Bombarral, diocese de Lisboa, c. 1654, e entrou na Companhia a 20 Mai. 1671; em 1696 tinha 42 anos e 25 de Companhia e era «artium magister» (professo a 15 Ago. 1688 segundo o mesmo assento). Embarcou para a China em 1694 (W 1331) e chegou em 3 Dez. 1695; em 1699 tinha a seu cargo as cristandades de Nanquim, Tchen-kiang e Tan-yang, e em 1701 estava em Xangai; foi procurador da vice-província em Macau (1704) e morreu em Macau a 28 Fev. 1714.",
+  "analise": [
+    {
+      "titulo": "O assento da província portuguesa (fólio citado por Dehergne)",
+      "texto": "O caderno final de Lus. 46 (catálogo com datas de entrada, organizado por residência actual — «In Gallia», «In Brasilia», «Collegium Anglicanum»…) contém, no f. 347 (imagem `342.jpg`, numeração impressa «347-348»), o assento n.º 657:\n\n> P. Joannes Baptista ex oppido Bombarral Dioecesi Ulyssiponensi, ann. 42, [ob.] Societ. 25, viribus mediocribus. Docuit Litteras human. annos 6. Artium magister. Modo Prae[…] Professor ab anno 688. die 15 Aug. — e, no fim da primeira linha, a data «20. Mai. 671.»\n\nÉ portanto este o fólio em que Dehergne leu «N. Ville de Bombarral, d. de Lisbonne, 1654 -E. 20 mars 1671 (Lus. 46, 347)». Nota: no manuscrito leio «Mai.» (Maio), não «Mart.» (Março) — registo a discrepância. Este assento dá origem, idade, anos de Companhia e data de entrada, mas NÃO nomeia a casa de entrada."
+    },
+    {
+      "titulo": "A única casa nomeada: Coimbra (Pfister), e o conflito de identificação",
+      "texto": "Pfister, cuja notícia 204 é a fonte do nome chinês usado por Dehergne, escreve:\n\n> N. 23 juin 1658. — E. 12 nov. 1681. — A. 3 déc. 1695. — Coadj. spir. 2 févr. 1692. — M. après 1700. … Originaire du diocèse de Coïmbre, il entra au noviciat de cette ville et enseigna trois ans les éléments du latin avant de s'embarquer pour la Chine en 1694. (doc 47, p. 516 do PDF = p. 477 impressa)\n\nDehergne conhece bem esta versão (cita-a por «JS 134, 399: N. 23 juin 1658, dioc. de Coïmbre, E. 12 nov. 1681») e rejeita-a em favor dos dados de Lus. 46. As duas cronologias são incompatíveis (1671 vs 1681; Lisboa vs Coimbra) e não é possível, com as fontes disponíveis, decidir se se trata do mesmo homem com dados contraditórios ou de dois homónimos que Dehergne uniu pelo nome chinês. Por isso atribuo a Coimbra confiança baixa: é a única casa de noviciado nomeada por uma fonte impressa para o «Kouo Jo-wang» de Pfister, mas não para o homem do assento de 1671 (Bombarral, diocese de Lisboa), cujo noviciado, a existir, seria mais provavelmente numa casa da província portuguesa do lado de Lisboa."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI Lus. 46, f. 347, n.º 657 (imagem `LUS. 46/342.jpg`, numeração impressa 347-348) — leitura directa da imagem (manuscrito, não OCR)",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46/342.jpg\"",
+      "o_que_prova": "origem (Bombarral, diocese de Lisboa), idade 42, 25 anos de Companhia e data de entrada «20 Mai. 671» — é este o fólio citado por Dehergne; não nomeia a casa de entrada",
+      "forca": "direta quanto à data e à origem, silente quanto ao lugar"
+    },
+    {
+      "citacao": "Pfister, *Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine* (doc 47), p. 516 do PDF = p. 477 impressa, n.º 204 «Le P. Jean Baptista» — raw (`french-ocr`)",
+      "comando": "cd /Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry && python3 tools/read_page.py 47 516 --raw",
+      "o_que_prova": "«Originaire du diocèse de Coïmbre, il entra au noviciat de cette ville» — a única nomeação de casa de noviciado, sob a cronologia E. 12 Nov. 1681",
+      "forca": "direta (notícia editorial), mas de identificação duvidosa"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 61 do PDF, n.º 71 «Baptista, João» — raw",
+      "comando": "cd /Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry && python3 tools/read_page.py 65 61 --raw",
+      "o_que_prova": "o próprio Dehergne regista as duas cronologias e prefere «N. Ville de Bombarral, d. de Lisbonne, 1654 -E. 20 mars 1671 (Lus. 46, 347)»",
+      "forca": "indireta (estado da questão)"
+    }
+  ],
+  "nao_encontrado": "Não se encontrou nenhuma fonte que nomeie a casa de entrada do homem de Bombarral (diocese de Lisboa, E. 1671). Procurou-se: Pfister, notícia 204 (doc 47, p. 477 impressa); o índice onomástico do próprio volume Lus. 46 (imagem `050.jpg`); as buscas no arquivo pha por «João Baptista / Joannes Baptista» (Documenta Indica, Litterae quadrimestrales, Franco, Synopsis) — todos os resultados são de homónimos do séc. XVI ou de outros João Baptista. Lus. 45 (catálogos de 1649-1675), onde estaria a lista de noviços de 1671, não foi lido.",
+  "refs_obsidian": ["[[0 Portugal no entry]]", "[[deh-joao-baptista]]"]
+}

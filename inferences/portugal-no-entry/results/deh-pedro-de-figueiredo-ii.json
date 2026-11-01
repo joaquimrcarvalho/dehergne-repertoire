@@ -1,0 +1,36 @@
+{
+  "id": "deh-pedro-de-figueiredo-ii",
+  "name": "Pedro de Figueiredo",
+  "lugar": "«in mari» — admitido a bordo, na viagem de Portugal para a Índia (sem casa de noviciado em Portugal)",
+  "data": "1716-03-13",
+  "confianca": "média",
+  "sugestao_tabela": "",
+  "validacao": "novo; o registo provincial confirma, por omissão, que não fez o noviciado em Portugal",
+  "resumo": "Dehergne e Pfister dizem-no admitido na Companhia «in mari», a 13 de Março de 1716, na viagem de Portugal para a Índia — uma admissão a bordo, não numa casa. O registo provincial dos que entraram nos noviciados portugueses entre 1711 e 1758 não o inscreve: nas folhas da letra P, os «Pedro» saltam de 1712 e 1716 para 1717, sem qualquer Pedro de Figueiredo. A prova é, pois, negativa quanto a Portugal e directa quanto ao texto de Dehergne/Pfister.",
+  "biografia": "N. Pombal, 29 de Abril de 1690. Admitido «in mari» a 13 de Março de 1716 e embarcado em Lisboa no *S. Anna* a 14 de Março de 1716 (Wicki n.º 1607), já sacerdote. Chegou ao Oriente em 1719; não pôde desembarcar na China por causa do «piao» (ritos). Tomou os 4 votos no noviciado de Goa a 15 de Agosto de 1726 (ARSI Lus. 14, 313). Morreu em Lisboa a 15 de Abril de 1733. Pfister, p. 643: «Admissus in navigatione a Portugallia in Indiam».",
+  "analise": [
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "A entrada deste missionário não se fez numa casa portuguesa, mas no mar. Dehergne (aviso 313) escreve «E. \"in mari\", 13 mars 1716 (Goa 26, 135v et 149v)» e Pfister resume: «Admissus in navigatione a Portugallia in Indiam». O registo provincial de 1711-1758, que inscreve nominalmente todos os que entraram nos noviciados de Coimbra, Évora e Lisboa, não tem nenhum Pedro de Figueiredo: na sequência dos «Pedro» (imagens 351-352) encontram-se, depois da nota «Depois da inhibição por causa dos Quindénios», Pedro André (9-VIII-1716), Paulo dos Reys (26-IX-1716), Pedro da Fonseca (25-XII-1716), Pedro Theodor (18-VII-1717), Pedro Coelho (15-VIII-1717) e Pedro Lameira (1730) — mas nenhum Pedro de Figueiredo, que deveria estar entre 13 de Março e 9 de Agosto de 1716. A ausência no registo corrobora a admissão a bordo."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), aviso 313 — p. 132 (texto da base Timelink, `obs`)",
+      "comando": "python3 tools/packet.py deh-pedro-de-figueiredo-ii  (aviso de Dehergne transcrito do campo obs da base Timelink; a página de doc 65 correspondente, p. 132, foi vista em pha_research/hint)",
+      "o_que_prova": "«E. \"in mari\", 13 mars 1716» e «V. au noviciat de Goa, 15 août 1726 (Lus. 14, 313)»; Pfister, p. 643: «Admissus in navigatione a Portugallia in Indiam»",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Registo da Província de Portugal 1711-1758 (BNP, Pombalina 231), folhas da letra P (imagens 351-352 da digitalização) — ausência verificada por leitura directa das imagens",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000351.jpg\"  ·  open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000352.jpg\"",
+      "o_que_prova": "os «Pedro» inscritos passam de Pedro da Serra (21-V-1712) e da nota da inibição para Pedro André (9-VIII-1716), sem nenhum Pedro de Figueiredo — indício forte de que não fez o noviciado em Portugal",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "ARSI Goa 26, ff. 135v e 149v (citado por Dehergne) não está em disco; ARSI Lus. 14, f. 313 (votos no noviciado de Goa) também não. Não foi possível ler o assento de Goa que daria a formulação exacta da admissão em viagem.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-pedro-de-figueiredo-ii]]"
+  ]
+}

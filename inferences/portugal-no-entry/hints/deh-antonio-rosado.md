@@ -1,0 +1,45 @@
+# Hints — António Rosado (`deh-antonio-rosado`)
+
+Dehergne nº 720 · fonte `dehergne-r` · ficha `/Users/jrc/jrc-notes/04 Biographies/dehergne/deh-antonio-rosado.md`
+Embarque: 1694 · jesuita-entrada (BD): ?/16880422 · nascimento: Idanha a Nova, diocese da Guarda (1672)
+
+## Dehergne (base Timelink)
+
+> Rosado (Rozado), Antonio (port.) 720 N. Idanha Nova d. « Aegitaniensis » [= d. de Guarda] 1672. -E. 22 avril 1688 (Lus. 46, 207). Destiné à la Chine en 1694 (JS 134, 378v)., emb. non prêtre, cette annéelà. Son nom ne se trouve plus dans le catal. de 1697.
+
+## Ficha Obsidian (excerto)
+
+## [[António Rosado]]
+- id: deh-antonio-rosado
+- inside: [[dehergne-notices-r]]
+- No identification
+
+
+## Resultados no arquivo pha
+
+- **António Rosado** → doc 91 (DOCUMENTA-INDICA-1592-1594.pdf) p.255/1191 [edited] (collections/documenta-indica)
+  > lic Document / heading: Fr. Manuel Dias S.J. (senior) to Fr. Cl. Acquaviva S.J., General; Malacca, June 27, 1593; Document 31 Page: 31  ### Named entities - Manuel Dias (Jesuit missionary, author) - Cl. Acquaviva (Jesuit General, recipient) - Manuel Fernandes (Jesuit coadjutor brother, dismissed) - António Rosado (Jesuit coadjutor brother, dismissed) - Malacca (place of writing) - Cochin (place mentioned) - Chaul (place mentioned) - Goa (place mentioned) - Rome (Jesuit Curia)  ### Content summary This page opens Document 31, a letter from Fr. Manuel Dias S.J. to the Jesuit General Acquaviva, written from Ma
+- **António Rosado** → doc 91 (DOCUMENTA-INDICA-1592-1594.pdf) p.627/1191 [raw] (collections/documenta-indica)
+  >      c.         «                  causas  para            » (MI   Const.     pp.  317-23).      5 Cf.    supra,   note 50.      5 See crit.     app.      55  For atrevi.      5$  [n   a  lost  letter. Two of       the   dismissed          could   have been          Bro. Manuel Fernandes     and    António Rosado            (cf. doc.     31,   3-5),
+- **António Rosado** → doc 91 (DOCUMENTA-INDICA-1592-1594.pdf) p.627/1191 [edited] (collections/documenta-indica)
+  > y which was positive. Cf doc. 161, nn. 181 196. 31 Cf. DI XV 718-19. Cf. Constituciones S. I., P. II, c. 2: «De las causas para despedir» (MI Const. pp. 317-23). 5 Cf. supra, note 50. 5 See crit. app. 55 For atrevi. 5$ [n a lost letter. Two of the dismissed could have been Bro. Manuel Fernandes and António Rosado (cf. doc. 31, 3-5),  ## Notes Language: Portuguese (document body), Latin (editorial apparatus and footnotes); from LOCAL OCR Script: printed Roman and italic Document / heading: DOC. 81 - COCHIN, DECEMBER 15, 1593 Page: 523  ### Named entities - P. Reytor de Salsete (Jesuit rector, Salsete) - Argo
+- **António Rosado** → doc 16 (antonio-franco-synopsis.pdf) p.491/528 [edited] (documents)
+  > Luc. * Manuel Pinho. Luc. * Inácio Lopes. Luc. António Rosado. Luc. António dantas. Luc. Francisco Távora. Luc. Mauro Monteiro. Luc. José Xavier. Luc. Ano 1695. P. Carlos Rebens. Luc. * João Ferreira. Luc. * Luís de França. Luc. * António Coffa. Luc. * Pedro de Almeida. Luc. José Pacheco. Luc. Estêvão Coffa. Luc. P. António de Amaral. Luc. José Ferreira. Luc.
+- **António Rosado** → doc 91 (DOCUMENTA-INDICA-1592-1594.pdf) p.48/1191 [edited] (collections/documenta-indica)
+  > , Jesuit, died at Malacca) - Giuseppe Forlanetti (Bro., Jesuit, died at Arima) - Francesco De Petris (Jesuit, died at Shao-chou) - Fr. Acquaviva (Superior General of the Society of Jesus) - Fr. Cabral (Jesuit, provincial of India) - Manuel Fernandes (Bro., Jesuit, dismissed, sent away from Chaül) - António Rosado (Bro., Jesuit, dismissed, sent away from Chaül) - António da Rocha (Fr., Jesuit, dismissed) - Francisco Camelo (Bro., Jesuit, dismissed) - Estêvão Franca (novice, Jesuit, dismissed) - St. Paul's (college, Goa) - Damão (place) - Malacca (place) - Arima (place) - Shao-chou (place) - Chaül (place) - J
+- **António Rosado** → doc 66 (wicki-liste-jesuiten-indienfahrer-1967.pdf) p.64/207 [edited] (collections/reference-works)
+  > Ital., 1328) - P. Francisco Barbosa (Port., 1329) - P. Manuel da Mata (Port., 1330) - P. João Baptista (Port., 1331) - P. Domingos Magalhães (Port., 1332) - P. António da Silva (Port., 1333) - P. André da Costa (Port., 1334) - P. António de Bartos (Port., 1335) - P. Inácio Lopes (Port., 1336) - Ir. António Rosado (Port., 1337) - António Dantas (Port., 1338) - Francisco Rodrigues (Port., 1339) - Ir. José-João Xavier (Port., 1340) - Ir. Amaro Monteiro (Novize, Port., 1341)  ### Content summary  This page covers the 116th sending (1693) and the 117th sending (1694), with a note on the 1692 overland route to Ch
+- **Antonio Rosado** → doc 91 (DOCUMENTA-INDICA-1592-1594.pdf) p.256/1191 [edited] (collections/documenta-indica)
+  > (main text), Latin (footnotes and embedded phrases), Greek (transliterated words noted in footnotes); from LOCAL OCR Script: printed Roman and italic Document / heading: 152 — Fr. M. Dias S.J. to Fr. Cl. Acquaviva S.J., General Page: 152  ### Named entities - Manuel Hernandes (lay Brother, Chaul) - Antonio Rosado (lay Brother, Chaul) - Pedro Martins (Provincial) - Chaul (place) - Cochin (place) - Malacca (place) - Coimbra (place) - Sintra (place) - Lisbon (place) - Damão (place)  ### Content summary This page contains a letter from Fr. M. Dias to the Jesuit General Acquaviva, reporting on two lay Brothers w
+- **Rosado** → doc 65 (Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf) p.269/479 [edited] (collections/reference-works)
+  >  [Della CHIESA] (bishop, Canton) - P.A.F. J. PROVANA (Jesuit, superior) - MARGIOTTI (author, reference) - PLANCHET (author, reference)  ### Content summary This page from Dehergne's *Répertoire des Jésuites de Chine* contains biographical entries for Jesuit missionaries in China, including Antéônio Rosado (Rozado), José Rosado (Rozado), and Francisco-Xavier Rosario Ho. Each entry provides dates of birth, entry into the Society, vows, arrival in China, and death, with references to archival sources. The page also includes a cross-reference for "Rogerio" and a note on the abbreviation "Roiz" for Rodri
+- **Rosado** → doc 65 (Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf) p.272/479 [edited] (collections/reference-works)
+  > 1643. It also includes a brief cross-reference entry for Rozado/Rosado and a short entry for Louis Rozitto, a Japanese coadjutor brother who came to work in China in 1611. The page ends with extensive bibliographic references and a page number (234).
+- **Rosado** → doc 38 (DocHistMissPadPortOriente_vol09_1562-1565.pdf) p.248/696 [raw] (collections/DocHistMissPadPortOriente)
+  > --- Page 1 ---     Na nao se fazião muitas esmolas pera os pobres, em que     se davão muitas  caixas de marmeladas,     barris      de    conserva,     muito    açuquar rosado; outros,   gualinhas,        biscouto  branco,     pessas   e dinheiro com o  qual    compravão         açuquar   rosado, quando faltava e outras cousas que se avião mister.     Ho modo que se tinha com os emfermos era que, tanto     que   hum emfermava, o   faziamos     aparelhar      pera  se  co
+- **Rosado** → doc 20 (DocHistMissPadPortOriente_vol02_1523-1543.pdf) p.63/418 [edited] (collections/DocHistMissPadPortOriente)
+  > ## Notes  Language: Portuguese (16th-century orthography) Script: Latin script  ### Named entities  - none  ### Content summary  Esta página regista despesas detalhadas de um hospital e mosteiro, incluindo quantidades e valores de géneros como engoentos, pílulas, ervas, vinagre rosado, ovos, escamonia, gomas e azinhavre. Cada item é avaliado a uma taxa específica e totalizado em reis, com uma soma final indicada na margem.
+- **Rosado** → doc 71 (DOCUMENTA-INDICA-1561-1563.pdf) p.124/911 [raw] (collections/documenta-indica)
+  > contentó                      pues  de nós dar lo del Rey,            mas      nos          dava los barriles de   conservas,                    y él  estando enfermo              nos man- 145  dava     conservas.     Nosotros       mientras                    tuvimos     gallinas,    acücar        rosado, açúcar,    etc.     siempre    aiudamos.                    Compráranse             muchas        marmeladas, pa-[220v]nelas   de                     açúcar    rosado y  otras    cosas pera        los      emfermos,      entregándonoslas                            todas. También     nos   $vamos  
+- **Rosado** → doc 64 (historia_da_companhia_de_jesus-t4-v1.pdf) p.214/612 [raw] (collections/reference-works/francisco-rodrigues-hcjap)
+  > ida mandou, contra o direito de propriedade, ocupar aquelas mesmas obras e terras, já pertencentes à testamentaria, de quem era o pleno domínio das terras e nelas fez edificar a igreja Patriarcal, dizendo ser uma barraca para a celebração dos ofícios divinos.  Protestou contra a violência o P. José Rosado, procurador geral das missões do Oriente, e administrador da testamentaria, e apresentou-lhe um requerimento em 1756, em que lhe pedia que pagasse as rendas das obras e terras ocupadas, e ressarcisse todos os danos que daquela usurpação sobrevieram.  O Patriarca atendeu, como era justo, o requerime

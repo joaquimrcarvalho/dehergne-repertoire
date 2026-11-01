@@ -1,0 +1,39 @@
+# Hints — João de Lemos (`deh-joao-de-lemos`)
+
+Dehergne nº 463 · fonte `dehergne-l` · ficha `/Users/jrc/jrc-notes/04 Biographies/dehergne/deh-joao-de-lemos.md`
+Embarque: 17300404 · jesuita-entrada (BD): ?/17260602 · nascimento: Quintela, diocese de Lamego (17091006)
+
+## Dehergne (base Timelink)
+
+> Lemos, João de (port.) P. 463 N. Guintella, d. de Lamego, 6 oct. 1709 -E. 2 juin 1726 (Lus. 47, 330v). Emb. pour Goa, 4 avril 1730 (W 1744)., pour le Japon, 25 avril 1732 (W 1799)., enfin « ad Sinas missus » v. 1733 (JS 184, 176, serment non daté). En 1737, il est à Macao (JS 134, 434), en théologie. JS 25, 283v le dit N. 21 sept. 1709, E. 2 juill. 1726. Il n'est plus marqué aux catal. Japon, 1742, et Chine, 1741.
+
+## Ficha Obsidian (excerto)
+
+## [[João de Lemos]]
+- id: deh-joao-de-lemos
+- inside: [[dehergne-notices-l]]
+- No identification
+
+
+## Resultados no arquivo pha
+
+- **João de Lemos** → doc 22 (DocHistMissPadPortOriente_vol04_1548-1550.pdf) p.222/638 [edited] (collections/DocHistMissPadPortOriente)
+  > Francisco (mestre, priest) - Nosso Senhor (deity) - Companhia (institution, Society of Jesus) - Vossa Reverência (addressee, Jesuit superior) - Dom Álvaro (nobleman) - Dom Bernardo (nobleman) - Marçal Fernandes (criado do bispo) - El-Rei (monarch) - João de Lemos (former holder of the office of escrivão do paço de Pangim) - Bispo (bishop, of Goa) - Pangim (place, Goa) - Portugal (place) - Nau «Galega» (ship)  ### Content summary  This page contains a letter from a Jesuit in Goa to his superior, discussing the departure of a brother (Manuel Vaz) who left the
+- **João de Lemos** → doc 66 (wicki-liste-jesuiten-indienfahrer-1967.pdf) p.77/207 [edited] (collections/reference-works)
+  > edo, Port., came from the Great Mogul 1736. P. Manuel de Aguiar, Port. 1737. P. Luís Pegado, Port. 1738. P. João Furtado, Port. 1739. P. José da Silva, Port. 1740. Fr. António Rodrigues, Port. 1741. P. António Soares, Port. 1742. Fr. António Joseph, Port. 1743. Fr. António de Paiva, Port. 1744. Br. João de Lemos, Port. 1745. Br. Luís de Faria, Port. for Malabar: 1746. P. Nunzio D'Amelio, Ital. 1747. Fr. Fernando Pimentel, Port. 1748. Fr. Matias Veloso, Port. 1749. Fr. Salvador da Costa, Port. 1750. Fr. Miguel João, Port. 1751. Fr. José Joaquim, Port. for China: 1752. P. Agostinho de Barros, superior, Port.
+- **João de Lemos** → doc 66 (wicki-liste-jesuiten-indienfahrer-1967.pdf) p.79/207 [edited] (collections/reference-works)
+  > Liste der Jesuiten-Indienfahrer 1541–1758 325 für Japan: 1794. P. João Felix, Port. 1795. P. Manuel de Abreu, Port. 1796. P. Paulo Alberto, Port. 1797. P. Bonifácio Rodrigues, Port. 1798. P. Vicente da Cunha, Port. 1799. Fr. João de Lemos, Port. 1800. P. Manuel de Carvalho, Novize, Port. 1801. Fr. Nicolau de Andrade, Port. 1802. Br. António Cardoso, Port., für Japan, wahrscheinlich 1732 1803. Fr. Miguel da Silva, Port. 1804. P. Manuel Pimentel, Port., wahrscheinlich 1732 1733: keine Aussendung 153. Aussendung: 1734, 2. April für Goa
+- **João de Lemos** → doc 60 (historia_da_companhia_de_jesus-t2-v1.pdf) p.238/658 [raw] (collections/reference-works/francisco-rodrigues-hcjap)
+  > P. Carlos Rademáker ao poeta João de Lemos. Era esta Quinta da Tôrre diversa da  Quinta da Torrinha, que estava no sítio, a nascente, do Parque Eduardo VIIy  e tomava o nome de uma Torrinha octogonal, erguida no alto da que é hoje Avenida da Liberdade, e demolida depois no segundo decénio do século XX.  Outra quinta, menor que a de Campolid
+- **João de Lemos** → doc 19 (DOCUMENTA-INDICA-1540-49.pdf) p.564/1011 [edited] (collections/documenta-indica)
+  >  Page: 424  ### Named entities - P. A. Gomes (Jesuit, author of letter) - P. Simão Rodrigues (Jesuit, recipient) - D. Álvaro de Castro (son of viceroy D. João de Castro) - D. Bernardo de Noronha (nobleman, possibly) - Marçal Fernandez (servant of the Bishop of Goa, candidate for scribe of Pangim) - João de Lemos (deceased holder of office of scribe of Pangim) - Bishop of Goa (Martialis Fernandes) - João III (King of Portugal) - D. João de Castro (viceroy of India) - D. Afonso (Cardinal Infante) - Pangim (place, Goa) - Goa (place) - Companhia (Society of Jesus)  ### Content summary This page contains a Port
+- **João de Lemos** → doc 22 (DocHistMissPadPortOriente_vol04_1548-1550.pdf) p.619/638 [edited] (collections/DocHistMissPadPortOriente)
+  > ue depois se converteu — 70.  ## Notes  Language: Portuguese Script: Latin  ### Named entities  - Frei Vicente de Lagos (friar) - Padre Nicolau Lanciloto (priest) - João de Lemos (Portuguese in Goa) - Francisco de Lima (captain of Goa) - D. Manuel de Lima (captain) - Francisco de Lisboa (secretary in Goa) - Liundar (rabbi) - Pedro Lobato (factor in Mascate) - Diogo Lobo (nephew of the Baron of Alvito) - D. Filipe de Lobo (father of D. Diogo Lobo) - D. João Lobo (nobleman in
+- **Joannes de Lemos** → doc 16 (antonio-franco-synopsis.pdf) p.523/528 [raw] (documents)
+  > nnes à Sylva. Joannes à Torres. Joannes de Almeida. Joannes de Basto. Joannes de Borja. Joannes de Brito. Joannes de Cardenas. Joannes de Carvajal. Joannes de Castro. Joannes de Couha. Joannes de Figueiredo. Joannes de Frias. Joannes de Faria. Joannes de Gusman. Joannes de Heredia. Joannes de Leão. Joannes de Lemos. Joannes de Losada. Joannes de Mello. Joannes de Mercado. Joannes de Montenegro. Joannes de Moraes. Joannes de Moura. Joannes de Natal. Joannes de Orozco. Joannes de Osorio. Joannes de Paiva. Joannes de Paredes. Joannes de Quadros. Joannes de Rezende. Joannes de Sa. Joannes de S. Bartholomeu. Joann
+- **Ioannes de Lemos** → doc 64 (historia_da_companhia_de_jesus-t4-v1.pdf) p.517/612 [raw] (collections/reference-works/francisco-rodrigues-hcjap)
+  >   In Provinciam Malabariam  P. Petrus Lodoix Amadezi. Bononiensis. P. Thomas da Fonseca. Ex Bahia.  In Provinciam Iaponiam  P. Ioannes Felix. Lusit. P. Emmanuel de Abreu. Lusitanus. P. Paulus Albertus. Lusit. P. Bonifacius Rodericus. Lusit. P. Vicentius da Cunha. Fr. Niculaus de Andrade. Lusit. Fr. Ioannes de Lemos. Lusit. P. Emmanuel Carvalho. Lusit. Novit.  Anno 1733 Nulli solvere  Anno 1734, 2 Aprilis solverunt in Provinciam Iaponiam  P. Caetanus Lopes, Superior venerat procurator Romam. Fr. Beneditus de Gouvea. Lusit. Theol. Fr. Ioannes Duarte. Lusit. Coadj. Temp.  In Sinicam  P. Iacobus Antonini. Venetiu
+- **Ioannes de Lemos** → doc 64 (historia_da_companhia_de_jesus-t4-v1.pdf) p.515/612 [raw] (collections/reference-works/francisco-rodrigues-hcjap)
+  > iredo. Lusitanus. Qui ad Mogolem unde  venerat, reversus est. P. Emmanuel de Aguiar. Lusit. P. Antonius Pegado, Lusitanus. P. Ioannes Furtado. Lusit. P. Iosephus da Silva. Lusit. Fr. Antonius Rodrigues. Lusit. Fr. Antonius de Paiva. Lusit. Fr. Antonius Soares. Lusit. Fr. Antonius Ioseph. Lusit. Fr. Ioannes de Lemos. Lusit. Coadj. Spiritualis (sic). Fr. Ludovicus de Faria. Lusit. Coadj. Temp.  In Provinciam Sinicam eadem navi  P. Augustinus de Barros. Superior omnis miss. Fr. Ioannes de Barros. Lusit. Philos. Fr. Franciscus Rebello. Lusit. Coadj. Temp.  In Provinciam Malabaricam  P. Nuntius Amelius. Italus. Fr
+- **Ioannes de Lemos** → doc 16 (antonio-franco-synopsis.pdf) p.523/528 [edited] (documents)
+  > ) - Ioannes de Castro (person, Jesuit) - Ioannes de Couha (person, Jesuit) - Ioannes de Figueiredo (person, Jesuit) - Ioannes de Frias (person, Jesuit) - Ioannes de Faria (person, Jesuit) - Ioannes de Gusman (person, Jesuit) - Ioannes de Heredia (person, Jesuit) - Ioannes de Leão (person, Jesuit) - Ioannes de Lemos (person, Jesuit) - Ioannes de Losada (person, Jesuit) - Ioannes de Mello (person, Jesuit) - Ioannes de Mercado (person, Jesuit) - Ioannes de Montenegro (person, Jesuit) - Ioannes de Moraes (person, Jesuit) - Ioannes de Moura (person, Jesuit) - Ioannes de Natal (person, Jesuit) - Ioannes de Orozco (

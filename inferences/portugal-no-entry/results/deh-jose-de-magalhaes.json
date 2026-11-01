@@ -1,0 +1,59 @@
+{
+  "id": "deh-jose-de-magalhaes",
+  "name": "José de Magalhães",
+  "lugar": "Coimbra (noviciado do Real Colégio de Jesus) — inferência",
+  "data": "1649",
+  "confianca": "baixa",
+  "sugestao_tabela": "Coimbra (a tabela Obsidian traz já «Coimbra» sem prova documental citada)",
+  "validacao": "Sem prova direta. O ano (1649) é o do Dehergne e é confirmado pelo catálogo de 1655 (Lus. 45, f. 180: «Fr. Josephus de Magalhães. Amarante. 19. 6.», isto é, 6 anos de Companhia em 1655). O lugar «Coimbra» é inferência: (a) era natural de Amarante, arcebispado de Braga, e os amarantinos documentados no arquivo entraram em Coimbra; (b) não era noviço de Évora (não figura no índice transtagano de 1651). Não encontrei nenhuma fonte do arquivo que o nomeie num noviciado.",
+  "resumo": "O Dehergne dá-lhe entrada em 1649 sem lugar, e nenhum documento do arquivo pha o nomeia num noviciado. A hipótese mais provável é Coimbra, o noviciado da região de origem (Amarante, arcebispado de Braga): os casos documentados de amarantinos no arquivo entram todos em Coimbra. Fica como inferência (baixa confiança), a confirmar por Lus. 45 (catálogos de Coimbra) ou pelo livro de entradas do noviciado.",
+  "biografia": "Nasceu em Amarante, arcebispado de Braga, em 1636 («Interamnensis», Lus. 45, 180). Entrou na Companhia em 1649 e embarcou para o Oriente a 4 de Abril de 1657 no S. Lourenço das Almas (W 1020), chegando a Macau em 1659. Esteve em Cantão (1664), de novo em Macau (1665-66) e no Sião (1671-1673); professou os quatro votos em Macau a 15 de Agosto de 1674, onde morreu a 3 de Maio de 1683. Distinto do P. José de Magalhães morto no Grão Mogol em 1705.",
+  "analise": [
+    {
+      "titulo": "O que o arquivo diz — e o que não diz",
+      "texto": "O Dehergne (doc 65, p. 200) e a notícia da base Timelink dão «N. « Interamnensis », Amarante 1636 (Lus. 45, 180) -E. 1649 (JS 25, 171)» — sem lugar de entrada. O Pfister (doc 47, pp. 407-408, impressas 368-369) também não o dá: o cabeçalho da notícia 131 é apenas «A. 1664. — M. après 1672.».\n\n— Dehergne, *Répertoire* (doc 65), p. 200 — raw · `pha page 65 200`; Pfister (doc 47), pp. 407-408 — raw · `pha page 47 407`, `pha page 47 408`"
+    },
+    {
+      "titulo": "A inferência: Amarante → noviciado de Coimbra",
+      "texto": "O noviciado de Coimbra (Real Colégio de Jesus) servia o norte: Entre-Douro-e-Minho, Trás-os-Montes e Beira. No volume de Coimbra do Franco estão documentados três amarantinos, todos entrados em Coimbra:\n\n> «O Padre Manoel da Costa, natural de Amarante no Arcebispado de Braga, entrou na Companhia em Coimbra aos 25 de Fevereiro de 1586»\n\n— Franco, *Imagem da virtude… Coimbra* II (doc 55), p. 590 — raw · `pha page 55 590`\n\n> «Padre Antonio de Sousa natural da Villa de Amarante no Arcebispado de Braga entrou na Companhia ao 1 de Julho de 1606»\n\n— doc 55, p. 631 — raw · `pha page 55 631`\n\n> «Padre Mathias de Souza, natural de Amarante no Arcebispado de Braga, entrou a 29 de Janeiro de 1612»\n\n— doc 55, p. 643 — raw · `pha page 55 643`\n\nNenhum destes é José de Magalhães: são casos paralelos de proveniência, não prova de que ele tenha entrado em Coimbra."
+    },
+    {
+      "titulo": "O ano: 1649 confirmado por um catálogo coevo (fora do pha)",
+      "texto": "O catálogo trienal da província de Portugal de 1655 (ARSI, Lus. 45, f. 180) regista-o entre os Irmãos:\n\n> «116. Fr. Josephus de Magalhães. Amarante. 19. 6. Mediocres. Philosoph. ex 1.º»\n\n— ARSI, Lus. 45, f. 180 — imagem digitalizada **fora do arquivo pha** (lida em `…/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg`)\n\nDezanove anos em 1655 (n. 1636) e seis anos de Companhia ⇒ entrada em 1649, como diz o Dehergne. O mesmo catálogo não indica a casa."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 200 — raw (`transcription-ocr@liteparse-fra`)",
+      "comando": "pha page 65 200",
+      "o_que_prova": "«-E. 1649 (JS 25, 171)» sem lugar: é o problema a resolver",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Pfister, *Notices…*, t. I (doc 47), pp. 407-408 (impressas 368-369) — raw (`transcription-ocr@liteparse-fra`)",
+      "comando": "pha page 47 407 ; pha page 47 408",
+      "o_que_prova": "a notícia 131 (José de Magalhães) não dá lugar nem ano de entrada; só «A. 1664. — M. après 1672»",
+      "forca": "negativa"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude… Coimbra* II (doc 55), p. 590 (Manuel da Costa, de Amarante, noviço em Coimbra em 1586) — raw",
+      "comando": "pha page 55 590",
+      "o_que_prova": "um natural de Amarante entrou no noviciado de Coimbra (caso paralelo)",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude… Coimbra* II (doc 55), pp. 631 e 643 (António de Sousa e Matias de Sousa, ambos de Amarante, entrados em Coimbra em 1606 e 1612) — raw",
+      "comando": "pha page 55 631 ; pha page 55 643",
+      "o_que_prova": "reforça o padrão Amarante → Coimbra",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI, Lus. 45, f. 180 (catálogo trienal da província, 1655) — imagem ARSI, **fora do arquivo pha**",
+      "comando": "(ler imagem `…/LUS. 45/180.jpg`)",
+      "o_que_prova": "«Fr. Josephus de Magalhães. Amarante. 19. 6.» — 6 anos de Companhia em 1655 ⇒ entrada em 1649",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "Não existe no arquivo pha nenhum documento que nomeie José de Magalhães (ou Joseph/Jozeph de Magalhaens) num noviciado, nem os catálogos que o Dehergne cita (Lus. 45, JS 25). Procurei as variantes Magalhães/Magalhaens/Magalhaẽs/Magalhäes/Magalhais em todo o arquivo (136 documentos): só aparecem o Pfister (doc 47, notícia sem lugar), o Wicki (doc 66, lista de embarque) e homónimos do século XVI-XVII. O índice de vidas dos volumes de Coimbra, Évora e Lisboa do Franco não o inclui.",
+  "refs_obsidian": ["[[0 Portugal no entry]]", "[[deh-jose-de-magalhaes]]"]
+}

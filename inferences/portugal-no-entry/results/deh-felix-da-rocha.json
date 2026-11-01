@@ -1,0 +1,74 @@
+{
+  "id": "deh-felix-da-rocha",
+  "name": "Félix da Rocha",
+  "lugar": "Lisboa (Noviciado de Lisboa)",
+  "data": "1728-05-01",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "lugar estabelecido em fonte primária (registo provincial de entradas; confirmado pelo apêndice impresso n.º 406)",
+  "resumo": "O caso que motivou este lote fica fechado: «Felis da Rocha n.º de Lisboa entrou no Noviciado da mesma Cidade aos 1.º de Maio de 1728. Foi baptizado aos 30 de Agosto de 1713» (BNP, Pombalina 231, f. 72r; imagem `hires_000151.jpg`). O lugar de entrada é **Lisboa** — a mesma cidade do nascimento —, e não Coimbra ou Évora; a entrada (1 de Maio de 1728) é anterior à abertura do Noviciado das Missões de Arroios (27 de Abril de 1735).",
+  "biografia": "Félix da Rocha nasceu em Lisboa a 31 de Agosto de 1713 (a data de 1716 na base Timelink é erro de transcrição; Pfister e Dehergne dizem 1713). Entrou na Companhia a 1 de Maio de 1728. Partiu para a China como não-sacerdote a 13 de Abril de 1735 (W 1824), chegou a Macau em 1737, onde estudou teologia e foi ordenado; a 12 de Janeiro de 1738 foi nomeado astrónomo da Corte e chegou a Pequim. Professou os 4 votos em Pequim a 2 de Fevereiro de 1747, foi assessor do Tribunal das Matemáticas e mandarim, vice-provincial da China de 1753 a 1759, levantou as cartas da Dzoungária (1755-1759) e do Pequeno Tibete «Kinchuen» (1774 e 1777) e foi presidente do Tribunal das Matemáticas em 1774. Morreu em Pequim a 22 de Maio de 1781.",
+  "analise": [
+    {
+      "titulo": "As três fontes impressas — data sem lugar",
+      "texto": "Pfister, *Notices biographiques*, t. 2, n.º 353 (impresso p. 773):\n\n> `N. 31 août 1713. — E. 1 mai 1728. — A. 1738. — P. 2 fév. 1747. — M. 22 mai 1781, Pékin.` … `Né à Lisbonne, le … P. da Rocha, après quatre ans de philosophie et quatre ans de théologie, fut envoyé, sur sa demande, aux missions de Chine…`\n\n— Pfister (doc 50), p. 239 (impresso 773) — raw (`french-ocr`) · `pha page 50 239 --raw`\n\nBacker-Sommervogel, t. VI, col. 1930:\n\n> `ROCHA, Félix de, né à Lisbonne, le 31 août 1713, entré le 1 mai 1728, arriva en Chine en 1738, fut vice-provincial, supérieur à Pékin…`\n\n— Backer-Sommervogel (doc 143), p. 973 (col. 1930) — raw (`french-ocr`) · `pha page 143 973 --raw`\n\nUma e outra dão a data exacta mas calam a casa do noviciado; o mesmo faz o Dehergne, que cita o fólio do catálogo (Lus. 48, 44) só para a data."
+    },
+    {
+      "titulo": "Onde se procurou",
+      "texto": "O Dehergne define « E. » como a data de entrada no noviciado, indicando a cidade sempre que a conhece (doc 65, p. 16 = impresso XIV). Aqui não a indica. Em 1728 os noviciados portugueses eram os de Lisboa (Monte Olivete), Coimbra e Évora — o de Arroios, para as missões, só seria aberto a 27 de Abril de 1735 (doc 64, pp. 165-167) —, mas nenhuma das fontes consultadas diz em qual deles foi recebido, e o códice Lus. 48, que o Dehergne cita, não está disponível. Este ponto ficou, porém, resolvido pelo registo provincial de entradas (BNP, Pombalina 231, f. 72r (imagem hires_000151.jpg)): ver a secção «A entrada na Companhia»."
+    },
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O caso que motivou este lote fica fechado: «Felis da Rocha n.º de Lisboa entrou no Noviciado da mesma Cidade aos 1.º de Maio de 1728. Foi baptizado aos 30 de Agosto de 1713» (BNP, Pombalina 231, f. 72r; imagem `hires_000151.jpg`). O lugar de entrada é **Lisboa** — a mesma cidade do nascimento —, e não Coimbra ou Évora; a entrada (1 de Maio de 1728) é anterior à abertura do Noviciado das Missões de Arroios (27 de Abril de 1735)."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 692 (Félix da Rocha) na base Timelink, atributo `dehergne/obs`",
+      "comando": "python3 tools/packet.py deh-felix-da-rocha",
+      "o_que_prova": "entrada em 1 de Maio de 1728, com a cota Lus. 48, 44, sem lugar",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Pfister, *Notices biographiques… de l'ancienne Mission de Chine*, t. 2, n.º 353 (impresso p. 773) (doc 50), p. 239 — raw (`french-ocr`) · `pha page 50 239 --raw`",
+      "comando": "pha page 50 239 --raw",
+      "o_que_prova": "E. 1 mai 1728, sem lugar de noviciado",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Backer-Sommervogel, *Bibliothèque de la Compagnie de Jésus*, t. VI (doc 143), col. 1930 (PDF p. 973) — raw (`french-ocr`) · `pha page 143 973 --raw`",
+      "comando": "pha page 143 973 --raw",
+      "o_que_prova": "«entré le 1 mai 1728», sem lugar",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine de 1552 à 1800* (doc 65), p. 16 = pág. impressa XIV, « E. = Date d'entrée au noviciat. Nous indiquons la ville où il fait son noviciat et la province jésuite qui l'accueille » — raw (`ocr`) · `pha page 65 16`",
+      "comando": "pha page 65 16",
+      "o_que_prova": "o campo « E. » do Dehergne é, por definição, a data de entrada no noviciado, e o autor indica a cidade do noviciado sempre que a conhece; para as 12 pessoas deste lote deixou só a data, logo não tinha a cidade",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), pp. 165-168 = cap. « I — O Noviciado do Oriente » — raw (`ocr`) · `pha page 64 195`, `pha page 64 196`, `pha page 64 197`, `pha page 64 198`",
+      "comando": "pha page 64 196 ; pha page 64 197",
+      "o_que_prova": "em 1726-1738 havia em Portugal três noviciados de província (Lisboa/Monte Olivete, anexo ao Colégio de Coimbra, anexo ao de Évora) e, desde 27 de Abril de 1735, o Noviciado das Missões da Índia (Arroios, Lisboa), criado para as missões de Goa, Malabar, Japão e China",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), f. 72r (imagem `hires_000151.jpg`) — leitura directa do manuscrito",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000151.jpg\"",
+      "o_que_prova": "o lugar de entrada na Companhia: «Felis da Rocha n.º de Lisboa entrou no Noviciado da mesma Cidade aos 1.º de Maio de 1728. Foi baptizado aos 30 de Agosto de 1713.» — entrada no noviciado de Lisboa",
+      "forca": "direta"
+    },
+    {
+      "citacao": "ARSI, *Catalogus Provinciae Lusitanae ineunte anno MCMX* (1911), apêndice «Catalogo dos sojeitos que entraram em a Companhia de Jesus na Provincia de Portugal 1711-1758», n.º 406 — edição impressa (texto extraído em results/_scratch/appendix.txt)",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/LUSITANIAE_1911.pdf\"",
+      "o_que_prova": "o mesmo assento, impresso com coluna NOVICIADO (n.º 406): confirma a casa e a data lidas no manuscrito",
+      "forca": "direta"
+    }
+  ],
+  "nao_encontrado": "O caso fica resolvido pelo registo provincial de entradas (f. 72r). O códice ARSI Lus. 48, f. 44, citado por Dehergne para a data, continua a não existir no arquivo nem em disco, mas já não é necessário.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-felix-da-rocha]]"
+  ]
+}

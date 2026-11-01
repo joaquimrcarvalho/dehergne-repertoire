@@ -1,0 +1,42 @@
+{
+  "id": "deh-policarpo-de-sousa",
+  "name": "Policarpo de Sousa",
+  "lugar": "Coimbra (Noviciado de Coimbra)",
+  "data": "1712-10-31",
+  "confianca": "alta",
+  "sugestao_tabela": "",
+  "validacao": "novo; confirma a data de JS 134 (31 de Outubro de 1712) e afasta a de ARSI Lus. 47, f. 191v (3 de Outubro de 1711)",
+  "resumo": "Policarpo de Sousa, natural de Coimbra, entrou «neste Noviciado de Coimbra» para estudante a 31 de Outubro de 1712 (baptizado a 2 de Dezembro de 1696). O registo provincial de 1711-1758 (BNP, Pombalina 231) di-lo expressamente. Confirma a data que Dehergne tirara de JS 134, 435 e afasta a variante de ARSI Lus. 47, f. 191v.",
+  "biografia": "N. Coimbra, 26 de Janeiro de 1697 (baptizado a 2-XII-1696). Noviciado de Coimbra desde 31-X-1712. Embarcou para a China em 1725 na embaixada de D. Alexandre Metelo de Sousa e Meneses (Wicki n.º 1689), chegou em 1725 e foi chamado a Pequim em 1726 como procurador. Tomou os 4 votos em Pequim a 8-XII-1732. Nomeado bispo de Pequim em 1740, confirmado a 19-XII-1740, sagrado em Macau a 3-XI-1743. Morreu em Pequim a 26 de Maio de 1757.",
+  "analise": [
+    {
+      "titulo": "A entrada na Companhia",
+      "texto": "O registo provincial (BNP, Pombalina 231) inscreve-o nas suas folhas da letra P:\n\n> «Policarpo de Souza, n.º da cidade de Coimbra, f.º legitimo de João Baptista, n.º da cidade de Lamego, e de Romaria Coires da Conceição, n.ª de Verride. Entrou neste Noviciado de Coimbra p.ª Estudante aos 31 de Outubro de 1712; foi baptizado aos 2 de Dezembro de 1696.»\n\n(imagem 351 da digitalização da BNP). A casa está dita por extenso: **Noviciado de Coimbra**. O ano de baptismo, 1696, concorda com o que o próprio Dehergne registou a partir de ARSI Lus. 47, f. 191v («N. 1696»).\n\nRestava a divergência de datas: Dehergne oscilava entre 31 de Outubro de 1712 (JS 134, 435) e 3 de Outubro de 1711 (Lus. 47, 191v). O registo dá **31 de Outubro de 1712**, isto é, a data de JS 134. O fólio 191v do códice Lus. 47 (cuja imagem 191v.jpg foi lida) pertence ao catálogo trienal e não foi possível confirmar nele a variante de 1711; o registo do noviciado é a fonte própria para a data de entrada."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Registo da Província de Portugal, «Catalogo dos Sogeitos que entrarão em a Comp.ª de Jesus na Provincia de Portugal: Começa em Jan.º de 1711» (BNP, Pombalina 231), folhas da letra P (imagem 351 da digitalização) — manuscrito lido directamente na imagem",
+      "comando": "open \"/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000351.jpg\"",
+      "o_que_prova": "entrada «neste Noviciado de Coimbra», para estudante, a 31 de Outubro de 1712; baptizado a 2-XII-1696",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* (doc 65), aviso 811 — p. 297",
+      "comando": "python3 tools/packet.py deh-policarpo-de-sousa  (aviso de Dehergne transcrito do campo obs da base Timelink; a página de doc 65 correspondente, p. 297, foi vista em pha_research/hint)",
+      "o_que_prova": "registava «E. 31 oct. 1712 (JS 134, 435)» e, em nota, «Lus. 47, 191v le dit N. 1696, E. 3 oct. 1711» — a data de 1712 fica confirmada, a de 1711 afastada",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI Lus. 47, f. 191v (imagem LUS. 47/191v.jpg) — leitura directa da imagem",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 47/191v.jpg\"",
+      "o_que_prova": "catálogo trienal da província (entradas numeradas, com ano e dia de «ingressus»); página em que Dehergne diz ter lido «N. 1696, E. 3 oct. 1711»; a caligrafia é aqui mais difícil e não se confirmou a data nesta imagem",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "O códice ARSI Lus. 48 (1730-1748) e os fólios de Lus. 47 posteriores ao fólio 252 não estão em disco.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-policarpo-de-sousa]]"
+  ]
+}

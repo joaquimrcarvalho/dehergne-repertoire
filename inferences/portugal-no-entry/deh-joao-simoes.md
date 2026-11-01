@@ -1,0 +1,144 @@
+---
+title: João Simões — lugar de entrada
+person_id: deh-joao-simoes
+name: João Simões
+dehergne_no: 786
+nationality: Portugal
+entry_place: não determinado
+entry_date: 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia)
+confidence: nenhuma
+source: "[[0 Portugal no entry]]"
+created: 2026-10-19
+tags: [dehergne, jesuita-entrada, portugal, china]
+---
+
+# João Simões (`deh-joao-simoes`)
+
+**Lugar de entrada: não determinado** — 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) (confiança: **nenhuma**).
+
+> Sugestão na tabela [[0 Portugal no entry]]: **— (a tabela Obsidian «0 Portugal no entry» não tem sugestão para esta pessoa)** — sem sugestão a validar; a data está confirmada em ARSI, Lus. 41, f. 99 («Ingressus 17 Mai. 1734»), mas o **registo de entrantes da província de Portugal** — a fonte própria para a casa — foi lido no ano de 1734 e **não o contém**. O lugar continua indeterminado
+
+A data de entrada — 17 de Maio de 1734 — está confirmada em fonte primária: o catálogo da Assistência de Portugal de 1768 (ARSI, Lus. 41) dá, para «P. Ioannes Simões», o nascimento em Penela a 8 de Setembro de 1713 (f. 98) e o «Ingressus» em 17 de Maio de 1734 (f. 99). O registo de entrantes da província de Portugal (BNP, Pombalina 231), que declara sempre a casa («Entrou no Noviciado de Coimbra / Évora / Lx.ª …»), foi agora lido no ano de 1734 — nas folhas da letra J do manuscrito (imagens 219-224, folhas 106-108) e na edição impressa do mesmo registo (1911, n.º 721-747) — e **não contém nenhum João Simões**: os assentos da letra J de 1734 são apenas José Marinho (Lisboa, 9 de Abril), Innocencio de Almeida Lobo (Lisboa, 18 de Abril), João Paulo (Évora, 26 de Maio), Joaquim Barreto (Lisboa, 5 de Setembro), Ignacio de Carvalho (Évora, 10 de Outubro), José da Fonseca (Coimbra, 14 de Outubro) e José Esteves (Évora, 21 de Novembro). Como o registo inclui também os que entraram em Lisboa, Évora, Coimbra e na Cotovia, e ainda candidatos destinados a outras províncias (Paulo de Campos, destinado às missões, entra em Coimbra a 2 de Maio de 1737 e nele figura), a sua ausência significa que não fez o noviciado em nenhuma dessas casas em Maio de 1734 — mas nenhuma fonte disponível diz onde o fez. Não se inventa lugar.
+
+## Identificação
+
+| | |
+|---|---|
+| id Timelink | `deh-joao-simoes` |
+| Dehergne | nº 786 |
+| Nacionalidade | Portugal |
+| Fonte (.cli) | `dehergne-s` (linha 1570) |
+| `jesuita-entrada` na base | `?` / 17340517 |
+| Embarque | 1741 |
+| Ficha Obsidian | `/Users/jrc/jrc-notes/04 Biographies/dehergne/deh-joao-simoes.md` |
+
+| | valor |
+|---|---|
+| Dehergne, entrada (`E.`) | 17 mai 1734 |
+| Base Timelink (actual) | `?` / 17340517 |
+| Tabela Obsidian (sugestão) | — (a tabela Obsidian «0 Portugal no entry» não tem sugestão para esta pessoa) |
+| **Proposta desta nota** | **não determinado** — 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) (nenhuma) |
+
+## 1. Notícia de Dehergne (base Timelink)
+
+> Simões (Simõens), João (port.) P. 786 P'ang (M 443, 678: Pam). Chen Jo-wang (Pf. 809 n.) peut-être. N. Penela, dioc. de Coïmbre, 8 sept. 1713 (Lus. 41, 98) -E. 17 mai 1734. Emb. 1741 (W 1888), arr. 1743 (JS 134, 438)., prisonnier 10 avril 1746., expulsé à Macao, il y arr. le 2 juill. 1747 avec ordre de regagner l'Europe par le prochain bateau (B. Casanatense, ms J577 f° 241)., Pékin, 1748 (WB n° 694, p. 122)(?)., Macao, procureur de la viceprovince, 1752 (JS 134, 440)., en 1758, passe à la province du Brésil (JS 98, 51): exil en Italie en 1766 (Lus. 41, 98). V. Pékin, 15 août 1751, pr. (Lus. 17, 42). M. après 1773. Sommervogel dit: déporté en Italie, il vivait encore à Sezze dans le Latium en 1773. Pf. 809.
+
+Dehergne (doc 65, nº 786) — ver `/Users/jrc/jesuit-archive/dropbox/collections/reference-works/Joseph Dehergne - 1973 - Répertoire des Jésuites de Chine, de 1542 à 1800.pdf`.
+
+## 2. Biografia
+
+João Simões (Simoens) nasceu em Penela, diocese de Coimbra, a 8 de Setembro de 1713 (ARSI, Lus. 41, f. 98; Pfister diz Coimbra). Entrou na Companhia a 17 de Maio de 1734. Embarcou em 1741 (W 1888) e chegou em 1743; foi preso a 10 de Abril de 1746, expulso para Macau, onde chegou a 2 de Julho de 1747 com ordem de regressar à Europa no primeiro navio. Esteve em Pequim em 1748, professou os 4 votos em Pequim a 15 de Agosto de 1751 e foi procurador da vice-província em Macau em 1752. Em 1758 passou à província do Brasil e em 1766 estava exilado em Itália; em 1773 vivia ainda em Sezze, no Lácio, segundo Sommervogel.
+
+## 3. Cronologia (base Timelink)
+
+| Data | Atributo | Valor |
+|---|---|---|
+| — | `jesuita-estatuto` | Padre |
+| — | `nacionalidade` | Portugal |
+| — | `nome-chines` | P'ang |
+| — | `nome-chines` | Pam |
+| — | `nome-chines` | Chen Jo-wang |
+| 1713-09-08 | `nascimento` | Penela, diocese de Coimbra |
+| 1713-09-08 | `nascimento (wikidata)` | [Q576924](https://www.wikidata.org/wiki/Q576924) |
+| 1734-05-17 | `jesuita-entrada` | ? |
+| 1741 | `embarque` | ? |
+| 1741 | `wicky` | 1888 |
+| 1741 | `wicky-viagem` | 160 |
+| 1743 | `chegada` | ? |
+| 1743 | `chegada (wikidata)` | [Q1171](https://www.wikidata.org/wiki/Q1171) |
+| 1746-04-10 | `estadia` | ? |
+| 1746-04-10 | `estadia (wikidata)` | [Q1171](https://www.wikidata.org/wiki/Q1171) |
+| 1747-07-02 | `chegada` | Macau |
+| 1747-07-02 | `chegada (wikidata)` | [Q14773](https://www.wikidata.org/wiki/Q14773) |
+| 1748 | `estadia` | Pequim |
+| 1748 | `estadia (wikidata)` | [Q956](https://www.wikidata.org/wiki/Q956) |
+| 1751-08-15 | `jesuita-votos` | 4V |
+| 1751-08-15 | `jesuita-votos-local` | Pequim |
+| 1751-08-15 | `jesuita-votos-local (wikidata)` | [Q956](https://www.wikidata.org/wiki/Q956) |
+| 1752 | `estadia` | Macau |
+| 1752 | `estadia (wikidata)` | [Q14773](https://www.wikidata.org/wiki/Q14773) |
+| 1752 | `jesuita-cargo` | Procurador da Vice-província da China |
+| 1758 | `partida` | Brasil |
+| 1758 | `partida (wikidata)` | [Q155](https://www.wikidata.org/wiki/Q155) |
+| 1766 | `estadia` | Itália |
+| 1766 | `estadia (wikidata)` | [Q38](https://www.wikidata.org/wiki/Q38) |
+| 1773 | `estadia` | Sezze, Itália |
+| 1773 | `estadia (wikidata)` | [Q128206](https://www.wikidata.org/wiki/Q128206) |
+| 1773 | `morte` | Itália |
+| 1773 | `morte (wikidata)` | [Q38](https://www.wikidata.org/wiki/Q38) |
+
+## 4. Verificação no arquivo pha
+
+### 4.1 O registo da província no ano de 1734: leitura directa
+
+O registo de entrantes da província de Portugal (BNP, Pombalina 231) está ordenado alfabeticamente pelo primeiro nome e, dentro de cada letra, pela data de entrada. Os «João» estão nas folhas da letra J (imagens 199-251). Lidas as páginas que cobrem os anos 1733 a 1738 (imagens 219-224 = folhas 106-108), o ano de 1734 aparece em dois sítios:
+
+> f. 106r (imagem 219), fim da página: «Joseph Marinho n.º de S. Payo […] Arceb.º de Braga, f.º leg.º de Ant.º Marinho e Maria Teixeira; foi bapt.º a 8 de Março 1703; entrou no Nov.º de Lisboa p.º Coadjutor temporal a 9 de Abril 1734.»
+
+> e, nos anos seguintes, f. 106v (imagem 220) com os assentos de 1730-1732, f. 107r (imagem 221) com os de 1735, f. 107v (imagem 222) com os de 1736-1737, f. 108r (imagem 223) com os de 1737-1738 e f. 108v (imagem 224) com os de 1738-1740.
+
+Nenhuma destas páginas contém um «João Simões». A edição impressa do mesmo registo (apêndice ao *Catalogus Provinciae Lusitaniae* de 1911, pp. 98-99) dá, para 1734, exactamente os mesmos assentos: n.º 730 José Marinho (Lisboa, 9 de Abril), n.º 731 Innocencio de Almeida (Lobo) (Lisboa, 18 de Abril), n.º 732 João Paulo (Évora, 26 de Maio), n.º 733 Joaquim Barreto (Lisboa, 5 de Setembro), n.º 734 Ignacio de Carvalho (Évora, 10 de Outubro), n.º 735 José da Fonseca (Coimbra, 14 de Outubro), n.º 736 José Esteves (Évora, 21 de Novembro). O assento que faltaria — 17 de Maio de 1734 — cai entre o n.º 731 (18 de Abril) e o n.º 732 (26 de Maio): não existe.
+
+— BNP, Pombalina 231, «Catalogo dos Sogeitos…», folhas da letra J, imagens 219-224 — leitura directa · `open "…/_scratch/bnp47525/hires_000219.jpg"` (e 220-224) · apêndice impresso de 1911, pp. 98-99 · `open "…/_scratch/pdfimg/l1911_98-098.png"` e `l1911_99-099.png`
+
+### 4.2 Porque a ausência é significativa
+
+O registo não é selectivo: inscreve os noviciados de Coimbra, Évora, Lisboa (Casa de Provação / Monte Olivete) e da Cotovia, e regista até candidatos destinados a outras províncias (Maranhão, Goa, Brasil, Japão) — desde que a entrada se fizesse em Portugal. É o caso de Paulo de Campos, destinado às missões, que nele figura em Coimbra a 2 de Maio de 1737. A única casa ausente do registo é o Noviciado das Missões da Índia (Arroios, Lisboa), aberto a 27 de Abril de 1735 — **depois** da entrada de João Simões (17 de Maio de 1734) —, cujos noviços se registavam nos catálogos das províncias de missão (Lus. 48). Também não se trata de homonímia de data: dentro de 1734 o registo é contínuo (Abril, Maio, Setembro, Outubro, Novembro) e em nenhum ponto intercala outro «João» ou «Simões».
+
+Restam, por conseguinte, três explicações, nenhuma documentada: (a) entrada numa casa ou por um caminho que este registo não cobria já em 1734 (por exemplo, admissão directa pelo procurador das missões, antes da abertura formal de Arroios); (b) entrada fora da província de Portugal (Índia, Brasil ou outra província); (c) lacuna do próprio registo. Não se atribui lugar sem prova.
+
+### O que não foi encontrado
+
+Procurou-se o lugar de entrada (a) no registo de entrantes da província de Portugal (BNP, Pombalina 231), folhas da letra J, anos 1733-1738 (imagens 219-224 = folhas 106-108) — ausência verificada em leitura directa; (b) na edição impressa do mesmo registo (apêndice ao *Catalogus Provinciae Lusitaniae* de 1911, pp. 98-99, n.º 721-747) — ausência verificada; (c) em ARSI, Lus. 41, ff. 98-99 (1768) — dá a data, não a casa; (d) em Dehergne (doc 65), Pfister t. 2, n.º 373 (doc 50, p. 275), Wicki (doc 66, p. 164), doc 64, nos catálogos do pha (docs 1-4, 27-37, até 1625) e nos índices de Franco (docs 52-55). Falta ARSI, Lus. 48 (catálogos de 1726-1748, com as listas de noviços) e os livros de noviços de Coimbra, Évora e Lisboa.
+
+## 5. Evidência
+
+- Registo da Província de Portugal, «Catalogo dos Sogeitos que entrarão em a Comp.ª de Jesus na Provincia de Portugal: Começa em Jan.º de 1711» (BNP, Pombalina 231), folhas da letra J, anos 1733-1738 (imagens 219-224 do ficheiro `hires_NNNNNN.jpg`) — manuscrito lido directamente nas imagens · `open "/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000219.jpg"  ·  open "…/hires_000220.jpg"  ·  open "…/hires_000221.jpg"  ·  open "…/hires_000222.jpg"  ·  open "…/hires_000223.jpg"  ·  open "…/hires_000224.jpg"` · prova direta
+  - prova negativa directa: nenhum destes assentos (1733-1738, folhas 106-108) é de João Simões; o único assento de 1734 na folha 106r é «Joseph Marinho … entrou no Nov.º de Lisboa … a 9 de Abril 1734»
+- Registo da Província de Portugal, «Catalogo dos Sogeitos que entraram em a Companhia de Jesus na Provincia de Portugal 1711-1758», edição impressa apensa ao *Catalogus Provinciae Lusitaniae* de 1911 (ARSI), pp. 98-99, n.º 721-747 — texto impresso, lido na imagem da página (ficheiro local `LUSITANIAE_1911.pdf`) · `pdftoppm -f 98 -l 99 -r 300 -png _scratch/LUSITANIAE_1911.pdf _scratch/pdfimg/l1911` · `open "/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/pdfimg/l1911_98-098.png"  ·  open "…/l1911_99-099.png"` · prova direta
+  - edição impressa do mesmo registo, com a coluna NOVICIADO: os assentos da letra J de 1734 são os n.º 730-736 (José Marinho 9 Abril, Innocencio de Almeida 18 Abril, João Paulo 26 Maio, Joaquim Barreto 5 Set., Ignacio de Carvalho 10 Out., José da Fonseca 14 Out., José Esteves 21 Nov.) — nenhum João Simões
+- ARSI, *Lusitania* 41, f. 98 — Catalogue de l'Assistance de Portugal de 1768, n.º 1 «P. Ioannes Simões … 8 Sept. 1713 Penela» — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/098.jpg"` · prova direta
+  - nome, naturalidade (Penela), data e diocese de nascimento
+- ARSI, *Lusitania* 41, f. 99 — Catalogue de l'Assistance de Portugal de 1768, n.º 1: «Diocesis Coimbric. | Ingressus 17 Mai. 1734 | Gradus 15 Aug. 1751» — manuscrito lido em imagem · `open "/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 41/099.jpg"` · prova direta
+  - data exacta da entrada na Companhia: 17 de Maio de 1734 (sem casa)
+- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 164, anotação ao n.º 1888 — raw (`wicki-indienfahrer-1967`) · `pha page 66 164 --raw` · `pha page 66 164 --raw` · prova indireta
+  - entrada em 17 de Maio de 1734 e menção «spectat ad Provinciam Sinicam» (Lus. 48, 91r, n.º 256) — destino de missão, não casa de noviciado
+- Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 786 (João Simões) na base Timelink, atributo `dehergne/obs` · `python3 tools/packet.py deh-joao-simoes` · prova indireta
+  - entrada em 17 de Maio de 1734, nascimento em Penela a 8 de Setembro de 1713; sem lugar
+- Pfister, *Notices biographiques… de l'ancienne Mission de Chine*, t. 2, n.º 373 (impresso p. 809) (doc 50), p. 275 — raw (`french-ocr`) · `pha page 50 275 --raw` · `pha page 50 275 --raw` · prova indireta
+  - «E. 17 mars (ou mai) 1734» e nascimento em Coimbra (conflito com Lus. 41, f. 98, que diz Penela); sem lugar de noviciado
+- Francisco Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV, vol. 1 (doc 64), pp. 165-168 = cap. « I — O Noviciado do Oriente » — raw (`ocr`) · `pha page 64 196` · `pha page 64 196` · prova contexto
+  - em 1726-1738 havia em Portugal os noviciados de Lisboa (Monte Olivete), Coimbra e Évora, e — só desde 27 de Abril de 1735 — o Noviciado das Missões da Índia em Arroios; em Maio de 1734, portanto, Arroios ainda não existia
+- Dehergne, *Répertoire des Jésuites de Chine de 1552 à 1800* (doc 65), p. 16 = pág. impressa XIV, « E. = Date d'entrée au noviciat. Nous indiquons la ville où il fait son noviciat et la province jésuite qui l'accueille » — raw (`ocr`) · `pha page 65 16` · `pha page 65 16` · prova contexto
+  - o campo « E. » do Dehergne é, por definição, a data de entrada no noviciado; para esta personagem deixou só a data, logo não tinha a cidade
+
+## 6. Referências
+
+- [[0 Portugal no entry]]
+- [[deh-joao-simoes]]
+- **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
+- **doc 50** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
+
+---
+
+Ver também: [[0 Portugal no entry]]

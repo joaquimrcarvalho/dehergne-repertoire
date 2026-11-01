@@ -1,0 +1,46 @@
+{
+  "id": "deh-manuel-de-sousa",
+  "name": "Manuel de Sousa",
+  "lugar": null,
+  "data": null,
+  "confianca": "nenhuma",
+  "sugestao_tabela": "",
+  "validacao": "data de entrada confirmada no catálogo de 1700 (lido na imagem); lugar não estabelecido",
+  "resumo": "O catálogo primeiro da província de Portugal de 1700 (ARSI Lus. 46 a, f. 19, n.º 338) regista «Fr. Emanuel de Sousa, ex oppido Obrensi, Dioec. Ulyssiponensi, natus 4 Januarii an. 1673, ingressus Societat. 06. Septembris an. 1690, viribus bonis, Rhetoricus». Não indica a casa de entrada. Dehergne cita «JS 134, 413v» e nota que o catálogo de Goa de 1697 o coloca no juvenato de Goa «alitur sumptibus suae provinciae (sinensis)» — ou seja, em 1697 já estava na Índia, o que não permite determinar onde entrou em 1690.",
+  "biografia": "Manuel de Sousa (Souza), natural de Lisboa (1677), sacerdote. Entrou na Companhia a 25 de Agosto de 1694 (Dehergne, JS 134, 413v); o catálogo de 1700 dá 6 de Setembro de 1690, data que não confere com Dehergne e deve ser registada como conflito. Embarcou noviço, não sacerdote, para o Japão em 1701 (W 1450) e chegou a Macau a 10 de Novembro de 1703. Trabalhou em Chinkiang e Hwaian fou (Kiang-nan), foi exilado em Cantão (1707) e de novo (1717, passando a Macau a 12 de Setembro); morreu em Goa a 18 de Agosto de 1737.",
+  "analise": [
+    {
+      "titulo": "A data de entrada no catálogo de 1700 — e o conflito com Dehergne",
+      "texto": "«Fr. Emanuel de Sousa, ex oppido Obrensi, Dioec. Ulyssiponensi, natus 4 Januarii an. 1673, ingressus Societat. 06. Septembris an. 1690, viribus bonis, Rhetoricus.» (ARSI Lus. 46 a, f. 19, n.º 338). Dehergne dá 25 de Agosto de 1694 (JS 134, 413v): as duas datas não coincidem. Em qualquer caso a notícia não nomeia a casa de entrada."
+    },
+    {
+      "titulo": "O que se procurou e não existe",
+      "texto": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "ARSI, *Lus. 46 a*, f. 19, n.º 338 (catálogo primeiro da província de Portugal, 1700) — manuscrito ARSI lido na imagem digitalizada",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg\"",
+      "o_que_prova": "«Fr. Emanuel de Sousa (...) ingressus Societat. 06. Septembris an. 1690 ... Rhetoricus» — data de entrada e estudos, sem casa de entrada",
+      "forca": "direta"
+    },
+    {
+      "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 809 (doc 65), p. 296 — edited (`dehergne-ocr`)",
+      "comando": "pha page 65 296 --edited",
+      "o_que_prova": "notícia biográfica: «-E. 25 août 1694 (JS 134, 413v)... Goa 27, 118v col. 2, le met au juvénat de Goa en 1697» — data de Dehergne, sem lugar",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "busca no arquivo pha por «Manuel de Sousa», «Manoel de Sousa» e «Emmanuel de Sousa»",
+      "comando": "python3 tools/pha_research.py --name \"Manuel de Sousa\" --limit 8",
+      "o_que_prova": "nenhum resultado pertinente: só homónimos (governadores da Índia, franciscanos) sem relação com este jesuíta",
+      "forca": "negativa"
+    }
+  ],
+  "nao_encontrado": "Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-manuel-de-sousa]]"
+  ]
+}

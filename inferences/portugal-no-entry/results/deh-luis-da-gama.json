@@ -1,0 +1,66 @@
+{
+  "id": "deh-luis-da-gama",
+  "name": "Luís da Gama",
+  "lugar": "Lisboa (Casa de Provação do Monte Olivete — noviciado da província)",
+  "data": "1625",
+  "confianca": "média",
+  "sugestao_tabela": "Lisboa Santo Antão; BD: ?/1625",
+  "validacao": "Corrigida quanto à casa: confirma-se a cidade (Lisboa), mas o noviciado da província em 1619-1630 era a Casa de Provação do Monte Olivete e não o Colégio de Santo Antão (que é colégio de estudos, não noviciado). O fólio que Dehergne cita (Lus. 44 II, 416) não contém o nome, pelo que a conclusão assenta na história do noviciado, não numa nomeação directa.",
+  "resumo": "Dehergne atribui a Luís da Gama a entrada em 1625, citando o fólio Lus. 44 II, 416 (o catálogo da província de 1625). Lido esse fólio — a lista dos «Irmãos Coadjutores e Noviços» (n.os 163-173), seguida do «Seminario Irlandes» e do «Collegio de Coimbra» —, o nome não aparece: os onze noviços aí nomeados são outros. O que o fólio mostra é que em 1625 os noviços da província estavam na casa de Lisboa que precede o Seminário dos Irlandeses, isto é, a Casa de Provação; e António Franco diz expressamente que, extintos em 1619 os noviciados de Coimbra e Évora, todos os noviços da província foram reunidos na casa do Monte Olivete de Lisboa, onde ficaram até 1630. Quem entrava em 1625 entrava, portanto, em Lisboa — na Casa de Provação do Monte Olivete, e não no Colégio de Santo Antão.",
+  "biografia": "Luís da Gama nasceu em 1610 em Lavre, diocese de Évora (ou em Montemor-o-Novo) e entrou na Companhia em 1625 (Dehergne, n.º 349). Embarcou não sacerdote a 18 de Abril de 1630 (Wicki n.º 789) e foi missionário no Tibete e em Salsette, reitor em Goa e visitador da África oriental; a partir de 8 de Setembro de 1662 (de facto desde 1664) foi visitador da China e do Japão, residindo em Macau desde 23 de Julho de 1670. Ordenado padre antes de 1641, fez em Goa a 1 de Outubro de 1647 a profissão de quatro votos, assinando «Ludov. a Gama». Morreu em Macau a 5 de Agosto de 1672. Deixou um Diário, publicado no Ta-Ssi-Yang-Kuo em 1899-1900.",
+  "analise": [
+    {
+      "titulo": "1. O fólio citado por Dehergne não contém o nome",
+      "texto": "O catálogo primeiro da província de Portugal de 1625 abre no f. 410 do códice Lus. 44 II (inventário das digitalizações). No f. 416, depois de uma primeira série de irmãos, encontra-se a secção dos noviços:\n\n> Irmãos Coadjutores e Noviços\n> 163. I. Miguel G.ª natural das Alcáçovas Bispado de Coimbra, idade 27 annos da Comp.ª 2 annos 5 meses (...) 166. I. Belchior Roiz natural de Santarem Arcebispado de Lisboa, idade 24 annos da Comp.ª 1 anno 3 meses (...) 170. I. Gonçalo Lopes de S. Thomé de Tegrelas, Arcebispado de Braga, idade 18 annos da Comp.ª 2 meses (...) 173. (...)\n> Seminario Irlandes\n> (...) Collegio de Coimbra\n\n— ARSI, Lus. 44 II, f. 416, catálogo da província de Portugal de 1625; manuscrito lido na imagem digitalizada (LUS. 44 II/416.jpg).\n\nNenhum dos onze noviços nomeados é Luís da Gama; nem ele aparece no fólio seguinte (secção de Coimbra, n.os 195-199, lido na imagem LUS. 44 II/416v.jpg). Também não consta da lista dos 23 «Irmãos Noviços» do catálogo de 1625 transcrito no arquivo pha (doc 28, p. 19). A citação de Dehergne («E. 1625 (Lus. 44 II, 416)») deve, pois, reportar-se a outra numeração de fólios ou a outro assento."
+    },
+    {
+      "titulo": "2. Onde estava o noviciado: a Casa de Provação do Monte Olivete, em Lisboa",
+      "texto": "A presença dos noviços numa casa de Lisboa no catálogo de 1625 concorda com o que António Franco escreveu sobre o noviciado de Coimbra:\n\n> No anno de mil seiscentos, & dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa, que entaõ começou a ser habitada. Porem no anno de mil seiscentos, & trinta, sendo Provincial o P. Diogo Monteiro, no mez de Abril se mandaram pera os dous Collegios alguns Noviços.\n\n— Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited`.\n\nNo mesmo ano de 1619 uma carta é datada «Desta Caza da Provação da Companhia de JESV do Monte Olivete, hoje 2. de Dezembro de 1619» (Franco, *Imagem da virtude...*, doc 55, p. 648), e é justamente essa casa — o noviciado de Lisboa — que dá título ao volume de Franco de 1717 (*Imagem da virtude em o noviciado da Companhia de Jesus na corte de Lisboa*, doc 53, p. 445, folha de rosto). Quem entrou na Companhia em 1625, no distrito de Évora ou em qualquer outro, entrou assim na Casa de Provação do Monte Olivete, em Lisboa. A sugestão «Santo Antão» deve ser corrigida: Santo Antão é o colégio de Lisboa, não a casa de noviciado."
+    }
+  ],
+  "evidencias": [
+    {
+      "citacao": "Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited`",
+      "comando": "pha page 54 25 --edited",
+      "o_que_prova": "«No anno de mil seiscentos, & dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa (...) no anno de mil seiscentos, & trinta (...) se mandaram pera os dous Collegios alguns Noviços» — em 1625 o noviciado da província era o de Lisboa",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "ARSI, *Lus. 44 II*, f. 416 (catálogo da província de Portugal de 1625, que abre no f. 410): secção «Irmãos Coadjutores e Noviços» (n.os 163-173), seguida de «Seminario Irlandes» e do início do «Collegio de Coimbra» (n.º 181) — manuscrito ARSI lido directamente na imagem digitalizada",
+      "comando": "open \"/Users/jrc/Documents/RSD_Active_System/PROJECTS/Project-UC-China/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/416.jpg\"",
+      "o_que_prova": "em 1625 os noviços da província (11 irmãos noviços, entrados entre 1623 e 1625) estão na casa de Lisboa imediatamente anterior ao Seminário dos Irlandeses e ao Colégio de Coimbra — a Casa de Provação; Luís da Gama NÃO consta dessa lista nem do fólio seguinte",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude em o noviciado da Companhia de Jesus na corte de Lisboa* (doc 53), p. 445 (folha de rosto) — raw (`franco-imagem-virtude`) · `pha page 53 445 --raw`",
+      "comando": "pha page 53 445 --raw",
+      "o_que_prova": "«Imagem da virtude em o noviciado da Companhia de Jesu em Lisboa... a caza do Monte Olivete» — o volume que descreve o noviciado da província na casa do Monte Olivete, em Lisboa",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Franco, *Imagem da virtude...* (doc 55), p. 648 — carta datada «Desta Caza da Provação da Companhia de JESV do Monte Olivete, hoje 2. de Dezembro de 1619» — raw (`franco-imagem-virtude`) · `pha page 55 648 --raw`",
+      "comando": "pha page 55 648 --raw",
+      "o_que_prova": "confirma a existência e o nome da Casa de Provação do Monte Olivete em Lisboa, no período 1619-1630 em que se reuniu aí o noviciado da província",
+      "forca": "indireta"
+    },
+    {
+      "citacao": "*Catálogo da província de Portugal, 1625* (doc 28), p. 19, secção «Irmãos Noviços» (lista dos 23 noviços, com naturalidade, idade, meses de Companhia e estudos de origem) — edited (`jesuit-cat1`) · `pha page 28 19 --edited`",
+      "comando": "pha page 28 19 --edited",
+      "o_que_prova": "o catálogo de 1625 (cópia do arquivo pha) lista os noviços da província e Luís da Gama não está entre eles — confirma que a entrada se deu depois do fecho desse catálogo",
+      "forca": "contexto"
+    },
+    {
+      "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 349 na base Timelink (atributo `dehergne/obs`)",
+      "comando": "python3 tools/packet.py deh-luis-da-gama",
+      "o_que_prova": "«N. 1610, Laure d. d'Evora (ou à Montemor-o-Novo) (Goa 25, 73). E. 1625 (Lus. 44 II, 416)» — o ano de entrada e a citação cujo fólio não contém o nome",
+      "forca": "indireta"
+    }
+  ],
+  "nao_encontrado": "Luís da Gama não foi encontrado em nenhum catálogo com a indicação de noviciado: nem na secção «Irmãos Coadjutores e Noviços» do catálogo de 1625 (ARSI, Lus. 44 II, f. 416), nem na lista dos 23 «Irmãos Noviços» do mesmo catálogo no arquivo pha (doc 28, p. 19), nem nos fólios 416v/417 (secção de Coimbra, n.os 195-199). O fólio citado por Dehergne não o contém, não existem nesta colecção catálogos de 1626-1627, e o seguinte, de 1628, abre no f. 441 do Lus. 44 II (não lido). Falta: localizar o assento com «annos de Companhia» que Dehergne terá usado (provavelmente no catálogo de 1628), que daria a casa onde estava três anos depois da entrada — e não o lugar do noviciado.",
+  "refs_obsidian": [
+    "[[0 Portugal no entry]]",
+    "[[deh-luis-da-gama]]",
+    "[[Jesuitas - Portugal - 1619-1630 - Noviciado Monte do Olivete]]",
+    "[[ARSI Lusitania Catalogues LUS. 44 II]]"
+  ]
+}
