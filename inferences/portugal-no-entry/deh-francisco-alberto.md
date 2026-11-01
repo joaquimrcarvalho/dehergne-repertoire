@@ -4,9 +4,9 @@ person_id: deh-francisco-alberto
 name: Francisco Alberto
 dehergne_no: 12
 nationality: Portugal
-entry_place: não determinado
-entry_date: 1710-03-01
-confidence: nenhuma
+entry_place: Coimbra (noviciado anexo ao Colégio de Coimbra)
+entry_date: 1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710»)
+confidence: alta
 source: "[[0 Portugal no entry]]"
 created: 2026-11-01
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,9 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Francisco Alberto (`deh-francisco-alberto`)
 
-**Lugar de entrada: não determinado** — 1710-03-01 (confiança: **nenhuma**).
+**Lugar de entrada: Coimbra (noviciado anexo ao Colégio de Coimbra)** — 1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710») (confiança: **alta**).
 
-Entrou a 1 de Março de 1710, antes de Janeiro de 1711, pelo que não consta do registo provincial das entradas portuguesas (BNP, Pombalina 231) nem do seu apêndice impresso (1711-1758; aí os únicos «Alberto» são Alberto da Silva, E. 1723, e Alberto Maldonado, E. 1738, que não é este). O único elemento de casa é o de que, ao embarcar em 1717, «terminara o curso de Filosofia, na Universidade de Évora» — residência de estudos posterior ao noviciado, que não prova onde este foi feito.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma (célula vazia na coluna jesuita-entrada)** — Lugar estabelecido e data confirmada. No catálogo da província de 1711, na lista «Novitij Scholastici pertinentes ad Provinciam» do bloco de Coimbra (Lus. 47, ff. 127v-128), n.º 228: «Fr. Franciscus Albertus Brigantinus Dioec. Mirandensis, natus 24 April 1695. ingressus Societ. 3 Mart. 1710.» Nome, naturalidade (Bragança, então diocese de Miranda), data de nascimento (24 de Abril de 1695) e mês/ano de entrada (Março de 1710; Dehergne dá 1, o catálogo 3) coincidem. É noviço nomeado na lista do noviciado de Coimbra ⇒ confiança alta.
+
+Francisco Alberto fez o noviciado em **Coimbra**. No catálogo da província de 1711 está na lista dos noviços do bloco de Coimbra — «Novitij Scholastici pertinentes ad Provinciam», ff. 127v-128 — com o n.º 228: «Fr. Franciscus Albertus Brigantinus Dioec. Mirandensis, natus 24 April 1695. ingressus Societ. 3 Mart. 1710». Bragança (diocese de Miranda), o nascimento de 24 de Abril de 1695 e a entrada de Março de 1710 (Dehergne: 1 de Março) identificam-no sem margem para dúvida; a casa em que foi nomeado noviço é o noviciado anexo ao Colégio de Coimbra. Confiança alta.
 
 ## Identificação
 
@@ -34,8 +36,8 @@ Entrou a 1 de Março de 1710, antes de Janeiro de 1711, pelo que não consta do 
 |---|---|
 | Dehergne, entrada (`E.`) | 1 mars 1710 {JS 25 |
 | Base Timelink (actual) | `?` / 17100301 |
-| Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **não determinado** — 1710-03-01 (nenhuma) |
+| Tabela Obsidian (sugestão) | nenhuma (célula vazia na coluna jesuita-entrada) |
+| **Proposta desta nota** | **Coimbra (noviciado anexo ao Colégio de Coimbra)** — 1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710») (alta) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -45,7 +47,7 @@ Dehergne (doc 65, nº 12) — ver `/Users/jrc/jesuit-archive/dropbox/collections
 
 ## 2. Biografia
 
-N. Bragança, 24 de Abril de 1695. Entrou na Companhia a 1 de Março de 1710 (JS 25, 281v). Embarcou não sacerdote a 17 de Abril de 1717 (Wicki n.º 1621), chegando a Macau a 27 de Maio de 1718. Missionário na China de 1722 a 1732: Limchow (Lien-tcheou) no Kwangtung em 1724, Kweilin (Kouei-lin) no Kwangsi em 1728. Tomou os 4 votos a 15 de Agosto de 1728 em «Foxan» = Fatshan, a sudeste de Cantão (ARSI Lus. 15, 4). Secretário da província do Japão em 1746 e procurador em Goa em 1751. Preso em 1759 e deportado para Portugal; morreu a 23 de Junho de 1761 em Azeitão, no palácio dos duques de Aveiro convertido por Pombal em prisão.
+N. Bragança, 24 de Abril de 1695 (diocese de Miranda do Douro). Entrou na Companhia a 1 (Dehergne) ou 3 (catálogo) de Março de 1710 e fez o noviciado em Coimbra (ARSI Lus. 47, f. 128, n.º 228). Embarcou para a China a 17 de Abril de 1717 (Wicki n.º 1621) ainda não sacerdote, tendo terminado o curso de Filosofia na Universidade de Évora (doc 64, p. 231); chegou a Macau a 27 de Maio de 1718. Missionou na China de 1722 a 1732: Limchow (Lien-tcheou, actual Hopu) no Kwangtung em 1724, Kweilin (Kouei-lin) no Kwangsi em 1728. Tomou os 4 votos a 15 de Agosto de 1728 em «Foxan» = Fatshan, a sudeste de Cantão (ARSI Lus. 15, 4; Dehergne). Secretário da província do Japão em 1746 e procurador em Goa em 1751. Preso em 1759 e deportado para Portugal; morreu a 23 de Junho de 1761 em Azeitão, no palácio dos duques de Aveiro convertido por Pombal em prisão. Pfister 657.
 
 ## 3. Cronologia (base Timelink)
 
@@ -90,38 +92,48 @@ N. Bragança, 24 de Abril de 1695. Entrou na Companhia a 1 de Março de 1710 (JS
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 O que as fontes dizem (e não dizem)
+### 4.1 O assento: noviço em Coimbra em 1711 (f. 128, n.º 228)
 
-A *História da Companhia de Jesus na Assistência de Portugal*, t. IV/1 (doc 64), p. 231, ao narrar a expedição de 1717:
+O catálogo abre a f. 118 com «Catalogus 1us Provinciae Lusitanae anni 1711». O bloco de Coimbra começa a f. 120 (cabeçalho «Missio Conimbricense») e, no seu fim — depois dos «Coadjutores Temporales» (f. 127) e do «Catalogus Cooperatorum» (f. 127v, n.º 222) —, está a lista «**Novitij Scholastici pertinentes ad Provinciam**» (ff. 127v-128), nn. 223-240. No f. 128, n.º 228:
 
-> «Para Macau navegaram em direitura o P. Baltasar Miller, austríaco, e o irmão Francisco Alberto, de Bragança, que terminara o curso de Filosofia, na Universidade de Évora, e depois de muitos anos de missão foi em Goa preso…»
+> «Fr. Franciscus Albertus Brigantinus Dioec. Mirandensis, natus 24 April 1695. ingressus Societ. 3 Mart. 1710. valetudo bona.»
 
-A menção de Évora é de estudos (Filosofia), não de noviciado; Dehergne (aviso 12) limita-se a «E. 1 mars 1710 (JS 25, 281v)», sem casa. Franco, *Synopsis* (doc 16, p. 493), inscreve-o na expedição de 1717. Como a entrada é anterior a 1711, o registo dos noviciados portugueses não o abrange. Não se atribui lugar.
+— ARSI, *Lus. 47*, f. 128, n.º 228 — imagem `LUS. 47/128.jpg`, leitura directa do manuscrito.
 
-### 4.2 O registo provincial de entradas (BNP, Pombalina 231) e o apêndice impresso
+Bragança pertencia então à diocese de Miranda do Douro — daí «Brigantinus … Dioec. Mirandensis». A data de nascimento (24 de Abril de 1695) e a de entrada (Março de 1710) são as de Dehergne, que dá o dia 1 em vez do 3 (a sua fonte é JS 25, 281v).
 
-Entrou a 1 de Março de 1710, antes de Janeiro de 1711, pelo que não consta do registo provincial das entradas portuguesas (BNP, Pombalina 231) nem do seu apêndice impresso (1711-1758; aí os únicos «Alberto» são Alberto da Silva, E. 1723, e Alberto Maldonado, E. 1738, que não é este). O único elemento de casa é o de que, ao embarcar em 1717, «terminara o curso de Filosofia, na Universidade de Évora» — residência de estudos posterior ao noviciado, que não prova onde este foi feito.
+### 4.2 A casa: o noviciado anexo ao Colégio de Coimbra
+
+A lista dos noviços não é um apêndice solto no volume: fecha o bloco de Coimbra, que a tabela do próprio códice descreve como «Conimbricens. C & RR vari» a partir do f. 120, e o «Catalogus tertius» do mesmo ano (T3, f. 163) conta «In Collegio Conimbricensi, et Residentiis — 222» membros. Imediatamente antes da lista está o assento do P. António Camujo (f. 127v, n.º 222), de quem se diz «… et jam supra quadriennium Novitiorum Magistri agit» — o mestre dos noviços da casa. (A Casa de Provação de Lisboa, que em 1711 tem a sua própria lista de noviços, ff. 142v-143v, tem também o seu mestre, n.º 571.) Em 1711 os noviços da província estão distribuídos por três casas — Coimbra (ff. 127v-128), Évora (f. 135) e Lisboa (ff. 142v-143v) —, e Francisco Alberto está na de Coimbra. O noviciado de Coimbra era um dos «dois anexos» que a província tinha além dos noviciados de Lisboa e de Arroios (doc 64, p. 32: «Os Noviciados separados são o de Lisboa, que é o Noviciado da Província, e o Noviciado de Arroios, que prepara missionários e mais dois anexos, um ao Colégio de Coimbra, outro ao de Évora»).
+
+### 4.3 1 ou 3 de Março de 1710
+
+Dehergne escreve «E. 1 mars 1710 (JS 25, 281v)»; o catálogo de 1711 registou «ingressus Societ. 3 Mart. 1710». A diferença de dois dias deve vir da transcrição de uma das fontes; o mês e o ano coincidem e a identificação não depende do dia. Registo os dois valores e não corrijo nenhum.
 
 ### O que não foi encontrado
 
-Procurou-se no registo provincial de entradas 1711-1758 (BNP, Pombalina 231) — fora do âmbito — e no seu apêndice impresso (1910, letras A-E; 1911, letras F-J), onde nenhum «Francisco Alberto» aparece. Falta o catálogo da província de 1710-1712.
+Procurou-se nas três listas de noviços do catálogo de 1711 — Coimbra (ff. 127v-128), Évora (f. 135) e Lisboa (ff. 142v-143v) — e só aparece na de Coimbra. O registo provincial de entradas (BNP, Pombalina 231) começa em Janeiro de 1711 e não abrange uma entrada de Março de 1710; o seu apêndice impresso cobre 1711-1758 e também não. A lacuna conhecida do Lus. 47 (ff. 253-349 não digitalizados) não afecta este caso, porque o catálogo de 1711 está completo até ao f. 251. Não se procuraram outras fontes: a lista de noviços de 1711 é prova directa.
 
 ## 5. Evidência
 
-- F. Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV/1 (doc 64), p. 231 — raw (`historia_da_companhia_de_jesus`) · `python3 results/_scratch/q.py "Francisco Alberto" 64 --ctx 320` · prova indireta
-  - que «terminara o curso de Filosofia, na Universidade de Évora» — estudos, não noviciado
-- A. Franco, *Synopsis* (doc 16), p. 493 — edited (`antonio-franco-synopsis`): «Ano de 1717 … Padre Francisco Alberto, português» · `python3 results/_scratch/q.py "Francisco Alberto" 16 --ctx 300` · prova indireta
-  - inscrição na expedição de 1717; nada sobre a casa de entrada
-- BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), fólio de título (imagem `hires_000009.jpg`) — leitura directa do manuscrito · `open "/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000009.jpg"` · prova contexto
-  - «Catalogo dos Sogeitos que entrarão em a Comp.ª de Jesus na Provincia de Portugal. Começa em Jan.º de 1711. Tem folhas 247» — fixa o âmbito cronológico do registo
-- BNP, Pombalina 231 (https://purl.pt/47525), «Catalogo dos Sogeitos, que entrarão em a Comp.ª de Jesus na Provincia de Portugal» (Começa em Jan.º de 1711; 247 fólios), 510 imagens digitais (`hires_000011.jpg`–`hires_000510.jpg`) — leitura directa; ausência verificada · `open "/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000011.jpg" ; open "/Users/jrc/mhk-home/sources/dehergne/inferences/portugal-no-entry/results/_scratch/bnp47525/hires_000510.jpg"` · prova negativa
-  - o registo abre em «Começa em Jan.º de 1711» (fólio de título, imagem hires_000009.jpg): nenhuma entrada anterior a Janeiro de 1711 pode figurar nele
+- ARSI, *Lus. 47*, catálogo de 1711, f. 128, n.º 228: «Fr. Franciscus Albertus Brigantinus Dioec. Mirandensis, natus 24 April 1695. ingressus Societ. 3 Mart. 1710. valetudo bona.» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/128.jpg"` · prova direta
+  - era noviço no bloco de Coimbra em 1711, com entrada em Março de 1710; natural de Bragança (diocese de Miranda); nascimento em 24 de Abril de 1695 — tudo coincide com Dehergne
+- ARSI, *Lus. 47*, f. 127v, cabeçalho «Novitij Scholastici pertinentes ad Provinciam» e início da lista (n.º 223) — imagem `LUS. 47/127v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/127v.jpg"` · prova direta
+  - a lista em que Alberto aparece (nn. 223-240, que continuam no f. 128) é a dos noviços do bloco de Coimbra e fecha a série dos coadjutores, antes das residências de Coimbra (f. 128v-129)
+- ARSI, *Lus. 47*, f. 120, cabeçalho «Missio Conimbricense»; f. 163 (T3): «In Collegio Conimbricensi, et Residentiis — 222» — imagens `LUS. 47/120.jpg` e `LUS. 47/163.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/163.jpg"` · prova direta
+  - o bloco em que a lista está inserida é o de Coimbra (Colégio e residências), aberto a f. 120 e com 222 membros segundo o Catalogus tertius
+- ARSI, *Lus. 47*, f. 127v, n.º 222: assento do P. António Camujo, «… et jam supra quadriennium Novitiorum Magistri agit; est Doctor Theologiae» — imagem `LUS. 47/127v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/127v.jpg"` · prova contextual
+  - o mestre dos noviços está no bloco de Coimbra, imediatamente antes da lista dos noviços — confirma que a lista é a do noviciado de Coimbra
+- F. Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV/1 (doc 64), p. 32 — raw (`historia_da_companhia_de_jesus`): «Os Noviciados separados são o de Lisboa, que é o Noviciado da Província, e o Noviciado de Arroios, que prepara missionários e mais dois anexos, um ao Colégio de Coimbra, outro ao de Évora» · `pha page 64 32` · prova contextual
+  - entre 1700 e 1760 havia noviciados em Lisboa e Arroios e anexos nos Colégios de Coimbra e de Évora — o leque das casas de noviciado possíveis
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), verbete 12, via packet: «N. 24 avril 1695, Bragança — E. 1 mars 1710 (JS 25, 281v). Emb. non prêtre, 17 avril 1717 (W 1621)» · `python3 tools/packet.py deh-francisco-alberto` · prova contextual
+  - estado da questão: data e naturalidade sem casa; a casa é o que o catálogo de 1711 vem resolver
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-francisco-alberto]]
-- **doc 16** — Franco, António; National Central Library of Rome. Synopsis annalium Societatis Jesu in Lusitania ab anno 1540. usque ad annum 1725. Authore R. P. Antonio Franco Societatis ejusdem sacerdote. (sumptibus Philippi, Martini, & Joannis Veith, hæredum, 1726). (fetched-from-zotero-unverified)
+- **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 
 ---
 
