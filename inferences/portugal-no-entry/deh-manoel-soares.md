@@ -8,7 +8,7 @@ entry_place: Évora
 entry_date: 1630 (Dehergne; o catálogo de Maio de 1633 dá-lhe «da Companhia 3»)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-02
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -95,7 +95,7 @@ A folha solta «Elenchus Novitiorum 1633-1649» (ff. 520-521) não ajuda: cobre 
 
 ### O que não foi encontrado
 
-Procurou-se a lista de noviços onde Soares estaria nomeado: não existe neste conjunto nenhum catálogo de 1630, 1631 ou 1632. O LUS. 44 II salta do T1 de 1628 (ff. 439-466v) para o T1 de 1633 (ff. 481-511); o índice do pacote não tem qualquer catálogo entre esses anos, e os outros volumes (LUS. 39, 42, 43) só cobrem os séculos XVI e inícios do XVII. As listas de noviços de 1633 não o incluem (nem os de Coimbra, n.º 323-341, nem os de Évora, n.º 460 e ss.), como é natural para quem entrara em 1630. A folha «Elenchus Novitiorum 1633-1649» (ff. 520-521) só regista 1633, Nov. 1636, 1642 e 1649 e apenas as três regiões do norte. Também se verificou que o irmão noviço homónimo «Fr. Manoel Soares de Sousa, do Couto, bispado do Porto» (Lus. 44 II, f. 501, n.º 461) é outra pessoa.
+Procurou-se a lista de noviços onde Soares estaria nomeado: não existe neste conjunto nenhum catálogo de 1630, 1631 ou 1632. O LUS. 44 II salta do T1 de 1628 (ff. 439-466v) para o T1 de 1633 (ff. 481-511); o índice do pacote não tem qualquer catálogo entre esses anos, e os outros volumes (LUS. 39, 42, 43) só cobrem os séculos XVI e inícios do XVII. As listas de noviços de 1633 não o incluem (nem os de Coimbra, n.º 323-341, nem os de Évora, n.º 460 e ss.), como é natural para quem entrara em 1630. A folha «Elenchus Novitiorum 1633-1649» (ff. 520-521) só regista 1633, Nov. 1636, 1642 e 1649 e apenas as três regiões do norte. Também se verificou que o irmão noviço homónimo «Fr. Manoel Soares de Sousa, do Couto, bispado do Porto» (Lus. 44 II, f. 501, n.º 461) é outra pessoa. REVISÃO (2026-11-02): a entrada em 1630 é ambígua quanto à casa — Franco (doc 52, p. 48) datou em 1630 (Abril) a restituição dos noviciados de Coimbra e Évora, depois da redução a um só noviciado em Lisboa (1619-1630). Se Soares entrou antes dessa data, o noviciado seria o de Lisboa; se depois, Évora/Coimbra. A atribuição **Évora (média)** assenta na naturalidade (Póvoa, diocese de Portalegre, sul) e na residência no Colégio de Évora em Maio de 1633, e mantém-se com esta reserva.
 
 ## 5. Evidência
 

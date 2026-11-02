@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete)
 entry_date: 1663 (Dehergne; Lus. 45, 394)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-02
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -91,7 +91,7 @@ O catálogo de 1672, que Dehergne cita, confirma os dados biográficos mas com o
 
 ### O que não foi encontrado
 
-Procurou-se o nome nas listas de noviços do único noviciado da província em 1665 (Lus. 45, ff. 322-323v: n.º 399-422, com datas de ingresso de 1663-1664) — não está legivelmente. Não existem catálogos de 1663, 1664, 1666, 1667 nem 1668 no LUS. 45 (o índice do pacote salta de 1665 para 1669), pelo que a lista de noviços de 1663-1664 se perdeu. Verificou-se ainda, na sessão anterior, o «SS. Seminarii Maranhonis» de 1665 (f. 315v, «Novitij Scholastici»), o «Collegium Funcalense» (f. 326) e as listas da Casa de Provação de 1654/55, 1661/62 e 1665 (ff. 116-117, 297v-300, 322v-323) — sem resultado. O fólio citado por Dehergne (f. 394, catálogo de 1672) tem os dados biográficos mas o nome «Fr. Ignatius Pereira»; fica registado como pista não resolvida.
+Procurou-se o nome nas listas de noviços do único noviciado da província em 1665 (Lus. 45, ff. 322-323v: n.º 399-422, com datas de ingresso de 1663-1664) — não está legivelmente. Não existem catálogos de 1663, 1664, 1666, 1667 nem 1668 no LUS. 45 (o índice do pacote salta de 1665 para 1669), pelo que a lista de noviços de 1663-1664 se perdeu. Verificou-se ainda, na sessão anterior, o «SS. Seminarii Maranhonis» de 1665 (f. 315v, «Novitij Scholastici»), o «Collegium Funcalense» (f. 326) e as listas da Casa de Provação de 1654/55, 1661/62 e 1665 (ff. 116-117, 297v-300, 322v-323) — sem resultado. O fólio citado por Dehergne (f. 394, catálogo de 1672) tem os dados biográficos mas o nome «Fr. Ignatius Pereira»; fica registado como pista não resolvida. REVISÃO (2026-11-02): a formulação «a província tinha um só noviciado em 1665» deve ler-se com cautela. Franco (doc 52, p. 49) documenta que em 1660-1669 os noviços de Évora estavam em Lisboa (3.ª interrupção), mas não diz que o noviciado de Coimbra tivesse sido suprimido. No catálogo de 1665, as páginas examinadas dos blocos de Coimbra (f. 313v: lista de irmãos estudantes, sem cabeçalho «Novitii») e de Évora (f. 320: coadjutores espirituais e temporais) não têm lista de noviços, e os noviços aparecem na «Domus Probationis Ulyssiponensis» (ff. 322-323) — o que é compatível com a inexistência de outro noviciado, mas não é prova formal. A atribuição Lisboa mantém-se como inferência (baixa).
 
 ## 5. Evidência
 
