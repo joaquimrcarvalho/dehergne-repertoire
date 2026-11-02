@@ -4,17 +4,17 @@ person_id: deh-manuel-marques
 name: Manuel Marques
 dehergne_no: 516
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação / Monte Olivete)
+entry_place: não determinado
 entry_date: —
-confidence: média
+confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-02
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
 # Manuel Marques (`deh-manuel-marques`)
 
-**Lugar de entrada: Lisboa (Casa de Provação / Monte Olivete)** — — (confiança: **média**).
+**Lugar de entrada: não determinado** — — (confiança: **nenhuma**).
 
 Dehergne (n.º 516) cita «JS 134, 399v» para a entrada de 25 de Novembro de 1693; Pfister (doc 47, p. 576) repete «E. nov. 1693». O arquivo pha não tem nenhuma notícia deste religioso (só homónimos do século XVI e um professor de Coimbra de 1677). O catálogo de 1700 (ARSI Lus. 46 a) indexa-o (n.º 486), mas o índice dá apenas o número da entrada, não a casa. O lugar de entrada não foi estabelecido.
 
@@ -35,7 +35,7 @@ Dehergne (n.º 516) cita «JS 134, 399v» para a entrada de 25 de Novembro de 16
 | Dehergne, entrada (`E.`) | 25 nov |
 | Base Timelink (actual) | `?` / 16931125 |
 | Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **Lisboa (Casa de Provação / Monte Olivete)** — — (média) |
+| **Proposta desta nota** | **não determinado** — — (nenhuma) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -87,13 +87,13 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 O catálogo de 1693 (Lus. 46) é anterior à entrada (25 de Novembro de 1693); o seguinte, de 1696, já é posterior ao biénio de noviciado. Verificaram-se as listas de noviços do catálogo de 1696: a «Probationis Domus» (f. 336, imagem `LUS. 46/336.jpg`) é a lista do pessoal da casa (padres, com datas de entrada antigas) e as listas de noviços que se seguem não o incluem. Não há, neste volume, catálogo de 1694-1695, que seria o que daria o noviciado. O lugar continua por provar.
 
-### 4.5 Prova institucional: noviciado único em Lisboa desde Junho de 1685
+### 4.5 Regra do noviciado único em Lisboa (Jun. 1685 – Dez. 1690) — e porque não decide este caso
 
-Prova institucional (nova, 2026-11-01): António Franco, *Imagem da virtude… Évora* (doc 52), p. 49, regista que em 1685 o Geral mandou reduzir «a hum só Noviciado de Lisboa os tres da Provincia» (Coimbra, Lisboa e Évora), com execução em **Junho de 1685**. Os catálogos confirmam: em 1685/1686 os noviços da província aparecem todos na «Domus Probationis Ulyssiponensis» (Lus. 39, T4 de 1686, ff. 140-143v) e o bloco de Coimbra já não tem lista de noviços. Logo, **quem entrou depois de Junho de 1685 entrou em Lisboa** — salvo se o noviciado único tiver sido desfeito depois; em 1711 já há listas de noviços em Coimbra, Évora e Lisboa, pelo que a regra se aplica com segurança só até cerca de 1700.
+CORRECÇÃO (2026-11-02, leitura da p. 49-50 do doc 52): a redução a um só noviciado, em Lisboa, durou de **Junho de 1685 até ao fim de 1690** — «Persistio esta mudança ... até o anno de 1690», e a restituição dos noviciados a Coimbra e Évora começou a executar-se em **Janeiro de 1691** e «nella se persevera até o dia de hoje» (1714). Logo, a regra institucional só cobre entradas de Junho de 1685 a Dezembro de 1690; a partir de 1691 voltou a haver noviciados em Coimbra, Évora (e Lisboa), e o lugar tem de vir das listas nominais.
 
 ### O que não foi encontrado
 
-Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada. Acrescenta-se (2026-11-01) a verificação da lista da «Probationis Domus» do catálogo de 1696, sem resultado; não há catálogo de 1694-1695 neste volume. Entrou a 25 de Novembro de 1693 ⇒ noviciado de Lisboa (regra de Junho de 1685). Sem lista nominal do biénio (o catálogo de 1693 é anterior; o de 1696, posterior).
+Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (1) o registo cronológico de entradas do catálogo provincial de 1696 em ARSI Lus. 46 (ff. 318-345 e o registo paralelo de Lus. 46 a, ff. 15-31 — lidos nas imagens LUS. 46/319-341v, 206-208v e LUS. 46 a/008-031) — regista a **data** mas nunca a casa de noviciado; (2) as entradas nominais destas pessoas no catálogo primeiro da província de 1700 (ARSI Lus. 46 a, com índice em ff. 1-45 e «Casa de Provação» nas ff. 142v-143v de Lus. 47) — dão a data de entrada e os estudos, não o lugar; (3) o catálogo provincial de 1696 (ARSI Lus. 46), onde só uma minoria das notícias menciona o noviciado («Novitiatu absoluto Eborensi ...», f. 334 e passim) e onde, em todo o volume, **não existe secção «De Novitiis»** com os noviços por casa; a referência «De Novitiis, qui sequuntur in primo Catalogo a numero 329» (Lus. 46, f. 358) remete para a lista de «ingenium» que ocupa as ff. 352-364, não para casas de noviciado; (4) o arquivo pha (/Users/jrc/jesuit-archive): não tem catálogos portugueses posteriores a 1625, e as buscas por variantes do nome («pha_research.py --name ... --variant ...» em português, castelhano, italiano e latim) não devolveram nenhuma notícia deste religioso; (5) as digitalizações disponíveis não incluem os códices de noviciados nem os livros de votos (Lus. 13, citado por Dehergne), que são os que registam a casa de entrada. Acrescenta-se (2026-11-01) a verificação da lista da «Probationis Domus» do catálogo de 1696, sem resultado; não há catálogo de 1694-1695 neste volume. Entrou a 25 de Novembro de 1693 ⇒ noviciado de Lisboa (regra de Junho de 1685). Sem lista nominal do biénio (o catálogo de 1693 é anterior; o de 1696, posterior). CORRECÇÃO (2026-11-02, leitura da p. 49-50 do doc 52): a redução a um só noviciado, em Lisboa, durou de **Junho de 1685 até ao fim de 1690** — «Persistio esta mudança ... até o anno de 1690», e a restituição dos noviciados a Coimbra e Évora começou a executar-se em **Janeiro de 1691** e «nella se persevera até o dia de hoje» (1714). Logo, a regra institucional só cobre entradas de Junho de 1685 a Dezembro de 1690; a partir de 1691 voltou a haver noviciados em Coimbra, Évora (e Lisboa), e o lugar tem de vir das listas nominais.
 
 ## 5. Evidência
 
@@ -107,8 +107,8 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
   - nenhum resultado pertinente (apenas homónimos dos séculos XVI-XVII sem relação com este religioso)
 - ARSI, *Lus. 46*, «Probationis Domus», catálogo de 1696 (f. 336, imagem `LUS. 46/336.jpg`) — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/336.jpg"` · prova negativa
   - NEGATIVA: em 1696 não é noviço da Casa de Provação de Lisboa (a lista é de pessoal e as entradas são antigas)
-- António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra*… / *…no noviciado de Évora* (doc 52), p. 49 — edited (`franco-imagem-virtude`) · `pha page 52 49 --edited` · prova direta (para a regra), indireta para a pessoa
-  - em 1685 o Geral mandou reduzir a um só noviciado, em Lisboa, os três da província (Coimbra, Lisboa, Évora), com execução em Junho de 1685
+- António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra*… / *…no noviciado de Évora* (doc 52), p. 49 — edited (`franco-imagem-virtude`) · `pha page 52 49 --edited` · prova direta (para a regra e a sua cronologia)
+  - em Junho de 1685 os três noviciados (Coimbra, Lisboa, Évora) foram reduzidos a um só, em Lisboa; a redução durou até 1690, e em Janeiro de 1691 os noviciados de Coimbra e Évora foram restituídos
 
 ## 6. Referências
 

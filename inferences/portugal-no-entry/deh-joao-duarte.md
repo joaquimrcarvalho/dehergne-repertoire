@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação / Monte Olivete)
 entry_date: —
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-02
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -105,9 +105,9 @@ Procurou-se o seu noviciado nas duas casas que o podiam cobrir:
 
 Conclusão: o noviciado (Julho de 1690 – 1692) cai entre o catálogo de 1690 (anterior à entrada) e o de 1693 (posterior aos votos); não há catálogo de 1691-1692 neste volume. O lugar continua por provar.
 
-### 4.5 Prova institucional: noviciado único em Lisboa desde Junho de 1685
+### 4.5 Regra do noviciado único em Lisboa (Jun. 1685 – Dez. 1690)
 
-Prova institucional (nova, 2026-11-01): António Franco, *Imagem da virtude… Évora* (doc 52), p. 49, regista que em 1685 o Geral mandou reduzir «a hum só Noviciado de Lisboa os tres da Provincia» (Coimbra, Lisboa e Évora), com execução em **Junho de 1685**. Os catálogos confirmam: em 1685/1686 os noviços da província aparecem todos na «Domus Probationis Ulyssiponensis» (Lus. 39, T4 de 1686, ff. 140-143v) e o bloco de Coimbra já não tem lista de noviços. Logo, **quem entrou depois de Junho de 1685 entrou em Lisboa** — salvo se o noviciado único tiver sido desfeito depois; em 1711 já há listas de noviços em Coimbra, Évora e Lisboa, pelo que a regra se aplica com segurança só até cerca de 1700.
+António Franco, *Imagem da virtude… Évora* (doc 52), p. 49-50: em 1685 o Geral mandou reduzir a um só noviciado, em Lisboa, os três da província (execução em Junho de 1685); a redução «persistio ... até o anno de 1690», e a restituição dos noviciados a Coimbra e Évora começou a executar-se em **Janeiro de 1691**. Como entrou a 17 de Julho de 1690 — dentro do período do noviciado único — a casa de entrada só pode ser a Casa de Provação de Lisboa.
 
 ### O que não foi encontrado
 

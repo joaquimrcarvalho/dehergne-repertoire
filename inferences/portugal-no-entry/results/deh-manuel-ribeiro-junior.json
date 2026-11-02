@@ -1,11 +1,11 @@
 {
  "id": "deh-manuel-ribeiro-junior",
  "name": "Manuel Ribeiro, júnior",
- "lugar": "Lisboa (Casa de Provação) — inferido",
+ "lugar": null,
  "data": null,
- "confianca": "baixa",
+ "confianca": "nenhuma",
  "sugestao_tabela": "",
- "validacao": "lugar NÃO estabelecido: não consta de nenhuma lista de noviços (nem de Lisboa nem de Coimbra) dos catálogos de 1700 e 1705; a cota citada por Dehergne (Lus. 47, 115v) é uma lista de missionários, não uma lista de noviciado Reclassificado em 2026-11-01 por **prova institucional**: o noviciado da província era único, em Lisboa, desde Junho de 1685 (Franco, doc 52, p. 49), pelo que a entrada — posterior a essa data — só pode ter sido na Casa de Provação de Lisboa. Não foi possível nomeá-lo nas listas de noviços (lacuna de catálogos no biénio do noviciado), mas a casa é a única possível. Confiança baixa: a regra de Junho de 1685 aponta Lisboa, mas não se confirmou que o noviciado único ainda vigorasse em 1699-1700 (em 1711 há noviços em Coimbra, Évora e Lisboa) e ele não aparece nas listas nominais de 1700.",
+ "validacao": "Não confirmada. Entrou em 1700, depois da restituição dos noviciados (Janeiro de 1691); a regra do noviciado único de Lisboa (1685-1690) não se aplica. Não está nas listas de noviços de 1700 (nn. 393-436). Lugar em aberto.",
  "resumo": "Não foi possível estabelecer o lugar de entrada. O catálogo de 1700 (Lus. 47) não o inclui: nem na lista de noviços da Casa de Provação de Lisboa (ff. 22v-23v, entradas de 1698-1700), nem nas listas do Colégio de Coimbra e dos «Missionarii» (f. 16, ff. 16-16v). Foi ainda procurado, sem êxito, na lista de noviços da Casa de Provação de Lisboa do catálogo de 1705 (f. 86), onde estão os seus companheiros de destino chinês (Cordes, Pinheiro, Lima). A única prova coeva que o nomeia é a folha 115v do catálogo de 1711 (lista «Ad Sinensem»), que o diz «Novitius» — noviço — quando destinado à China, sem indicar a casa.",
  "biografia": "Manuel Ribeiro, júnior (II), português, nome chinês Lo, nasceu a 28 de Fevereiro de 1680. Dehergne dá-lhe a entrada a 1 de Março de 1700 (JS 25, 279, 282) e o embarque «non prêtre» em 1701 para a China (W 1447; Lus. 47, 115v), ainda noviço. Esteve na missão de Cantão em 1717-1722 e na residência de Lei-tcheou fou em 1724; estava em Macau em 1751 e 1753. Professou como coadjutor espiritual a 13 de Julho de 1712 (JS 25, 276v) e morreu depois de 1753.",
  "analise": [
@@ -24,8 +24,8 @@
    "texto": "Percorridas as três listas de noviços da Casa de Provação de Lisboa no catálogo de 1700 (Lus. 47, ff. 22v-23: nn. 393-412, 415-428 e 429-436), **não figura nenhum «Ribeiro»**. Confirma-se o resultado da sessão anterior (que já tinha visto as entradas de 1698-1700). O lugar de entrada continua por estabelecer."
   },
   {
-   "titulo": "Prova institucional: noviciado único em Lisboa desde Junho de 1685",
-   "texto": "Prova institucional (nova, 2026-11-01): António Franco, *Imagem da virtude… Évora* (doc 52), p. 49, regista que em 1685 o Geral mandou reduzir «a hum só Noviciado de Lisboa os tres da Provincia» (Coimbra, Lisboa e Évora), com execução em **Junho de 1685**. Os catálogos confirmam: em 1685/1686 os noviços da província aparecem todos na «Domus Probationis Ulyssiponensis» (Lus. 39, T4 de 1686, ff. 140-143v) e o bloco de Coimbra já não tem lista de noviços. Logo, **quem entrou depois de Junho de 1685 entrou em Lisboa** — salvo se o noviciado único tiver sido desfeito depois; em 1711 já há listas de noviços em Coimbra, Évora e Lisboa, pelo que a regra se aplica com segurança só até cerca de 1700."
+   "titulo": "Regra do noviciado único em Lisboa (Jun. 1685 – Dez. 1690) — e porque não decide este caso",
+   "texto": "CORRECÇÃO (2026-11-02, leitura da p. 49-50 do doc 52): a redução a um só noviciado, em Lisboa, durou de **Junho de 1685 até ao fim de 1690** — «Persistio esta mudança ... até o anno de 1690», e a restituição dos noviciados a Coimbra e Évora começou a executar-se em **Janeiro de 1691** e «nella se persevera até o dia de hoje» (1714). Logo, a regra institucional só cobre entradas de Junho de 1685 a Dezembro de 1690; a partir de 1691 voltou a haver noviciados em Coimbra, Évora (e Lisboa), e o lugar tem de vir das listas nominais."
   }
  ],
  "evidencias": [
@@ -56,8 +56,8 @@
   {
    "citacao": "António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra*… / *…no noviciado de Évora* (doc 52), p. 49 — edited (`franco-imagem-virtude`)",
    "comando": "pha page 52 49 --edited",
-   "o_que_prova": "em 1685 o Geral mandou reduzir a um só noviciado, em Lisboa, os três da província (Coimbra, Lisboa, Évora), com execução em Junho de 1685",
-   "forca": "direta (para a regra), indireta para a pessoa"
+   "o_que_prova": "em Junho de 1685 os três noviciados (Coimbra, Lisboa, Évora) foram reduzidos a um só, em Lisboa; a redução durou até 1690, e em Janeiro de 1691 os noviciados de Coimbra e Évora foram restituídos",
+   "forca": "direta (para a regra e a sua cronologia)"
   }
  ],
  "refs_obsidian": [
@@ -65,5 +65,5 @@
   "[[deh-manuel-ribeiro-junior]]",
   "[[Missionários com local de entrada desconhecido - referências LUS]]"
  ],
- "nao_encontrado": "Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emmanuel Ribeiro» no pha (docs 63/64 de Rodrigues, 65 Dehergne, 66 Wicki, 44 Missões dos jesuítas no Oriente) e leram-se as listas de noviços de 1700 e 1705 do códice ARSI Lus. 47 (ff. 16, 16v, 22-23v, 72v-73, 85v-86v). O único «Manuel Ribeiro» encontrado no pha é de Alcácer-do-Sal, entrado a 11 de Janeiro de 1610, missionário em Angola (doc 63, p. 379) — homónimo. Falta, para resolver o caso, um catálogo da província de Portugal de 1700-1701 que registe a sua admissão (o códice Lus. 46a, «Catalogus 1.us ... anno 1700», foi apenas parcialmente explorado). Acrescenta-se (2026-11-01) a verificação das listas de noviços de 1700 (nn. 393-436), sem resultado. Entrou em 1700 ⇒ noviciado de Lisboa (regra de Junho de 1685); não figura nas listas nominais de 1700 (nn. 393-436), mas era a única casa de noviciado."
+ "nao_encontrado": "Procurou-se «Manuel Ribeiro», «Manoel Ribeiro», «Emanuel Ribeiro» e «Emmanuel Ribeiro» no pha (docs 63/64 de Rodrigues, 65 Dehergne, 66 Wicki, 44 Missões dos jesuítas no Oriente) e leram-se as listas de noviços de 1700 e 1705 do códice ARSI Lus. 47 (ff. 16, 16v, 22-23v, 72v-73, 85v-86v). O único «Manuel Ribeiro» encontrado no pha é de Alcácer-do-Sal, entrado a 11 de Janeiro de 1610, missionário em Angola (doc 63, p. 379) — homónimo. Falta, para resolver o caso, um catálogo da província de Portugal de 1700-1701 que registe a sua admissão (o códice Lus. 46a, «Catalogus 1.us ... anno 1700», foi apenas parcialmente explorado). Acrescenta-se (2026-11-01) a verificação das listas de noviços de 1700 (nn. 393-436), sem resultado. Entrou em 1700 ⇒ noviciado de Lisboa (regra de Junho de 1685); não figura nas listas nominais de 1700 (nn. 393-436), mas era a única casa de noviciado. CORRECÇÃO (2026-11-02, leitura da p. 49-50 do doc 52): a redução a um só noviciado, em Lisboa, durou de **Junho de 1685 até ao fim de 1690** — «Persistio esta mudança ... até o anno de 1690», e a restituição dos noviciados a Coimbra e Évora começou a executar-se em **Janeiro de 1691** e «nella se persevera até o dia de hoje» (1714). Logo, a regra institucional só cobre entradas de Junho de 1685 a Dezembro de 1690; a partir de 1691 voltou a haver noviciados em Coimbra, Évora (e Lisboa), e o lugar tem de vir das listas nominais."
 }

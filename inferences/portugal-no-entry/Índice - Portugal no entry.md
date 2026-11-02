@@ -1,6 +1,6 @@
 ---
 title: Índice - Portugal no entry
-created: 2026-11-01
+created: 2026-11-02
 tags: [dehergne, jesuita-entrada, portugal, china, indice]
 source: "[[0 Portugal no entry]]"
 ---
@@ -12,15 +12,15 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **44** · **média**: **43** · **baixa**: **17** · **não determinado**: **6**
+- lugar proposto com confiança **alta**: **44** · **média**: **41** · **baixa**: **15** · **não determinado**: **10**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
 
 | lugar | nº de pessoas |
 |---|---:|
-| Lisboa | 45 |
 | Coimbra | 43 |
+| Lisboa | 41 |
 | Évora | 14 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
 
@@ -124,9 +124,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-luis-da-gama]] | Luís da Gama | 349 | Lisboa Santo Antão | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1625 | média |
 | [[deh-manoel-soares]] | Manoel Soares | 797 | — | **Évora** | 1630 (Dehergne; o catálogo de Maio de 1633 dá-lhe «da Companhia 3») | média |
 | [[deh-manuel-carvalho-ii]] | Manuel Carvalho | 149 | — | **Coimbra (Colégio de Coimbra)** | 1678 (o catálogo de 1681 dá-lhe «Societ. ad 3tium») | média |
-| [[deh-manuel-marques]] | Manuel Marques | 516 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-manuel-pinto-ii]] | Manuel Pinto | 646 | — | **Coimbra** | 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654) | média |
-| [[deh-manuel-teles]] | Manuel Teles | 838 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-manuel-da-mata]] | Manuel da Mata | 529 | — | **Coimbra (Colégio de Coimbra)** | 1682-02-04 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) | média |
 | [[deh-manuel-de-figueiredo]] | Manuel de Figueiredo | 310 | Évora | **Évora** | 1611 (Dehergne; Pfister diz 1610) — a primeira menção documental é de Agosto de 1612, em Évora | média |
 | [[deh-manuel-de-pereira-ii]] | Manuel de Pereira | 625 | — | **Coimbra (Colégio de Coimbra)** | 1655 (Dehergne e base Timelink); o catálogo de 1655 (Lus. 45, f. 181) dá-lhe 2 anos de Companhia, o que implicaria 1653 | média |
@@ -149,17 +147,19 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-joao-baptista]] | João Baptista | 71 | — | **Coimbra (noviciado)** | 1671-05-20 (manuscrito ARSI; Dehergne lê 20-03-1671) | baixa |
 | [[deh-joao-fernandes-fou]] | João Fernandes Fou | 292 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1663 (Dehergne; Lus. 45, 394) | baixa |
 | [[deh-joao-de-figueiredo]] | João de Figueiredo | 308 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1650 (Dehergne; confirmado pelo catálogo de 1655: 5 anos de Companhia) | baixa |
-| [[deh-manuel-ribeiro-junior]] | Manuel Ribeiro, junior | 680 | — | **Lisboa (Casa de Provação) — inferido** | — | baixa |
 | [[deh-pedro-de-lis]] | Pedro de Lis | 475 | — | **Lisboa (noviciado da Companhia na corte) — inferência** | 1649-08-15 | baixa |
 | [[deh-simao-pinto]] | Simão Pinto | 648 | — | **Coimbra (inferido)** | 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) | baixa |
 | [[deh-simao-rodrigues]] | Simão Rodrigues | 719 | — | **Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas** | 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia) | baixa |
-| [[deh-teotonio-leitao]] | Teotónio Leitão | 462 | — | **Lisboa (Casa de Provação) — inferido** | — | baixa |
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
 | [[deh-joao-simoes]] | João Simões | 786 | — | **— não determinado —** | 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) | nenhuma |
 | [[deh-joao-de-abreu]] | João de Abreu | 4 | — | **— não determinado —** | 1649 (provável; Dehergne infere 1648 dos «dois anos e meio» do catálogo de 1651) | nenhuma |
 | [[deh-joao-de-seixas]] | João de Seixas | 754 | — | **— não determinado —** | 1727-11-25 (Dehergne) ou 1729-11-25 (Sommervogel; Pfister nota a variante) | nenhuma |
 | [[deh-manuel-jose]] | Manuel José | 422 | — | **— não determinado —** | 1729-08-20 (Dehergne, Lus. 48, 45v); 1729-08-02 (JS 134, 435v e Pfister) | nenhuma |
+| [[deh-manuel-marques]] | Manuel Marques | 516 | — | **— não determinado —** | — | nenhuma |
+| [[deh-manuel-ribeiro-junior]] | Manuel Ribeiro, junior | 680 | — | **— não determinado —** | — | nenhuma |
+| [[deh-manuel-teles]] | Manuel Teles | 838 | — | **— não determinado —** | — | nenhuma |
+| [[deh-teotonio-leitao]] | Teotónio Leitão | 462 | — | **— não determinado —** | — | nenhuma |
 
 ## Casos não determinados
 
@@ -170,6 +170,10 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 - [[deh-joao-de-abreu]] — João de Abreu (entrada 16480000): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-seixas]] — João de Seixas (entrada 17271125): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-jose]] — Manuel José (entrada 17290820): ver a nota para o que foi procurado e o que falta.
+- [[deh-manuel-marques]] — Manuel Marques (entrada 16931125): ver a nota para o que foi procurado e o que falta.
+- [[deh-manuel-ribeiro-junior]] — Manuel Ribeiro, junior (entrada 17000301): ver a nota para o que foi procurado e o que falta.
+- [[deh-manuel-teles]] — Manuel Teles (entrada 16930824): ver a nota para o que foi procurado e o que falta.
+- [[deh-teotonio-leitao]] — Teotónio Leitão (entrada 1699): ver a nota para o que foi procurado e o que falta.
 
 ## Referências
 
