@@ -146,6 +146,9 @@ de cada JSON (ex.: `LUS. 44 II/315v.jpg` = fólio 315v; na pasta
 `LUS. 44 II_continuação…` os nomes vêm colados: `0588v-0589.jpg` = ff.
 588v-589; `0619v-0620.jpg` = ff. 619v-620). **Ler a imagem** com a ferramenta de
 imagem (`read_image`) — é leitura de manuscrito, não OCR, e é a prova primária.
+Para manuscrito denso, recortar e ampliar com
+`tools/crop.sh "<imagem>" x y w h <nome> [zoom]` (coordenadas na imagem original
+2250x3000; a saída vai para `_scratch/crops/`, ignorada pelo git).
 
 Citações destes fólios fazem-se assim:
 
