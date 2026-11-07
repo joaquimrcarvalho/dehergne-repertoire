@@ -1,6 +1,6 @@
 ---
 title: Índice - Portugal no entry
-created: 2026-11-02
+created: 2026-11-07
 tags: [dehergne, jesuita-entrada, portugal, china, indice]
 source: "[[0 Portugal no entry]]"
 ---
@@ -153,7 +153,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
 | [[deh-joao-simoes]] | João Simões | 786 | — | **— não determinado —** | 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) | nenhuma |
-| [[deh-joao-de-abreu]] | João de Abreu | 4 | — | **— não determinado —** | 1649 (provável; Dehergne infere 1648 dos «dois anos e meio» do catálogo de 1651) | nenhuma |
+| [[deh-joao-de-abreu]] | João de Abreu | 4 | — | **— não determinado —** | 1648/1649 (Dehergne: 1648; o assento de 1651 dá «annos duos cum dimidio» de Companhia, ou seja 2,5 anos) | nenhuma |
 | [[deh-joao-de-seixas]] | João de Seixas | 754 | — | **— não determinado —** | 1727-11-25 (Dehergne) ou 1729-11-25 (Sommervogel; Pfister nota a variante) | nenhuma |
 | [[deh-manuel-jose]] | Manuel José | 422 | — | **— não determinado —** | 1729-08-20 (Dehergne, Lus. 48, 45v); 1729-08-02 (JS 134, 435v e Pfister) | nenhuma |
 | [[deh-manuel-marques]] | Manuel Marques | 516 | — | **— não determinado —** | — | nenhuma |

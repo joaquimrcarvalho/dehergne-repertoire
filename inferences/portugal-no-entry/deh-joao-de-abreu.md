@@ -5,20 +5,20 @@ name: João de Abreu
 dehergne_no: 4
 nationality: Portugal
 entry_place: não determinado
-entry_date: 1649 (provável; Dehergne infere 1648 dos «dois anos e meio» do catálogo de 1651)
+entry_date: 1648/1649 (Dehergne: 1648; o assento de 1651 dá «annos duos cum dimidio» de Companhia, ou seja 2,5 anos)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-07
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
 # João de Abreu (`deh-joao-de-abreu`)
 
-**Lugar de entrada: não determinado** — 1649 (provável; Dehergne infere 1648 dos «dois anos e meio» do catálogo de 1651) (confiança: **nenhuma**).
+**Lugar de entrada: não determinado** — 1648/1649 (Dehergne: 1648; o assento de 1651 dá «annos duos cum dimidio» de Companhia, ou seja 2,5 anos) (confiança: **nenhuma**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Não confirmada, mas a leitura do assento mudou o estado da questão. A cota de Dehergne (Lus. 45, f. 61v) foi localizada e qualificada: é o n.º 99 do catálogo trans-tagano de 1651, na secção «Philosophia primi anni» do **Colégio de Évora** — residência e estudos, não a casa de entrada. Além disso, a verificação dos dois noviciados da província no catálogo de 1649 (Lisboa e Coimbra) mostra que ele **não estava** em nenhum deles, o que empurra a entrada para depois do início de 1649 e contraria o ano de 1648 deduzido por Dehergne. O lugar continua por provar: candidatos, por esta ordem, Lisboa (Casa de Provação) e Coimbra.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Não confirmada, e a leitura da página foi corrigida em 2026-11-07: o f. 61v, n.º 99, **não** está numa secção «Philosophia primi anni» — a primeira linha da coluna («Philosophus primi anni») é a continuação do assento n.º 89, iniciado no fim do f. 61, e diz respeito aos estudos desse n.º 89. O assento n.º 99 diz: «Fr. Ioannes d'Abreu **Elvensis**, annorum **17**, vires mediocres, habet societatis annos **duos cum dimidio**, Rhetoricus». Ficam assim confirmados a naturalidade (Elvas), a idade (17) e o estado (estudante de retórica); a página **não dá a casa** — o catálogo de 1651 da província trans-tagana é uma lista contínua, ordenada por graus de estudo, sem cabeçalhos de casa nas páginas lidas. O lugar de entrada continua, por isso, em aberto.
 
-Dehergne indica «E. 1648 (Lus. 45, 61v)», mas essa cota, lida, mostra-o em 1651 como estudante do 1.º ano de filosofia no Colégio de Évora, com 17 anos e dois anos e meio de Companhia — ou seja, uma residência de estudo, não a casa de entrada. A consulta ao catálogo de 1649 (o único anterior à sua entrada) revela que ele não estava nos dois blocos de noviços da província — Lisboa (Domus Probationis, nn. 423-454) e Coimbra (nn. 199-211). Consequência: a entrada foi posterior à feitura desse catálogo, provavelmente já em 1649, e o noviciado terá sido em Lisboa (o noviciado grande, com cerca de trinta noviços) ou em Coimbra (treze). Nenhum documento o declara: o lugar de entrada fica em aberto.
+A cota de Dehergne (Lus. 45, f. 61v) foi localizada e lida: n.º 99, «Fr. Ioannes d'Abreu Elvensis, annorum 17, vires mediocres, habet societatis annos duos cum dimidio, Rhetoricus». Confirma a naturalidade (Elvas), a idade (17 anos) e o tempo de Companhia (2,5 anos, o que situa a entrada em 1648/49, como Dehergne), mas **não dá a casa**: o catálogo trans-tagano de 1651 é uma lista contínua por graus de estudo, sem divisões de casa nas páginas examinadas. O lugar de entrada fica em aberto: os candidatos são Lisboa (Casa de Provação) e Coimbra, uma vez que os noviciados do sul (Évora) tiveram a sua própria série.
 
 ## Identificação
 
@@ -37,7 +37,7 @@ Dehergne indica «E. 1648 (Lus. 45, 61v)», mas essa cota, lida, mostra-o em 165
 | Dehergne, entrada (`E.`) | 1648 |
 | Base Timelink (actual) | `?` / 16480000 |
 | Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
-| **Proposta desta nota** | **não determinado** — 1649 (provável; Dehergne infere 1648 dos «dois anos e meio» do catálogo de 1651) (nenhuma) |
+| **Proposta desta nota** | **não determinado** — 1648/1649 (Dehergne: 1648; o assento de 1651 dá «annos duos cum dimidio» de Companhia, ou seja 2,5 anos) (nenhuma) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -47,7 +47,7 @@ Dehergne (doc 65, nº 4) — ver `/Users/jrc/jesuit-archive/dropbox/collections/
 
 ## 2. Biografia
 
-João de Abreu nasceu em Elvas por 1635 («Elvensis»). Segundo Dehergne, entrou na Companhia em 1648; era padre antes de 30 de Março de 1656 e embarcou nesse dia no *Bom Jésus do Carmo* (W 1014); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Em 1651 era estudante do 1.º ano de filosofia no Colégio de Évora, com 17 anos e dois anos e meio de Companhia (ARSI, Lus. 45, f. 61v, n.º 99) — o que, se o catálogo for de finais de 1651, aponta para entrada em 1649 e não em 1648. Pfister conta-o entre os dezoito jesuítas destinados à China que morreram antes de a alcançar: «Jean d'Abreu, mort à Macao… en 1656» (doc 47, p. 368). Dehergne corrige-o e dá a morte em Macau a 24 de Junho de 1663 (JS 134, 346 e 352; AHU ms 1659, 108). Distingue-o expressamente de outro João de Abreu, de Santarém (Scalabis), nascido a 4 de Novembro de 1634, que entrou a 12 de Outubro de 1653 (Lus. 45, 290v) e nunca veio à China.
+João de Abreu nasceu em Elvas em 1635 («Elvensis»). Segundo Dehergne, entrou na Companhia em 1648; era padre antes de 30 de Março de 1656 e embarcou nesse dia no *Bom Jésus do Carmo* (W 1014); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Em 1651 era estudante de retórica, com 17 anos e dois anos e meio de Companhia (ARSI, Lus. 45, f. 61v, n.º 99). Pfister conta-o entre os dezoito jesuítas destinados à China que morreram antes de a alcançar: «Jean d'Abreu, mort à Macao… en 1656» (doc 47, p. 368). Dehergne corrige-o e dá a morte em Macau a 24 de Junho de 1663 (JS 134, 346 e 352; AHU ms 1659, 108). Distingue-o expressamente de outro João de Abreu, de Santarém (Scalabis), nascido a 4 de Novembro de 1634, que entrou a 12 de Outubro de 1653 (Lus. 45, 290v) e nunca veio à China.
 
 ## 3. Cronologia (base Timelink)
 
@@ -69,51 +69,42 @@ João de Abreu nasceu em Elvas por 1635 («Elvensis»). Segundo Dehergne, entrou
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 A cota de Dehergne, lida e qualificada: Lus. 45, f. 61v, n.º 99
+### 4.1 O assento de 1651 (f. 61v, n.º 99): o que diz — e a correção da leitura
 
-O catálogo de 1651 (ff. 57-64v) é o «**Catalogus primus Pro Domo & Collegiis Transtaganis Provinciae Lusitanae, Anno 1651**» (título no f. 57). O índice dactilografado do volume (`LUS. 45/000i3.jpg`, «Catalogi trienn. Transstaganae Prov.ae 3») dá as casas e os fólios deste catálogo: **Évora, f. 57**; Vila Viçosa, f. 62v; Faro, f. 63; Portalegre, f. 63v; Elvas, f. 65v. O f. 61v cai, portanto, no bloco de **Évora**, e aí a secção é «Philosophia primi anni»:
+O fólio 61v do Lus. 45 tem, na coluna da direita, o assento n.º 99:
 
-> «99. Fr. Ioannes d'Abreu Vluerij [naturalidade de leitura difícil] / annorum 17. vires mediocres, habet / societatis annos duos cum dimidio, Rhe-/toricus.»
+> «99. Fr. Ioannes d'Abreu **Elvensis**, annorum **17**, vires mediocres, habet societatis annos **duos cum dimidio**, Rhetoricus.»
 
 — ARSI, *Lus. 45*, f. 61v, n.º 99 — imagem `LUS. 45/061v.jpg`, leitura directa do manuscrito.
 
-Duas consequências: (1) a cota de Dehergne é **de residência e estudo** (Évora, 1.º ano de filosofia), não de noviciado; (2) os «dois anos e meio» de Companhia em 1651 são o dado de que Dehergne tirou «E. 1648» — por subtracção, não por leitura de um ano de entrada.
+**Correção importante (2026-11-07)**: a primeira linha da coluna esquerda desta página, «Philosophus primi anni», **não é um cabeçalho de secção** — é a continuação do assento n.º 89, que começa no fim do f. 61 («Fr. … Garcia …, Diocesis Elvensis, annorum 19, …» e o estado dos seus estudos), como se vê lendo as duas páginas seguidas (f. 61 e f. 61v). A leitura anterior, que tomava essa linha por título de uma secção «Philosophia primi anni», estava errada.
 
-Nota de transcrição: a palavra da naturalidade depois de «d'Abreu» está abreviada e é de leitura difícil (parece «Vluerij»); Dehergne dá Elvas («Elvensis») e a idade (17 anos) e o tempo de Companhia coincidem com o seu verbete. Não se corrige a transcrição: registe-se a leitura e a identificação à parte.
+Quanto aos anos de Companhia, o manuscrito lê-se «annos duos cum dimidio» (dois anos e meio) — é o que se vê na linha, e é também o que Dehergne usou para datar a entrada em 1648. Registo que o investigador leu «dois anos»; fica a nota, para confirmação, porque a diferença muda a data (1649 em vez de 1648) mas não o lugar.
 
-### 4.2 Prova negativa: não estava nos noviciados da província em 1649
+### 4.2 O catálogo de 1651 não está organizado por casas
 
-Se entrasse em 1648, teria de estar num dos noviciados no catálogo de 1649 (Lus. 45, ff. 8-28v). Os noviços de 1649 estão em dois blocos:
+O título do catálogo é «**Catalogus primus Pro Domo & Collegijs Transtaganis Provinciae Lusitanae, Anno 1651**» (f. 57): um catálogo único para a casa e os colégios da parte trans-tagana. Nas páginas examinadas (f. 57, 60v-64v) os assentos sucedem-se numerados de 1 a 170, agrupados por **graus de estudo** (Filosofia, Retórica, coadjutores), **sem cabeçalhos de casa**. O índice dactilografado do volume (`LUS. 45/000i3.jpg`) atribui os ff. 57-62v a Évora e 62v-65v a Vila Viçosa, Faro, Portalegre e Elvas, mas essa divisão **não se lê na página** e não pode ser usada para atribuir a casa a este assento.
 
-1. **Lisboa**, «Domus Probationis Ulyssiponensis» (f. 20), subsecção «Novitij» (f. 20v-21v), nn. 423-454 — cerca de trinta noviços, com o tempo de noviciado em meses, de «fere an. 2» a «fere mens. 2»;
-2. **Coimbra**, «Novitii» no fim do Colégio de Coimbra (f. 12v, nn. 199-202; continuação no f. 13, nn. 203-211) — treze noviços.
-
-**João de Abreu não está em nenhum dos dois.** A conclusão natural é que entrou depois da feitura do catálogo de 1649 (os catálogos trienais são datados do início do ano) — isto é, em 1649, e não em 1648. Isto explica também porque é que o ano de 1648, deduzido por Dehergne dos dois anos e meio de 1651, pode estar desfasado: se o catálogo de 1651 for datado do fim do ano, a entrada cai em meados de 1649.
-
-Cuidado com um homónimo que está precisamente nessa lista de Coimbra: no f. 13, n.º 207, há um «Fr. Antonius de Abreu» noviço (14 anos, um ano de Companhia). É **outro homem** (nome próprio António), e não deve ser tomado pelo nosso João.
+Consequência: o f. 61v diz que ele era estudante de retórica na província trans-tagana em 1651, não em que casa estava nem onde entrou.
 
 ### 4.3 O que fica em aberto — e o que procurar a seguir
 
-Para um entrante de 1649, a casa de noviciado só pode ser uma das que tinham noviços: **Lisboa** (Casa de Provação / Monte Olivete, o noviciado grande: 42 pessoas no total em 1649, cerca de trinta noviços) ou **Coimbra** (treze noviços). Lisboa é a mais provável — era o noviciado de toda a província e, em 1654-55, a própria província trans-tagana tem a sua «D. Probationis» em Lisboa (Lus. 45, f. 116, segundo o índice dactilografado `000i3.jpg`). Faltam, porém, os catálogos de 1650-51 da parte cis-tagana (não existem neste volume), que seriam os que nomeariam o noviciado de 1650.
+A casa de entrada não está, portanto, documentada. Em 1649 a província era ainda uma só (a divisão em Portugal e Alentejo é de Setembro de 1653), pelo que os noviciados possíveis eram **Coimbra**, **Évora** e **Lisboa** (Casa de Provação). Não há, neste volume, catálogos da província inteira para 1650-53 (a lacuna de Lus. 45 é justamente a dos catálogos cis-taganos de 1651-53), e o catálogo trans-tagano de 1651, feito no início do ano, é anterior à sua entrada se esta for do fim de 1648/1649.
 
-A residência posterior em Évora (1651) não ajuda a decidir: o catálogo trans-tagano de 1651 não tem secção de noviços nem casas de Lisboa (estas só aparecem no catálogo de 1654-55), o que confirma que os noviços da parte trans-tagana estavam fora deste catálogo — em Lisboa.
+Pista a explorar: o **catálogo de 1654** (Lus. 45, ff. 75-84v) e o **Elenchus Conimbricense** de 1651-54 (f. 169) — se ele aparecer como noviço ou recém-chegado numa dessas listas, fecha-se o caso.
 
 ### O que não foi encontrado
 
-O lugar de entrada continua não estabelecido. O que se procurou e o que se apurou: (1) o assento de 1651 (Lus. 45, f. 61v, n.º 99) foi lido e localizado no bloco de Évora — é residência, não entrada; (2) os dois noviciados da província no catálogo de 1649 foram lidos — Lisboa (f. 20v-21v, nn. 423-454) e Coimbra (f. 12v-13, nn. 199-211) — e ele não está em nenhum, o que torna 1648 improvável como ano de entrada e põe o noviciado em 1649-50; (3) o catálogo trans-tagano de 1651 (ff. 57-64v) não tem secção de noviços nem casas de Lisboa, confirmando que os noviços daquela parte da província estavam fora dele (em Lisboa); (4) faltam os catálogos cis-tagano de 1650-51, que dariam a lista de noviços do ano. Homónimos descartados: o «Fr. Antonius de Abreu» noviço em Coimbra em 1649 (f. 13, n. 207); o P. João de Abreu da missão de 1605 (doc 66, p. 40; doc 102, p. 322); o Fr. João de Abreu de Vila Viçosa de 1606 (doc 36, p. 17); o franciscano de Goa João de Abreu o Mimoso (doc 40, p. 455); e o João de Abreu de Santarém, entrado em 1653 (Lus. 45, f. 290v, segundo Dehergne).
+O lugar de entrada continua não estabelecido. O que se apurou: (1) o assento de 1651 (Lus. 45, f. 61v, n.º 99) foi lido e corrigido — naturalidade Elvas, 17 anos, 2,5 anos de Companhia, estudante de retórica; a página não dá a casa (o catálogo trans-tagano de 1651 é uma lista contínua por graus de estudo, sem cabeçalhos de casa; a linha «Philosophus primi anni» é a continuação do n.º 89); (2) não há neste volume catálogos da província inteira para 1650-53, onde o noviciado estaria registado; (3) o homónimo «Fr. Antonius de Abreu» noviço em Coimbra em 1649 (Lus. 45, f. 13, n. 207) não é ele. Homónimos descartados: o P. João de Abreu da missão de 1605 (doc 66, p. 40; doc 102, p. 322); o Fr. João de Abreu de Vila Viçosa de 1606 (doc 36, p. 17); o franciscano de Goa João de Abreu o Mimoso (doc 40, p. 455); e o João de Abreu de Santarém, entrado em 1653 (Lus. 45, f. 290v, segundo Dehergne). Revisão de 2026-11-07: retirada a atribuição ao «bloco de Évora» (baseada só no índice dactilografado, não na página) e corrigida a leitura da secção.
 
 ## 5. Evidência
 
-- ARSI, *Lus. 45*, «Catalogus primus Pro Domo & Collegiis Transtaganis Provinciae Lusitanae, Anno 1651», f. 61v, n.º 99, secção «Philosophia primi anni»: «Fr. Ioannes d'Abreu … annorum 17. vires mediocres, habet societatis annos duos cum dimidio, Rhetoricus» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/061v.jpg"` · prova indireta
-  - situa-o em 1651 como estudante do 1.º ano de filosofia no Colégio de Évora, com 17 anos e 2,5 de Companhia (data de entrada implícita 1648-49); não é a casa de entrada
-- ARSI, *Lus. 45*, f. 57, título do catálogo de 1651: «Catalogus primus Pro Domo & Collegiis Transtaganis Provinciae Lusitanae, Anno 1651» — imagem `LUS. 45/057.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/057.jpg"` · prova direta
-  - identifica o catálogo e o seu âmbito (província trans-tagana, 1651) — leitura regressiva ao cabeçalho
-- Índice dactilografado do volume, `LUS. 45/000i3.jpg` («Catalogi trienn. Transstaganae Prov.ae 3»): casas e fólios do catálogo de 1651 — Évora 57, Vila Viçosa 62v, Faro 63, Portalegre 63v, Elvas 65v · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/000i3.jpg"` · prova direta
-  - atribui o f. 61v ao bloco da casa de Évora (leitura regressiva até à casa)
-- ARSI, *Lus. 45*, f. 20v-21v, «Domus Probationis Ulyssiponensis», «Novitij», nn. 423-454 (catálogo de 1649) — imagens `LUS. 45/020v.jpg` e `LUS. 45/021.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/020v.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/021.jpg"` · prova negativa
-  - NEGATIVA: não está entre os noviços de Lisboa em 1649 ⇒ a entrada foi posterior à feitura do catálogo (1649, não 1648)
-- ARSI, *Lus. 45*, f. 12v-13, «Novitii» do Colégio de Coimbra, nn. 199-211 (catálogo de 1649) — imagens `LUS. 45/012v.jpg` e `LUS. 45/013.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/012v.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/013.jpg"` · prova negativa
-  - NEGATIVA para João de Abreu (não figura entre os treze noviços de Coimbra); regista o homónimo «Fr. Antonius de Abreu» (f. 13, n.º 207) que não é este
+- ARSI, *Lus. 45*, f. 61v, n.º 99 (catálogo de 1651): «Fr. Ioannes d'Abreu Elvensis, annorum 17, vires mediocres, habet societatis annos duos cum dimidio, Rhetoricus» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/061v.jpg"` · prova direta (para os dados pessoais), negativa (para a casa)
+  - naturalidade (Elvas), idade (17), 2,5 anos de Companhia (entrada em 1648/49) e estado (estudante de retórica); NÃO dá a casa
+- ARSI, *Lus. 45*, f. 61 (fim da coluna da direita): assento n.º 89, cuja continuação é a linha «Philosophus primi anni» que abre o f. 61v — imagem `LUS. 45/061.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/061.jpg"` · prova direta
+  - correção da leitura: «Philosophus primi anni» pertence ao n.º 89 e não é cabeçalho de secção
+- ARSI, *Lus. 45*, f. 57, título «Catalogus primus Pro Domo & Collegijs Transtaganis Provinciae Lusitanae Anno 1651» — imagem `LUS. 45/057.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/057.jpg"` · prova contextual
+  - identifica o catálogo (trans-tagano, 1651) e mostra que é uma lista única, sem divisão por casas
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 41, verbete «Abreu, Joäo de» — edited (`french-ocr`) · `pha page 65 41 --edited` · prova contextual
   - estado da questão: E. 1648 «(Lus. 45, 61v)», lugar em branco; embarque em 1656 (W 1014) e morte em Macau em 1663
 - Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 54, n.º 1014 — edited · `pha page 66 54` · prova indireta
