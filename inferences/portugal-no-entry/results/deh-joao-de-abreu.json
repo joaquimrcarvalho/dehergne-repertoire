@@ -2,7 +2,7 @@
  "id": "deh-joao-de-abreu",
  "name": "João de Abreu",
  "lugar": null,
- "data": "1648/1649 (Dehergne: 1648; o assento de 1651 dá «annos duos cum dimidio» de Companhia, ou seja 2,5 anos)",
+ "data": "1648 (Dehergne; «annos duos cum dimidio» de Companhia em 1651 ⇒ entrada em 1648/49)",
  "confianca": "nenhuma",
  "sugestao_tabela": "nenhuma («?» na coluna jesuita-entrada)",
  "validacao": "Não confirmada, e a leitura da página foi corrigida em 2026-11-07: o f. 61v, n.º 99, **não** está numa secção «Philosophia primi anni» — a primeira linha da coluna («Philosophus primi anni») é a continuação do assento n.º 89, iniciado no fim do f. 61, e diz respeito aos estudos desse n.º 89. O assento n.º 99 diz: «Fr. Ioannes d'Abreu **Elvensis**, annorum **17**, vires mediocres, habet societatis annos **duos cum dimidio**, Rhetoricus». Ficam assim confirmados a naturalidade (Elvas), a idade (17) e o estado (estudante de retórica); a página **não dá a casa** — o catálogo de 1651 da província trans-tagana é uma lista contínua, ordenada por graus de estudo, sem cabeçalhos de casa nas páginas lidas. O lugar de entrada continua, por isso, em aberto.",
@@ -11,7 +11,7 @@
  "analise": [
   {
    "titulo": "O assento de 1651 (f. 61v, n.º 99): o que diz — e a correção da leitura",
-   "texto": "O fólio 61v do Lus. 45 tem, na coluna da direita, o assento n.º 99:\n\n> «99. Fr. Ioannes d'Abreu **Elvensis**, annorum **17**, vires mediocres, habet societatis annos **duos cum dimidio**, Rhetoricus.»\n\n— ARSI, *Lus. 45*, f. 61v, n.º 99 — imagem `LUS. 45/061v.jpg`, leitura directa do manuscrito.\n\n**Correção importante (2026-11-07)**: a primeira linha da coluna esquerda desta página, «Philosophus primi anni», **não é um cabeçalho de secção** — é a continuação do assento n.º 89, que começa no fim do f. 61 («Fr. … Garcia …, Diocesis Elvensis, annorum 19, …» e o estado dos seus estudos), como se vê lendo as duas páginas seguidas (f. 61 e f. 61v). A leitura anterior, que tomava essa linha por título de uma secção «Philosophia primi anni», estava errada.\n\nQuanto aos anos de Companhia, o manuscrito lê-se «annos duos cum dimidio» (dois anos e meio) — é o que se vê na linha, e é também o que Dehergne usou para datar a entrada em 1648. Registo que o investigador leu «dois anos»; fica a nota, para confirmação, porque a diferença muda a data (1649 em vez de 1648) mas não o lugar."
+   "texto": "O fólio 61v do Lus. 45 tem, na coluna da direita, o assento n.º 99:\n\n> «99. Fr. Ioannes d'Abreu **Elvensis**, annorum **17**, vires mediocres, habet societatis annos **duos cum dimidio**, Rhetoricus.»\n\n— ARSI, *Lus. 45*, f. 61v, n.º 99 — imagem `LUS. 45/061v.jpg`, leitura directa do manuscrito.\n\n**Correção importante (2026-11-07)**: a primeira linha da coluna esquerda desta página, «Philosophus primi anni», **não é um cabeçalho de secção** — é a continuação do assento n.º 89, que começa no fim do f. 61 («Fr. … Garcia …, Diocesis Elvensis, annorum 19, …» e o estado dos seus estudos), como se vê lendo as duas páginas seguidas (f. 61 e f. 61v). A leitura anterior, que tomava essa linha por título de uma secção «Philosophia primi anni», estava errada.\n\nQuanto aos anos de Companhia, a linha lê «**annos duos cum dimidio**» (dois anos e meio) — leitura confirmada pelo investigador em 2026-11-07. É o valor que Dehergne usou para datar a entrada em 1648 (2,5 anos antes de 1651 ⇒ entrada no fim de 1648 ou em 1649)."
   },
   {
    "titulo": "O catálogo de 1651 não está organizado por casas",
