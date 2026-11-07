@@ -2,16 +2,16 @@
  "id": "deh-manuel-de-carvalho-i",
  "name": "Manuel Carvalho I",
  "lugar": "Lisboa (Casa de Provação do Monte Olivete)",
- "data": "1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 13» ⇒ entrada em 1647 ou 1648",
+ "data": "1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 11» ⇒ entrada em 1648 (registam-se as duas versões)",
  "confianca": "alta",
  "sugestao_tabela": "nenhuma («?» na coluna jesuita-entrada da tabela [[0 Portugal no entry]])",
- "validacao": "CONFIRMADA: o catálogo I de 1649 nomeia-o **noviço na Casa de Provação de Lisboa** (Lus. 45, f. 21, n.º 438), e o índice alfabético do mesmo catálogo (T5, f. 5) regista «Fr. Manoel de Carvalho — F 27 n 438». Casa de noviciado + noviço nomeado = prova directa do lugar de entrada. O ano é que sai ligeiramente alterado: os 13 meses de Companhia em 1649 dão entrada em 1647 ou 1648, conforme o mês da compilação (o título só diz «anni 1649»); a data exacta de Dehergne não é contrariada, é apenas imprecisa. A idade lida (16 anos) não bate com o nascimento de 1629; registo a discrepância.",
- "resumo": "Manuel de Carvalho I, irmão coadjutor natural de Lisboa, é nomeado **noviço na Casa de Provação de Lisboa** no catálogo I de 1649: «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 13; ex prim. gymn. Ulyssip. …» (Lus. 45, f. 21, n.º 438), dentro da lista «Novitij» do bloco «Domus Probationis Ulyssiponensis» (f. 20, n.º 413; lista a partir do f. 20v, n.º 423). O índice alfabético confirma o assento («Ir. Manoel de Carvalho — F 27 n 438», f. 5). Lugar de entrada: **Lisboa (Casa de Provação / Monte Olivete), confiança alta**. A entrada cai em 1647-1648 (13 meses de Companhia em 1649), compatível com o 1647 de Dehergne.",
- "biografia": "Manuel de Carvalho I nasceu em Lisboa em 1629 (Dehergne) e era irmão coadjutor. Entrou na Companhia por 1647-1648 e fez o noviciado na Casa de Provação de Lisboa, onde o catálogo de 1649 o regista com 13 meses de Companhia e o primeiro ano de gramática (Lus. 45, f. 21, n.º 438). Embarcou para a China a 20 de Abril de 1650 (Wicki 963); segundo o catálogo do Japão de 1659 esteve dois anos na missão da China (JS 25, 172, apud Dehergne) e saiu da Companhia antes de 1665 (JS 25, 179v). Pfister (notícia 464) resume-o como «A. vers 1635. — Coadj. temp. — M. après 1659». O nome chinês que Dehergne lhe dá é Tchao Tchong Leang-Fou.",
+ "validacao": "CONFIRMADA: o catálogo I de 1649 nomeia-o **noviço na Casa de Provação de Lisboa** (Lus. 45, f. 21, n.º 438), e o índice alfabético do mesmo catálogo (T5, f. 5) regista «Fr. Manoel de Carvalho — F 27 n 438». Casa de noviciado + noviço nomeado = prova directa do lugar de entrada. O ano é que sai ligeiramente alterado: os **11 meses** de Companhia em 1649 dão entrada em **1648** (o título só diz «anni 1649»); Dehergne dá 1647, do catálogo do Japão de 1659 — registo as duas versões, que diferem de meses a um ano. Nota de leitura: o copista escreve o 11 numa forma que parece «ij»; a sequência da lista confirma-o (n.º 436 = 13 meses, n.º 437 = 12, n.º 438 = 11). A idade lida (16 anos) não bate com o nascimento de 1629; registo a discrepância.",
+ "resumo": "Manuel de Carvalho I, irmão coadjutor natural de Lisboa, é nomeado **noviço na Casa de Provação de Lisboa** no catálogo I de 1649: «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 11; ex prim. gymn. Ulyssip. …» (Lus. 45, f. 21, n.º 438), dentro da lista «Novitij» do bloco «Domus Probationis Ulyssiponensis» (f. 20, n.º 413; lista a partir do f. 20v, n.º 423). O índice alfabético confirma o assento («Ir. Manoel de Carvalho — F 27 n 438», f. 5). Lugar de entrada: **Lisboa (Casa de Provação / Monte Olivete), confiança alta**. A entrada cai em 1648 pelos 11 meses de Companhia em 1649; Dehergne dá 1647 (catálogo do Japão de 1659), diferença registada.",
+ "biografia": "Manuel de Carvalho I nasceu em Lisboa em 1629 (Dehergne) e era irmão coadjutor. Entrou na Companhia por 1648 (11 meses de Companhia em 1649; Dehergne dá 1647) e fez o noviciado na Casa de Provação de Lisboa, onde o catálogo de 1649 o regista com **11 meses** de Companhia e o primeiro ano de gramática (Lus. 45, f. 21, n.º 438). Embarcou para a China a 20 de Abril de 1650 (Wicki 963); segundo o catálogo do Japão de 1659 esteve dois anos na missão da China (JS 25, 172, apud Dehergne) e saiu da Companhia antes de 1665 (JS 25, 179v). Pfister (notícia 464) resume-o como «A. vers 1635. — Coadj. temp. — M. après 1659». O nome chinês que Dehergne lhe dá é Tchao Tchong Leang-Fou.",
  "analise": [
   {
    "titulo": "O assento de 1649: noviço na Casa de Provação de Lisboa",
-   "texto": "Dehergne escreve «Carvalho Manuel (I) fr. coadj. … N. 1629, Lisbonne -E. 1647 (JS 25, 172)» — sem qualquer cota LUS, porque a informação vinha do catálogo do Japão de 1659. O catálogo I de 1649 (Lus. 45, ff. 8-28v), intitulado «1º Primeiro Catalogo Provincia Lusitana anni 1649» (f. 8), tem na Casa de Provação de Lisboa a sua lista de noviços. No f. 21, n.º 438, lê-se:\n\n> «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 13; ex prim. gymn. Ulyssip.; salute bona, Viribus mediocri.»\n\n— ARSI, *Lus. 45*, f. 21, n.º 438 — leitura directa do manuscrito em imagem digital (imagem `LUS. 45/021.jpg`).\n\nA identificação é dupla: o assento e o índice alfabético do mesmo catálogo (T5, f. 5), que na letra M dos irmãos regista «**Fr. Manoel de Carvalho — F 27 n 438**» — isto é, página 27 do catálogo (= f. 21) e n.º 438. Não há outro irmão Manoel/Emmanuel de Carvalho na província em 1649."
+   "texto": "Dehergne escreve «Carvalho Manuel (I) fr. coadj. … N. 1629, Lisbonne -E. 1647 (JS 25, 172)» — sem qualquer cota LUS, porque a informação vinha do catálogo do Japão de 1659. O catálogo I de 1649 (Lus. 45, ff. 8-28v), intitulado «1º Primeiro Catalogo Provincia Lusitana anni 1649» (f. 8), tem na Casa de Provação de Lisboa a sua lista de noviços. No f. 21, n.º 438, lê-se:\n\n> «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 11; ex prim. gymn. Ulyssip.; salute bona, Viribus mediocri.»\n\n— ARSI, *Lus. 45*, f. 21, n.º 438 — leitura directa do manuscrito em imagem digital (imagem `LUS. 45/021.jpg`).\n\nA identificação é dupla: o assento e o índice alfabético do mesmo catálogo (T5, f. 5), que na letra M dos irmãos regista «**Fr. Manoel de Carvalho — F 27 n 438**» — isto é, página 27 do catálogo (= f. 21) e n.º 438. Não há outro irmão Manoel/Emmanuel de Carvalho na província em 1649."
   },
   {
    "titulo": "A casa: «Domus Probationis Vlyssiponensis» (f. 20) e a lista «Novitij» (f. 20v)",
@@ -19,14 +19,14 @@
   },
   {
    "titulo": "A data e a idade",
-   "texto": "Os 13 meses de Companhia dão entrada em 1647 ou 1648, conforme o mês em que o catálogo foi feito — o título só diz «anni 1649» e não indica mês. Dehergne dá 1647; a diferença é de meses, não de anos, e o próprio Dehergne a extraiu do catálogo do Japão de 1659 (12 anos de Companhia ⇒ 1647). A idade lida (16 anos) não bate com o nascimento de 1629 que Dehergne lhe dá (20 anos em 1649); registo as duas versões sem corrigir nenhuma. O que é seguro é o lugar: o único irmão Manoel de Carvalho da província em 1649 é este noviço da Casa de Provação."
+   "texto": "Os **11 meses** de Companhia dão entrada em **1648** (fevereiro-março, se o catálogo for do início de 1649; o título só diz «anni 1649» e não indica mês). Dehergne dá 1647, tirado do catálogo do Japão de 1659 (12 anos de Companhia ⇒ 1647): a diferença é de meses a um ano e fica registada. Note-se ainda que o copista escreve o 11 numa forma que se lê «ij»; a sequência da lista resolve a dúvida — n.º 436 = 13 meses, n.º 437 = 12, n.º 438 = 11 — e o valor 11 é o único compatível com a ordem decrescente da lista. A idade lida (16 anos) não bate com o nascimento de 1629 que Dehergne lhe dá (20 anos em 1649); registo as duas versões sem corrigir nenhuma. O que é seguro é o lugar: o único irmão Manoel de Carvalho da província em 1649 é este noviço da Casa de Provação."
   }
  ],
  "evidencias": [
   {
-   "citacao": "ARSI, *Lus. 45*, f. 21, n.º 438 — catálogo I de 1649, lista «Novitij» da Casa de Provação de Lisboa: «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 13; ex prim. gymn. Ulyssip.» — manuscrito lido em imagem digital",
+   "citacao": "ARSI, *Lus. 45*, f. 21, n.º 438 — catálogo I de 1649, lista «Novitij» da Casa de Provação de Lisboa: «Fr. Emmanuel de Carvalho, Ulyssip., an. 16; Societ. Mens. 11; ex prim. gymn. Ulyssip.» — manuscrito lido em imagem digital",
    "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/021.jpg\"",
-   "o_que_prova": "noviço nomeado na Casa de Provação de Lisboa em 1649, natural de Lisboa, 13 meses de Companhia ⇒ entrada em 1647/1648",
+   "o_que_prova": "noviço nomeado na Casa de Provação de Lisboa em 1649, natural de Lisboa, 11 meses de Companhia ⇒ entrada em 1648",
    "forca": "directa"
   },
   {
@@ -50,7 +50,7 @@
   {
    "citacao": "ARSI, *Lus. 45*, f. 8 — catálogo I de 1649: «1º Primeiro Catalogo Provincia Lusitana anni 1649»",
    "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/008.jpg\"",
-   "o_que_prova": "data do catálogo (1649), base do cálculo dos 13 meses de Companhia",
+   "o_que_prova": "data do catálogo (1649), base do cálculo dos 11 meses de Companhia",
    "forca": "directa"
   },
   {

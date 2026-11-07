@@ -81,7 +81,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-luis-de-moura]] | Luís de Moura | 576 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1635 (Dehergne; o catálogo de Abril de 1636 dá-lhe «10 mezes da Comp.ª») | alta |
 | [[deh-luis-de-sequeira]] | Luís de Sequeira | 761 | — | **Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)** | 1 de Setembro de 1709 (Dehergne; catálogo de 1711: «ingressus Societ. 1 Sept. 1709») | alta |
 | [[deh-manuel-camello]] | Manuel Camello | 132 | — | **Lisboa (Casa de Provação / Monte Olivete, Cotovia)** | 1699-05-28 (catálogo de 1700); Dehergne e a base dizem 1700 | alta |
-| [[deh-manuel-de-carvalho-i]] | Manuel Carvalho | 148 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 13» ⇒ entrada em 1647 ou 1648 | alta |
+| [[deh-manuel-de-carvalho-i]] | Manuel Carvalho | 148 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 11» ⇒ entrada em 1648 (registam-se as duas versões) | alta |
 | [[deh-manuel-pinto-iii]] | Manuel Pinto | 647 | — | **Coimbra (noviciado do Colégio de Coimbra)** | 1704-12-30 | alta |
 | [[deh-manuel-viegas]] | Manuel Viegas | 885 | — | **Évora (Noviciado de Évora)** | 1729-07-31 | alta |
 | [[deh-manuel-de-azevedo]] | Manuel de Azevedo | 60 | em Évora 1611 | **Lisboa (Casa de Provação — noviciado)** | 1597-05-10 | alta |
