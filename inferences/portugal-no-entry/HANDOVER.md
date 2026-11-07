@@ -126,7 +126,9 @@ Os fólios da coluna «Próximo catálogo a ler» vêm do índice do pacote (`in
 
 ## 8. Como recomeçar (passo a passo)
 
-1. `cd /Users/jrc/develop/dehergne-repertoire-mbook-air && git status` (branch `main`; há alterações locais em `.kleio.json`).
+> [!important] **Ramo e PRs.** O trabalho desta revisão vive no ramo **`portugal-no-entry-review`**; o `main` local acompanha o `origin/main` (que só muda por PR). **Não abrir PR sem instrução explícita do investigador** — o PR só se cria quando a revisão dos lugares de entrada estiver concluída.
+
+1. `cd /Users/jrc/develop/dehergne-repertoire-mbook-air && git status` (deve estar no ramo `portugal-no-entry-review`; o `main` fica intacto).
 2. Ler `tools/RECIPE.md` (método detalhado e variantes de nomes) e o `AGENTS.md` do pacote de índice do SSD
    (`/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/AGENTS.md`); localizar o catálogo com `tools/arsi_index.py`.
 3. Escolher o próximo caso da tabela §7 e abrir `results/<id>.json` + `tools/packet.py <id>`.
