@@ -12,14 +12,14 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **47** · **média**: **38** · **baixa**: **12** · **não determinado**: **13**
+- lugar proposto com confiança **alta**: **47** · **média**: **38** · **baixa**: **11** · **não determinado**: **14**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
 
 | lugar | nº de pessoas |
 |---|---:|
-| Coimbra | 41 |
+| Coimbra | 40 |
 | Lisboa | 40 |
 | Évora | 14 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
@@ -145,7 +145,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-joao-baptista]] | João Baptista | 71 | — | **Coimbra (noviciado)** | 1671-05-20 (manuscrito ARSI; Dehergne lê 20-03-1671) | baixa |
 | [[deh-joao-de-figueiredo]] | João de Figueiredo | 308 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1650 (Dehergne; confirmado pelo catálogo de 1655: 5 anos de Companhia) | baixa |
 | [[deh-pedro-de-lis]] | Pedro de Lis | 475 | — | **Lisboa (noviciado da Companhia na corte) — inferência** | 1649-08-15 | baixa |
-| [[deh-simao-pinto]] | Simão Pinto | 648 | — | **Coimbra (inferido)** | 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) | baixa |
 | [[deh-simao-rodrigues]] | Simão Rodrigues | 719 | — | **Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas** | 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia) | baixa |
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
@@ -159,6 +158,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-manuel-pinto-ii]] | Manuel Pinto | 646 | — | **— não determinado —** | inconsistente (Dehergne: E. 14 de Março de 1652 «Lus. 46, 322» — mas essa cota é do catálogo de 1696) | nenhuma |
 | [[deh-manuel-ribeiro-junior]] | Manuel Ribeiro, junior | 680 | — | **— não determinado —** | — | nenhuma |
 | [[deh-manuel-teles]] | Manuel Teles | 838 | — | **— não determinado —** | — | nenhuma |
+| [[deh-simao-pinto]] | Simão Pinto | 648 | — | **— não determinado —** | 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) | nenhuma |
 | [[deh-teotonio-leitao]] | Teotónio Leitão | 462 | — | **— não determinado —** | — | nenhuma |
 
 ## Casos não determinados
@@ -176,6 +176,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 - [[deh-manuel-pinto-ii]] — Manuel Pinto (entrada 16520314): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-ribeiro-junior]] — Manuel Ribeiro, junior (entrada 17000301): ver a nota para o que foi procurado e o que falta.
 - [[deh-manuel-teles]] — Manuel Teles (entrada 16930824): ver a nota para o que foi procurado e o que falta.
+- [[deh-simao-pinto]] — Simão Pinto (entrada 16750000): ver a nota para o que foi procurado e o que falta.
 - [[deh-teotonio-leitao]] — Teotónio Leitão (entrada 1699): ver a nota para o que foi procurado e o que falta.
 
 ## Referências
