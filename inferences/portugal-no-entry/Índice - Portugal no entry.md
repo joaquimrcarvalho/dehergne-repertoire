@@ -12,7 +12,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **46** · **média**: **38** · **baixa**: **14** · **não determinado**: **12**
+- lugar proposto com confiança **alta**: **47** · **média**: **37** · **baixa**: **14** · **não determinado**: **12**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
@@ -63,6 +63,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-bartolomeu-de-roboredo]] | Bartolomeu de Roboredo | 688 | Coimbra ou talvez Évora. | **Lisboa (Casa de Provação do Monte Olivete)** | 1625 (catálogo de 1625: «1 mês» de Companhia; confirma-o o catálogo de 1628, onde tem «3 annos» de Companhia) | alta |
 | [[deh-bento-monteiro]] | Bento Monteiro | 561 | — | **Coimbra (Noviciado de Coimbra)** | 1732-06-27 | alta |
 | [[deh-bernardo-osorio]] | Bernardo Osório | 599 | — | **Lisboa (Domus Probationis Ulyssiponensis — noviciado)** | 1689-03-09 | alta |
+| [[deh-diogo-de-sotomaior]] | Diogo de Sotomaior | 804 | — | **Lisboa (Casa de Provação / Domus Probationis)** | 15 de Março de 1654 (admissão; catálogo trans-tagano de 1654/55, f. 116v, n.º 22) | alta |
 | [[deh-domingos-pinheiro]] | Domingos Pinheiro | 638 | — | **Lisboa (Casa de Provação / Monte Olivete, Cotovia)** | 1704-11-09 | alta |
 | [[deh-estevao-coelho]] | Estêvão Coelho | 185 | em Évora 1606 | **Évora (noviciado do Colégio de Jesus de Évora)** | 1604 (c. Junho de 1604; Dehergne: E. 1604) | alta |
 | [[deh-feliciano-pacheco]] | Feliciano Pacheco | 601 | Coimbra | **Coimbra (noviciado / Real Colégio de Jesus)** | 1636 (Dehergne); catálogo de 1639: «2 annos da Companhia» ⇒ entrada em 1636-1637 | alta |
@@ -102,7 +103,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-antonio-de-barros]] | António de Barros | 81 | — | **Coimbra (Colégio de Coimbra)** | 1681-06-12 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) | média |
 | [[deh-caetano-lopes]] | Caetano Lopes | 486 | — | **Coimbra (Colégio de Coimbra) — atribuição provisória** | 1707-02-17 (o catálogo de 1711 situa-o no Colégio de Coimbra) | média |
 | [[deh-diogo-pinto]] | Diogo Pinto | 641 | Santo Antão | **Lisboa (Santo Antão)** | 1561 (provável; ver conflito com a data de Dehergne) | média |
-| [[deh-diogo-de-sotomaior]] | Diogo de Sotomaior | 804 | — | **Lisboa (Casa de Provação / Domus Probationis)** | 15 de Março de 1654 (admissão; catálogo trans-tagano de 1654/55, f. 116v, n.º 22) | média |
 | [[deh-dionisio-ferreira]] | Dionísio Ferreira | 300 | — | **Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)** | 1738-02-05 | média |
 | [[deh-estevao-lopes]] | Estêvão Lopes | 487 | Coimbra, anotado no Dehergne | **Lisboa (Casa de Provação — noviciado da província; casa do Monte Olivete)** | 1708-03-21 | média |
 | [[deh-francisco-lopes]] | Francisco Lopes | 488 | noviço em Coimbra em 1590 | **Coimbra** | 1590-02 (data de Dehergne; confirmada apenas por via indireta) | média |
