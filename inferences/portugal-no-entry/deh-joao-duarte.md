@@ -87,6 +87,8 @@ João Duarte (Eduardus), natural de Lisboa, nascido a 27 (ou 17) de Novembro de 
 
 A data de entrada, 17 de Julho de 1690, vem do Dehergne (JS 134, 399v; a JS 134, 435 dá 1689). O assento que eu tinha usado para a «confirmar» — Lus. 46 a, f. 19, n.º 339, no catálogo primeiro de 1700 — diz «Fr. Ioannes Duarte, ex opp. **Monte major**, Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690 … **Rhetoricus**». É um **homónimo**, não ele: natural de Monte Maior (o nosso é de Lisboa), nascido a 29 de Novembro (o nosso a 27 ou 17) e, em 1700, ainda estudante de Retórica — quando o nosso embarcou em **1696** (W 1361) e estava na **China** desde 22 de Abril de 1700 (JS 134, 399v). A coincidência da data de entrada explica-se pela mesma entrada coletiva de 17 de Julho de 1690, no único noviciado então existente.
 
+O homónimo é uma pessoa documentada, não uma leitura isolada: aparece **já no catálogo de 1693** (Lus. 46, f. 270 carimbado, n.º 340 — imagem `LUS. 46/267.jpg`), com os mesmos dados «Fr. Joannes Duarte, ex pago Monte [Maior], Diæc. Ulyssiponensis, natus 29 Novembris an. 671, ingressus Societ. 17 Julij an. 690, viribus bonis, Rhetor», e continua no catálogo de **1700** (Lus. 46 a, f. 19, n.º 339). Trata-se, pois, do noviço de Monte Maior da mesma «fornada» de 17 Julho de 1690 — que permaneceu na província —, enquanto o nosso João Duarte (de Lisboa) embarcou em 1696.
+
 ### 4.2 2. O lugar: a regra do noviciado único (Lisboa, Jun. 1685 – Dez. 1690)
 
 Sem lista nominal do ano de 1690, o lugar assenta na regra institucional estabelecida por António Franco (*Imagem da virtude… Évora*, 1714, pp. 49-50): em **Junho de 1685** os três noviciados da província foram reduzidos a um só, na **Casa de Provação de Lisboa**, e assim se manteve «até o anno de 1690»; os de Coimbra e Évora foram restituídos a partir de **Janeiro de 1691**. Quem entrou a 17 de Julho de 1690 foi, portanto, noviço em Lisboa. Confiança **média** (regra institucional, sem assento nominal).
@@ -129,6 +131,8 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
   - NEGATIVA: não é noviço em Coimbra em 1693
 - António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus no Real Collegio de Jesus de Coimbra*… / *…no noviciado de Évora* (doc 52), p. 49 — edited (`franco-imagem-virtude`) · `pha page 52 49 --edited` · prova direta (para a regra), indireta para a pessoa
   - em 1685 o Geral mandou reduzir a um só noviciado, em Lisboa, os três da província (Coimbra, Lisboa, Évora), com execução em Junho de 1685
+- ARSI, *Lus. 46*, catálogo de 1693, f. 270 carimbado (imagem `LUS. 46/267.jpg`), n.º 340: «Fr. Joannes Duarte, ex pago Monte [Maior], Diæc. Ulyssiponensis, natus 29 Novembris an. 671, ingressus Societ. 17 Julij an. 690, viribus bonis, Rhetor» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/267.jpg"` · prova negativa
+  - HOMÓNIMO documentado em 1693 (e em 1700): o noviço de Monte Maior da fornada de 17 Jul. 1690, que permaneceu na província — não é o nosso João Duarte (Lisboa), embarcado em 1696
 
 ## 6. Referências
 
