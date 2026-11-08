@@ -1,21 +1,21 @@
 {
  "id": "deh-joao-francisco-cardoso",
  "name": "João Francisco Cardoso",
- "lugar": "Lisboa (Casa de Provação / Monte Olivete)",
- "data": "22 de Dezembro de 1692 (Dehergne; confirmado pela data de entrada do noviço «Fr. Franciscus Cardozo», n.º 420 da lista de noviços de 1693)",
- "confianca": "média",
+ "lugar": "Lisboa (Casa de Provação / Domus Probationis)",
+ "data": "22 de Dezembro de 1692 (noviço da Domus Probationis, catálogo de 1693, n.º 420)",
+ "confianca": "alta",
  "sugestao_tabela": "nenhuma («?» na coluna jesuita-entrada)",
- "validacao": "Provável, não certa. No catálogo de 1693, a lista de noviços da **Domus Probationis de Lisboa** tem um «Fr. Franciscus Cardozo» com entrada («ingressus Societ.») a **22 de Dezembro de 1692** — exactamente a data que Dehergne dá para João Francisco Cardoso. O apelido e a data coincidem; o nome próprio é que aparece só como «Franciscus» (Dehergne: «João Francisco»), o que deixa uma margem de dúvida. A casa de entrada é, por isso, Lisboa (Casa de Provação), com confiança média.",
- "resumo": "João Francisco Cardoso fez o noviciado na **Casa de Provação de Lisboa**: no catálogo da província de 1693, a lista dos noviços da «Domus Probationis» regista «Fr. Franciscus Cardozo… ingressus Societ. 22 Decembris an. 1692», coincidindo na data (22 de Dezembro de 1692) com o verbete do Dehergne. A identificação é provável (o nome próprio aparece como «Franciscus», não «João Francisco»), pelo que a confiança fica em média.",
- "biografia": "João Francisco Cardoso (Cardozo) nasceu em 1668 (segundo Dehergne) e entrou na Companhia a 22 de Dezembro de 1692. Em 1693 era noviço da Casa de Provação de Lisboa (Lus. 46, lista de noviços do catálogo de 1693, n.º 420). Foi missionário na China: o seu nome chinês era Mei Ta-Tch'eng (Eul-Tchang). Dehergne cita «Lus. 46, 326» para a entrada, fólio do catálogo de 1696 onde as notícias registam a data de entrada.",
+ "validacao": "CONFIRMADA. No catálogo de 1693, a lista dos noviços da **Domus Probationis** regista «Fr. **Franciscus Cardozo**, ex oppido Porto de Mós, Leiriensis, natus Mensse Octobris an. 673, ingressus Societ. **22 Decembris an. 692**, viribus bonis, audiebat Logicam» (Lus. 46, f. 272v, n.º 420). Três coincidências com o verbete do Dehergne: o nome (Franciscus — o próprio assina «Franciscus (sans João) Cardozo», como o Dehergne nota), a naturalidade (Porto de Mós, diocese de Leiria) e a data de entrada (22 de Dezembro de 1692). A confiança sobe, por isso, a **alta** (noviço nomeado na casa de noviciado). Regista-se a divergência da idade: o catálogo de 1693 dá nascimento em Outubro de 1673, Dehergne 13 de Junho de 1677. A cota do Dehergne («Lus. 46, 326») é o catálogo de **1696**, onde ele aparece no bloco de Coimbra, n.º 162, com o mesmo «ingressus 22 Decembris 692» — residência posterior, não noviciado.",
+ "resumo": "João Francisco Cardoso fez o noviciado na **Casa de Provação de Lisboa**: no catálogo da província de 1693, a lista dos noviços da «Domus Probationis» regista «Fr. **Franciscus Cardozo**, ex oppido Porto de Mós, Leiriensis, ingressus Societ. 22 Decembris an. 692» (n.º 420), com a naturalidade e a data exacta do verbete do Dehergne. Que o noviço «Franciscus» seja o «João Francisco» de Dehergne explica-o o próprio Dehergne: em 1716 ele assina «**Franciscus (sans João) Cardozo**». Lugar de entrada: **Lisboa (Casa de Provação), confiança alta**. A cota «Lus. 46, 326» que Dehergne cita é o catálogo de **1696**, que o coloca no Colégio de Coimbra (n.º 162) — residência posterior.",
+ "biografia": "João Francisco Cardoso (nos catálogos: «Fr. Franciscus Cardozo»), natural de Porto de Mós, diocese de Leiria, entrou na Companhia a **22 de Dezembro de 1692** e foi noviço da Casa de Provação de Lisboa (catálogo de 1693, Lus. 46, f. 272v, n.º 420). Em 1696 estava no Colégio de Coimbra (catálogo de 1696, f. 326, n.º 162 — a cota que Dehergne cita). Foi missionário na China: o seu nome chinês era Mei Ta-Tch'eng (Eul-Tchang); embarcou para o Malabar em 1708 (W 1511), partiu de Lisboa em Março de 1710 e chegou a Macau em Outubro; em Julho de 1711 estava em Pequim e levantou os mapas do Shantung, Shansi-Shensi, Kiangsi, Kwangtung e Kwangsi. Professou os 4 votos em Pequim a 25 de Fevereiro de 1716, assinando «Franciscus (sem João) Cardozo» (Lus. 13, 410). Morreu em Pequim a 14 de Agosto de 1723. O catálogo de 1693 dá-lhe nascimento em Outubro de 1673; Dehergne, 13 de Junho de 1677 (cf. JS 179, 256).",
  "analise": [
   {
    "titulo": "O assento: noviço da Casa de Provação de Lisboa (catálogo de 1693)",
-   "texto": "No catálogo da província de 1693, a lista dos noviços da «**Domus Probationis**» (Lisboa) — que, como nos outros catálogos deste volume, regista para cada noviço a naturalidade, a idade, a data de entrada e os estudos — tem, no n.º 420:\n\n> «Fr. Franciscus Cardozo, ex oppido [Porto de Mós?] … Dioc. [Segobiensis?], natus Octobri an. 673. Ingressus Societ. 22 Decembris an. 1692. Audiebat Logicam.»\n\n— ARSI, *Lus. 46*, catálogo de 1693, lista de noviços da Domus Probationis, n.º 420 — imagem `LUS. 46/272v.jpg`, leitura directa do manuscrito.\n\nA data de entrada — **22 de Dezembro de 1692** — é exactamente a que Dehergne dá («E. 22 décembre 1692»), e o apelido é o mesmo. O nome próprio no catálogo é «Franciscus»; Dehergne chama-lhe «João Francisco Cardoso», pelo que a identificação é provável mas não absolutamente certa (os cartórios jesuítas usam frequentemente um dos nomes próprios)."
+   "texto": "O catálogo da província de 1693 (Lus. 46, ff. 249v-...), na sequência «Domus Probationis Ulyssiponensis», lista os noviços com naturalidade, idade e data de entrada. No f. 272v, n.º 420:\n\n> «Fr. **Franciscus Cardozo**, ex oppido **Porto de Mós**, Leiriensis, natus Mensse Octobris an. 673, **ingressus Societ. 22 Decembris an. 692**, viribus bonis, audiebat Logicam.»\n\n— ARSI, *Lus. 46*, catálogo de 1693, f. 272v (imagem `LUS. 46/272v.jpg`).\n\nNome, naturalidade e data de entrada coincidem com o verbete do Dehergne; e o prenome «Franciscus» é o que o próprio usava (Dehergne: «il signe Franciscus (sans Joâo) Cardozo», Lus. 13, 410). A reserva anterior cai: não há homónimo em causa."
   },
   {
-   "titulo": "A cote de Dehergne (Lus. 46, 326) e o que ela dá",
-   "texto": "> «Cardozo, João Francisco (port.) P. 141 … N. 1668 -E. 22 déc. 1692 (Lus. 46, 326)…»\n\n— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 141 — texto na base Timelink · `python3 tools/packet.py deh-joao-francisco-cardoso`\n\nO fólio 326 pertence ao catálogo de **1696**, cujas notícias dão a data de entrada de cada pessoa — foi daí que Dehergne tirou o dia. É uma lista de casa (residência), e não de noviciado: o lugar de entrada só se apura pela lista de noviços de 1693."
+   "titulo": "2. A cota «Lus. 46, 326» do Dehergne: o catálogo de 1696, em Coimbra",
+   "texto": "Dehergne cita «Lus. 46, 326» para a entrada. Esse fólio carimbado (imagem `LUS. 46/321.jpg`) pertence ao catálogo de **1696**, no bloco do **Colégio de Coimbra**: aí, n.º 162, está «Fr. Franciscus Cardozo … ingressus 22 Decembris 692 … Philosophiae 1 ann.» — a mesma data, já como estudante (não noviço). É residência posterior; a casa de entrada é a que o catálogo de 1693 dá: a Domus Probationis de Lisboa.\n\nRegisto a divergência de idade: o catálogo de 1693 dá nascimento em Outubro de 1673; Dehergne, 13 de Junho de 1677 (JS 179, 256)."
   }
  ],
  "evidencias": [
@@ -36,6 +36,12 @@
    "comando": "python3 tools/packet.py deh-joao-francisco-cardoso",
    "o_que_prova": "estado da questão: «N. 1668 — E. 22 déc. 1692 (Lus. 46, 326)», lugar em branco; nome chinês Mei Ta-Tch'eng",
    "forca": "contextual"
+  },
+  {
+   "citacao": "ARSI, *Lus. 46*, catálogo de 1696, f. 326 carimbado (imagem `LUS. 46/321.jpg`), bloco do Colégio de Coimbra, n.º 162: «Fr. Franciscus Cardozo … ingressus 22 Decembris an. 692 … Philosophiae 1 ann.»",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/321.jpg\"",
+   "o_que_prova": "confirma a cota do Dehergne (1696) e a data de entrada; mostra a residência em Coimbra em 1696",
+   "forca": "direta"
   }
  ],
  "nao_encontrado": "Fica uma reserva de identificação: o noviço n.º 420 chama-se «Fr. Franciscus Cardozo», e não «João Francisco»; a data de entrada (22 Dez. 1692) e o apelido coincidem com o verbete de Dehergne, mas não se pode excluir que sejam dois irmãos/homónimos. Também não se confirmou a naturalidade indicada no assento (a palavra está abreviada e de leitura difícil). Fora isso, o lugar está estabelecido pela própria lista de noviços. Registou-se ainda que a cote de Dehergne (Lus. 46, 326) é do catálogo de 1696 e dá a data, não a casa.",

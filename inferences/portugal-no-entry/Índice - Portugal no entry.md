@@ -12,7 +12,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **45** · **média**: **38** · **baixa**: **15** · **não determinado**: **12**
+- lugar proposto com confiança **alta**: **46** · **média**: **37** · **baixa**: **15** · **não determinado**: **12**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
@@ -76,6 +76,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-gil-de-abreu]] | Gil de Abreu | 3 | Évora | **Évora (Real Colégio do Espírito Santo — noviciado)** | 1611-07-13 | alta |
 | [[deh-jeronimo-rodrigues-junior]] | Jerónimo Rodrigues, júnior | 704 | noviço em Évora em 1593 | **Évora (noviciado do Colégio de Évora)** | 1592 (c. Setembro de 1592; o catálogo de Abril de 1593 dá-lhe «7 meses» de Companhia) | alta |
 | [[deh-joao-ferreira]] | João Ferreira | 304 | Coimbra em 1614 noviço | **Coimbra (Colégio de Jesus — noviciado)** | 1614 (Dehergne); o catálogo de Janeiro de 1614 atribui-lhe 19 meses de Companhia, o que aponta para entrada em meados de 1612 | alta |
+| [[deh-joao-francisco-cardoso]] | João Francisco Cardoso | 141 | — | **Lisboa (Casa de Provação / Domus Probationis)** | 22 de Dezembro de 1692 (noviço da Domus Probationis, catálogo de 1693, n.º 420) | alta |
 | [[deh-joao-lopes]] | João Lopes | 490 | — | **Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)** | 1688-03-16 | alta |
 | [[deh-joao-de-lemos]] | João de Lemos | 463 | — | **Coimbra (Noviciado de Coimbra)** | 1726-06-02 | alta |
 | [[deh-joao-de-loureiro]] | João de Loureiro | 496 | — | **Lisboa (Noviciado de Lisboa)** | 1732-05-03 | alta |
@@ -115,7 +116,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-joao-cardoso]] | João Cardoso | 140 | Não é referido por Dehergne nos catálogos, apenas na lista das profissões de voto, mas está em LUS-44-II-584v | **Coimbra** | 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39) | média |
 | [[deh-joao-couceiro]] | João Couceiro | 220 | — | **Coimbra (inferido)** | 1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111) | média |
 | [[deh-joao-duarte]] | João Duarte | 266 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
-| [[deh-joao-francisco-cardoso]] | João Francisco Cardoso | 141 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 22 de Dezembro de 1692 (Dehergne; confirmado pela data de entrada do noviço «Fr. Franciscus Cardozo», n.º 420 da lista de noviços de 1693) | média |
 | [[deh-joao-nunes]] | João Nunes | 590 | talvez Coimbra incerto | **— não determinado —** | hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636) | média |
 | [[deh-joao-da-veiga]] | João da Veiga | 876 | Goa? | **Évora (Real Colégio do Espírito Santo — noviciado)** | 1614-11-25 | média |
 | [[deh-joao-de-barros]] | João de Barros | 83 | — | **Lisboa (Noviciado de Lisboa)** | 1724-04-02 | média |
