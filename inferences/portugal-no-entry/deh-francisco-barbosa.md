@@ -6,7 +6,7 @@ dehergne_no: 72
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação / Domus Probationis)
 entry_date: 1686-01-21 (lido no catálogo de 1693)
-confidence: alta
+confidence: média
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,9 +14,9 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Francisco Barbosa (`deh-francisco-barbosa`)
 
-**Lugar de entrada: Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (confiança: **alta**).
+**Lugar de entrada: Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (confiança: **média**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — CONFIRMADA. O noviço é nomeado na **Domus Probationis de Lisboa**: no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado; imagem `LUS. 39/142.jpg`), na secção «Domus Probationis Ulyssiponensis», está «Fr. **Felix Barbosa**» — o mesmo nome do assento do catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132), que dá a data exacta («ingressus Societ. 21. Januarii an. 686»). Com a nomeação na casa de noviciado, a prova é directa (confiança alta); a única reserva é o prenome: os catálogos dizem **Félix**, Dehergne diz **François** (Francisco). Nota sobre a cota do Dehergne: ele cita «Lus. 46, **225v**» — é gralha por **255v** (n.º 132), onde está o assento. Registe-se também que em 1693 (mesmo fólio, bloco do **Colégio de Coimbra**) ele era aluno do 4.º ano de Filosofia — residência posterior, não noviciado.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Prova directa do **lugar** (noviço nomeado na Domus Probationis de Lisboa, Nov. 1686), mas **identificação a rever**: o índice alfabético do catálogo de 1696 (Lus. 46, f. 315 carimbado; imagem 311) regista «**Felix Barboza** — p. 24, n.º 288», ou seja, um Felix Barbosa continua na província em 1696 — depois do embarque de 1694 que Dehergne atribui a Francisco Barbosa (W 1329). Ou o homem não embarcou em 1694 (ou voltou), ou o «Felix» de 1696 é homónimo, ou o embarque de Dehergne é de outro Barbosa. Enquanto não se ler o assento de 1696 (n.º 288), a confiança fica em **média**. Restam também o prenome (Félix nos catálogos, François em Dehergne) e a residência em Coimbra em 1693.
 
 Francisco Barbosa (nos catálogos: «Fr. **Felix** Barbosa»), natural de Santarém (Scalabis), entrou na Companhia a **21 de Janeiro de 1686** — data que o catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132) inscreve — e é **nomeado noviço na Domus Probationis de Lisboa** no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado: «Fr. Felix Barbosa»). Nessa data o noviciado era único na província (unificação de Junho de 1685), pelo que o lugar de entrada é **Lisboa (Casa de Provação), confiança alta**. Em 1693 era aluno do 4.º ano de Filosofia no **Colégio de Coimbra** (mesmo assento) — residência posterior, que não altera o noviciado.
 
@@ -37,7 +37,7 @@ Francisco Barbosa (nos catálogos: «Fr. **Felix** Barbosa»), natural de Santar
 | Dehergne, entrada (`E.`) | 21 janv |
 | Base Timelink (actual) | `?` / 16860121 |
 | Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
-| **Proposta desta nota** | **Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (alta) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (média) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -89,6 +89,12 @@ Barbosa entrou a 21 de Janeiro de 1686, sete meses depois: não havia já novici
 ### 4.3 3. O nome na lista de noviços de 1686 — lido
 
 O catálogo breve de Nov. 1686 (Lus. 39, ff. 140-143v = carimbados 142-145v) tem, no f. 144 carimbado (imagem `LUS. 39/142.jpg`), a secção da **Domus Probationis Ulyssiponensis**: primeiro os padres da casa («P. Joannes de Affonseca, Rector et M. Novitiorum», «P. Antonius …, Minister», «P. Vincentius Ferreyra, Socius Magistri Novitiorum», os conselheiros…), depois alguns irmãos e, por fim, o cabeçalho «**Novitii**» com a lista dos noviços escolares (que continua no f. 144v). Na lista está «**Fr. Felix Barbosa**» — o investigador localizou-o aí em 2026-11-08. Com o nome do noviço na casa de noviciado, a prova passou de institucional a **directa**: confiança alta. A única reserva subsiste no prenome (Félix nos catálogos, François em Dehergne).
+
+**Dúvida nova (2026-11-08)**: o índice do catálogo de **1696** (Lus. 46, f. 315 carimbado, imagem 311) regista «Felix Barboza — p. 24, n.º 288». Se for o mesmo homem do assento de 1693 (ingressus 21 Jan. 1686), então **não embarcou em 1694** (ou voltou) — o que contraria a notícia do Dehergne (W 1329). Se for outro, há dois Felix Barbosa na província. Falta ler o assento de 1696.
+
+### 4.4 4. O «Felix Barboza» de 1696 — a verificação que falta
+
+O catálogo de 1696 (Lus. 46, ff. 314-343v; fólios carimbados 319-349) tem índice alfabético nos ff. 313-317 carimbados. No f. 315 (imagem `LUS. 46/311.jpg`) lê-se «**Felix Barboza** — 24, 288» (página 24, n.º 288). Isto significa que um Felix Barbosa está na província em 1696, depois do embarque de 1694 que Dehergne dá a Francisco Barbosa (W 1329) e depois da residência em Coimbra em 1693. Para fechar o caso é preciso ler o assento n.º 288 do catálogo de 1696: se der «ingressus Societ. 21 Jan. 1686», é o mesmo homem e a data de embarque do Dehergne (ou a atribuição do W 1329) tem de ser revista; se der outra data, é homónimo e a identificação Félix = Francisco cai, com o lugar a voltar a não determinado.
 
 ### O que não foi encontrado
 
