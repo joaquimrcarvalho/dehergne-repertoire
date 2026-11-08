@@ -2,16 +2,16 @@
  "id": "deh-felix-jose-pereira",
  "name": "Félix-José Pereira",
  "lugar": "Lisboa (Casa de Provação / Monte Olivete)",
- "data": "14 de Janeiro de 1690 (Dehergne; confirmada pela data de entrada do noviço «Fr. Josephus Pereira», n.º 402 da lista de noviços do catálogo de 1690)",
+ "data": "14 de Janeiro de 1690 (Dehergne; confirmada pela data de entrada do noviço «Fr. Josephus Pereira», n.º 412, f. 208, da lista de noviços do catálogo de 1690)",
  "confianca": "alta",
  "sugestao_tabela": "nenhuma («?» na coluna jesuita-entrada)",
- "validacao": "Confirmada por prova directa: no catálogo da província de 1690, a lista dos noviços da **Domus Probationis de Lisboa** regista «Fr. Josephus Pereira … initi Societ. **14 Januarii an. 1690**» (n.º 402) — a data exacta que Dehergne dá. O apelido e a data coincidem, e o assento está na única casa de noviciado que o catálogo de 1690 lista em Lisboa. O lugar de entrada é, portanto, a Casa de Provação de Lisboa.",
- "resumo": "Félix-José Pereira fez o noviciado na **Casa de Provação de Lisboa (Domus Probationis Ulyssiponensis)**: no catálogo da província de 1690, a lista dos noviços regista «Fr. Josephus Pereira … initi Societ. 14 Januarii an. 1690» (n.º 402), com a data exacta do verbete do Dehergne. A identificação é segura (nome + data de entrada exacta) e a casa é a de noviciado — logo, o lugar de entrada é Lisboa.",
- "biografia": "Félix-José Pereira (Pereyra) entrou na Companhia a 14 de Janeiro de 1690 e fez o noviciado na Casa de Provação de Lisboa (Lus. 46, catálogo de 1690, lista de noviços da Domus Probationis, n.º 402). Foi procurador do Japão (segundo a base Timelink) e missionário na China; Dehergne cita «Lus. 46, 269v» para a entrada — fólio do catálogo de 1693, cujas notícias dão a data de entrada de cada pessoa.",
+ "validacao": "Confirmada por prova directa: no catálogo da província de 1690, a lista dos noviços da **Domus Probationis de Lisboa** regista «Fr. Josephus Pereira … initi Societ. **14 Januarii an. 1690**» (f. 208, n.º 412) — a data exacta que Dehergne dá. O apelido e a data coincidem, e o assento está na única casa de noviciado que o catálogo de 1690 lista em Lisboa. O lugar de entrada é, portanto, a Casa de Provação de Lisboa.",
+ "resumo": "Félix-José Pereira fez o noviciado na **Casa de Provação de Lisboa (Domus Probationis Ulyssiponensis)**: no catálogo da província de 1690, a lista dos noviços regista «Fr. Josephus Pereira … initi Societ. 14 Januarii an. 1690» (f. 208, n.º 412), com a data exacta do verbete do Dehergne. A identificação é segura (nome + data de entrada exacta) e a casa é a de noviciado — logo, o lugar de entrada é Lisboa.",
+ "biografia": "Félix-José Pereira (Pereyra) entrou na Companhia a 14 de Janeiro de 1690 e fez o noviciado na Casa de Provação de Lisboa (Lus. 46, catálogo de 1690, lista de noviços da Domus Probationis, f. 208, n.º 412). Foi procurador do Japão (segundo a base Timelink) e missionário na China; Dehergne cita «Lus. 46, 269v» para a entrada — fólio do catálogo de 1693, cujas notícias dão a data de entrada de cada pessoa.",
  "analise": [
   {
    "titulo": "O assento: noviço da Casa de Provação de Lisboa (catálogo de 1690)",
-   "texto": "No catálogo da província de 1690 (Lus. 46, ff. 192-218v), depois do cabeçalho «**Domus Probationis**» (f. 206), vem a lista dos noviços, com naturalidade, idade, data de entrada e estudos. Aí, no n.º 402:\n\n> «Fr. Josephus Pereira, ex [Sarnes?] … Dioc. [Sancti Jacobi?], 16 an. … initi Societ. **14 Januarii an. 1690**. Audiebat Rhetoricam.»\n\n— ARSI, *Lus. 46*, catálogo de 1690, lista de noviços da Domus Probationis, n.º 402 — imagem `LUS. 46/207.jpg`, leitura directa do manuscrito.\n\nA data de entrada é exactamente a que Dehergne dá («E. 14 janvier 1690»). O assento está na casa de noviciado de Lisboa, pelo que esta é a casa de entrada — não uma residência posterior."
+   "texto": "No catálogo da província de 1690 (Lus. 46, ff. 192-218v), depois do cabeçalho «**Domus Probationis**» (f. 206), vem a lista dos noviços, com naturalidade, idade, data de entrada e estudos. Aí, no n.º 412:\n\n> «Fr. Josephus Pereira, ex [Sarnes?] … Dioc. [Sancti Jacobi?], 16 an. … initi Societ. **14 Januarii an. 1690**. Audiebat Rhetoricam.»\n\n— ARSI, *Lus. 46*, catálogo de 1690, lista de noviços da Domus Probationis, n.º 412, f. 208 — imagem `LUS. 46/207.jpg`, leitura directa do manuscrito.\n\nA data de entrada é exactamente a que Dehergne dá («E. 14 janvier 1690»). O assento está na casa de noviciado de Lisboa, pelo que esta é a casa de entrada — não uma residência posterior."
   },
   {
    "titulo": "A cote de Dehergne (Lus. 46, 269v) e porque não bastava",
@@ -20,7 +20,7 @@
  ],
  "evidencias": [
   {
-   "citacao": "ARSI, *Lus. 46*, catálogo de 1690, «Domus Probationis» (Lisboa), lista de noviços, n.º 402: «Fr. Josephus Pereira… initi Societ. 14 Januarii an. 1690. Audiebat Rhetoricam» — manuscrito lido em imagem",
+   "citacao": "ARSI, *Lus. 46*, catálogo de 1690, «Domus Probationis» (Lisboa), lista de noviços, f. 208, n.º 412: «Fr. Josephus Pereira… initi Societ. 14 Januarii an. 1690. Audiebat Rhetoricam» — manuscrito lido em imagem",
    "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/207.jpg\"",
    "o_que_prova": "era noviço da Casa de Provação de Lisboa em 1690, entrado a 14 de Janeiro de 1690 ⇒ lugar de entrada Lisboa (Casa de Provação)",
    "forca": "direta"

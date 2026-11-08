@@ -1,6 +1,6 @@
 ---
 title: Índice - Portugal no entry
-created: 2026-11-07
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china, indice]
 source: "[[0 Portugal no entry]]"
 ---
@@ -71,7 +71,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-francisco-moreira]] | Francisco Moreira | 569 | — | **Coimbra (noviciado do Colégio de Coimbra)** | 1704-01-01 | alta |
 | [[deh-francisco-de-lima]] | Francisco de Lima | 472 | — | **Coimbra (noviciado do Colégio de Coimbra)** | 1704-12-26 | alta |
 | [[deh-felix-da-rocha]] | Félix da Rocha | 692 | — | **Lisboa (Noviciado de Lisboa)** | 1728-05-01 | alta |
-| [[deh-felix-jose-pereira]] | Félix-José Pereira | 617 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 14 de Janeiro de 1690 (Dehergne; confirmada pela data de entrada do noviço «Fr. Josephus Pereira», n.º 402 da lista de noviços do catálogo de 1690) | alta |
+| [[deh-felix-jose-pereira]] | Félix-José Pereira | 617 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 14 de Janeiro de 1690 (Dehergne; confirmada pela data de entrada do noviço «Fr. Josephus Pereira», n.º 412, f. 208, da lista de noviços do catálogo de 1690) | alta |
 | [[deh-gil-de-abreu]] | Gil de Abreu | 3 | Évora | **Évora (Real Colégio do Espírito Santo — noviciado)** | 1611-07-13 | alta |
 | [[deh-jeronimo-rodrigues-junior]] | Jerónimo Rodrigues, júnior | 704 | noviço em Évora em 1593 | **Évora (noviciado do Colégio de Évora)** | 1592 (c. Setembro de 1592; o catálogo de Abril de 1593 dá-lhe «7 meses» de Companhia) | alta |
 | [[deh-joao-ferreira]] | João Ferreira | 304 | Coimbra em 1614 noviço | **Coimbra (Colégio de Jesus — noviciado)** | 1614 (Dehergne); o catálogo de Janeiro de 1614 atribui-lhe 19 meses de Companhia, o que aponta para entrada em meados de 1612 | alta |
