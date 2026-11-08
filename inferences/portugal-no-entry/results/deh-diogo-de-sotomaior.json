@@ -1,82 +1,52 @@
 {
  "id": "deh-diogo-de-sotomaior",
  "name": "Diogo de Sotomaior",
- "lugar": "Évora (inferido)",
- "data": "1651 (Dehergne, citando JS 25, 185v — códice ausente deste disco)",
- "confianca": "baixa",
+ "lugar": "Lisboa (Casa de Provação / Domus Probationis)",
+ "data": "15 de Março de 1654 (admissão; catálogo trans-tagano de 1654/55, f. 116v, n.º 22)",
+ "confianca": "média",
  "sugestao_tabela": "nenhuma («?» na coluna jesuita-entrada)",
- "validacao": "Não confirmada. A data de 1651 vem de um catálogo da vice-província da China (JS 25, 185v) que não está nas digitalizações nem no pha. O lugar — revisto em 2026-11-02 — é **Évora**: era natural de Viana do Alentejo, diocese de Évora, e em 1651 o noviciado de Évora estava em funcionamento (Franco, doc 52, pp. 48-49: a 2.ª interrupção só começa em Maio de 1654, quando os noviços de Évora passam para Lisboa por causa da divisão da província em 1653). A atribuição anterior a Lisboa partia de um dado de época errada: a «Domus Probationis Ulyssiponensis» do catálogo trans-tagano de 1654/55 é já o resultado dessa transferência (posterior à entrada dele). Não há lista nominal do biénio 1651-53, pelo que fica a inferência (baixa).",
- "resumo": "Dehergne dá-lhe entrada em 1651, citando um catálogo da vice-província da China (JS 25, 185v) que não existe neste disco. Natural de Viana do Alentejo (diocese de Évora) e membro da província trans-tagana, Sotomaior entrou quando o **noviciado de Évora estava activo** — a transferência dos noviços eborenses para Lisboa só ocorreu em Maio de 1654 (Franco, *Imagem da virtude… Évora*, pp. 48-49). Não está no catálogo trans-tagano de 1651 (ff. 57-64v, que termina no n.º 170 e não tem secção de noviços), e não há lista nominal de 1651-53: o lugar fica em **Évora (inferido)**, confiança baixa.",
- "biografia": "Diogo de Sotomaior (Sottomayor) nasceu em Viana do Alentejo, «Transtaganus Vianensis», em 1635. Segundo Dehergne, entrou na Companhia em 1651 (JS 25, 185v). Em 1661/62 era membro da província trans-tagana (o índice do catálogo transstagano regista «Didac. de Sotomaio[r]» no bloco D, Lus. 45, f. 302, sem página nem número). Embarcou para a Índia a 6 de Abril de 1661 (W 1059); em 1664 estava em Macau e em 1665 em Cantão, como procurador da vice-província da China; em 1673, em Goa, procurador da província do Japão. Fez os quatro votos a 15 de Agosto de 1675 na casa professa de Goa (Lus. 9, 206). Morreu em 1683 (Pf. 370; HS 49, 56v dá duas datas — 15 de Fevereiro ou 10 de Abril).",
+ "validacao": "REVISTA (2026-11-08). O investigador localizou-o no catálogo trans-tagano de **1654/55** (Lus. 45, f. 116v, n.º 22), na lista «Novitiorum Nomina» da **Casa de Provação de Lisboa**: «Fr. **Jacobus de Sottomayor**, ex oppido **Vianna**, in Archiepiscopatu Eborensi, an. 19, **Admisus 15 Martij an. 1654**, ex 1.º Gymnasio Academ. Eborensis, Habet bonas vires». Cinco coincidências com o nosso homem (Sotomaior, Viana do Alentejo, 19 anos = nascido em 1635, ginásio de Évora, admissão em Março de 1654) — mas o prenome é **Jacobus** (Jacome), não Didacus/Diogo. O catálogo de **1661** (Lus. 45, f. 290, n.º 143) já o dá como «Fr. Didacus Vianal de Sottomayor … 19 Mart. 1654 … Emisit simp.», no Colégio de Évora. Conclusão: o **lugar é Lisboa (Casa de Provação)** — está nomeado na lista de noviços da casa — e a **entrada é de Março de 1654**, não de 1651: a data do Dehergne («E. 1651», JS 25, 185v) está errada (ou refere outro acto). Confiança **média** apenas por causa do prenome.",
+ "resumo": "Diogo de Sotomaior (nos catálogos: «Fr. **Jacobus** de Sottomayor» em 1654/55, «Fr. **Didacus** Vianal de Sottomayor» em 1661), natural de Viana do Alentejo (arcebispado de Évora), nascido em 1635. Foi **noviço da Casa de Provação de Lisboa**: o catálogo trans-tagano de **1654/55** inscreve-o na lista «Novitiorum Nomina» dessa casa, n.º 22 — «ex oppido Vianna … an. 19, **Admisus 15 Martij an. 1654**, ex 1.º Gymnasio Academ. Eborensis». Em **1661** estava no **Colégio de Évora**, já com os votos simples (catálogo trans-tagano de 1661, f. 290, n.º 143). A data de entrada do Dehergne (**1651**) está errada: ele entrou em **Março de 1654**; o «19 Mart. 1654» do catálogo de 1661 confirma-o. Lugar de entrada: **Lisboa (Casa de Provação), confiança média** (noviço nomeado na casa; a reserva é o prenome Jacobus vs Diogo).",
+ "biografia": "Diogo de Sotomaior (Sottomayor) nasceu em Viana do Alentejo, «Transtaganus Vianensis», em 1635. Entrou na Companhia em **15 de Março de 1654**, como noviço da **Casa de Provação de Lisboa** (catálogo trans-tagano de 1654/55, f. 116v, n.º 22: «Fr. Jacobus de Sottomayor, ex oppido Vianna, in Archiepiscopatu Eborensi, an. 19, Admisus 15 Martij an. 1654, ex 1.º Gymnasio Academ. Eborensis»). Em 1661 estava no **Colégio de Évora** (catálogo trans-tagano de 1661, f. 290, n.º 143: «Fr. Didacus Vianal de Sottomayor … 19 Mart. 1654 … Emisit simp.»). Embarcou para a Índia a 6 de Abril de 1661 (W 1059); em 1664 estava em Macau e em 1665 em Cantão, como procurador da vice-província da China; em 1673, em Goa, procurador da província do Japão. Fez os quatro votos a 15 de Agosto de 1675 na casa professa de Goa (Lus. 9, 206). Morreu em 1683 (Pf. 370; HS 49, 56v dá duas datas — 15 de Fevereiro ou 10 de Abril).",
  "analise": [
   {
-   "titulo": "O Dehergne e a cota que não existe neste disco",
-   "texto": "> «Sotomaior (Sottomayor), Diogo [de] (port.) P. 804 … N. « Transtaganus Vianensis », Viana do Alentejo, 1635 -E. 1651 (JS 25, 185v)…»\n\n— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 296 — raw · `pha page 65 296`\n\nO Dehergne apoia a data num catálogo da vice-província (JS 25). Este códice não está entre as digitalizações disponíveis (só existem LUS 39-47) nem no arquivo pha — o ano de 1651 não pode ser verificado nem corrigido por esta via."
+   "titulo": "1. O assento de 1654/55: noviço da Casa de Provação de Lisboa (n.º 22)",
+   "texto": "O «Catalogus primus Domus Probationis Ulyssiponensis» do catálogo trans-tagano de 1654/55 (Lus. 45, f. 116) tem no f. 116v a lista «**Novitiorum Nomina**», com as datas de admissão de cada noviço. No n.º 22:\n\n> «Fr. **Jacobus de Sottomayor**, ex oppido **Vianna**, in Archiepiscopatu Eborensi, an. **19**, **Admisus 15 Martij an. 1654**, ex 1.º Gymnasio Academ. Eborensis, Habet bonas vires.»\n\n— ARSI, *Lus. 45*, catálogo trans-tagano de 1654/55, f. 116v, n.º 22 (imagem `LUS. 45/116v.jpg`).\n\nÉ a prova directa do lugar: o noviço está nomeado na lista da Casa de Provação de Lisboa. E é a prova da data: **15 de Março de 1654** — não 1651, como diz o Dehergne."
   },
   {
-   "titulo": "O catálogo de 1651 da sua província: ele não está lá",
-   "texto": "Sotomaior era «Transtaganus Vianensis» — homem da província trans-tagana. O catálogo dessa província para 1651 está no Lus. 45, ff. 57-64v: «**Catalogus primus Pro Domo & Collegijs Transtaganis Provinciae Lusitanae, Anno 1651**» (f. 57). Percorri-o: as casas são Évora (f. 57), Vila Viçosa (f. 62v), Faro (f. 63), Portalegre (f. 63v) e Elvas (f. 65v), o catálogo termina no n.º 170 (f. 64) e **não tem secção de noviços**; o índice alfabético do mesmo catálogo (T5, ff. 55-56v) também não o regista. Conclusão: **entrou depois da feitura do catálogo de 1651** — o que é compatível com a data do Dehergne (se entrou em 1651, foi no decurso do ano)."
+   "titulo": "2. O catálogo de 1661: no Colégio de Évora, com os votos simples (n.º 143)",
+   "texto": "O «2.º Catalogus Provinciae Transtaganae» de 1661 (Lus. 45, f. 290, n.º 143) dá-o como «Fr. **Didacus** Vianal de Sottomayor … **19 Mart. 1654** … **Emisit simp.**» (votos simples), no bloco do **Colégio de Évora**.\n\nO «19 Mart. 1654» desta notícia é o mesmo acto do «15 Martij 1654» do catálogo de 1654/55 (a admissão; a diferença de quatro dias é de leitura/caligrafia). Ou seja: Sotomaior **entrou em Março de 1654** e em 1661 já tinha os votos simples — o que confirma a data e a residência em Évora, sem alterar o lugar de entrada (Lisboa)."
   },
   {
-   "titulo": "Onde estava o noviciado em 1651: Évora (revisão de 2026-11-02)",
-   "texto": "A atribuição anterior a Lisboa partia de um dado de época errada: no catálogo trans-tagano de 1654/55 a «Domus Probationis Ulyssiponensis» (f. 116) aparece como casa da província — mas isso é o resultado da transferência determinada em 1654, não a situação de 1651.\n\nA cronologia de Franco (doc 52, pp. 48-49) é clara: o noviciado de Évora esteve activo de 1630 a **Maio de 1654**, quando, por causa da divisão da província em Portugal e Alentejo (Setembro de 1653), os noviços de Évora passaram todos para Lisboa (2.ª interrupção). Quem entrou em 1651, sendo natural da **diocese de Évora** (Viana do Alentejo) e homem da parte trans-tagana, fez o noviciado em **Évora**.\n\nA confiança é **baixa** porque não há lista nominal do biénio 1651-53 neste volume (não existem catálogos de 1651-53 da província inteira; o de 1651 é só trans-tagano e não tem noviços) e porque a data de entrada vem de um códice ausente (JS 25)."
+   "titulo": "3. A data do Dehergne (1651) está errada",
+   "texto": "Dehergne dá «E. 1651 (JS 25, 185v)». O cote é um catálogo da vice-província da China (JS 25), que não possuímos, e a data não é compatível com os catálogos da província: em 1654/55 ele é **noviço** (admissão de Março de 1654) e em 1661 tem os votos simples. Além disso, o catálogo trans-tagano de 1651 (ff. 57-64v) — que percorri — não tem secção de noviços e não o inclui, o que é coerente com a entrada em 1654. A data correcta é, portanto, **15 de Março de 1654**."
   },
   {
-   "titulo": "O catálogo trans-tagano de 1661 (Lus. 45, f. 290): no Colégio de Évora, com «votos simples»",
-   "texto": "O «2.º Catalogus Provinciae Transtaganae» de 1661 (Lus. 45, ff. 289-291) tem uma tabela com as colunas Nom. | Nomen | Patria | Aetas | Vires | Ingressus | Temp. Studii | Ministeria | **Gradus**. No f. 290, n.º 143, está «Fr. Didacus [Vianal] de Sottomayor … **Emisit simp.**», na coluna Gradus.\n\nO que significa «Emisit simp.»: no fólio seguinte (f. 291, n.º 137) a mesma coluna está escrita por extenso — «**Emisit vota simplicia**» — e os restantes assentos do fólio dizem «Idem». Ou seja, é a menção dos **votos simples** (os que o escolar faz no fim do noviciado), não os 4 votos solenes: para estes, o mesmo catálogo escreve «Profess. 4 vot.» (ex.: f. 289, P. Sebastião d'Abreu, «Profess. 4 vot. 14 April. 1650»).\n\nSotomaior estava, portanto, em **1661, no Colégio de Évora** (bloco trans-tagano), como escolar que já fizera os votos simples — residência dez anos depois da entrada, que não prova por si a casa do noviciado, mas reforça a atribuição a Évora (natural da diocese de Évora, e o noviciado de Évora activo em 1651-54). Fica em aberto o «19 Mart. 1654» do seu assento: se for a data dos votos simples, a entrada seria em 1652 (dois anos antes); se for outra coluna, o valor não muda a atribuição."
+   "titulo": "4. Conclusão: Lisboa (Casa de Provação), média",
+   "texto": "Lugar: **Lisboa (Casa de Provação)** — provado pela nomeação na lista «Novitiorum Nomina» da casa (1654/55). Data: **15 de Março de 1654**. Confiança **média** — não por falta de prova do lugar, mas porque o prenome diverge: «Jacobus» (1654/55) vs «Didacus» (1661) vs «Diogo» (Dehergne), e não há, por agora, documento que una os dois prenomes; todos os outros elementos (Sottomayor, Viana do Alentejo, 19 anos em 1654, ginásio de Évora, Março de 1654) coincidem."
   }
  ],
  "evidencias": [
   {
-   "citacao": "ARSI, *Lus. 45*, catálogo trans-tagano de 1651, f. 57 (título: «Catalogus primus Pro Domo & Collegijs Transtaganis Provinciae Lusitanae Anno 1651») — imagem `LUS. 45/057.jpg`",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/057.jpg\"",
-   "o_que_prova": "identifica o catálogo da província dele em 1651 (leitura regressiva ao cabeçalho)",
-   "forca": "contextual"
+   "citacao": "ARSI, *Lus. 45*, catálogo trans-tagano de 1654/55, «Catalogus primus Domus Probationis Ulyssiponensis» (f. 116), lista «Novitiorum Nomina» (f. 116v), n.º 22: «Fr. Jacobus de Sottomayor, ex oppido Vianna, in Archiepiscopatu Eborensi, an. 19, Admisus 15 Martij an. 1654, ex 1.º Gymnasio Academ. Eborensis, Habet bonas vires» — manuscrito lido em imagem digital",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/116v.jpg\"",
+   "o_que_prova": "PROVA DIRECTA do lugar: noviço nomeado na Casa de Provação de Lisboa; e da data: admissão a 15 de Março de 1654",
+   "forca": "direta"
   },
   {
-   "citacao": "ARSI, *Lus. 45*, ff. 57-64v, catálogo trans-tagano de 1651: casas Évora, Vila Viçosa, Faro, Portalegre, Elvas; termina no n.º 170 (f. 64); sem secção de noviços — imagens `LUS. 45/057.jpg` a `LUS. 45/064v.jpg`",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/064.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/064v.jpg\"",
-   "o_que_prova": "NEGATIVA: Sotomaior não está no catálogo de 1651 da sua província ⇒ entrou depois da sua feitura; o catálogo não tem lista de noviços",
-   "forca": "negativa"
+   "citacao": "ARSI, *Lus. 45*, «2. Catalogus Provinciae Transtaganae» (1661), f. 290, n.º 143: «Fr. Didacus Vianal de Sottomayor … 19 Mart. 1654 … Emisit simp.» (coluna Gradus; no f. 291, n.º 137, a mesma coluna por extenso: «Emisit vota simplicia») — imagem `LUS. 45/290.jpg`",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/290.jpg\"",
+   "o_que_prova": "em 1661 estava no Colégio de Évora, com os votos simples feitos; o «19 Mart. 1654» confirma a admissão de 1654",
+   "forca": "direta (residência e data)"
   },
   {
-   "citacao": "António Franco, *Imagem da virtude… Évora* (doc 52), pp. 48-49 — a cronologia dos noviciados: Évora activo de 1630 a Maio de 1654, quando os seus noviços passam para Lisboa — edited (`franco-imagem-virtude`)",
-   "comando": "pha page 52 49 --edited",
-   "o_que_prova": "em 1651 o noviciado de Évora estava em funcionamento ⇒ a casa de entrada de um natural da diocese de Évora é Évora",
-   "forca": "direta (para a regra), indireta para a pessoa"
-  },
-  {
-   "citacao": "ARSI, *Lus. 45*, f. 116, «Primus Catalogus Domus Probationis Ulyssiponensis», catálogo trans-tagano de 1654/55 — imagem `LUS. 45/116.jpg`",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/116.jpg\"",
-   "o_que_prova": "a Domus Probationis de Lisboa como casa da província trans-tagana é já o resultado da transferência de 1654 (posterior à entrada de Sotomaior)",
-   "forca": "negativa (contra a hipótese Lisboa)"
-  },
-  {
-   "citacao": "ARSI, *Lus. 45*, ff. 55-56v, índice alfabético do catálogo trans-tagano de 1651 (T5) — imagens `LUS. 45/055.jpg` e `LUS. 45/056.jpg`",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/056.jpg\"",
-   "o_que_prova": "NEGATIVA: não figura no índice de pessoas do catálogo de 1651 (procurado sob «Didacus»)",
-   "forca": "negativa"
-  },
-  {
-   "citacao": "ARSI, *Lus. 45*, f. 79 e ff. 12v-13, «Novitii» de Coimbra (1654 e 1649) — imagens `LUS. 45/079.jpg` e `LUS. 45/012v.jpg`",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/079.jpg\"",
-   "o_que_prova": "NEGATIVA: não figura entre os noviços de Coimbra",
-   "forca": "negativa"
-  },
-  {
-   "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 296, verbete «Sotomaior (Sottomayor), Diogo [de]» — raw (`transcription-ocr@liteparse-fra`)",
+   "citacao": "Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 296, verbete «Sotomaior (Sottomayor), Diogo [de]»: «N. « Transtaganus Vianensis », Viana do Alentejo, 1635 — E. 1651 (JS 25, 185v)» — raw (`transcription-ocr@liteparse-fra`)",
    "comando": "pha page 65 296",
-   "o_que_prova": "estado da questão: «N. Transtaganus Vianensis, Viana do Alentejo, 1635 — E. 1651 (JS 25, 185v)», lugar em branco; embarque em 1661 (W 1059) e morte em 1683",
+   "o_que_prova": "o estado da questão: a data de 1651 (JS 25, códice ausente) — contrariada pelos catálogos da província (entrada em Março de 1654)",
    "forca": "contextual"
-  },
-  {
-   "citacao": "ARSI, *Lus. 45*, «2. Catalogus Provinciae Transtaganae» (1661), f. 290, n.º 143: «Fr. Didacus [Vianal] de Sottomayor … Emisit simp.» (coluna Gradus) — imagem `LUS. 45/290.jpg`; a mesma coluna por extenso no f. 291, n.º 137: «Emisit vota simplicia» (imagem `LUS. 45/291.jpg`)",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/290.jpg\" ; open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/291.jpg\"",
-   "o_que_prova": "em 1661 estava no Colégio de Évora (bloco trans-tagano) e já fizera os votos simples; a coluna «Gradus» distingue «Emisit vota simplicia» de «Professus 4 votorum»",
-   "forca": "direta (residência); indireta (noviciado)"
   }
  ],
- "nao_encontrado": "O lugar de entrada não está declarado em nenhuma fonte acessível. Procurou-se: (1) no catálogo trans-tagano de 1651 (Lus. 45 ff. 57-64v) e no seu índice (ff. 55-56v) — ausente, e o catálogo não tem secção de noviços; (2) nas listas de noviços do Lus. 45 — 1649 (Lisboa, ff. 20v-21v; Coimbra, ff. 12v-13), 1654 (Coimbra, ff. 79-79v), 1654/55 (Domus Probationis de Lisboa, ff. 116-117) — sem resultado; (3) no arquivo pha, por variantes «Diogo de Sotomaior/Sottomayor/Sotomayor/Didacus» — só homónimos dos séculos XVI-XVII. Não existem neste disco: os códices JS (missão da China), os catálogos da Província Lusitana de 1651-53 e as listas de noviços de Évora de 1651-53. **Revisão de 2026-11-02:** a atribuição anterior a Lisboa foi corrigida — em 1651 o noviciado de Évora estava activo (só em Maio de 1654 os seus noviços passaram para Lisboa), e ele era natural da diocese de Évora; fica **Évora (inferido), baixa**, sem confirmação nominal.",
+ "nao_encontrado": "O lugar de entrada está agora estabelecido: a lista «Novitiorum Nomina» da Casa de Provação de Lisboa (1654/55, f. 116v, n.º 22) nomeia-o como noviço, admitido a 15 de Março de 1654. Fica em aberto apenas o prenome (Jacobus em 1654/55, Didacus em 1661, Diogo em Dehergne) — não há documento que os una, embora todos os outros elementos coincidam. A data de 1651 do Dehergne não se confirma: o catálogo trans-tagano de 1651 não tem lista de noviços, e os catálogos da província dão a admissão em Março de 1654.",
  "refs_obsidian": [
   "[[0 Portugal no entry]]",
   "[[deh-diogo-de-sotomaior]]"
