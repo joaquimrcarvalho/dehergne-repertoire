@@ -102,6 +102,14 @@ A cronologia de Franco (doc 52, pp. 48-49) é clara: o noviciado de Évora estev
 
 A confiança é **baixa** porque não há lista nominal do biénio 1651-53 neste volume (não existem catálogos de 1651-53 da província inteira; o de 1651 é só trans-tagano e não tem noviços) e porque a data de entrada vem de um códice ausente (JS 25).
 
+### 4.4 O catálogo trans-tagano de 1661 (Lus. 45, f. 290): no Colégio de Évora, com «votos simples»
+
+O «2.º Catalogus Provinciae Transtaganae» de 1661 (Lus. 45, ff. 289-291) tem uma tabela com as colunas Nom. | Nomen | Patria | Aetas | Vires | Ingressus | Temp. Studii | Ministeria | **Gradus**. No f. 290, n.º 143, está «Fr. Didacus [Vianal] de Sottomayor … **Emisit simp.**», na coluna Gradus.
+
+O que significa «Emisit simp.»: no fólio seguinte (f. 291, n.º 137) a mesma coluna está escrita por extenso — «**Emisit vota simplicia**» — e os restantes assentos do fólio dizem «Idem». Ou seja, é a menção dos **votos simples** (os que o escolar faz no fim do noviciado), não os 4 votos solenes: para estes, o mesmo catálogo escreve «Profess. 4 vot.» (ex.: f. 289, P. Sebastião d'Abreu, «Profess. 4 vot. 14 April. 1650»).
+
+Sotomaior estava, portanto, em **1661, no Colégio de Évora** (bloco trans-tagano), como escolar que já fizera os votos simples — residência dez anos depois da entrada, que não prova por si a casa do noviciado, mas reforça a atribuição a Évora (natural da diocese de Évora, e o noviciado de Évora activo em 1651-54). Fica em aberto o «19 Mart. 1654» do seu assento: se for a data dos votos simples, a entrada seria em 1652 (dois anos antes); se for outra coluna, o valor não muda a atribuição.
+
 ### O que não foi encontrado
 
 O lugar de entrada não está declarado em nenhuma fonte acessível. Procurou-se: (1) no catálogo trans-tagano de 1651 (Lus. 45 ff. 57-64v) e no seu índice (ff. 55-56v) — ausente, e o catálogo não tem secção de noviços; (2) nas listas de noviços do Lus. 45 — 1649 (Lisboa, ff. 20v-21v; Coimbra, ff. 12v-13), 1654 (Coimbra, ff. 79-79v), 1654/55 (Domus Probationis de Lisboa, ff. 116-117) — sem resultado; (3) no arquivo pha, por variantes «Diogo de Sotomaior/Sottomayor/Sotomayor/Didacus» — só homónimos dos séculos XVI-XVII. Não existem neste disco: os códices JS (missão da China), os catálogos da Província Lusitana de 1651-53 e as listas de noviços de Évora de 1651-53. **Revisão de 2026-11-02:** a atribuição anterior a Lisboa foi corrigida — em 1651 o noviciado de Évora estava activo (só em Maio de 1654 os seus noviços passaram para Lisboa), e ele era natural da diocese de Évora; fica **Évora (inferido), baixa**, sem confirmação nominal.
@@ -122,6 +130,8 @@ O lugar de entrada não está declarado em nenhuma fonte acessível. Procurou-se
   - NEGATIVA: não figura entre os noviços de Coimbra
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 296, verbete «Sotomaior (Sottomayor), Diogo [de]» — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 296` · prova contextual
   - estado da questão: «N. Transtaganus Vianensis, Viana do Alentejo, 1635 — E. 1651 (JS 25, 185v)», lugar em branco; embarque em 1661 (W 1059) e morte em 1683
+- ARSI, *Lus. 45*, «2. Catalogus Provinciae Transtaganae» (1661), f. 290, n.º 143: «Fr. Didacus [Vianal] de Sottomayor … Emisit simp.» (coluna Gradus) — imagem `LUS. 45/290.jpg`; a mesma coluna por extenso no f. 291, n.º 137: «Emisit vota simplicia» (imagem `LUS. 45/291.jpg`) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/290.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/291.jpg"` · prova direta (residência); indireta (noviciado)
+  - em 1661 estava no Colégio de Évora (bloco trans-tagano) e já fizera os votos simples; a coluna «Gradus» distingue «Emisit vota simplicia» de «Professus 4 votorum»
 
 ## 6. Referências
 
