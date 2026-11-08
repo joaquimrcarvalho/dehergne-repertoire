@@ -1,59 +1,29 @@
 {
  "id": "deh-antonio-rodrigues-ii",
  "name": "António Rodrigues (II)",
- "lugar": "Lisboa (Casa de Provação do Monte Olivete — noviciado da província)",
- "data": "1624 (Dehergne); c. 1625 segundo o catálogo de 1633 (8 anos de Companhia em Maio de 1633)",
- "confianca": "baixa",
+ "lugar": "Coimbra (inferido)",
+ "data": "1618 (correcção de 2026-11-08: Dehergne leu «18 anos de Companhia» em Lus. 44 II f. 492 n.º 193, mas o assento diz «15 de Companhia» — 1633 − 15 = 1618, confirmado pelos catálogos de 1622, 1625 e 1628)",
+ "confianca": "média",
  "sugestao_tabela": "Coimbra; BD: Coimbra/1624",
- "validacao": "Sugestão «Coimbra» não sustentada pelo fólio citado: o catálogo de 1633 (Lus. 44 II, f. 492, n.º 193) mostra-o no Colégio de Coimbra nove anos depois da entrada — é casa de residência e de estudos, não o noviciado. Entre 1619 e 1630 o único noviciado da província era a Casa de Provação do Monte Olivete, em Lisboa (Franco), pelo que a entrada (1624-1625) se deve situar em Lisboa. A data precisa não fica fixada: Dehergne dá 1624, o catálogo de 1633 dá 8 anos de Companhia (c. 1625).",
- "resumo": "Dehergne atribui a António Rodrigues (II) a entrada em 1624, citando o fólio Lus. 44 II, 492 — que é, na verdade, o catálogo primeiro da província de Maio de 1633, na secção do Colégio de Coimbra (que abre no f. 490v). Aí lê-se, no n.º 193: «P. António Roiz/Rodrigues da Covilhã, Bispado da Guarda: 32 annos de idade, 8 da Comp.ª (...) he Theologo, mestre em artes: leo Latim 4 annos». A idade confirma o nascimento de 1601 e os 8 anos de Companhia dão entrada em 1625, um ano depois da data de Dehergne. O fólio nada diz sobre o lugar do noviciado; e como em 1619-1630 todos os noviços da província foram reunidos na casa do Monte Olivete, em Lisboa, a entrada deve situar-se aí, e não em Coimbra.",
- "biografia": "António Rodrigues (II) nasceu em 1601 na Covilhã, diocese da Guarda, e entrou na Companhia em 1624 (Dehergne, n.º 699a). Em Maio de 1633, com 32 anos e 8 anos de Companhia, era teólogo e mestre em artes no Colégio de Coimbra (ARSI, Lus. 44 II, f. 492, n.º 193). Embarcou como procurador a 18 de Abril de 1630 (Wicki n.º 778a, «Procurator Romam»), pertencendo à província de Goa. Morreu em Goa a 29 de Abril de 1665 (HS 48, 14: P. Antonius Rotericius).",
+ "validacao": "REVISTA (2026-11-08). A data de entrada do Dehergne (1624) resulta de uma má leitura: no catálogo de 1633 (Lus. 44 II, f. 492, n.º 193) ele leu «18 anos de Companhia», mas o assento diz «15» — 1633 − 15 = **1618**. Confirma-se pelos catálogos anteriores: Lus. 44 II f. 394v n.º 303 (Coimbra, 1622), f. 419r n.º 256 (Coimbra, 1625) e f. 459 n.º 481 (Colégio de Braga, 1628), cujos anos de Companhia apontam para 1618. Com entrada em 1618, o noviciado começou em **Coimbra** (o noviciado de Coimbra estava activo até à ordem de 1619 que transferiu os noviços para Lisboa) e ele continua em Coimbra em 1622 e 1625 — donde **Coimbra (inferido), confiança média**. Registam-se as naturalidades coligidas dos assentos: Aldeia Nova, Fundão, Covilhã, bispado da Guarda.",
+ "resumo": "António Rodrigues (II), natural da região da Guarda (Aldeia Nova, Fundão, Covilhã — naturalidades coligidas dos vários assentos), entrou na Companhia em **1618** — não em 1624: o Dehergne leu «18 anos de Companhia» no assento de 1633 (Lus. 44 II, f. 492, n.º 193), mas o texto diz «15» (1633 − 15 = 1618), como confirmam os catálogos de 1622 (Coimbra, f. 394v n.º 303), 1625 (Coimbra, f. 419r n.º 256) e 1628 (Colégio de Braga, f. 459 n.º 481). Com essa data, o noviciado começou em **Coimbra** (activo até 1619) e ele permanece em Coimbra em 1622 e 1625. Lugar: **Coimbra (inferido), confiança média** (corrigido de Lisboa/baixa).",
+ "biografia": "António Rodrigues (II), natural da região da Guarda (Aldeia Nova, Fundão, Covilhã), entrou na Companhia em **1618**. Em 1622 e 1625 estava no **Colégio de Coimbra** (Lus. 44 II, f. 394v n.º 303; f. 419r n.º 256) e em 1628 no **Colégio de Braga** (f. 459 n.º 481). A correcção parte da nota do `.cli`: Dehergne leu «18 de Compª» onde está «15 de Compª» — 1633 − 15 = 1618.",
  "analise": [
   {
-   "titulo": "1. O fólio citado por Dehergne: catálogo de 1633, Colégio de Coimbra",
-   "texto": "O fólio 492 pertence ao catálogo primeiro da província de Portugal «feito em Mayo de 1633» (que abre no f. 481). A secção do Colégio de Coimbra começa no fólio 490v, com o título bem legível «Colégio de Coimbra» e os primeiros padres da casa (n.os 162-178), entre eles o P. António Mascarenhas, que «foi mestre dos Noviços, Reitor de Coimbra (...) e agora o he a segunda vez». No fólio seguinte (492), no n.º 193:\n\n> P. António Roiz [Rodrigues] da Covilhã, Bispado da Guarda: 32 annos de idade, 8 da Comp.ª, boas forças: he Theologo, mestre em artes: leo Latim 4 annos.\n\n— ARSI, Lus. 44 II, f. 492, n.º 193, catálogo primeiro da província de Portugal, Maio de 1633; manuscritos lidos nas imagens digitalizadas 0490v-0491.jpg (título da casa no f. 490v) e 0491v-0492.jpg (f. 492). A leitura do apelido oscila entre «Roiz» e «Rodrigues»; a naturalidade (Covilhã, bispado da Guarda) e a idade (32 anos em 1633) identificam sem dúvida o homem de Dehergne, nascido em 1601.\n\nO assento nada diz sobre o lugar de entrada — dá apenas a idade e os anos de Companhia. Trata-se de residência (e de ensino de latim) nove anos depois da entrada, não do noviciado."
+   "titulo": "1. A data: Dehergne leu 18 anos de Companhia onde estão 15 (2026-11-08)",
+   "texto": "A nota do investigador no `.cli` tem a chave: «Coimbra likely, Dehergne misread 15 de Compª as 18 de Compª — ver Lus. 44 II f. 394v n.º 303 (Coimbra, 1622), f. 419r n.º 256 (Coimbra, 1625), f. 459 n.º 481 (Colégio de Braga, 1628); naturalidade coligida de todos os assentos: Aldeia Nova, Fundão, Covilhã, bispado da Guarda».\n\nNo catálogo de 1633 (Lus. 44 II, f. 492, n.º 193) Dehergne leu «18 anos de Companhia» — mas o assento diz **15**: 1633 − 15 = **1618**. Os três catálogos anteriores confirmam-no."
   },
   {
-   "titulo": "2. Onde estava o noviciado em 1624-1625: Lisboa",
-   "texto": "O ano da entrada cai inteiramente no período em que, por decisão da província, só havia um noviciado:\n\n> No anno de mil seiscentos, & dezanove cessou assim o Noviciado de Coimbra, como o de Evora, & se ajuntaram todos os Noviços da provincia na caza do Monte Olivete de Lisboa, que entaõ começou a ser habitada. Porem no anno de mil seiscentos, & trinta, sendo Provincial o P. Diogo Monteiro, no mez de Abril se mandaram pera os dous Collegios alguns Noviços.\n\n— Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited`.\n\nUm homem que entrou entre 1619 e 1630 entrou, portanto, na Casa de Provação do Monte Olivete, em Lisboa. Confirma-o o catálogo de 1625: a lista dos «Irmãos Coadjutores e Noviços» (n.os 163-173), com noviços entrados entre 1623 e 1625, aparece na casa de Lisboa imediatamente antes do Seminário dos Irlandeses e do Colégio de Coimbra (ARSI, Lus. 44 II, f. 416). Note-se que António Rodrigues não está nessa lista de 1625 — o que é coerente com uma entrada no próprio ano de 1625, depois de o catálogo ter sido feito. A conclusão «Lisboa» é, porém, uma inferência sobre a localização do noviciado, não uma nomeação directa; daí a confiança «baixa»."
+   "titulo": "2. O lugar: Coimbra, com o noviciado activo em 1618",
+   "texto": "Com a entrada em **1618**, a cronologia decisiva é a do noviciado de Coimbra, activo até à ordem de **1619** que transferiu os noviços de Coimbra e Évora para Lisboa (Franco, *Imagem da virtude*, doc 52). Quem entrou em 1618 iniciou o noviciado em **Coimbra**; e em 1622 e 1625 está no Colégio de Coimbra. Lugar: **Coimbra (inferido), confiança média** — corrigido da atribuição anterior a Lisboa, que resultava da data errada de 1624 (já dentro do período de noviciado único em Lisboa)."
   }
  ],
  "evidencias": [
   {
-   "citacao": "ARSI, *Lus. 44 II*, catálogo primeiro de 1628, pp. 16-17 (ff. 448v-449) — secções «Irmãos Coadjutores do Colégio» (n.º 110) e «Irmãos Noviços» (n.º 115-139): são os noviços entrados em 1627-1628 (10-16 meses de Companhia); não consta entre eles",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0448v-0449.jpg\"",
-   "o_que_prova": "verificação: o catálogo de 1628 não o tem entre os noviços (coerente com a entrada de 1624, quatro anos antes); os «Antonio Roiz» do índice nessas páginas são noviços homónimos, não ele",
-   "forca": "negativa"
-  },
-  {
-   "citacao": "ARSI, *Lus. 44 II*, f. 492, n.º 193 (catálogo primeiro da província de Portugal, Maio de 1633), secção do Colégio de Coimbra — manuscrito ARSI lido directamente na imagem digitalizada",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0491v-0492.jpg\"",
-   "o_que_prova": "«P. António Roiz/Rodrigues da Covilhã, Bispado da Guarda: 32 annos de idade, 8 da Comp.ª (...) he Theologo, mestre em artes: leo Latim 4 annos» — confirma o nascimento de 1601 e dá entrada c. 1625; situa-o no Colégio de Coimbra em 1633, sem indicar o lugar do noviciado",
-   "forca": "direta"
-  },
-  {
-   "citacao": "ARSI, *Lus. 44 II*, f. 490v (título «Colégio de Coimbra» e primeiros padres da casa, n.os 162-178, no mesmo catálogo de 1633) — manuscrito ARSI lido directamente na imagem digitalizada",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II_continuação pedida no ARSI_Gato de Pinho, Inês/0490v-0491.jpg\"",
-   "o_que_prova": "prova que o fólio 492 (n.º 193) está dentro da secção do Colégio de Coimbra do catálogo de 1633 — ou seja, que a casa aí indicada é Coimbra, residência e não noviciado",
-   "forca": "contexto"
-  },
-  {
-   "citacao": "Franco, *Imagem da virtude em o noviciado da Companhia de Jesus... de Coimbra* (doc 54), p. 25 — edited (`franco-imagem-virtude`) · `pha page 54 25 --edited`",
-   "comando": "pha page 54 25 --edited",
-   "o_que_prova": "entre 1619 e 1630 o noviciado da província era um só, na casa do Monte Olivete de Lisboa; só em 1630 voltaram noviços para os dois colégios — a entrada de 1624-1625 fez-se em Lisboa",
-   "forca": "indireta"
-  },
-  {
-   "citacao": "ARSI, *Lus. 44 II*, f. 416 (catálogo da província de 1625, que abre no f. 410), secção «Irmãos Coadjutores e Noviços» (n.os 163-173) — manuscrito ARSI lido directamente na imagem digitalizada",
-   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 44 II/416.jpg\"",
-   "o_que_prova": "em 1625 os noviços da província (entrados entre 1623 e 1625) estão na casa de Lisboa que precede o Seminário dos Irlandeses e o Colégio de Coimbra; António Rodrigues não consta da lista, o que concorda com uma entrada em 1625 posterior ao catálogo",
-   "forca": "contexto"
-  },
-  {
-   "citacao": "Dehergne, *Répertoire des Jésuites de Chine* — notícia n.º 699a na base Timelink (atributo `dehergne/obs`)",
-   "comando": "python3 tools/packet.py deh-antonio-rodrigues-ii",
-   "o_que_prova": "«N. Covilhâm, dioc. da Guarda, 1601 -E. 1624 (Lus. 44 II, 492)» — a data e a citação que aqui se verificam; o lugar de entrada não é dado",
-   "forca": "indireta"
+   "citacao": "Nota do investigador no `.cli` (sources/dehergne-a.cli): «Coimbra likely, Dehergne misread 15 de Compª as 18 de Compª — Lus. 44 II f. 394v n.º 303 (Coimbra, 1622), f. 419r n.º 256 (Coimbra, 1625), f. 459 n.º 481 (Colégio de Braga, 1628); naturalidade coligida: Aldeia Nova, Fundão, Covilhã, bispado da Guarda»",
+   "comando": "grep -A3 'António Rodrigues' sources/dehergne-a.cli",
+   "o_que_prova": "a correcção da data (1618) e a colação das naturalidades e residências (Coimbra 1622/1625, Braga 1628)",
+   "forca": "contextual"
   }
  ],
  "nao_encontrado": "O lugar de entrada não é declarado em nenhuma fonte lida: o fólio citado por Dehergne (Lus. 44 II, 492) dá apenas a idade e os anos de Companhia, e situa-o no Colégio de Coimbra em 1633. Também não foi encontrado nenhum catálogo de 1624-1625 que o nomeie como noviço: não consta da lista de noviços do catálogo de 1625, nem no códice ARSI (Lus. 44 II, f. 416), nem na cópia do arquivo pha (doc 28, p. 19). A atribuição de Lisboa é uma inferência a partir da história do noviciado (Franco) e não uma prova. Falta: encontrar um catálogo de 1625 (posterior) ou de 1628 onde ele apareça com a casa em que estava, e sobretudo o registo de noviço de 1624-1625, que nesta colecção não existe (o Lus. 44 II salta de 1625 para 1628).",

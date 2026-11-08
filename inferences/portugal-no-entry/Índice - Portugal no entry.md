@@ -12,15 +12,15 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **47** · **média**: **38** · **baixa**: **10** · **não determinado**: **15**
+- lugar proposto com confiança **alta**: **47** · **média**: **39** · **baixa**: **9** · **não determinado**: **15**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
 
 | lugar | nº de pessoas |
 |---|---:|
-| Coimbra | 40 |
-| Lisboa | 40 |
+| Coimbra | 41 |
+| Lisboa | 39 |
 | Évora | 13 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
 
@@ -99,6 +99,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-alvaro-cabral]] | Álvaro Cabral | 124 | Coimbra 1614 | **Coimbra (Colégio de Jesus — noviciado)** | 1611 (Dehergne); o catálogo de Janeiro de 1614 dá-lhe 3 anos de Companhia → entrada em 1611 | alta |
 | [[deh-amador-fernandes]] | Amador Fernandes | 287 | Coimbra | **Coimbra (Colégio de Coimbra)** | 1651 (o catálogo de 1655 dá-lhe «Ann. Soc. 4») | média |
 | [[deh-amador-da-costa]] | Amador da Costa | 203 | Coimbra | **Coimbra** | 1557-08-05 | média |
+| [[deh-antonio-rodrigues-ii]] | António Rodrigues | 699a | Coimbra | **Coimbra (inferido)** | 1618 (correcção de 2026-11-08: Dehergne leu «18 anos de Companhia» em Lus. 44 II f. 492 n.º 193, mas o assento diz «15 de Companhia» — 1633 − 15 = 1618, confirmado pelos catálogos de 1622, 1625 e 1628) | média |
 | [[deh-antonio-rodrigues]] | António Rodrigues | 699 | incerto | **Évora (noviciado do Colégio do Espírito Santo de Évora)** | 1571-02-18 | média |
 | [[deh-antonio-de-barros]] | António de Barros | 81 | — | **Coimbra (Colégio de Coimbra)** | 1681-06-12 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) | média |
 | [[deh-caetano-lopes]] | Caetano Lopes | 486 | — | **Coimbra (Colégio de Coimbra) — atribuição provisória** | 1707-02-17 (o catálogo de 1711 situa-o no Colégio de Coimbra) | média |
@@ -136,7 +137,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-pedro-de-francisco]] | Pedro de Francisco | 335 | cursa em Coimbra 1587 | **Coimbra** | 1581 (c. agosto; a tabela dizia 1588) | média |
 | [[deh-rui-barreto]] | Rui Barreto | 79 | Coimbra | **Coimbra** | 1568-12-28 | média |
 | [[deh-antonio-preto]] | António Preto | 662 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca** | 1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia) | baixa |
-| [[deh-antonio-rodrigues-ii]] | António Rodrigues | 699a | Coimbra | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1624 (Dehergne); c. 1625 segundo o catálogo de 1633 (8 anos de Companhia em Maio de 1633) | baixa |
 | [[deh-francisco-pereira]] | Francisco Pereira | 619 | ? | **Lisboa (Casa de Provação do Monte Olivete) — por inferência, não por prova nominal** | 1622 | baixa |
 | [[deh-goncalo-de-oliveira]] | Gonçalo de Oliveira | 595 | Coimbra | **Coimbra (Colégio de Coimbra) — atribuição provisória** | 1637 (Pfister/Dehergne) ou 1638 (o catálogo de 1645 dá-lhe «Societ. 7») | baixa |
 | [[deh-jose-monteiro]] | José Monteiro | 563 | — | **Coimbra (noviciado) — inferência, com Évora e Lisboa como alternativas não excluídas** | 17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data) | baixa |
