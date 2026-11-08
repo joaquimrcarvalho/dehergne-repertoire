@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado anexo ao Colégio de Coimbra)
 entry_date: 1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710»)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
@@ -104,7 +104,7 @@ Bragança pertencia então à diocese de Miranda do Douro — daí «Brigantinus
 
 ### 4.2 A casa: o noviciado anexo ao Colégio de Coimbra
 
-A lista dos noviços não é um apêndice solto no volume: fecha o bloco de Coimbra, que a tabela do próprio códice descreve como «Conimbricens. C & RR vari» a partir do f. 120, e o «Catalogus tertius» do mesmo ano (T3, f. 163) conta «In Collegio Conimbricensi, et Residentiis — 222» membros. Imediatamente antes da lista está o assento do P. António Camujo (f. 127v, n.º 222), de quem se diz «… et jam supra quadriennium Novitiorum Magistri agit» — o mestre dos noviços da casa. (A Casa de Provação de Lisboa, que em 1711 tem a sua própria lista de noviços, ff. 142v-143v, tem também o seu mestre, n.º 571.) Em 1711 os noviços da província estão distribuídos por três casas — Coimbra (ff. 127v-128), Évora (f. 135) e Lisboa (ff. 142v-143v) —, e Francisco Alberto está na de Coimbra. O noviciado de Coimbra era um dos «dois anexos» que a província tinha além dos noviciados de Lisboa e de Arroios (doc 64, p. 32: «Os Noviciados separados são o de Lisboa, que é o Noviciado da Província, e o Noviciado de Arroios, que prepara missionários e mais dois anexos, um ao Colégio de Coimbra, outro ao de Évora»).
+A lista dos noviços não é um apêndice solto no volume: fecha o bloco de Coimbra, que a tabela do próprio códice descreve como «Conimbricens. C & RR vari» a partir do f. 120, e o «Catalogus tertius» do mesmo ano (T3, f. 163) conta «In Collegio Conimbricensi, et Residentiis — 222» membros. Imediatamente antes da lista está o assento do **P. António Carneiro** (Antonius Carneyro; f. 127v, n.º 222), de quem se diz «… et jam supra quadriennium Novitiorum Magistri agit» — o mestre dos noviços da casa. (A Casa de Provação de Lisboa, que em 1711 tem a sua própria lista de noviços, ff. 142v-143v, tem também o seu mestre, n.º 571.) Em 1711 os noviços da província estão distribuídos por três casas — Coimbra (ff. 127v-128), Évora (f. 135) e Lisboa (ff. 142v-143v) —, e Francisco Alberto está na de Coimbra. O noviciado de Coimbra era um dos «dois anexos» que a província tinha além dos noviciados de Lisboa e de Arroios (doc 64, p. 32: «Os Noviciados separados são o de Lisboa, que é o Noviciado da Província, e o Noviciado de Arroios, que prepara missionários e mais dois anexos, um ao Colégio de Coimbra, outro ao de Évora»).
 
 ### 4.3 1 ou 3 de Março de 1710
 
@@ -122,7 +122,7 @@ Procurou-se nas três listas de noviços do catálogo de 1711 — Coimbra (ff. 1
   - a lista em que Alberto aparece (nn. 223-240, que continuam no f. 128) é a dos noviços do bloco de Coimbra e fecha a série dos coadjutores, antes das residências de Coimbra (f. 128v-129)
 - ARSI, *Lus. 47*, f. 120, cabeçalho «Missio Conimbricense»; f. 163 (T3): «In Collegio Conimbricensi, et Residentiis — 222» — imagens `LUS. 47/120.jpg` e `LUS. 47/163.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/120.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/163.jpg"` · prova direta
   - o bloco em que a lista está inserida é o de Coimbra (Colégio e residências), aberto a f. 120 e com 222 membros segundo o Catalogus tertius
-- ARSI, *Lus. 47*, f. 127v, n.º 222: assento do P. António Camujo, «… et jam supra quadriennium Novitiorum Magistri agit; est Doctor Theologiae» — imagem `LUS. 47/127v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/127v.jpg"` · prova contextual
+- ARSI, *Lus. 47*, f. 127v, n.º 222: assento do P. António Carneiro (Antonius Carneyro; Ulyssip., n. 4 Out. 1651, ingressus 7 Abr. 1676), «… et jam supra quadriennium Novitiorum Magistri agit; est Doctor Theologiae» — imagem `LUS. 47/127v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 47/127v.jpg"` · prova contextual
   - o mestre dos noviços está no bloco de Coimbra, imediatamente antes da lista dos noviços — confirma que a lista é a do noviciado de Coimbra
 - F. Rodrigues, *História da Companhia de Jesus na Assistência de Portugal*, t. IV/1 (doc 64), p. 32 — raw (`historia_da_companhia_de_jesus`): «Os Noviciados separados são o de Lisboa, que é o Noviciado da Província, e o Noviciado de Arroios, que prepara missionários e mais dois anexos, um ao Colégio de Coimbra, outro ao de Évora» · `pha page 64 32` · prova contextual
   - entre 1700 e 1760 havia noviciados em Lisboa e Arroios e anexos nos Colégios de Coimbra e de Évora — o leque das casas de noviciado possíveis
