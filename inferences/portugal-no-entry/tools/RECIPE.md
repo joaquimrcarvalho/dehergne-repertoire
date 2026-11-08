@@ -327,3 +327,13 @@ Um ficheiro JSON por pessoa em
 `confianca`: `alta` | `média` | `baixa` | `nenhuma`.
 Salvar também um `results/<id>.md` (rascunho livre) se ajudar, mas o JSON é o
 que será usado para montar a nota final.
+
+## 4 bis. Front matter das fichas
+
+O `assemble.py` escreve o front matter e **cita com aspas** (estilo JSON) qualquer valor que contenha caracteres especiais de YAML — `:`, `#`, parênteses retos, aspas, `%`, etc. Exemplo:
+
+```yaml
+entry_date: "1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710»)"
+```
+
+Regra para quando escreveres front matter à mão numa ficha: **valores com `:` vão entre aspas**, senão o YAML (e o Obsidian) corta o valor no primeiro `:`. O mesmo vale para valores que comecem por `-`, `?`, `#`, `[`, `{`, ou que tenham espaços no início/fim.
