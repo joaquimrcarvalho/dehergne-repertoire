@@ -4,9 +4,9 @@ person_id: deh-manuel-pinto-ii
 name: Manuel Pinto
 dehergne_no: 646
 nationality: Portugal
-entry_place: Coimbra
-entry_date: 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654)
-confidence: média
+entry_place: não determinado
+entry_date: "inconsistente (Dehergne: E. 14 de Março de 1652 «Lus. 46, 322» — mas essa cota é do catálogo de 1696)"
+confidence: nenhuma
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,11 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Manuel Pinto (`deh-manuel-pinto-ii`)
 
-**Lugar de entrada: Coimbra** — 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654) (confiança: **média**).
+**Lugar de entrada: não determinado** — inconsistente (Dehergne: E. 14 de Março de 1652 «Lus. 46, 322» — mas essa cota é do catálogo de 1696) (confiança: **nenhuma**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — A pista do noviciado aparece no VERSO da lista «Novitij» do Colégio de Coimbra no catálogo de 1654 — que a sessão anterior só tinha lido no recto. No f. 79v, n.º 182: «Fr. Manoel Pinto — Porto — 27 — opt.ª — In fine biennij. Coadiutor». Nome, naturalidade (Porto), estado (coadjutor, como o «fr.» do Dehergne) e fase do noviciado («in fine biennij» em 1654 ⇒ entrada em Março de 1652, a data exacta do Dehergne) coincidem; a idade lida (27) é que não bate com o nascimento de 1637 (seria 17). Identificação provável, não certa — confiança média.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — NÃO DETERMINADO — a informação do Dehergne é internamente inconsistente. A notícia (doc 65, p. 243, impressa 205) diz: «N. Porto, 1637 -E. 14 mars 1652 (Lus. 46, 322). Emb. pour le Japon en 1691 (W 1307). M. "in itinere ad Jap. vel Sinas, 1692" (HS 49, 66v)». Duas objecções: (1) a cota da entrada, «Lus. 46, 322», é o **catálogo de 1696**, onde o n.º 56 é um «P. Manoel Pinto **Conimbricensis**» — natural de Coimbra, não do Porto —, que ensinou humanidades e foi prefeito no Colégio de Coimbra (docente, portanto): um homem que teria morrido em 1692 não pode estar vivo e a ensinar num catálogo de 1696; (2) a lista de noviços de Coimbra de 1654, f. 79v, n.º 182, que eu tinha tomado por ele, diz «Fr. Manoel **Glz**» (= Gonçalvez), não «Pinto». Fica sem base o lugar de entrada, e até a data e a naturalidade da notícia.
 
-Manuel Pinto II era noviço no **Colégio de Coimbra** quando o catálogo da província foi feito em 1654: no fim do bloco de Coimbra, na lista «Novitij», lê-se «Fr. Manoel Pinto — Porto — 27 — opt.ª — In fine biennij. Coadiutor» (Lus. 45, f. 79v, n.º 182). Quem estava a acabar o biennium em 1654 entrara em 1652 — e Dehergne dá 14 de Março de 1652: a coincidência é completa. Como o Colégio de Coimbra era casa de noviciado (a lista dos noviços fecha o seu catálogo, tal como em 1655), o lugar de entrada é **Coimbra**. Fica a ressalva da idade (27 em 1654, quando o nascimento de 1637 daria 17), registada e não corrigida.
+Pela notícia do Dehergne seria um irmão coadjutor do Porto, nascido em 1637, entrado a 14 de Março de 1652 (com cota «Lus. 46, 322»), embarcado para o Japão em 1691 (W 1307) e morto «in itinere ad Jap. vel Sinas» em 1692 (HS 49, 66v). Mas a cota da entrada pertence ao **catálogo de 1696** (Lus. 46, f. 322 carimbado, n.º 56), que descreve um **P. Manoel Pinto natural de Coimbra**, docente de humanidades no Colégio de Coimbra — não o irmão coadjutor do Porto; e quem morreu em 1692 não consta vivo num catálogo de 1696. A lista de noviços de Coimbra de 1654 (f. 79v, n.º 182), que eu tomei por ele, é de «Fr. Manoel **Glz**» (Gonçalves). Não há, por isso, informação fiável para o lugar de entrada: **não determinado**, com a notícia do Dehergne registada como inconsistente.
 
 ## Identificação
 
@@ -37,7 +37,7 @@ Manuel Pinto II era noviço no **Colégio de Coimbra** quando o catálogo da pro
 | Dehergne, entrada (`E.`) | 14 mars 1652 |
 | Base Timelink (actual) | `?` / 16520314 |
 | Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
-| **Proposta desta nota** | **Coimbra** — 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654) (média) |
+| **Proposta desta nota** | **não determinado** — inconsistente (Dehergne: E. 14 de Março de 1652 «Lus. 46, 322» — mas essa cota é do catálogo de 1696) (nenhuma) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -47,7 +47,7 @@ Dehergne (doc 65, nº 646) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-Manuel Pinto II nasceu no Porto (1637, segundo Dehergne) e era irmão coadjutor. Entrou na Companhia a 14 de Março de 1652 e fez o noviciado no Colégio de Coimbra; em 1654 estava no fim do biennium de noviciado (Lus. 45, f. 79v, n.º 182). Em 1661/62 era membro da província trans-tagana (vestígio no índice do catálogo transstagano, Lus. 45, f. 302v: «Eman. Pinto»), o que explica que embarcasse para o Japão em 1691 (W 1307). Morreu «in itinere ad Jap. vel Sinas» em 1692 (HS 49, 66v, segundo Dehergne).
+Manuel Pinto II é, na notícia do Dehergne (doc 65, p. 243, impressa 205), um irmão coadjutor natural do Porto (1637), entrado a 14 de Março de 1652 e falecido a caminho do Japão em 1692 (HS 49, 66v — códice que não possuímos). O catálogo de 1696 (Lus. 46, f. 322 carimbado = imagem `LUS. 46/317.jpg`, n.º 56) — a cota que o Dehergne cita para a entrada — descreve, porém, um P. Manoel Pinto **Conimbricensis**: nascido na diocese de Coimbra, com «Ing. 14 Mart. 652», que «desudavit per aliquot annos Humaniorum litteras» e exerceu o magistério no Colégio de Coimbra, na residência de Elvas e no colégio de Évora. A morte em 1692 (se aceite) torna impossível a sua presença, vivo, no catálogo de 1696; e a naturalidade difere (Porto vs. Coimbra). A lista de noviços de Coimbra de 1654 (Lus. 45, f. 79v, n.º 182), que eu tomara por ele, é de «Fr. Manoel Glz» (Gonçalves), do Porto, com 27 anos e «In fine biennij». Resta, por isso, a hipótese de o Dehergne ter juntado duas pessoas diferentes (ou de a data de 1692 vir de HS 49 com outra leitura) — sem que nenhuma fonte acessível decida o lugar de entrada.
 
 ## 3. Cronologia (base Timelink)
 
@@ -65,46 +65,58 @@ Manuel Pinto II nasceu no Porto (1637, segundo Dehergne) e era irmão coadjutor.
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 O assento: noviço em Coimbra em 1654 (f. 79v, n.º 182)
+### 4.1 A notícia do Dehergne — e as suas três referências
 
-O catálogo de 1654 (Lus. 45, ff. 75-84v) abre com o título «**Catalogus primus Provinciae Lusitanae Anno 1654**» e, logo abaixo, «**Catalogus primus Colegij Conimbricensis**» (f. 75) — o volume começa pela casa de Coimbra. No fim do bloco de Coimbra, antes do «Catalogus primus Colegij Bracharensis» (que começa no f. 79v), está a lista dos noviços, em quadro (Nomen / Patria / Etas / Vires / fase do noviciado). Aí, no f. 79v, n.º 182:
+> «Pinto, Manuel (port.) (II) fr. 646 — N. Porto, 1637 -E. 14 mars 1652 (Lus. 46, 322). Emb. pour le Japon en 1691 (W 1307). M. "in itinere ad Jap. vel Sinas, 1692" (HS 49, 66v).»
 
-> «182. Fr. Manoel Pinto — Porto — 27 — opt.ª — In fine biennij. Coadiutor.»
+— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), **p. 243 (impressa 205)**, n.º 646.
 
-— ARSI, *Lus. 45*, f. 79v, n.º 182 — imagem `LUS. 45/079v.jpg`, leitura directa do manuscrito.
+As três referências são de naturezas diferentes: **Lus. 46, 322** (catálogo de 1696, para a data de entrada), **W 1307** (Wicki, *Liste*, para o embarque de 1691) e **HS 49, 66v** (para a morte em 1692). Esta última — *Historia Societatis*, códice 49 — **não existe neste arquivo nem nesta digitalização**: não é possível verificá-la. Toda a informação da notícia depende, portanto, de uma fonte que não temos e de uma cota que, como se vê adiante, é de 1696.
 
-A lista vai do n.º 161 ao 191 (f. 79 e f. 79v) e é a dos noviços de Coimbra: é o mesmo dispositivo que reaparece no catálogo de 1655, onde o bloco de Coimbra termina precisamente com os «Novitij» (f. 181). **A casa do noviciado em 1654 era, portanto, o Colégio de Coimbra.**
+### 4.2 «Lus. 46, 322» é o catálogo de 1696 — e o n.º 56 é um docente de Coimbra
 
-### 4.2 A identificação: quatro coincidências e uma dúvida
+O catálogo de **1696** (Lus. 46, ff. 314-343v; fólios carimbados 319-349) tem a particularidade de registar, em cada assento, a data de entrada («Ing.»). No **f. 322 carimbado** (imagem `LUS. 46/317.jpg`, desvio de +5 na numeração das imagens), dentro do bloco do **Colégio de Coimbra** (que começa no fólio anterior), lê-se no n.º 56:
 
-O assento coincide com o verbete do Dehergne em quatro pontos: (1) o nome; (2) a naturalidade — **Porto**, como o «N. Porto» de Dehergne; (3) o estado — «Coadiutor», que corresponde ao «fr.» (irmão coadjutor) do Dehergne; (4) a cronologia do noviciado — «**In fine biennij**» em 1654 significa que estava a acabar os dois anos de noviciado, isto é, entrara em **Março de 1652**, exactamente a data do Dehergne (14 de Março de 1652).
+> «P. Manoel Pinto **Conimbricensis**, et eiusdem Diæces. an. **Ing. 14 Mart. 652** … Desudavit per aliquot annos Humaniorum litteras, et per multos annos … egit in Collegio Conimbricensi …»
 
-A dúvida é a idade: o manuscrito diz **27** anos, e o nascimento de 1637 que Dehergne lhe dá faria dele um rapaz de 17. As idades da mesma lista vão de 14 a 27 (os coadjutores entram mais tarde), pelo que 27 é um valor plausível — mas não se pode excluir uma leitura de «17» num cursivo rápido. Registo os dois valores e não corrijo nenhum. A identificação assenta no conjunto (nome + Porto + coadjutor + biennium), não na idade.
+— ARSI, *Lus. 46*, catálogo de 1696, f. 322 carimbado, n.º 56 — leitura directa do manuscrito.
 
-### 4.3 A cota «Lus. 46, 322» do Dehergne — o que se apurou e o que fica por esclarecer
+O assento descreve um **padre natural de Coimbra** que ensinou humanidades e foi prefeito (docente) no Colégio de Coimbra, em Elvas e em Évora — e a data «Ing. 14 Mart. 652» é exactamente a que o Dehergne transcreve para a entrada. É esta a cota que o Dehergne usou — e não um catálogo de 1652.
 
-A data exacta que Dehergne dá não pode vir da lista de noviços de 1654 (que regista a fase, não o dia); a cota aponta para o **catálogo de 1696** (Lus. 46, ff. 314-343v; fólios carimbados 319-349), onde, ao contrário dos catálogos habituais, cada assento traz a data de entrada — «**Ing.** …». No fólio carimbado **322** (imagem `LUS. 46/317.jpg`, desvio +5 na numeração) os assentos são de padres do bloco de Coimbra (nn. 50-58) e **não** incluem um Manuel Pinto — o que é coerente com a morte em 1692 registada pelo próprio Dehergne. Fica por esclarecer a que fólio exacto Dehergne se referia (talvez à numeração antiga do volume); o que fica assente é que a data «14 de Março de 1652» é compatível com o noviciado de Coimbra de 1652-54 e que o catálogo de 1696, com datas de entrada, é uma fonte a explorar nos próximos casos.
+### 4.3 A leitura errada do f. 79v, n.º 182 — e a inconsistência interna da notícia
+
+O que me levara a concluir Coimbra foi a lista de noviços de Coimbra de 1654 (Lus. 45, f. 79v), onde eu tinha lido «Fr. Manoel Pinto — Porto — 27 — opt.ª — In fine biennij. Coadiutor». A leitura correcta do n.º 182 é:
+
+> «Fr. Manoel **Glz** — Porto — 27 — opt.ª — In fine biennij. Coadiutor.»
+
+— ARSI, *Lus. 45*, catálogo de 1654, f. 79v, n.º 182 — «Glz» = **Gonçalvez (Gonçalves)**.
+
+Não há, portanto, nenhum «Manuel Pinto» noviço em Coimbra em 1654. E a notícia do Dehergne tem uma contradição insanável: se o homem morreu em 1692 (HS 49, 66v), não podia figurar, vivo e docente, no catálogo de 1696; se é o docente do catálogo de 1696, então a data de entrada (1652) e a naturalidade (Coimbra) vêm desse registo, e a morte em 1692 não é dele. A notícia junta, ao que tudo indica, **duas pessoas diferentes** (o irmão coadjutor do Porto, morto em 1692, e o padre docente de Coimbra, vivo em 1696) — ou lê mal uma das fontes (a HS 49, que não possuímos).
+
+### 4.4 Conclusão: não determinado
+
+Sem o catálogo de 1652 (onde a entrada deveria estar registada) e sem a HS 49, 66v (que não temos), não é possível decidir o lugar de entrada. O que fica assente é que a informação inicial do Dehergne é **inconsistente**: a data de entrada e a naturalidade vêm do catálogo de **1696**, e a morte de 1692 não cabe nesse registo. Classificação: **não determinado**; confiança **nenhuma**.
+
+Para retomar o caso: (1) procurar um «Manoel Pinto» no catálogo de 1652 (Lus. 45, ff. 28v-55v, lacunar) e nas listas de noviços de 1652-54; (2) obter a HS 49, 66v para ver o que diz exactamente a morte de 1692; (3) verificar se o P. Manoel Pinto de Coimbra (1696) aparece nos catálogos de 1675, 1678 e 1681 — e com que naturalidade.
 
 ### O que não foi encontrado
 
-A casa do noviciado só se apurou no VERSO da lista de 1654 (f. 79v, n.º 182); a sessão anterior tinha lido apenas o recto (nn. 161-176) e concluído que Pinto não estava na lista. Continua por apurar: (1) o fólio exacto da cota «Lus. 46, 322» (o fólio carimbado 322 = imagem 317 não tem Pinto; o catálogo de 1696 regista datas de entrada em «Ing.» e é a pista para a data exacta); (2) a idade — o manuscrito diz 27 em 1654, o que daria nascimento c. 1627 e não 1637; (3) não existe neste volume nenhum catálogo de 1652-1653 (lacuna de Lus. 45: não há catálogos da Província Lusitana para 1651-1653), pelo que a prova é o catálogo de 1654. Não se encontraram outras listas de noviços de 1652-54: as da Domus Probationis de Lisboa começam em 1654/55 (ff. 116-117). Homónimos descartados: «Fr. Manoel Pinto — Vizeu — 17 — In primo anno» (Lus. 45, f. 79v, n.º 176); e os muitos Manuel Pinto das missões do século XVI e dos catálogos do Japão (doc 18, docs 68, 107, 114).
+O lugar de entrada não é determinável com as fontes disponíveis, e a própria notícia do Dehergne é inconsistente: (1) a data de entrada (14 Mar. 1652) vem do catálogo de **1696** (Lus. 46, f. 322 carimbado, n.º 56), cujo assento descreve um P. Manoel Pinto **de Coimbra**, docente no Colégio de Coimbra — não o irmão coadjutor do Porto; (2) a morte em 1692 (HS 49, 66v) não é compatível com a presença viva no catálogo de 1696 e não pode ser verificada (códice não possuído); (3) a lista de noviços de Coimbra de 1654 (f. 79v, n.º 182), que eu tomara por ele, diz «Fr. Manoel **Glz**» (Gonçalves). Não há catálogo de 1652 (o Lus. 45 é lacunar entre 1652-53) nem lista de noviços de 1652. Para retomar: HS 49, 66v; catálogo de 1652 (Lus. 45, ff. 28v-55v); e os catálogos de 1675-1696 para o P. Manoel Pinto de Coimbra.
 
 ## 5. Evidência
 
-- ARSI, *Lus. 45*, catálogo de 1654, f. 79v, n.º 182, lista «Novitij» do Colégio de Coimbra: «Fr. Manoel Pinto — Porto — 27 — opt.ª — In fine biennij. Coadiutor.» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/079v.jpg"` · prova direta
-  - era noviço no Colégio de Coimbra em 1654, no fim do biennium ⇒ entrada em Março de 1652 no noviciado de Coimbra; natural do Porto; coadjutor
-- ARSI, *Lus. 45*, f. 75, título: «Catalogus primus Provinciae Lusitanae Anno 1654» + «Catalogus primus Colegij Conimbricensis» — imagem `LUS. 45/075.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/075.jpg"` · prova direta
-  - o catálogo de 1654 abre pelo Colégio de Coimbra; a lista de noviços do f. 79v fecha esse bloco (Braga começa no mesmo fólio) ⇒ os noviços são os de Coimbra
-- ARSI, *Lus. 45*, f. 79 e f. 79v, lista «Novitij» do catálogo de 1654 (nn. 161-191), com a fase de cada noviço («In primo anno», «In fine biennij») — imagens `LUS. 45/079.jpg` e `LUS. 45/079v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/079.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/079v.jpg"` · prova direta
-  - contexto da lista: 31 noviços, idades 14-27; o n.º 182 é o único Manuel Pinto do Porto (o outro, do Viseu, é o n.º 176, «In primo anno»)
-- ARSI, *Lus. 45*, f. 181, «Novitij. Extra ordinem Alphabeticum…» do Colégio de Coimbra (catálogo de 1655) — imagem `LUS. 45/181.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/181.jpg"` · prova indireta
-  - confirma o padrão: o Colégio de Coimbra continuava a ser casa de noviciado em 1655, fechando o seu catálogo com os noviços
-- ARSI, *Lus. 46*, catálogo de 1696, fólio carimbado 322 (imagem `LUS. 46/317.jpg`; desvio +5 na numeração), assentos nn. 50-58 com a data de entrada («Ing.») — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/317.jpg"` · prova negativa (para a cote), contextual (para a data)
-  - a cota de Dehergne aponta para o catálogo de 1696, que regista datas de entrada; o assento de Pinto não está nesse fólio (coerente com a morte em 1692)
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 244, verbete «Pinto, Manuel (II)» — raw (`transcription-ocr@liteparse-fra`) · `pha page 65 244` · prova contextual
-  - estado da questão: «N. Porto, 1637 — E. 14 mars 1652 (Lus. 46, 322)», lugar em branco; embarque para o Japão em 1691 (W 1307) e morte em 1692
-- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), n.º 1307 — edited · `pha page 66 66` · prova indireta
-  - embarque de 1691 para o Japão (114.ª expedição); nada sobre a entrada na Companhia
+- ARSI, *Lus. 45*, catálogo de 1654, f. 79v, n.º 182, lista «Novitij» do Colégio de Coimbra: «Fr. Manoel **Glz** — Porto — 27 — opt.ª — In fine biennij. Coadiutor» — manuscrito lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/079v.jpg"` · prova negativa
+  - NEGATIVA: o noviço do Porto de 1654 é «Manoel Glz» (Gonçalvez), não «Manoel Pinto» — a identificação anterior estava errada
+- ARSI, *Lus. 46*, catálogo de 1696, f. 322 carimbado (imagem `LUS. 46/317.jpg`), n.º 56: «P. Manoel Pinto Conimbricensis, et eiusdem Diæces. an. Ing. 14 Mart. 652 … Desudavit per aliquot annos Humaniorum litteras, et per multos annos … egit in Collegio Conimbricensi …» — manuscrito lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/317.jpg"` · prova direta
+  - o assento a que a cota «Lus. 46, 322» do Dehergne corresponde: um P. Manoel Pinto **de Coimbra**, docente no Colégio de Coimbra, com «Ing. 14 Mart. 652» — registo de 1696, não de 1652
+- ARSI, *Lus. 46*, imagem `LUS. 46/316.jpg` — fólio carimbado 321, início do bloco do Colégio de Coimbra (assentos com «Conimbricensis»), imediatamente antes do f. 322 onde está o n.º 56 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46/316.jpg"` · prova contextual
+  - contexto do assento: pertence ao bloco do Colégio de Coimbra do catálogo de 1696
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 243 (impressa 205), n.º 646, verbete «Pinto, Manuel (II)» — edited (`french-ocr`) · `pha page 65 243 --edited` · prova contextual
+  - a notícia e as suas três referências: «E. 14 mars 1652 (Lus. 46, 322)», «W 1307», «M. in itinere ad Jap. vel Sinas, 1692 (HS 49, 66v)»
+- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66): índice de pessoas, p. 198 da digitalização, regista «Pinto, Manuel, 1307»; a entrada n.º 1307 fica na p. 243 (impressa 205) da edição citada — fora desta digitalização (207 pp.) · `pha page 66 198 --edited` · prova indireta
+  - confirma que W 1307 é uma entrada da lista de Wicki (não uma página); a localização exacta não é verificável nesta cópia
+- *Historia Societatis* (HS) 49, 66v — citada pelo Dehergne para a morte em 1692 · prova negativa
+  - NÃO POSSUÍDA: não existe neste arquivo nem nas digitalizações; a morte de 1692 não pode ser verificada
 
 ## 6. Referências
 
