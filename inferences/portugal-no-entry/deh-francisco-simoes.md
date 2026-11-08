@@ -45,7 +45,7 @@ Dehergne (doc 65, nº 785) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-Francisco Simões (nos documentos latinos: Franciscus Simois/Simoens), nascido a 8 de Setembro de 1650, entrou na Companhia a 28 de Outubro de 1666 e embarcou para a Índia a 22 de Abril de 1668, ainda noviço («Ir. Francisco Simóes, Novize», W 1107 — 96.ª expedição). Esteve mais de vinte anos na Índia antes de chegar a **Macau em 1690** (SF V, 221); em 1691 estava em Nanquim e Xangai (JS 134, 375); em 1692 no Shantung; em 1693 em Chengting (Hopei); em 1694 no Kiang-nan (Goa 27, 107). Fez os 4 votos em **Goa, casa professa, a 2 de Fevereiro de 1685** (Lus. 10, 254). Morreu em Pequim a 5 de Maio de 1694 (JS 116a, 287v; SF V, 248; Planchet, p. 168). O lugar do noviciado não está documentado: não há catálogo da província para 1666-1668.
+Francisco Simões (nos documentos latinos: Franciscus Simois/Simoens), nascido a 8 de Setembro de 1650, entrou na Companhia a 28 de Outubro de 1666 e embarcou para a Índia a 22 de Abril de 1668, ainda noviço («Ir. Francisco Simóes, Novize», W 1107 — 96.ª expedição). Esteve mais de vinte anos na Índia antes de chegar a **Macau em 1690** (SF V, 221); em 1691 estava em Nanquim e Xangai (JS 134, 375); em 1692 no Shantung; em 1693 em Chengting (Hopei); em 1694 no Kiang-nan (Goa 27, 107). Fez os 4 votos em **Goa, casa professa, a 2 de Fevereiro de 1685** (Lus. 10, 254). Morreu em Pequim a 5 de Maio de 1694 (JS 116a, 287v; SF V, 248; Planchet, p. 168). O lugar do noviciado não está documentado: não há catálogo da província para 1666-1668. O Pfister (notice 180) acrescenta que, chegando às Índias em 1668 antes de terminar o noviciado, aí completou os estudos e **ensinou teologia durante sete anos**, pregando depois ao povo; e dá a profissão dos 4 votos a **15 de Agosto de 1681** — divergindo do registo de votos de Goa (Lus. 10, 254: 2 de Fevereiro de 1685) que o Dehergne cita.
 
 ## 3. Cronologia (base Timelink)
 
@@ -110,9 +110,21 @@ A data exacta do Dehergne (28 de Outubro de 1666), sem cota de catálogo da Lusi
 
 Procurou-se informação no arquivo sobre os anos de Índia (1668-1690): o registo de embarque (W 1107 — «Ir. Francisco Simóes, Novize»), as crónicas e os catálogos de Goa **não estão digitalizados** neste arquivo; as colecções disponíveis (Documenta Indica, Schütte, Documentação do Padroado) não chegam a este período ou não o mencionam. As únicas referências são as que o Dehergne cita (SF V; JS 134; JA 49-V-22; Goa 27), que não possuímos.
 
+### 4.5 5. O Pfister (notice 180) e a Lettres édifiantes no arquivo
+
+O Pfister dedica-lhe a **notice 180** (doc 47, p. 500 da digitalização = impressa **461**, que é a cota «Pf. 461» do Dehergne):
+
+> «Le P. François Simoïs — 郭天爵良貴 KOUO T'IEN-TSIO LIANG-KOEI. N. 8 sept. 1650. — E. 28 oct. 1666. — A. 1690. — **P. 15 août 1681**. — M. 5 mai 1694, Pékin. … en 1668, **avant la fin de son noviciat, il s'embarqua pour les Indes**, où, après avoir terminé le cours de ses études, **il enseigna la théologie pendant sept ans** … Il y travaillait avec zèle depuis deux ans dans la ville de **Tcheng-ting**, où il avait baptisé en une seule année **plus de 1.000 personnes** (rapport du P. François Noël au T. R. P. Général, 1703, dans: *Lettres édif.*, t. III, p. 73 et *Welt-Bott*, n.º 83) …»
+
+— Louis Pfister, *Notices biographiques et bibliographiques…* (doc 47), notice 180, p. 500 (impressa 461).
+
+Três consequências: (1) confirma as datas do Dehergne e o embarque ainda noviço; (2) dá o conteúdo dos anos de Índia que faltavam — sete anos de ensino de teologia; (3) diverge na profissão: **1681 (Pfister)** vs **1685 (Lus. 10, 254)**.
+
+**Lettres édifiantes**: o arquivo tem a edição Mérigot, mas apenas os **vols. 22 e 23** («Mémoires de la Chine»), que cobrem as cartas de **1750-1760** — não a carta de 1703 (relatório de François Noël) que o Pfister cita na edição antiga (t. III, p. 73). Essa passagem não é verificável nesta cópia.
+
 ### O que não foi encontrado
 
-O noviciado não está documentado: não há catálogo da província para 1666-1668 (Lus. 45 acaba em 1665; Lus. 46 começa em 1675) e o Dehergne não cita qualquer cota da Lusitânia para a entrada. Procurou-se no arquivo (Documenta Indica, Schütte, Documentação do Padroado, catálogos jesuítas) e não há menção a este homem no período indiano; as fontes citadas pelo Dehergne (SF V, JS 134, JA 49-V-22, Goa 27, Lus. 10) não estão digitalizadas aqui. A atribuição a Lisboa (média) assenta na instituição: em 1665 todos os noviços estavam na Domus Probationis de Lisboa e Évora estava suprimida.
+O noviciado não está documentado: não há catálogo da província para 1666-1668 (Lus. 45 acaba em 1665; Lus. 46 começa em 1675) e o Dehergne não cita qualquer cota da Lusitânia para a entrada. Procurou-se no arquivo (Documenta Indica, Schütte, Documentação do Padroado, catálogos jesuítas) e não há menção a este homem no período indiano; as fontes citadas pelo Dehergne (SF V, JS 134, JA 49-V-22, Goa 27, Lus. 10) não estão digitalizadas aqui. A atribuição a Lisboa (média) assenta na instituição: em 1665 todos os noviços estavam na Domus Probationis de Lisboa e Évora estava suprimida. O Pfister (notice 180) não dá o lugar do noviciado — apenas diz que se embarcou «avant la fin de son noviciat», e que o terminou nas Índias. A Lettres édifiantes do arquivo (Mérigot, vols. 22-23) cobre 1750-1760 e não inclui a carta de 1703 (Noël) que o Pfister cita.
 
 ## 5. Evidência
 
@@ -128,6 +140,8 @@ O noviciado não está documentado: não há catálogo da província para 1666-1
   - «1107. Ir. Francisco Simóes, Novize, Port.» no rol de 1668: embarcou ainda noviço
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), verbete «Simões (Simõis), Francisco» — base Timelink · `python3 tools/packet.py deh-francisco-simoes` · prova contextual
   - E. 28 de Outubro de 1666, embarque de 22 de Abril de 1668 (W 1107) e biografia chinesa
+- Louis Pfister, *Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine* (doc 47), notice 180 «Le P. François Simoïs», p. 500 da digitalização (impressa **461**): «N. 8 sept. 1650. — E. 28 oct. 1666. — A. 1690. — P. 15 août 1681. — M. 5 mai 1694, Pékin … en 1668, avant la fin de son noviciat, il s'embarqua pour les Indes, où … il enseigna la théologie pendant sept ans …» — edited (`french-ocr`) · `pha page 47 500 --edited` · prova direta
+  - confirma as datas e o embarque antes do fim do noviciado; dá os anos de Índia (sete anos de ensino de teologia) e a profissão em 1681 (vs 1685 no registo de Goa)
 
 ## 6. Referências
 
@@ -136,6 +150,7 @@ O noviciado não está documentado: não há catálogo da província para 1666-1
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
+- **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)
 
 ---
 
