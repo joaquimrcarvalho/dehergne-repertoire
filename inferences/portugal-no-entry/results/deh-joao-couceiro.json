@@ -2,12 +2,12 @@
  "id": "deh-joao-couceiro",
  "name": "João Couceiro",
  "lugar": "Coimbra (inferido)",
- "data": "1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111)",
+ "data": "1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111)",
  "confianca": "média",
  "sugestao_tabela": "Coimbra (valor da coluna «jesuita-entrada» da tabela [[0 Portugal no entry]]; o nome não tem sugestão apensa)",
  "validacao": "Sugestão «Coimbra» compatível, mas assente em inferência, não em prova directa. A cota de Dehergne — «Lus. 45, 180» — foi finalmente localizada: é o f. 180 do catálogo do Colégio de Coimbra de 1655, onde ele é o n.º 111. Essa página prova a data (1649) e a residência em Coimbra em 1655; não diz onde fez o noviciado. Em 1649 havia noviços em Lisboa (Domus Probationis Ulyssiponensis, nn. 423-454) e em Coimbra (Colégio de Coimbra, nn. 199-211), e ele não consta de nenhum dos dois porque entrou depois de o catálogo de 1649 ser feito — tal como se esperava.",
  "resumo": "A cota citada por Dehergne para a entrada de 1649 existe e foi lida: no f. 180 do Lus. 45 (catálogo do Colégio de Coimbra de 1655) está o n.º 111, «Fr. Ioannes Couceiro, Tentugal, 22, 6, Bone, Philosoph. ex 2º» — 22 anos e 6 de Companhia em 1655, isto é, entrada em 1649, e natural de Tentúgal, como diz Dehergne. O lugar de entrada não é declarado por nenhum documento: em 1649 o noviciado fazia-se em Lisboa (Casa de Provação, 42 pessoas) ou no Colégio de Coimbra (13 noviços), e Couceiro não aparece em nenhum dos dois (entrou depois de o catálogo ser feito). Natural da diocese de Coimbra e residente no Colégio de Coimbra em 1655, a hipótese mais provável é o noviciado de Coimbra; fica a confiança média e o registo de que Lisboa não pode ser excluída.",
- "biografia": "João Couceiro nasceu em Tentúgal (Tancugal), diocese de Coimbra, em 1633. Segundo Dehergne, entrou na Companhia em 1649. Em 1655 era estudante do 2.º ano de filosofia no Colégio de Coimbra, com 22 anos e 6 de Companhia (ARSI, Lus. 45, f. 180, n.º 111). Embarcou a 4 de Abril de 1657 no *Bom Jesus* (W 1041); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Morreu por volta de 1660, em Goa (Dehergne; não consta de HS 48). Pfister inclui-o entre os dezoito missionários destinados à China que morreram antes de a alcançar: «enfin, en 1659, à Goa, Jean Couceiro, Antoine Preto, Jean de Figueredo, François Velho et le Fr. coadjuteur Amator Fernandes, tous portugais» (doc 47, p. 368).",
+ "biografia": "João Couceiro nasceu em Tentúgal (Tancugal), diocese de Coimbra, em 1633. Segundo Dehergne, entrou na Companhia em 1649. Em 1654 era estudante de filosofia no Colégio de Coimbra, com 21 anos e 5 de Companhia (catálogo de 1654, f. 78, n.º 106); em 1655 estava no 2.º ano de filosofia, com 22 anos e 6 de Companhia (ARSI, Lus. 45, f. 180, n.º 111). Embarcou a 4 de Abril de 1657 no *Bom Jesus* (W 1041); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Morreu por volta de 1660, em Goa (Dehergne; não consta de HS 48). Pfister inclui-o entre os dezoito missionários destinados à China que morreram antes de a alcançar: «enfin, en 1659, à Goa, Jean Couceiro, Antoine Preto, Jean de Figueredo, François Velho et le Fr. coadjuteur Amator Fernandes, tous portugais» (doc 47, p. 368).",
  "analise": [
   {
    "titulo": "A cota de Dehergne localizada: Lus. 45, f. 180, n.º 111",
@@ -19,7 +19,7 @@
   },
   {
    "titulo": "A inferência: Coimbra",
-   "texto": "O que resta é convergente, mas indirecto:\n\n- nasceu em **Tentúgal, diocese de Coimbra**, e entrou aos 16 anos;\n- o **Colégio de Coimbra era casa de noviciado** em 1649 (treze noviços, ff. 12v-13) e continuava a sê-lo em 1655 (os «Novitij» do f. 181);\n- em 1655 estava **no Colégio de Coimbra**, no 2.º ano de filosofia — ou seja, permaneceu em Coimbra para os estudos logo depois do noviciado.\n\nA favor de Coimbra joga também a geografia da formação portuguesa: o noviciado de Coimbra servia a diocese e a região de origem. Contra, há um dado que impede a certeza: em 1649 o noviciado de Lisboa (Domus Probationis) era o maior da província e recebia noviços de todas as dioceses, inclusive da de Coimbra (Dominicus Godim, Gregorius Pacheco, Emmanuel Pinheiro, Ioannes Vieyra, Emmanuel Nunez). Não há documento que decida entre as duas casas.\n\nConclusão: **Coimbra**, com confiança **média** — residência na casa de noviciado alguns anos depois da entrada e origem na sua diocese, sem prova directa."
+   "texto": "O que resta é convergente, mas indirecto:\n\n- nasceu em **Tentúgal, diocese de Coimbra**, e entrou aos 16 anos;\n- o **Colégio de Coimbra era casa de noviciado** em 1649 (treze noviços, ff. 12v-13) e continuava a sê-lo em 1655 (os «Novitij» do f. 181);\n- em 1655 estava **no Colégio de Coimbra**, no 2.º ano de filosofia — ou seja, permaneceu em Coimbra para os estudos logo depois do noviciado.\n\nO catálogo de **1654** confirma a residência contínua: o «Catalogus primus Collegij Conimbricensis» desse ano (título no f. 75) lista-o na secção «Qui sequuntur, sunt actualiter auditores Philosophiae» (f. 78, n.º 106) — «Fr. João Couceiro — Tentugal — 21 — 5 — bona» —, isto é, já estudante de filosofia no colégio e com **5 anos de Companhia** (entrada em 1649, como Dehergne). O que continua sem documento é o **noviciado**: em 1654-55 ele é estudante, não noviço, e o catálogo não diz onde passou os dois anos de provação.\n\nA favor de Coimbra joga também a geografia da formação portuguesa: o noviciado de Coimbra servia a diocese e a região de origem. Contra, há um dado que impede a certeza: em 1649 o noviciado de Lisboa (Domus Probationis) era o maior da província e recebia noviços de todas as dioceses, inclusive da de Coimbra (Dominicus Godim, Gregorius Pacheco, Emmanuel Pinheiro, Ioannes Vieyra, Emmanuel Nunez). Não há documento que decida entre as duas casas.\n\nConclusão: **Coimbra**, com confiança **média** — residência na casa de noviciado alguns anos depois da entrada e origem na sua diocese, sem prova directa."
   }
  ],
  "evidencias": [
@@ -28,6 +28,12 @@
    "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg\"",
    "o_que_prova": "confirma a data de entrada (6 anos de Companhia em 1655 ⇒ 1649), a naturalidade (Tentúgal) e a residência em Coimbra em 1655 (2.º ano de filosofia); não dá a casa do noviciado",
    "forca": "direta (para a data e a residência), negativa (para o lugar)"
+  },
+  {
+   "citacao": "ARSI, *Lus. 45*, «Catalogus primus Collegij Conimbricensis, Anno 1654», f. 78, n.º 106 (secção «Qui sequuntur, sunt actualiter auditores Philosophiae»): «Fr. João Couceiro — Tentugal — 21 — 5 — bona» — imagem `LUS. 45/078.jpg`",
+   "comando": "open \"/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/078.jpg\"",
+   "o_que_prova": "residência em Coimbra em 1654, como estudante de filosofia, com 5 anos de Companhia ⇒ entrada em 1649 (confirma a data de Dehergne); o título do catálogo («Catalogus primus Collegij Conimbricensis», f. 75) fixa a casa",
+   "forca": "direta (data e residência); indireta (noviciado)"
   },
   {
    "citacao": "ARSI, *Lus. 45*, f. 177, título do catálogo: «Catalogus primus Collegii Conimbricensis / Annus 1655» — imagem `LUS. 45/177.jpg`",
@@ -81,6 +87,7 @@
  "nao_encontrado": "O lugar de entrada não está declarado em nenhuma fonte lida. Procurou-se (1) no catálogo de 1649 — os dois blocos de noviços da província, Lisboa (f. 20v-21v, nn. 423-454) e Coimbra (f. 12v-13, nn. 199-211), não o incluem; (2) no catálogo de 1655, que o situa em Coimbra como estudante, não como noviço; (3) no catálogo trans-tagano de 1651 (ff. 57-64v), que é da outra parte da província (ele era da parte cis-tagana); (4) em Dehergne (doc 65), Wicki (doc 66), Pfister (docs 47 e 50) e Franco (docs 52-55), que não dão o noviciado (o apelido «Couceiro» não ocorre em Franco). Ficaram por ler, como pista para uma próxima passagem: o catálogo de 1654 (Lus. 45, ff. 75-84, bloco de Coimbra) e o «Elenchus personarum in Collegio Conimbricensi adhibitarum a 29.9.1651-29.9.1654» (f. 169), que poderiam mostrar quando chegou a Coimbra e, por eliminação, apertar a hipótese do noviciado.",
  "refs_obsidian": [
   "[[0 Portugal no entry]]",
-  "[[deh-joao-couceiro]]"
+  "[[deh-joao-couceiro]]",
+  "[[João Couceiro]]"
  ]
 }

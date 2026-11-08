@@ -5,7 +5,7 @@ name: João Couceiro
 dehergne_no: 220
 nationality: Portugal
 entry_place: Coimbra (inferido)
-entry_date: "1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111)"
+entry_date: "1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111)"
 confidence: média
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
@@ -14,7 +14,7 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # João Couceiro (`deh-joao-couceiro`)
 
-**Lugar de entrada: Coimbra (inferido)** — 1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111) (confiança: **média**).
+**Lugar de entrada: Coimbra (inferido)** — 1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111) (confiança: **média**).
 
 > Sugestão na tabela [[0 Portugal no entry]]: **Coimbra (valor da coluna «jesuita-entrada» da tabela [[0 Portugal no entry]]; o nome não tem sugestão apensa)** — Sugestão «Coimbra» compatível, mas assente em inferência, não em prova directa. A cota de Dehergne — «Lus. 45, 180» — foi finalmente localizada: é o f. 180 do catálogo do Colégio de Coimbra de 1655, onde ele é o n.º 111. Essa página prova a data (1649) e a residência em Coimbra em 1655; não diz onde fez o noviciado. Em 1649 havia noviços em Lisboa (Domus Probationis Ulyssiponensis, nn. 423-454) e em Coimbra (Colégio de Coimbra, nn. 199-211), e ele não consta de nenhum dos dois porque entrou depois de o catálogo de 1649 ser feito — tal como se esperava.
 
@@ -37,7 +37,7 @@ A cota citada por Dehergne para a entrada de 1649 existe e foi lida: no f. 180 d
 | Dehergne, entrada (`E.`) | 1649 |
 | Base Timelink (actual) | `?` / 1649 |
 | Tabela Obsidian (sugestão) | Coimbra (valor da coluna «jesuita-entrada» da tabela [[0 Portugal no entry]]; o nome não tem sugestão apensa) |
-| **Proposta desta nota** | **Coimbra (inferido)** — 1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111) (média) |
+| **Proposta desta nota** | **Coimbra (inferido)** — 1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111) (média) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -47,7 +47,7 @@ Dehergne (doc 65, nº 220) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-João Couceiro nasceu em Tentúgal (Tancugal), diocese de Coimbra, em 1633. Segundo Dehergne, entrou na Companhia em 1649. Em 1655 era estudante do 2.º ano de filosofia no Colégio de Coimbra, com 22 anos e 6 de Companhia (ARSI, Lus. 45, f. 180, n.º 111). Embarcou a 4 de Abril de 1657 no *Bom Jesus* (W 1041); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Morreu por volta de 1660, em Goa (Dehergne; não consta de HS 48). Pfister inclui-o entre os dezoito missionários destinados à China que morreram antes de a alcançar: «enfin, en 1659, à Goa, Jean Couceiro, Antoine Preto, Jean de Figueredo, François Velho et le Fr. coadjuteur Amator Fernandes, tous portugais» (doc 47, p. 368).
+João Couceiro nasceu em Tentúgal (Tancugal), diocese de Coimbra, em 1633. Segundo Dehergne, entrou na Companhia em 1649. Em 1654 era estudante de filosofia no Colégio de Coimbra, com 21 anos e 5 de Companhia (catálogo de 1654, f. 78, n.º 106); em 1655 estava no 2.º ano de filosofia, com 22 anos e 6 de Companhia (ARSI, Lus. 45, f. 180, n.º 111). Embarcou a 4 de Abril de 1657 no *Bom Jesus* (W 1041); em 1660 estava em Goa, mas sujeito à vice-província da China (JS 134, 344). Morreu por volta de 1660, em Goa (Dehergne; não consta de HS 48). Pfister inclui-o entre os dezoito missionários destinados à China que morreram antes de a alcançar: «enfin, en 1659, à Goa, Jean Couceiro, Antoine Preto, Jean de Figueredo, François Velho et le Fr. coadjuteur Amator Fernandes, tous portugais» (doc 47, p. 368).
 
 ## 3. Cronologia (base Timelink)
 
@@ -99,6 +99,8 @@ O que resta é convergente, mas indirecto:
 - o **Colégio de Coimbra era casa de noviciado** em 1649 (treze noviços, ff. 12v-13) e continuava a sê-lo em 1655 (os «Novitij» do f. 181);
 - em 1655 estava **no Colégio de Coimbra**, no 2.º ano de filosofia — ou seja, permaneceu em Coimbra para os estudos logo depois do noviciado.
 
+O catálogo de **1654** confirma a residência contínua: o «Catalogus primus Collegij Conimbricensis» desse ano (título no f. 75) lista-o na secção «Qui sequuntur, sunt actualiter auditores Philosophiae» (f. 78, n.º 106) — «Fr. João Couceiro — Tentugal — 21 — 5 — bona» —, isto é, já estudante de filosofia no colégio e com **5 anos de Companhia** (entrada em 1649, como Dehergne). O que continua sem documento é o **noviciado**: em 1654-55 ele é estudante, não noviço, e o catálogo não diz onde passou os dois anos de provação.
+
 A favor de Coimbra joga também a geografia da formação portuguesa: o noviciado de Coimbra servia a diocese e a região de origem. Contra, há um dado que impede a certeza: em 1649 o noviciado de Lisboa (Domus Probationis) era o maior da província e recebia noviços de todas as dioceses, inclusive da de Coimbra (Dominicus Godim, Gregorius Pacheco, Emmanuel Pinheiro, Ioannes Vieyra, Emmanuel Nunez). Não há documento que decida entre as duas casas.
 
 Conclusão: **Coimbra**, com confiança **média** — residência na casa de noviciado alguns anos depois da entrada e origem na sua diocese, sem prova directa.
@@ -111,6 +113,8 @@ O lugar de entrada não está declarado em nenhuma fonte lida. Procurou-se (1) n
 
 - ARSI, *Lus. 45*, «Catalogus primus Collegii Conimbricensis, Annus 1655», f. 180, n.º 111: «Fr. Ioannes Couceiro. Tentugal. 22. 6. Bone. Philosoph. ex 2º» — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/180.jpg"` · prova direta (para a data e a residência), negativa (para o lugar)
   - confirma a data de entrada (6 anos de Companhia em 1655 ⇒ 1649), a naturalidade (Tentúgal) e a residência em Coimbra em 1655 (2.º ano de filosofia); não dá a casa do noviciado
+- ARSI, *Lus. 45*, «Catalogus primus Collegij Conimbricensis, Anno 1654», f. 78, n.º 106 (secção «Qui sequuntur, sunt actualiter auditores Philosophiae»): «Fr. João Couceiro — Tentugal — 21 — 5 — bona» — imagem `LUS. 45/078.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/078.jpg"` · prova direta (data e residência); indireta (noviciado)
+  - residência em Coimbra em 1654, como estudante de filosofia, com 5 anos de Companhia ⇒ entrada em 1649 (confirma a data de Dehergne); o título do catálogo («Catalogus primus Collegij Conimbricensis», f. 75) fixa a casa
 - ARSI, *Lus. 45*, f. 177, título do catálogo: «Catalogus primus Collegii Conimbricensis / Annus 1655» — imagem `LUS. 45/177.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/177.jpg"` · prova direta
   - identifica a casa do fólio onde está o assento (Colégio de Coimbra) — leitura regressiva ao cabeçalho da casa
 - ARSI, *Lus. 45*, f. 12v-13, «Novitii» do Colégio de Coimbra no catálogo de 1649, nn. 199-211 — imagens `LUS. 45/012v.jpg` e `LUS. 45/013.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/012v.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/013.jpg"` · prova indireta
@@ -132,6 +136,7 @@ O lugar de entrada não está declarado em nenhuma fonte lida. Procurou-se (1) n
 
 - [[0 Portugal no entry]]
 - [[deh-joao-couceiro]]
+- [[João Couceiro]]
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
 - **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 - **doc 47** — Pfister, Louis. Notices biographiques et bibliographiques sur les Jésuites de l'ancienne Mission de Chine : 1552-1773. (1932,1934). (fetched-from-zotero-unverified)

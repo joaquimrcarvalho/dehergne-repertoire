@@ -114,7 +114,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-jose-de-almeida-ii]] | José de Almeida | 21 | — | **Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)** | 1684-04-16 | média |
 | [[deh-joao-cabral]] | João Cabral | 126 | ? viajou com | **Coimbra (Colégio de Jesus — noviciado)** | 1615-06-13 | média |
 | [[deh-joao-cardoso]] | João Cardoso | 140 | Não é referido por Dehergne nos catálogos, apenas na lista das profissões de voto, mas está em LUS-44-II-584v | **Coimbra** | 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39) | média |
-| [[deh-joao-couceiro]] | João Couceiro | 220 | — | **Coimbra (inferido)** | 1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111) | média |
+| [[deh-joao-couceiro]] | João Couceiro | 220 | — | **Coimbra (inferido)** | 1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111) | média |
 | [[deh-joao-duarte]] | João Duarte | 266 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
 | [[deh-joao-francisco-cardoso]] | João Francisco Cardoso | 141 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 22 de Dezembro de 1692 (Dehergne; confirmado pela data de entrada do noviço «Fr. Franciscus Cardozo», n.º 420 da lista de noviços de 1693) | média |
 | [[deh-joao-nunes]] | João Nunes | 590 | talvez Coimbra incerto | **— não determinado —** | hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636) | média |
