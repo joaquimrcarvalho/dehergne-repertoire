@@ -1,12 +1,12 @@
 {
  "id": "deh-andre-pereira",
  "name": "André Pereira (Andrew Jackson)",
- "lugar": "Évora (inferido)",
+ "lugar": null,
  "data": "17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707»)",
- "confianca": "baixa",
+ "confianca": "nenhuma",
  "sugestao_tabela": "nenhuma (célula vazia na coluna jesuita-entrada)",
- "validacao": "Data confirmada; casa do noviciado NÃO documentada. No catálogo da província de 1711 (Lus. 47, f. 133v, n.º 363) André Pereira é escolar de filosofia (2.º ano) no bloco de Évora, com «ingressus Societ. 17 Jun. 1707» — quatro anos depois da entrada, portanto casa de estudos e não de noviciado. As três listas de noviços do mesmo catálogo (Coimbra, ff. 127v-128; Évora, f. 135; Lisboa, ff. 142v-143v) só abrangem admissões a partir de 1 de Janeiro de 1709 (T3, f. 163) e não existe no volume catálogo de 1708, pelo que o bienário de 1707-1709 não está documentado. Atribui-se **Évora por inferência** (baixa): era casa de noviciado (anexo) activa em 1711 e é a casa em que ele residia em 1711 e onde se formou (M. A. pela Universidade de Évora). Lisboa e Coimbra não estão excluídas.",
- "resumo": "A data de entrada (17 de Junho de 1707) confirma-se no catálogo da província de 1711: «Fr. André Pereyra … ingressus Societ. 17 Jun. 1707 … Philosophiae 2i anni» (Lus. 47, f. 133v, n.º 363). Mas esse assento, quatro anos posterior à entrada, é de **escolar de filosofia** no colégio de **Évora** — é a casa de estudos, não a do noviciado. A casa do noviciado não se apura com este volume: as listas de noviços de 1711 (Coimbra, Évora e Lisboa) só cobrem admissões a partir de 1 de Janeiro de 1709 e não há catálogo de 1708. A entrada em **Évora** é a hipótese mais provável — Évora tinha noviciado anexo, activo em 1711, e foi a casa da sua formação (M. A. pela Universidade de Évora) —, mas assenta em inferência: confiança **baixa**.",
+ "validacao": "NÃO DETERMINADO (decisão do investigador, 2026-11-08). A atribuição anterior a Évora (inferida pela residência no colégio em 1711, Lus. 47 f. 133v n.º 363) foi rejeitada: «Não há informação suficiente. Biografia irrelevante.» Não há lista de noviços de 1707-09 nem outro documento que fixe a casa de entrada; a residência de 1711 é posterior ao noviciado. Lugar: **não determinado**; confiança **nenhuma**.",
+ "resumo": "André Pereira (Andrew Jackson), natural do Porto (1689), entrou na Companhia em 17 de Junho de 1707. Em 1711 estava no colégio de Évora (Lus. 47, f. 133v, n.º 363) — mas isso é residência, não noviciado, e não há lista de noviços de 1707-09 que o nomeie. Por decisão do investigador (2026-11-08), a inferência anterior para Évora foi retirada: **não determinado**, informação insuficiente.",
  "biografia": "N. Porto, 4 de Fevereiro de 1689 (ou 1690; de pais ingleses — também chamado Andrew Jackson). Entrou na Companhia em Portugal a 17 de Junho de 1707 (ou 18 de Julho de 1707) e formou-se em Évora: em 1711 era escolar de filosofia (2.º ano) no colégio eborense (ARSI Lus. 47, f. 133v, n.º 363); Mestre em Artes pela Universidade de Évora. Embarcou a 14 de Março de 1716 em navio directo a Macau (Wicki n.º 1606), onde chegou a 31 de Agosto. Em Cantão em 1716 e 1722; em Pequim a 5 de Setembro de 1724. Tomou os 4 votos em Cantão a 18 de Junho de 1724 (ARSI Lus. 14 II, 244). Em 1727 nomeado assessor do P. Kogler no Tribunal das Matemáticas, e mandarim. Duas vezes vice-provincial da China (1729-1732 e 1735-1741). Membro da Academia das Ciências de S. Petersburgo (1736). Morreu em Pequim a 2 de Dezembro de 1743. Distinto do provincial de Goa André Pereira (n. 1682, Évora, E. 1698 em Évora).",
  "analise": [
   {
@@ -76,5 +76,10 @@
  "refs_obsidian": [
   "[[0 Portugal no entry]]",
   "[[deh-andre-pereira]]"
- ]
+ ],
+ "revisao": {
+  "data": "2026-11-08",
+  "decisao": "NÃO",
+  "nota": "«Não há informação suficiente. Biografia irrelevante.» — o investigador não aceita a inferência para Évora; o caso passa a não determinado."
+ }
 }

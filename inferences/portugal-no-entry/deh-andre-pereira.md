@@ -4,9 +4,9 @@ person_id: deh-andre-pereira
 name: André Pereira
 dehergne_no: 615
 nationality: Portugal
-entry_place: Évora (inferido)
+entry_place: não determinado
 entry_date: "17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707»)"
-confidence: baixa
+confidence: nenhuma
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,11 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # André Pereira (`deh-andre-pereira`)
 
-**Lugar de entrada: Évora (inferido)** — 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707») (confiança: **baixa**).
+**Lugar de entrada: não determinado** — 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707») (confiança: **nenhuma**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma (célula vazia na coluna jesuita-entrada)** — Data confirmada; casa do noviciado NÃO documentada. No catálogo da província de 1711 (Lus. 47, f. 133v, n.º 363) André Pereira é escolar de filosofia (2.º ano) no bloco de Évora, com «ingressus Societ. 17 Jun. 1707» — quatro anos depois da entrada, portanto casa de estudos e não de noviciado. As três listas de noviços do mesmo catálogo (Coimbra, ff. 127v-128; Évora, f. 135; Lisboa, ff. 142v-143v) só abrangem admissões a partir de 1 de Janeiro de 1709 (T3, f. 163) e não existe no volume catálogo de 1708, pelo que o bienário de 1707-1709 não está documentado. Atribui-se **Évora por inferência** (baixa): era casa de noviciado (anexo) activa em 1711 e é a casa em que ele residia em 1711 e onde se formou (M. A. pela Universidade de Évora). Lisboa e Coimbra não estão excluídas.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma (célula vazia na coluna jesuita-entrada)** — NÃO DETERMINADO (decisão do investigador, 2026-11-08). A atribuição anterior a Évora (inferida pela residência no colégio em 1711, Lus. 47 f. 133v n.º 363) foi rejeitada: «Não há informação suficiente. Biografia irrelevante.» Não há lista de noviços de 1707-09 nem outro documento que fixe a casa de entrada; a residência de 1711 é posterior ao noviciado. Lugar: **não determinado**; confiança **nenhuma**.
 
-A data de entrada (17 de Junho de 1707) confirma-se no catálogo da província de 1711: «Fr. André Pereyra … ingressus Societ. 17 Jun. 1707 … Philosophiae 2i anni» (Lus. 47, f. 133v, n.º 363). Mas esse assento, quatro anos posterior à entrada, é de **escolar de filosofia** no colégio de **Évora** — é a casa de estudos, não a do noviciado. A casa do noviciado não se apura com este volume: as listas de noviços de 1711 (Coimbra, Évora e Lisboa) só cobrem admissões a partir de 1 de Janeiro de 1709 e não há catálogo de 1708. A entrada em **Évora** é a hipótese mais provável — Évora tinha noviciado anexo, activo em 1711, e foi a casa da sua formação (M. A. pela Universidade de Évora) —, mas assenta em inferência: confiança **baixa**.
+André Pereira (Andrew Jackson), natural do Porto (1689), entrou na Companhia em 17 de Junho de 1707. Em 1711 estava no colégio de Évora (Lus. 47, f. 133v, n.º 363) — mas isso é residência, não noviciado, e não há lista de noviços de 1707-09 que o nomeie. Por decisão do investigador (2026-11-08), a inferência anterior para Évora foi retirada: **não determinado**, informação insuficiente.
 
 ## Identificação
 
@@ -37,7 +37,7 @@ A data de entrada (17 de Junho de 1707) confirma-se no catálogo da província d
 | Dehergne, entrada (`E.`) | 17 juin 1707 |
 | Base Timelink (actual) | `?` / 17070617 |
 | Tabela Obsidian (sugestão) | nenhuma (célula vazia na coluna jesuita-entrada) |
-| **Proposta desta nota** | **Évora (inferido)** — 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707») (baixa) |
+| **Proposta desta nota** | **não determinado** — 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707») (nenhuma) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 

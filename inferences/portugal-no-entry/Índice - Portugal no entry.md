@@ -12,7 +12,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **47** · **média**: **38** · **baixa**: **11** · **não determinado**: **14**
+- lugar proposto com confiança **alta**: **47** · **média**: **38** · **baixa**: **10** · **não determinado**: **15**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
@@ -21,7 +21,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 |---|---:|
 | Coimbra | 40 |
 | Lisboa | 40 |
-| Évora | 14 |
+| Évora | 13 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
 
 ## Achados transversais
@@ -135,7 +135,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-pedro-de-figueiredo-ii]] | Pedro de Figueiredo | 313 | — | **«in mari» — admitido a bordo, na viagem de Portugal para a Índia (sem casa de noviciado em Portugal)** | 1716-03-13 | média |
 | [[deh-pedro-de-francisco]] | Pedro de Francisco | 335 | cursa em Coimbra 1587 | **Coimbra** | 1581 (c. agosto; a tabela dizia 1588) | média |
 | [[deh-rui-barreto]] | Rui Barreto | 79 | Coimbra | **Coimbra** | 1568-12-28 | média |
-| [[deh-andre-pereira]] | André Pereira | 615 | — | **Évora (inferido)** | 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707») | baixa |
 | [[deh-antonio-preto]] | António Preto | 662 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca** | 1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia) | baixa |
 | [[deh-antonio-rodrigues-ii]] | António Rodrigues | 699a | Coimbra | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1624 (Dehergne); c. 1625 segundo o catálogo de 1633 (8 anos de Companhia em Maio de 1633) | baixa |
 | [[deh-francisco-pereira]] | Francisco Pereira | 619 | ? | **Lisboa (Casa de Provação do Monte Olivete) — por inferência, não por prova nominal** | 1622 | baixa |
@@ -146,6 +145,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-joao-de-figueiredo]] | João de Figueiredo | 308 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1650 (Dehergne; confirmado pelo catálogo de 1655: 5 anos de Companhia) | baixa |
 | [[deh-pedro-de-lis]] | Pedro de Lis | 475 | — | **Lisboa (noviciado da Companhia na corte) — inferência** | 1649-08-15 | baixa |
 | [[deh-simao-rodrigues]] | Simão Rodrigues | 719 | — | **Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas** | 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia) | baixa |
+| [[deh-andre-pereira]] | André Pereira | 615 | — | **— não determinado —** | 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707») | nenhuma |
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
 | [[deh-jose-soares]] | José Soares | 796 | — | **— não determinado —** | Março de 1673 (Dehergne; «63 anos de Religião» em 1736 confirmam 1673) | nenhuma |
@@ -164,6 +164,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Casos não determinados
 
 - [[deh-joao-nunes]] — João Nunes (entrada 16320000): ver a nota para o que foi procurado e o que falta.
+- [[deh-andre-pereira]] — André Pereira (entrada 17070617): ver a nota para o que foi procurado e o que falta.
 - [[deh-antonio-simoes-i]] — António Simões (entrada 1678): ver a nota para o que foi procurado e o que falta.
 - [[deh-inacio-lobo]] — Inácio Lobo (entrada 1624): ver a nota para o que foi procurado e o que falta.
 - [[deh-jose-soares]] — José Soares (entrada 16730300): ver a nota para o que foi procurado e o que falta.
