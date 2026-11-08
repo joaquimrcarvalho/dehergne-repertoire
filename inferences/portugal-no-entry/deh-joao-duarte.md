@@ -5,7 +5,7 @@ name: João Duarte
 dehergne_no: 266
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação / Monte Olivete)
-entry_date: —
+entry_date: "17 de Julho de 1690 (Dehergne, JS 134, 399v e 435)"
 confidence: média
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
@@ -14,9 +14,9 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # João Duarte (`deh-joao-duarte`)
 
-**Lugar de entrada: Lisboa (Casa de Provação / Monte Olivete)** — — (confiança: **média**).
+**Lugar de entrada: Lisboa (Casa de Provação / Monte Olivete)** — 17 de Julho de 1690 (Dehergne, JS 134, 399v e 435) (confiança: **média**).
 
-O catálogo primeiro da província de Portugal de 1700 (ARSI Lus. 46 a, f. 19, n.º 339) regista «Fr. Ioannes Duarte, ex opp. Monte major Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690, ... Rhetoricus», confirmando a data de Dehergne (17 de Julho de 1690). O mesmo catálogo coloca-o em 1700 em Lisboa (Colégio de S. Antão) — casa de residência, não de entrada. O lugar de entrada não consta de nenhuma fonte disponível.
+João Duarte (Eduardus), natural de Lisboa (27 ou 17 de Novembro de 1671), entrou na Companhia a **17 de Julho de 1690** (Dehergne, JS 134) e embarcou em **1696** (W 1361), chegando à China em 1700. Nessa data o único noviciado da província era o de **Lisboa** (unificação de Junho de 1685, que durou até Dezembro de 1690 — Franco), pelo que o lugar de entrada é **Lisboa (Casa de Provação), confiança média** (regra institucional; não há lista nominal desse ano). **Correcção de 2026-11-08**: o «Fr. Ioannes Duarte» do catálogo de 1700 (Lus. 46 a, f. 19, n.º 339), de Monte Maior, nascido a 29 de Novembro de 1671 e ainda «Rhetoricus» em 1700, é um **homónimo** — não pode ser o nosso, que estava na China em 1700.
 
 ## Identificação
 
@@ -35,7 +35,7 @@ O catálogo primeiro da província de Portugal de 1700 (ARSI Lus. 46 a, f. 19, n
 | Dehergne, entrada (`E.`) | 17 juill |
 | Base Timelink (actual) | `?` / 16900717 |
 | Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **Lisboa (Casa de Provação / Monte Olivete)** — — (média) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação / Monte Olivete)** — 17 de Julho de 1690 (Dehergne, JS 134, 399v e 435) (média) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -45,7 +45,7 @@ Dehergne (doc 65, nº 266) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-João Duarte (Eduardus), natural de Lisboa (27 ou 17 de Novembro de 1671), sacerdote. Entrou na Companhia a 17 de Julho de 1690 (Dehergne; confirmado em Lus. 46 a, f. 19, n.º 339). Em 1700 estudava em Lisboa (Colégio de S. Antão). Embarcou em 1696 (W 1361), chegou à China em 1700, trabalhou em Hunan (1703-1704) e Hukwang (1725, 1740), foi vice-provincial da China (1728-1729) e provincial do Japão (1741-1746). Morreu em Macau a 6 de Janeiro de 1752.
+João Duarte (Eduardus), natural de Lisboa, nascido a 27 (ou 17) de Novembro de 1671, sacerdote; assinava «Joannes Eduardus». Entrou na Companhia a 17 de Julho de 1690 (Dehergne, JS 134, 399v; a JS 134, 435 dá 1689). Embarcou em 1696 (W 1361) e chegou à China a 22 de Abril de 1700 (JS 134, 399v). Trabalhou em Hunan (1703-1704) e Hukwang (1725, 1740), foi vice-provincial da China (1728-1729) e provincial do Japão (1741-1746). Professou os 4 votos a 15 de Agosto de 1706 em Sian tan hien (Lus. 13, 19). Morreu em Macau a 6 de Janeiro de 1752. Não confundir com o «Fr. Ioannes Duarte» de Monte Maior que em 1700 estudava Retórica em Lisboa (Lus. 46 a, f. 19, n.º 339) — homónimo.
 
 ## 3. Cronologia (base Timelink)
 
@@ -83,13 +83,13 @@ João Duarte (Eduardus), natural de Lisboa (27 ou 17 de Novembro de 1671), sacer
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 A data de entrada: ARSI, Lus. 46 a, f. 19, n.º 339 (catálogo de 1700)
+### 4.1 1. A data de entrada (Dehergne) e o homónimo de 1700
 
-«Fr. Ioannes Duarte, ex opp. Monte major Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690, viribus bonis, Rhetoricus.» — a entrada é datada de 17 de Julho de 1690, como em Dehergne. A notícia não diz onde.
+A data de entrada, 17 de Julho de 1690, vem do Dehergne (JS 134, 399v; a JS 134, 435 dá 1689). O assento que eu tinha usado para a «confirmar» — Lus. 46 a, f. 19, n.º 339, no catálogo primeiro de 1700 — diz «Fr. Ioannes Duarte, ex opp. **Monte major**, Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690 … **Rhetoricus**». É um **homónimo**, não ele: natural de Monte Maior (o nosso é de Lisboa), nascido a 29 de Novembro (o nosso a 27 ou 17) e, em 1700, ainda estudante de Retórica — quando o nosso embarcou em **1696** (W 1361) e estava na **China** desde 22 de Abril de 1700 (JS 134, 399v). A coincidência da data de entrada explica-se pela mesma entrada coletiva de 17 de Julho de 1690, no único noviciado então existente.
 
-### 4.2 Em 1700 estava em Lisboa — e isso não é a casa de entrada
+### 4.2 2. O lugar: a regra do noviciado único (Lisboa, Jun. 1685 – Dez. 1690)
 
-No mesmo catálogo (organizado por casas), João Duarte aparece na secção do Colégio de S. Antão, em Lisboa, como «Rhetoricus» — dez anos depois da entrada. Trata-se da casa de residência/estudos em 1700, não do lugar de entrada. Dehergne, aliás, cita para a entrada o fólio 341v de Lus. 46 (catálogo de 1696), não o de 1700.
+Sem lista nominal do ano de 1690, o lugar assenta na regra institucional estabelecida por António Franco (*Imagem da virtude… Évora*, 1714, pp. 49-50): em **Junho de 1685** os três noviciados da província foram reduzidos a um só, na **Casa de Provação de Lisboa**, e assim se manteve «até o anno de 1690»; os de Coimbra e Évora foram restituídos a partir de **Janeiro de 1691**. Quem entrou a 17 de Julho de 1690 foi, portanto, noviço em Lisboa. Confiança **média** (regra institucional, sem assento nominal).
 
 ### 4.3 O que se procurou e não existe
 
@@ -115,8 +115,8 @@ Não foi possível estabelecer o lugar de entrada. Procurou-se, sem resultado: (
 
 ## 5. Evidência
 
-- ARSI, *Lus. 46 a*, f. 19 (catálogo primeiro da província de Portugal, ano 1700), n.os 338-339 — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg"` · prova direta
-  - «Fr. Ioannes Duarte, ex opp. Monte major Dioec. Ulyssiponensi, natus 29 Novembris an. 1671, ingressus Societat. 17 Julii an. 1690, viribus bonis, Rhetoricus» — confirma a data de entrada (17 Jul. 1690) e a naturalidade, mas não nomeia o lugar de entrada; em 1700 estava em Lisboa (Colégio de S. Antão)
+- ARSI, *Lus. 46 a*, f. 19 (catálogo primeiro da província de Portugal, ano 1700), n.os 338-339 — manuscrito ARSI lido directamente na imagem digitalizada · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 46 a/019.jpg"` · prova negativa
+  - HOMÓNIMO: o «Fr. Ioannes Duarte» de Monte Maior, nascido a 29 Nov. 1671 e ainda «Rhetoricus» em 1700, não é o nosso (que embarcou em 1696 e estava na China em 1700); confirma apenas que houve uma entrada coletiva a 17 Jul. 1690
 - Joseph Dehergne, *Répertoire des Jésuites de Chine*, n.º 266 (doc 65), p. 118 — raw (`dehergne-ocr`) · `pha page 65 118` · prova indireta
   - notícia biográfica: «-E. 17 juill. 1690 (1689, selon JS 134, 435). Emb. 1696 (W 1361)» — data e cota, sem lugar
 - António Franco, *Synopsis* (doc 16), p. 491 — raw (`franco-ocr`) · `pha page 16 491` · prova contexto

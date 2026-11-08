@@ -115,7 +115,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-joao-cabral]] | João Cabral | 126 | ? viajou com | **Coimbra (Colégio de Jesus — noviciado)** | 1615-06-13 | média |
 | [[deh-joao-cardoso]] | João Cardoso | 140 | Não é referido por Dehergne nos catálogos, apenas na lista das profissões de voto, mas está em LUS-44-II-584v | **Coimbra** | 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39) | média |
 | [[deh-joao-couceiro]] | João Couceiro | 220 | — | **Coimbra (inferido)** | 1649 (confirmada: 5 anos de Companhia no catálogo de 1654, f. 78, n.º 106; 6 anos no de 1655, f. 180, n.º 111) | média |
-| [[deh-joao-duarte]] | João Duarte | 266 | — | **Lisboa (Casa de Provação / Monte Olivete)** | — | média |
+| [[deh-joao-duarte]] | João Duarte | 266 | — | **Lisboa (Casa de Provação / Monte Olivete)** | 17 de Julho de 1690 (Dehergne, JS 134, 399v e 435) | média |
 | [[deh-joao-nunes]] | João Nunes | 590 | talvez Coimbra incerto | **— não determinado —** | hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636) | média |
 | [[deh-joao-da-veiga]] | João da Veiga | 876 | Goa? | **Évora (Real Colégio do Espírito Santo — noviciado)** | 1614-11-25 | média |
 | [[deh-joao-de-barros]] | João de Barros | 83 | — | **Lisboa (Noviciado de Lisboa)** | 1724-04-02 | média |
