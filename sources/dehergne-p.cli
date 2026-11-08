@@ -1496,13 +1496,21 @@ kleio$gacto2.str/translations=212
          n$Manuel Pinto/id=deh-manuel-pinto-ii
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Frade
-            ls$nascimento/Porto# @wikidata:Q36433/163700000
-            ls$jesuita-entrada/?/16520314
+            ls$nascimento/Porto# @wikidata:Q36433 Dehergne wrong, not Lus. 46, 322/163700000
+            ls$jesuita-entrada/?/16520314# Dehergne wrong, not Lus. 46, 322
             ls$embarque/[Para o Japão]/16910000
             ls$wicky/1307/16910000
             ls$wicky-viagem/114/16910000
             ls$morte/[A caminho do Japão]/16920000
-            ls$dehergne/646/obs=Pinto, Manuel (port.) (II) fr. 646 N. Porto, 1637 -E. 14 mars 1652 (Lus. 46, 322). Emb. pour le Japon en 1691 (W 1307). M. « in itinere ad Jap. vel Sinas, 1692 » (HS 49, 66v).
+            ls$dehergne/646/obs="""
+               Pinto, Manuel (port.) (II) fr. 646
+               N. Porto, 1637 -
+               E. 14 mars 1652 (Lus. 46, 322).
+               Emb. pour le Japon en 1691 (W 1307).
+               M. « in itinere ad Jap. vel Sinas, 1692 » (HS 49, 66v). 
+               [Inconsistent information: Lus. 46, 322 catalogue of 1696
+               after his death. Place of birth and entry date are from the same
+               catalogue, and erroneous]"""
 
          n$Manuel Pinto/id=deh-manuel-pinto-iii
             ls$nacionalidade/Portugal
