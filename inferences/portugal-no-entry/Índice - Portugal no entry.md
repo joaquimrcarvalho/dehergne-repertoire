@@ -12,14 +12,14 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **44** · **média**: **40** · **baixa**: **15** · **não determinado**: **11**
+- lugar proposto com confiança **alta**: **44** · **média**: **39** · **baixa**: **15** · **não determinado**: **12**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
 
 | lugar | nº de pessoas |
 |---|---:|
-| Coimbra | 42 |
+| Coimbra | 41 |
 | Lisboa | 40 |
 | Évora | 15 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
@@ -110,7 +110,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-inacio-da-costa]] | Inácio da Costa | 212 | not ARSI LUS ver Schutte JS | **Lisboa (Casa de Provação do Monte Olivete)** | c. 1621 (4 anos de Companhia no catálogo de 1625) — contra 1617 em Dehergne/Pfister | média |
 | [[deh-jeronimo-rodrigues-senior]] | Jerónimo Rodrigues, sénior | 703 | noviço em Évora em 1585 | **Coimbra** | 1585 | média |
 | [[deh-jose-estevao-de-almeida]] | José Estêvão de Almeida | 24 | ? | **Lisboa (Casa de Provação do Monte Olivete)** | 1628 | média |
-| [[deh-jose-soares]] | José Soares | 796 | — | **Coimbra (noviciado do Colégio de Jesus) — por identificação provável** | Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673) | média |
 | [[deh-jose-de-almeida-ii]] | José de Almeida | 21 | — | **Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)** | 1684-04-16 | média |
 | [[deh-joao-cabral]] | João Cabral | 126 | ? viajou com | **Coimbra (Colégio de Jesus — noviciado)** | 1615-06-13 | média |
 | [[deh-joao-cardoso]] | João Cardoso | 140 | Não é referido por Dehergne nos catálogos, apenas na lista das profissões de voto, mas está em LUS-44-II-584v | **Coimbra** | 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39) | média |
@@ -151,6 +150,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-simao-rodrigues]] | Simão Rodrigues | 719 | — | **Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas** | 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia) | baixa |
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
+| [[deh-jose-soares]] | José Soares | 796 | — | **— não determinado —** | Março de 1673 (Dehergne; «63 anos de Religião» em 1736 confirmam 1673) | nenhuma |
 | [[deh-joao-simoes]] | João Simões | 786 | — | **— não determinado —** | 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) | nenhuma |
 | [[deh-joao-de-abreu]] | João de Abreu | 4 | — | **— não determinado —** | 1648 (Dehergne; «annos duos cum dimidio» de Companhia em 1651 ⇒ entrada em 1648/49) | nenhuma |
 | [[deh-joao-de-seixas]] | João de Seixas | 754 | — | **— não determinado —** | 1727-11-25 (Dehergne) ou 1729-11-25 (Sommervogel; Pfister nota a variante) | nenhuma |
@@ -166,6 +166,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 - [[deh-joao-nunes]] — João Nunes (entrada 16320000): ver a nota para o que foi procurado e o que falta.
 - [[deh-antonio-simoes-i]] — António Simões (entrada 1678): ver a nota para o que foi procurado e o que falta.
 - [[deh-inacio-lobo]] — Inácio Lobo (entrada 1624): ver a nota para o que foi procurado e o que falta.
+- [[deh-jose-soares]] — José Soares (entrada 16730300): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-simoes]] — João Simões (entrada 17340517): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-abreu]] — João de Abreu (entrada 16480000): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-seixas]] — João de Seixas (entrada 17271125): ver a nota para o que foi procurado e o que falta.
