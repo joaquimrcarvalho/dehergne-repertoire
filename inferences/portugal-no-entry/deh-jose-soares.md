@@ -122,7 +122,7 @@ Isto mostra que o Teixeira que continua na província é o homem de 1678 (26 ano
 
 ### 4.4 Conclusão: não determinado
 
-Sem assento de noviço e sem residência documentada no noviciado, o lugar de entrada de José Soares fica **não determinado**; confiança **nenhuma**. O que se sabe: entrou em Março de 1673 (Dehergne + 63 anos de Religião em 1736) e embarcou em 1680. Os noviciados possíveis em 1673 eram Coimbra, Évora e Lisboa, e as listas de noviços que sobrevivem para esse período (1675: Coimbra, f. 451; Évora, a partir do f. 454v; Casa de Provação de Lisboa, f. 456v) não o incluem.
+Sem assento de noviço e sem residência documentada no noviciado, o lugar de entrada de José Soares fica **não determinado**; confiança **nenhuma**. O que se sabe: entrou em Março de 1673 (Dehergne + 63 anos de Religião em 1736) e embarcou em 1680. Os noviciados possíveis em 1673 eram Coimbra, Évora e Lisboa, e as listas de noviços que sobrevivem para esse período (1675: Coimbra, f. 451; Évora, a partir do f. 454v; Casa de Provação de Lisboa, noviços a partir do f. 457) não o incluem.
 
 Pistas para retomar: (1) o catálogo de 1673-74 da província (não existe neste volume); (2) procurar «Josephus Suarez/Soares» no catálogo de 1678 (Lus. 46, ff. 1-21v) — se estiver num colégio, dá a residência, não o noviciado; (3) as listas de noviços de Lisboa e Évora de 1673-75 (não sobrevivem).
 
