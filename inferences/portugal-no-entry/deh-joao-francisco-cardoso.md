@@ -5,10 +5,10 @@ name: João Francisco Cardoso
 dehergne_no: 141
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação / Monte Olivete)
-entry_date: 22 de Dezembro de 1692 (Dehergne; confirmado pela data de entrada do noviço «Fr. Franciscus Cardozo», n.º 420 da lista de noviços de 1693)
+entry_date: "22 de Dezembro de 1692 (Dehergne; confirmado pela data de entrada do noviço «Fr. Franciscus Cardozo», n.º 420 da lista de noviços de 1693)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

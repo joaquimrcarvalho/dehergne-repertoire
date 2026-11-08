@@ -5,10 +5,10 @@ name: Mateus Gago
 dehergne_no: 346
 nationality: Portugal
 entry_place: Coimbra (Colégio de Jesus / noviciado de Coimbra)
-entry_date: 1608 (Dehergne: E. 1608; Schütte: «circa anno 1608»)
+entry_date: "1608 (Dehergne: E. 1608; Schütte: «circa anno 1608»)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

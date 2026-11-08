@@ -5,10 +5,10 @@ name: João Nunes
 dehergne_no: 590
 nationality: Portugal
 entry_place: não determinado
-entry_date: hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636)
+entry_date: "hipótese I: nascido c. 1594, entrada c. 1609 (24 anos de Companhia em 1633; 30 em 1639). Hipótese II: nascido c. 1617 em Lisboa, entrada c. 1632 (4 anos de Companhia em Abril de 1636)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

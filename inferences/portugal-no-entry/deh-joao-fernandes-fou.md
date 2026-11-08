@@ -5,10 +5,10 @@ name: João Fernandes Fou
 dehergne_no: 292
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação do Monte Olivete)
-entry_date: 1663 (Dehergne; Lus. 45, 394)
+entry_date: "1663 (Dehergne; Lus. 45, 394)"
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-02
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

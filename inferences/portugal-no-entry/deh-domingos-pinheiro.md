@@ -4,11 +4,11 @@ person_id: deh-domingos-pinheiro
 name: Domingos Pinheiro
 dehergne_no: 638
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação / Monte Olivete, Cotovia)
+entry_place: "Lisboa (Casa de Provação / Monte Olivete, Cotovia)"
 entry_date: 1704-11-09
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

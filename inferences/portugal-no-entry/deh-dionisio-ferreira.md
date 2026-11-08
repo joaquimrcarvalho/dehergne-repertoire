@@ -4,11 +4,11 @@ person_id: deh-dionisio-ferreira
 name: Dionísio Ferreira
 dehergne_no: 300
 nationality: Portugal
-entry_place: Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)
+entry_place: "Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)"
 entry_date: 1738-02-05
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

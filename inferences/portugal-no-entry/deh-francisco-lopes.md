@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1590-02 (data de Dehergne; confirmada apenas por via indireta)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

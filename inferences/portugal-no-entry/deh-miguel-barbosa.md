@@ -5,10 +5,10 @@ name: Miguel Barbosa
 dehergne_no: 73
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação / noviciado)
-entry_date: 1635 (princípios; em Abril de 1636 contava «hum anno de noviciado») — Dehergne: E. 1635
+entry_date: "1635 (princípios; em Abril de 1636 contava «hum anno de noviciado») — Dehergne: E. 1635"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

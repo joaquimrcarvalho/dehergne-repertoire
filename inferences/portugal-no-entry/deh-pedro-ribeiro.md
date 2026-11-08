@@ -5,10 +5,10 @@ name: Pedro Ribeiro
 dehergne_no: 682
 nationality: Portugal
 entry_place: Coimbra
-entry_date: 1588 (o suplemento de 1 Jan 1588 dá-lhe «2 meses» de Companhia, o que aponta para o final de 1587)
+entry_date: "1588 (o suplemento de 1 Jan 1588 dá-lhe «2 meses» de Companhia, o que aponta para o final de 1587)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

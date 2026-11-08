@@ -8,7 +8,7 @@ entry_place: Lisboa (Noviciado de Lisboa)
 entry_date: 1732-05-03
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

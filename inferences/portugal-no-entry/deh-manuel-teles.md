@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-02
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

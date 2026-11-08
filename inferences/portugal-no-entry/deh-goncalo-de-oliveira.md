@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra) — atribuição provisória
 entry_date: 1637 (Pfister/Dehergne) ou 1638 (o catálogo de 1645 dá-lhe «Societ. 7»)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

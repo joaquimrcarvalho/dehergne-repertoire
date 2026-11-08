@@ -5,10 +5,10 @@ name: João Simões
 dehergne_no: 786
 nationality: Portugal
 entry_place: não determinado
-entry_date: 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia)
+entry_date: "1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia)"
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

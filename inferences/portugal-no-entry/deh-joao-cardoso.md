@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 1634 (Dehergne); nos catálogos ARSI aparece com «2 años» de Companhia em Abril de 1636 e com «4» no catálogo seguinte (1638/39)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

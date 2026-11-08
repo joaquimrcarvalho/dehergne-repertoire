@@ -1,14 +1,14 @@
 ---
-title: Manuel Ribeiro, junior — lugar de entrada
+title: "Manuel Ribeiro, junior — lugar de entrada"
 person_id: deh-manuel-ribeiro-junior
-name: Manuel Ribeiro, junior
+name: "Manuel Ribeiro, junior"
 dehergne_no: 680
 nationality: Portugal
 entry_place: não determinado
 entry_date: —
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-02
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: Jerónimo Rodrigues, júnior — lugar de entrada
+title: "Jerónimo Rodrigues, júnior — lugar de entrada"
 person_id: deh-jeronimo-rodrigues-junior
-name: Jerónimo Rodrigues, júnior
+name: "Jerónimo Rodrigues, júnior"
 dehergne_no: 704
 nationality: Portugal
 entry_place: Évora (noviciado do Colégio de Évora)
 entry_date: 1592 (c. Setembro de 1592; o catálogo de Abril de 1593 dá-lhe «7 meses» de Companhia)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -4,11 +4,11 @@ person_id: deh-aleixo-coelho
 name: Aleixo Coelho
 dehergne_no: 184
 nationality: Portugal
-entry_place: Évora (noviciado da Companhia, Real Colégio do Espírito Santo)
-entry_date: 20 de novembro de 1643 (Franco). Dehergne/BD: 20 nov. 1645 (Lus. 44 II, 638v) — ver conflito de datas
+entry_place: "Évora (noviciado da Companhia, Real Colégio do Espírito Santo)"
+entry_date: "20 de novembro de 1643 (Franco). Dehergne/BD: 20 nov. 1645 (Lus. 44 II, 638v) — ver conflito de datas"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

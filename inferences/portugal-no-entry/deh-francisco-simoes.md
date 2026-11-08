@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete)
 entry_date: 1666-10-28
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-02
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

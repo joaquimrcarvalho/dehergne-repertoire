@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete — noviciado da proví
 entry_date: 1624 (Dehergne); c. 1625 segundo o catálogo de 1633 (8 anos de Companhia em Maio de 1633)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -4,11 +4,11 @@ person_id: deh-baltasar-diego-da-rocha
 name: Baltasar Diego da Rocha
 dehergne_no: 691
 nationality: Portugal
-entry_place: Évora (noviciado do Espírito Santo, no Colégio de Évora)
+entry_place: "Évora (noviciado do Espírito Santo, no Colégio de Évora)"
 entry_date: 1650-02-16 (Franco e Pfister; Dehergne dá 1649-02-16)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

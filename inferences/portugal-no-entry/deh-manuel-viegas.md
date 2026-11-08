@@ -8,7 +8,7 @@ entry_place: Évora (Noviciado de Évora)
 entry_date: 1729-07-31
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

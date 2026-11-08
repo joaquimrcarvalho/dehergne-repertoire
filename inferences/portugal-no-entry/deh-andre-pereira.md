@@ -5,10 +5,10 @@ name: André Pereira
 dehergne_no: 615
 nationality: Portugal
 entry_place: Évora (inferido)
-entry_date: 17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707»)
+entry_date: "17 de Junho de 1707 (Dehergne; catálogo de 1711: «ingressus Societ. 17 Jun. 1707»)"
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

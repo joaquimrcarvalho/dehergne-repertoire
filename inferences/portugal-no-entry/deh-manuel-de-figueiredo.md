@@ -5,10 +5,10 @@ name: Manuel de Figueiredo
 dehergne_no: 310
 nationality: Portugal
 entry_place: Évora
-entry_date: 1611 (Dehergne; Pfister diz 1610) — a primeira menção documental é de Agosto de 1612, em Évora
+entry_date: "1611 (Dehergne; Pfister diz 1610) — a primeira menção documental é de Agosto de 1612, em Évora"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

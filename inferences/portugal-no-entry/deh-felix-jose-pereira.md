@@ -5,7 +5,7 @@ name: Félix-José Pereira
 dehergne_no: 617
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação / Monte Olivete)
-entry_date: 14 de Janeiro de 1690 (Dehergne; confirmada pela data de entrada do noviço «Fr. Josephus Pereira», n.º 412, f. 208, da lista de noviços do catálogo de 1690)
+entry_date: "14 de Janeiro de 1690 (Dehergne; confirmada pela data de entrada do noviço «Fr. Josephus Pereira», n.º 412, f. 208, da lista de noviços do catálogo de 1690)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08

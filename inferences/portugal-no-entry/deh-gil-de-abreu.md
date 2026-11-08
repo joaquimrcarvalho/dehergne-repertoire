@@ -8,7 +8,7 @@ entry_place: Évora (Real Colégio do Espírito Santo — noviciado)
 entry_date: 1611-07-13
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

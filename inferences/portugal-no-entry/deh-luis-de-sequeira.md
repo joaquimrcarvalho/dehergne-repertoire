@@ -5,10 +5,10 @@ name: Luís de Sequeira
 dehergne_no: 761
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação — Domus Probationis Ulyssiponensis)
-entry_date: 1 de Setembro de 1709 (Dehergne; catálogo de 1711: «ingressus Societ. 1 Sept. 1709»)
+entry_date: "1 de Setembro de 1709 (Dehergne; catálogo de 1711: «ingressus Societ. 1 Sept. 1709»)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

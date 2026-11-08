@@ -5,10 +5,10 @@ name: João Ferreira
 dehergne_no: 304
 nationality: Portugal
 entry_place: Coimbra (Colégio de Jesus — noviciado)
-entry_date: 1614 (Dehergne); o catálogo de Janeiro de 1614 atribui-lhe 19 meses de Companhia, o que aponta para entrada em meados de 1612
+entry_date: "1614 (Dehergne); o catálogo de Janeiro de 1614 atribui-lhe 19 meses de Companhia, o que aponta para entrada em meados de 1612"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

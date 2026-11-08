@@ -4,11 +4,11 @@ person_id: deh-bartolomeu-de-azevedo
 name: Bartolomeu de Azevedo
 dehergne_no: 56
 nationality: Portugal
-entry_place: Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)
+entry_place: "Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)"
 entry_date: 1736-03-22
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

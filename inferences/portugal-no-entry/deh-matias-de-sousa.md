@@ -5,10 +5,10 @@ name: Matias de Sousa
 dehergne_no: 810
 nationality: Portugal
 entry_place: Coimbra (Colégio de Jesus — noviciado)
-entry_date: 1611 (Dehergne, com 14 anos); o catálogo de Janeiro de 1614 dá-lhe 3 anos de Companhia
+entry_date: "1611 (Dehergne, com 14 anos); o catálogo de Janeiro de 1614 dá-lhe 3 anos de Companhia"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

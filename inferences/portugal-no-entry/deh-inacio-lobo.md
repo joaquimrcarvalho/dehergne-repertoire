@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

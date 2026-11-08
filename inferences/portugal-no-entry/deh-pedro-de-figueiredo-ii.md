@@ -4,11 +4,11 @@ person_id: deh-pedro-de-figueiredo-ii
 name: Pedro de Figueiredo
 dehergne_no: 313
 nationality: Portugal
-entry_place: «in mari» — admitido a bordo, na viagem de Portugal para a Índia (sem casa de noviciado em Portugal)
+entry_place: "«in mari» — admitido a bordo, na viagem de Portugal para a Índia (sem casa de noviciado em Portugal)"
 entry_date: 1716-03-13
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

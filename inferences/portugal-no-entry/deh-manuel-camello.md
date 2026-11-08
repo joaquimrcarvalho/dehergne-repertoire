@@ -4,11 +4,11 @@ person_id: deh-manuel-camello
 name: Manuel Camello
 dehergne_no: 132
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação / Monte Olivete, Cotovia)
+entry_place: "Lisboa (Casa de Provação / Monte Olivete, Cotovia)"
 entry_date: 1699-05-28 (catálogo de 1700); Dehergne e a base dizem 1700
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

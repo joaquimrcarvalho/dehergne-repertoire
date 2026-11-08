@@ -5,10 +5,10 @@ name: António Dias
 dehergne_no: 252
 nationality: Portugal
 entry_place: Évora (Colégio de Évora — noviciado)
-entry_date: 1681-03-26 (catálogo de 1681: «Societ. ad 2 menses»)
+entry_date: "1681-03-26 (catálogo de 1681: «Societ. ad 2 menses»)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

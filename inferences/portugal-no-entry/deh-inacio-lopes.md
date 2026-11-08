@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra)
 entry_date: 1681 (o catálogo de 1685 dá-lhe os anos de Companhia indicados)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

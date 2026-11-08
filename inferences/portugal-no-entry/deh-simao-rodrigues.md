@@ -4,11 +4,11 @@ person_id: deh-simao-rodrigues
 name: Simão Rodrigues
 dehergne_no: 719
 nationality: Portugal
-entry_place: Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas
-entry_date: 15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia)
+entry_place: "Coimbra (noviciado) — inferência, com Lisboa e Évora como alternativas não excluídas"
+entry_date: "15 de Outubro de 1659 (Dehergne; compatível com o catálogo de 1665: 5-6 anos de Companhia)"
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

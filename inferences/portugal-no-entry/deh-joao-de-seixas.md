@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1727-11-25 (Dehergne) ou 1729-11-25 (Sommervogel; Pfister nota a variante)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

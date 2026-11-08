@@ -160,6 +160,23 @@ def doc_reference_line(ev: dict, bibs: dict[int, dict]) -> str | None:
         return f"- **doc {did}** — {b['citation']}" + (f" ({b['record_origin']})" if b.get("record_origin") else "")
     return None
 
+# --- YAML front matter ----------------------------------------------------
+# Um valor escalar só pode ficar sem aspas se não tiver caracteres que o YAML
+# interprete (dois pontos, cardinal, parênteses retos, aspas, etc.). Na dúvida,
+# cita-se com JSON (o que é YAML válido e preserva o texto exatamente).
+_YAML_UNSAFE = set(':#[]{}&*!|>\'"@`%,?')
+
+
+def yaml_scalar(value) -> str:
+    v = str(value)
+    need = (
+        v == ""
+        or v != v.strip()
+        or any(c in _YAML_UNSAFE for c in v)
+        or "\n" in v
+    )
+    return json.dumps(v, ensure_ascii=False) if need else v
+
 
 def build_note(pid: str, packet: dict, res: dict, bibs: dict[int, dict]) -> str:
     name = packet["name"] or pid
@@ -172,14 +189,14 @@ def build_note(pid: str, packet: dict, res: dict, bibs: dict[int, dict]) -> str:
 
     parts: list[str] = []
     parts.append("---")
-    parts.append(f"title: {name} — lugar de entrada")
-    parts.append(f"person_id: {pid}")
-    parts.append(f"name: {name}")
+    parts.append(f"title: {yaml_scalar(f'{name} — lugar de entrada')}")
+    parts.append(f"person_id: {yaml_scalar(pid)}")
+    parts.append(f"name: {yaml_scalar(name)}")
     parts.append(f"dehergne_no: {packet['dehergne_no']}")
     parts.append("nationality: Portugal")
-    parts.append(f"entry_place: {lugar}")
-    parts.append(f"entry_date: {data}")
-    parts.append(f"confidence: {conf}")
+    parts.append(f"entry_place: {yaml_scalar(lugar)}")
+    parts.append(f"entry_date: {yaml_scalar(data)}")
+    parts.append(f"confidence: {yaml_scalar(conf)}")
     parts.append('source: "[[0 Portugal no entry]]"')
     parts.append(f"created: {date.today().isoformat()}")
     parts.append("tags: [dehergne, jesuita-entrada, portugal, china]")

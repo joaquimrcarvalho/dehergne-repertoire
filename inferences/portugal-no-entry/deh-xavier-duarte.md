@@ -4,11 +4,11 @@ person_id: deh-xavier-duarte
 name: Xavier Duarte
 dehergne_no: 269
 nationality: Portugal
-entry_place: Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)
+entry_place: "Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)"
 entry_date: 1736-11-03 (o Dehergne admitia 3 ou 4 de Novembro)
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

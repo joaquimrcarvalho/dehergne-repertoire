@@ -5,10 +5,10 @@ name: Manuel José
 dehergne_no: 422
 nationality: Portugal
 entry_place: não determinado
-entry_date: 1729-08-20 (Dehergne, Lus. 48, 45v); 1729-08-02 (JS 134, 435v e Pfister)
+entry_date: "1729-08-20 (Dehergne, Lus. 48, 45v); 1729-08-02 (JS 134, 435v e Pfister)"
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

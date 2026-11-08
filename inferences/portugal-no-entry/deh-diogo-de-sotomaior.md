@@ -5,10 +5,10 @@ name: Diogo de Sotomaior
 dehergne_no: 804
 nationality: Portugal
 entry_place: Évora (inferido)
-entry_date: 1651 (Dehergne, citando JS 25, 185v — códice ausente deste disco)
+entry_date: "1651 (Dehergne, citando JS 25, 185v — códice ausente deste disco)"
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-02
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

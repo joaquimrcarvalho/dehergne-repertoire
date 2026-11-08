@@ -4,11 +4,11 @@ person_id: deh-francisco-barbosa
 name: Francisco Barbosa
 dehergne_no: 72
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação / Domus Probationis) — inferido, com prova institucional forte
+entry_place: "Lisboa (Casa de Provação / Domus Probationis) — inferido, com prova institucional forte"
 entry_date: 1686-01-21 (lido no catálogo de 1693)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Coimbra) — atribuição provisória
 entry_date: 1707-02-17 (o catálogo de 1711 situa-o no Colégio de Coimbra)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

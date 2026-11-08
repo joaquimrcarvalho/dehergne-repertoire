@@ -8,7 +8,7 @@ entry_place: não determinado
 entry_date: 1648 (Dehergne; «annos duos cum dimidio» de Companhia em 1651 ⇒ entrada em 1648/49)
 confidence: nenhuma
 source: "[[0 Portugal no entry]]"
-created: 2026-11-07
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

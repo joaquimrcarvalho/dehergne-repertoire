@@ -5,10 +5,10 @@ name: Manuel Carvalho
 dehergne_no: 148
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação do Monte Olivete)
-entry_date: 1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 11» ⇒ entrada em 1648 (registam-se as duas versões)
+entry_date: "1647 (Dehergne, a partir do catálogo do Japão de 1659); o catálogo de 1649 dá-lhe «Societ. Mens. 11» ⇒ entrada em 1648 (registam-se as duas versões)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-07
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

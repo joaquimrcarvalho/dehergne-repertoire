@@ -4,11 +4,11 @@ person_id: deh-francisco-pereira
 name: Francisco Pereira
 dehergne_no: 619
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação do Monte Olivete) — por inferência, não por prova nominal
+entry_place: "Lisboa (Casa de Provação do Monte Olivete) — por inferência, não por prova nominal"
 entry_date: 1622
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

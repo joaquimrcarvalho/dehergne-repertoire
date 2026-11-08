@@ -5,10 +5,10 @@ name: Manuel de Pereira
 dehergne_no: 625
 nationality: Portugal
 entry_place: Coimbra (Colégio de Coimbra)
-entry_date: 1655 (Dehergne e base Timelink); o catálogo de 1655 (Lus. 45, f. 181) dá-lhe 2 anos de Companhia, o que implicaria 1653
+entry_date: "1655 (Dehergne e base Timelink); o catálogo de 1655 (Lus. 45, f. 181) dá-lhe 2 anos de Companhia, o que implicaria 1653"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

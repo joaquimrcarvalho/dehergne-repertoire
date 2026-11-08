@@ -8,7 +8,7 @@ entry_place: Coimbra
 entry_date: 14 de Março de 1652 (Dehergne; compatível com o estágio de noviciado «In fine biennij» no catálogo de 1654)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação do Monte Olivete)
 entry_date: c. 1621 (4 anos de Companhia no catálogo de 1625) — contra 1617 em Dehergne/Pfister
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

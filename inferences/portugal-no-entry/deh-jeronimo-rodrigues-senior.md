@@ -1,14 +1,14 @@
 ---
-title: Jerónimo Rodrigues, sénior — lugar de entrada
+title: "Jerónimo Rodrigues, sénior — lugar de entrada"
 person_id: deh-jeronimo-rodrigues-senior
-name: Jerónimo Rodrigues, sénior
+name: "Jerónimo Rodrigues, sénior"
 dehergne_no: 703
 nationality: Portugal
 entry_place: Coimbra
 entry_date: 1585
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

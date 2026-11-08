@@ -4,11 +4,11 @@ person_id: deh-jose-monteiro
 name: José Monteiro
 dehergne_no: 563
 nationality: Portugal
-entry_place: Coimbra (noviciado) — inferência, com Évora e Lisboa como alternativas não excluídas
-entry_date: 17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data)
+entry_place: "Coimbra (noviciado) — inferência, com Évora e Lisboa como alternativas não excluídas"
+entry_date: "17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data)"
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -8,7 +8,7 @@ entry_place: Coimbra (noviciado do Colégio de Coimbra)
 entry_date: 1704-01-01
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

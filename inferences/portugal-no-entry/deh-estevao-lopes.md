@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação — noviciado da província; casa do Mon
 entry_date: 1708-03-21
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

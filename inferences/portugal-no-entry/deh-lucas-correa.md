@@ -5,10 +5,10 @@ name: Lucas Correa
 dehergne_no: 196
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação do Monte Olivete)
-entry_date: 1628 (Dehergne; cota Lus. 44 II, 548) — entre 1619 e 1630 o único noviciado da província era o Monte Olivete, em Lisboa
+entry_date: "1628 (Dehergne; cota Lus. 44 II, 548) — entre 1619 e 1630 o único noviciado da província era o Monte Olivete, em Lisboa"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

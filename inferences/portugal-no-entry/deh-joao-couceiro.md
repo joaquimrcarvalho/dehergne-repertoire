@@ -5,10 +5,10 @@ name: João Couceiro
 dehergne_no: 220
 nationality: Portugal
 entry_place: Coimbra (inferido)
-entry_date: 1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111)
+entry_date: "1649 (confirmada: 6 anos de Companhia no catálogo de 1655, f. 180, n.º 111)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

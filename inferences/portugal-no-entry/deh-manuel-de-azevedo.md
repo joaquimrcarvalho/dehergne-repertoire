@@ -8,7 +8,7 @@ entry_place: Lisboa (Casa de Provação — noviciado)
 entry_date: 1597-05-10
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

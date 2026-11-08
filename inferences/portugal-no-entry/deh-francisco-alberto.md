@@ -5,7 +5,7 @@ name: Francisco Alberto
 dehergne_no: 12
 nationality: Portugal
 entry_place: Coimbra (noviciado anexo ao Colégio de Coimbra)
-entry_date: 1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710»)
+entry_date: "1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710»)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08

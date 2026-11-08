@@ -5,10 +5,10 @@ name: José Soares
 dehergne_no: 796
 nationality: Portugal
 entry_place: Coimbra (noviciado do Colégio de Jesus) — por identificação provável
-entry_date: Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673)
+entry_date: "Março de 1673 (15, 23 ou 25, segundo as fontes de Dehergne; «63 anos de Religião» em 1736 confirmam 1673)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

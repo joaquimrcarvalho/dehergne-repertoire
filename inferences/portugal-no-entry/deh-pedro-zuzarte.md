@@ -5,10 +5,10 @@ name: Pedro Zuzarte
 dehergne_no: 918
 nationality: Portugal
 entry_place: Coimbra (noviciado / Real Colégio de Jesus)
-entry_date: c. 1634 (5 anos de Companhia em 1639; Dehergne: 1635; Goa 25: 1632)
+entry_date: "c. 1634 (5 anos de Companhia em 1639; Dehergne: 1635; Goa 25: 1632)"
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

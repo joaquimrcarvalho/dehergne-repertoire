@@ -8,7 +8,7 @@ entry_place: Évora
 entry_date: 1630 (Dehergne; o catálogo de Maio de 1633 dá-lhe «da Companhia 3»)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-02
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -5,10 +5,10 @@ name: Bartolomeu de Roboredo
 dehergne_no: 688
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação do Monte Olivete)
-entry_date: 1625 (catálogo de 1625: «1 mês» de Companhia; confirma-o o catálogo de 1628, onde tem «3 annos» de Companhia)
+entry_date: "1625 (catálogo de 1625: «1 mês» de Companhia; confirma-o o catálogo de 1628, onde tem «3 annos» de Companhia)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

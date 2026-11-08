@@ -8,7 +8,7 @@ entry_place: Coimbra (inferido)
 entry_date: 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678)
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

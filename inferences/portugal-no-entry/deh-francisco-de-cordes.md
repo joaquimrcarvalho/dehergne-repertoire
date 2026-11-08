@@ -4,11 +4,11 @@ person_id: deh-francisco-de-cordes
 name: Francisco Cordes
 dehergne_no: 193
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação / Monte Olivete, Cotovia)
+entry_place: "Lisboa (Casa de Provação / Monte Olivete, Cotovia)"
 entry_date: 1704-09-21
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

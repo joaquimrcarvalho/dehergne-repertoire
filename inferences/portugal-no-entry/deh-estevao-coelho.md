@@ -5,10 +5,10 @@ name: Estêvão Coelho
 dehergne_no: 185
 nationality: Portugal
 entry_place: Évora (noviciado do Colégio de Jesus de Évora)
-entry_date: 1604 (c. Junho de 1604; Dehergne: E. 1604)
+entry_date: "1604 (c. Junho de 1604; Dehergne: E. 1604)"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

@@ -5,10 +5,10 @@ name: António Preto
 dehergne_no: 662
 nationality: Portugal
 entry_place: Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca
-entry_date: 1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia)
+entry_date: "1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia)"
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

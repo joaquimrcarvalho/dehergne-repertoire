@@ -8,7 +8,7 @@ entry_place: Lisboa (noviciado da Companhia na corte) — inferência
 entry_date: 1649-08-15
 confidence: baixa
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

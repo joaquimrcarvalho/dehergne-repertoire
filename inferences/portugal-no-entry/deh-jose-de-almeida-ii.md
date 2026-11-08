@@ -4,11 +4,11 @@ person_id: deh-jose-de-almeida-ii
 name: José de Almeida
 dehergne_no: 21
 nationality: Portugal
-entry_place: Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)
+entry_place: "Lisboa (Domus Probationis Ulyssiponensis — Casa de Provação, Monte Olivete)"
 entry_date: 1684-04-16
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

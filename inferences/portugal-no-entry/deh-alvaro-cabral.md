@@ -8,7 +8,7 @@ entry_place: Coimbra (Colégio de Jesus — noviciado)
 entry_date: 1611 (Dehergne); o catálogo de Janeiro de 1614 dá-lhe 3 anos de Companhia → entrada em 1611
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

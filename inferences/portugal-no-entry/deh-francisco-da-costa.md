@@ -8,7 +8,7 @@ entry_place: Évora (Colégio de Évora)
 entry_date: 1707-02-09 (o catálogo de 1711 situa-o em Évora)
 confidence: média
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 

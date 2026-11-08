@@ -5,10 +5,10 @@ name: Feliciano Pacheco
 dehergne_no: 601
 nationality: Portugal
 entry_place: Coimbra (noviciado / Real Colégio de Jesus)
-entry_date: 1636 (Dehergne); catálogo de 1639: «2 annos da Companhia» ⇒ entrada em 1636-1637
+entry_date: "1636 (Dehergne); catálogo de 1639: «2 annos da Companhia» ⇒ entrada em 1636-1637"
 confidence: alta
 source: "[[0 Portugal no entry]]"
-created: 2026-11-01
+created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
 ---
 
