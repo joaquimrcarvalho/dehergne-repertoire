@@ -12,7 +12,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **44** · **média**: **39** · **baixa**: **15** · **não determinado**: **12**
+- lugar proposto com confiança **alta**: **45** · **média**: **38** · **baixa**: **15** · **não determinado**: **12**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
@@ -67,6 +67,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-estevao-coelho]] | Estêvão Coelho | 185 | em Évora 1606 | **Évora (noviciado do Colégio de Jesus de Évora)** | 1604 (c. Junho de 1604; Dehergne: E. 1604) | alta |
 | [[deh-feliciano-pacheco]] | Feliciano Pacheco | 601 | Coimbra | **Coimbra (noviciado / Real Colégio de Jesus)** | 1636 (Dehergne); catálogo de 1639: «2 annos da Companhia» ⇒ entrada em 1636-1637 | alta |
 | [[deh-francisco-alberto]] | Francisco Alberto | 12 | — | **Coimbra (noviciado anexo ao Colégio de Coimbra)** | 1 de Março de 1710 (Dehergne; catálogo de 1711: «ingressus Societ. 3 Mart. 1710») | alta |
+| [[deh-francisco-barbosa]] | Francisco Barbosa | 72 | — | **Lisboa (Casa de Provação / Domus Probationis)** | 1686-01-21 (lido no catálogo de 1693) | alta |
 | [[deh-francisco-de-cordes]] | Francisco Cordes | 193 | — | **Lisboa (Casa de Provação / Monte Olivete, Cotovia)** | 1704-09-21 | alta |
 | [[deh-francisco-moreira]] | Francisco Moreira | 569 | — | **Coimbra (noviciado do Colégio de Coimbra)** | 1704-01-01 | alta |
 | [[deh-francisco-de-lima]] | Francisco de Lima | 472 | — | **Coimbra (noviciado do Colégio de Coimbra)** | 1704-12-26 | alta |
@@ -102,7 +103,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-diogo-pinto]] | Diogo Pinto | 641 | Santo Antão | **Lisboa (Santo Antão)** | 1561 (provável; ver conflito com a data de Dehergne) | média |
 | [[deh-dionisio-ferreira]] | Dionísio Ferreira | 300 | — | **Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)** | 1738-02-05 | média |
 | [[deh-estevao-lopes]] | Estêvão Lopes | 487 | Coimbra, anotado no Dehergne | **Lisboa (Casa de Provação — noviciado da província; casa do Monte Olivete)** | 1708-03-21 | média |
-| [[deh-francisco-barbosa]] | Francisco Barbosa | 72 | — | **Lisboa (Casa de Provação / Domus Probationis) — inferido, com prova institucional forte** | 1686-01-21 (lido no catálogo de 1693) | média |
 | [[deh-francisco-lopes]] | Francisco Lopes | 488 | noviço em Coimbra em 1590 | **Coimbra** | 1590-02 (data de Dehergne; confirmada apenas por via indireta) | média |
 | [[deh-francisco-da-costa]] | Francisco da Costa | 210 | — | **Évora (Colégio de Évora)** | 1707-02-09 (o catálogo de 1711 situa-o em Évora) | média |
 | [[deh-goncalo-dias]] | Gonçalo Dias | 253 | Évora 1611 | **Évora (Colégio de Jesus / noviciado de Évora)** | 1608 (Dehergne: E. 1608) | média |

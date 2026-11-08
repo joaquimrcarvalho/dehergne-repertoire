@@ -4,9 +4,9 @@ person_id: deh-francisco-barbosa
 name: Francisco Barbosa
 dehergne_no: 72
 nationality: Portugal
-entry_place: "Lisboa (Casa de Provação / Domus Probationis) — inferido, com prova institucional forte"
+entry_place: Lisboa (Casa de Provação / Domus Probationis)
 entry_date: 1686-01-21 (lido no catálogo de 1693)
-confidence: média
+confidence: alta
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,11 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Francisco Barbosa (`deh-francisco-barbosa`)
 
-**Lugar de entrada: Lisboa (Casa de Provação / Domus Probationis) — inferido, com prova institucional forte** — 1686-01-21 (lido no catálogo de 1693) (confiança: **média**).
+**Lugar de entrada: Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (confiança: **alta**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — Data CONFIRMADA no manuscrito; lugar determinado por inferência institucional forte. O catálogo trienal de 1693 regista, para ele, a data de entrada: «Fr. Felix Barbosa, ex oppido Scalabis, Diæc. Ulyssiponensi, natus an. 671, ingressus Societ. 21. Januarii an. 686… Philosophiae 4. anni» (Lus. 46, f. 255v carimbado = imagem `LUS. 46/252v.jpg`) — é o fólio que Dehergne cita para a data. Quanto ao lugar: desde **Junho de 1685** que os três noviciados da província (Coimbra, Lisboa, Évora) tinham sido reduzidos a um só, o de **Lisboa** («mandou se reduzissem a hum só Noviciado de Lisboa os tres da Provincia», Franco, doc 52, p. 49); e o catálogo breve de Nov. 1686 inscreve os noviços da província, como grupo, sob a «Domus Probationis Ulyssiponensis» (Lus. 39, f. 144 carimbado, imagem 142.jpg). Entrando a 21 Jan. 1686, Barbosa foi noviço em Lisboa. O nome dele não se pôde confirmar na lista de 1686 (a continuação, f. 144v, está muito desvanecida na imagem), e por isso a confiança é média e não alta.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — CONFIRMADA. O noviço é nomeado na **Domus Probationis de Lisboa**: no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado; imagem `LUS. 39/142.jpg`), na secção «Domus Probationis Ulyssiponensis», está «Fr. **Felix Barbosa**» — o mesmo nome do assento do catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132), que dá a data exacta («ingressus Societ. 21. Januarii an. 686»). Com a nomeação na casa de noviciado, a prova é directa (confiança alta); a única reserva é o prenome: os catálogos dizem **Félix**, Dehergne diz **François** (Francisco). Nota sobre a cota do Dehergne: ele cita «Lus. 46, **225v**» — é gralha por **255v** (n.º 132), onde está o assento. Registe-se também que em 1693 (mesmo fólio, bloco do **Colégio de Coimbra**) ele era aluno do 4.º ano de Filosofia — residência posterior, não noviciado.
 
-Francisco Barbosa entrou na Companhia a **21 de Janeiro de 1686**, como confirma o próprio catálogo da província de 1693, que dá a data («ingressus Societ. 21. Januarii an. 686») e a naturalidade («ex oppido Scalabis, Diæc. Ulyssiponensi, natus an. 671») — mas não a casa. Nessa data o único noviciado da província era o de **Lisboa**: em 1685 (execução em Junho) os noviciados de Coimbra, Lisboa e Évora foram reduzidos a um só, na Casa de Provação de Lisboa (Franco), e o catálogo breve de Novembro de 1686 mostra os noviços da província reunidos justamente sob a «Domus Probationis Ulyssiponensis». O lugar fica assim «Lisboa (Casa de Provação)», com confiança **média**: a prova é institucional e o assento nominal na lista de noviços de 1686 não pôde ser confirmado por legibilidade.
+Francisco Barbosa (nos catálogos: «Fr. **Felix** Barbosa»), natural de Santarém (Scalabis), entrou na Companhia a **21 de Janeiro de 1686** — data que o catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132) inscreve — e é **nomeado noviço na Domus Probationis de Lisboa** no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado: «Fr. Felix Barbosa»). Nessa data o noviciado era único na província (unificação de Junho de 1685), pelo que o lugar de entrada é **Lisboa (Casa de Provação), confiança alta**. Em 1693 era aluno do 4.º ano de Filosofia no **Colégio de Coimbra** (mesmo assento) — residência posterior, que não altera o noviciado.
 
 ## Identificação
 
@@ -37,7 +37,7 @@ Francisco Barbosa entrou na Companhia a **21 de Janeiro de 1686**, como confirma
 | Dehergne, entrada (`E.`) | 21 janv |
 | Base Timelink (actual) | `?` / 16860121 |
 | Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
-| **Proposta desta nota** | **Lisboa (Casa de Provação / Domus Probationis) — inferido, com prova institucional forte** — 1686-01-21 (lido no catálogo de 1693) (média) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (alta) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -66,13 +66,15 @@ Francisco Barbosa (no catálogo da província: «Fr. Felix Barbosa»), natural d
 
 ### 4.1 1. A data de entrada: o assento do catálogo de 1693 (f. 255v)
 
-Dehergne cita «(Lus. 46, 255v)» para a entrada. O f. 255v carimbado do Lus. 46 (imagem `LUS. 46/252v.jpg`, desvio +3 na numeração deste volume) pertence ao catálogo trienal de 1693 e contém uma lista de escolares organizada por coortes de entrada, com a data do ingresso. Aí, n.º 132:
+Dehergne cita «(Lus. 46, **225v**)» para a entrada — mas é gralha por **255v** (n.º 132): o f. 225v não tem Barbosa, e o assento está no 255v. O f. 255v carimbado do Lus. 46 (imagem `LUS. 46/252v.jpg`, desvio +3 na numeração deste volume) pertence ao catálogo trienal de 1693 e contém uma lista de escolares organizada por coortes de entrada, com a data do ingresso. Aí, n.º 132:
 
 > «Fr. Felix Barbosa, ex oppido Scalabis, Diæc. Ulyssiponensi, natus an. 671, ingressus Societ. 21. Januarii an. 686, virib. mediocribus, Philosophiae 4. anni.»
 
 — ARSI, *Lus. 46*, f. 255v (fólio carimbado; imagem `LUS. 46/252v.jpg`), leitura directa do manuscrito.
 
 Tudo coincide com o verbete de Dehergne — Scalabis (Santarém), diocese de Lisboa, nascimento em 1671, entrada a 21 de Janeiro de 1686 — excepto o **primeiro nome**: o catálogo da província chama-lhe «Felix», Dehergne «Francisco». Como Dehergne cita este mesmo fólio para a data, é ele próprio que identifica este assento com o seu «Barbosa, Francisco»; registo a divergência sem a resolver (o mais provável é um nome composto, do tipo «Francisco Félix Barbosa», usado de maneiras diferentes nas duas tradições documentais — cf. o caso paralelo de José Soares / Josephus Teixeyra).
+
+Nota: o mesmo f. 255v pertence ao bloco do **Colégio de Coimbra** do catálogo de 1693 — em 1693, portanto, Barbosa era aluno do 4.º ano de Filosofia **em Coimbra**. É residência posterior ao noviciado, não a casa de entrada.
 
 ### 4.2 2. O lugar: em 1686 só havia um noviciado, o de Lisboa
 
@@ -84,9 +86,9 @@ António Franco, na *Imagem da virtude… do noviciado de Évora* (1714), descre
 
 Barbosa entrou a 21 de Janeiro de 1686, sete meses depois: não havia já noviciado em Coimbra nem em Évora. O catálogo breve da província de c. Novembro de 1686 («pro 1687») confirma a situação no terreno: todos os noviços da província aparecem inscritos na secção da **Domus Probationis Ulyssiponensis** (Lus. 39, f. 144 carimbado = imagem 142.jpg), onde está o «Magister Novitiorum»; o bloco do Colégio de Coimbra (ff. 142-143 carimbados) já não tem lista de noviços, apenas padres, estudantes e coadjutores.
 
-### 4.3 3. O que se pôde e não se pôde ler na lista de noviços de 1686
+### 4.3 3. O nome na lista de noviços de 1686 — lido
 
-O catálogo breve de Nov. 1686 (Lus. 39, ff. 140-143v = carimbados 142-145v) tem, no f. 144 carimbado (imagem 142.jpg), a secção da Domus Probationis: primeiro os padres da casa («P. Joannes de Affonseca, Rector et M. Novitiorum», «P. Antonius …, Minister», «P. Vincentius Ferreyra, Socius Magistri Novitiorum», os conselheiros…), depois alguns irmãos e, por fim, o cabeçalho «**Novitii**» com a lista dos noviços escolares, que continua no f. 144v (imagem `LUS. 39/142v.jpg`). A tinta dessa continuação está muito desvanecida na digitalização: li o cabeçalho e os primeiros nomes do f. 144 (Dominicus …, …, …, Georgius …) e, no f. 144v, nomes legíveis como «Fr. Josephus de Almeida», «Fr. Antonius Lopes», seguidos do cabeçalho «Coadjutores Temporales», mas **não consegui identificar com segurança o nome de Barbosa**. A conclusão assenta, por isso, na prova institucional (noviciado único em Lisboa) e não na leitura do assento.
+O catálogo breve de Nov. 1686 (Lus. 39, ff. 140-143v = carimbados 142-145v) tem, no f. 144 carimbado (imagem `LUS. 39/142.jpg`), a secção da **Domus Probationis Ulyssiponensis**: primeiro os padres da casa («P. Joannes de Affonseca, Rector et M. Novitiorum», «P. Antonius …, Minister», «P. Vincentius Ferreyra, Socius Magistri Novitiorum», os conselheiros…), depois alguns irmãos e, por fim, o cabeçalho «**Novitii**» com a lista dos noviços escolares (que continua no f. 144v). Na lista está «**Fr. Felix Barbosa**» — o investigador localizou-o aí em 2026-11-08. Com o nome do noviço na casa de noviciado, a prova passou de institucional a **directa**: confiança alta. A única reserva subsiste no prenome (Félix nos catálogos, François em Dehergne).
 
 ### O que não foi encontrado
 
@@ -98,8 +100,8 @@ Procurou-se e não se encontrou: (1) o assento nominal de Barbosa na lista de no
   - a data de entrada (21 Jan. 1686), a naturalidade (Santarém, diocese de Lisboa), o nascimento (1671) e o estado de estudante de Filosofia em 1693; é o fólio citado por Dehergne. Não dá o lugar
 - António Franco, *Imagem da virtude em o noviciado da Companhia de Jesus… de Évora* (Lisboa, 1714), liv. 1, cap. 1, p. 49 — raw (`transcription-ocr@tesseract-psm3`) · `pha page 52 49` · `pha page 52 49` · prova direta (contexto institucional)
   - que desde Junho de 1685 os três noviciados da província foram reduzidos a um só, o de Lisboa; logo, em Janeiro de 1686 o lugar de entrada só podia ser Lisboa
-- ARSI, *Lus. 39*, catálogo breve da província de c. Nov. 1686 («pro 1687»), f. 144 (fólio carimbado; imagem `LUS. 39/142.jpg`), secção «Domus Probationis Ulyssiponensis» com o cabeçalho «Novitii» e a lista dos noviços (continua no f. 144v, imagem `LUS. 39/142v.jpg`) — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/142.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/142v.jpg"` · prova indireta (institucional)
-  - que em Novembro de 1686 todos os noviços da província estavam na Casa de Provação de Lisboa (casa com Mestre de Noviços); a continuação da lista está desvanecida e o nome de Barbosa não foi aí identificado com segurança
+- ARSI, *Lus. 39*, catálogo breve da província de c. Nov. 1686 («pro 1687»), f. 144 carimbado (imagem `LUS. 39/142.jpg`), secção «Domus Probationis Ulyssiponensis»: «Fr. Joannes de Affonseca, Rector et M. Novitiorum» e, na lista «Novitii», «**Fr. Felix Barbosa**» — manuscrito lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/142.jpg" ; open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/142v.jpg"` · prova indireta (institucional)
+  - nomeia o noviço na casa de noviciado em Nov. 1686 (prova directa do lugar de entrada)
 - ARSI, *Lus. 39*, mesmo catálogo de 1686, f. 143 carimbado (imagem `LUS. 39/141.jpg`) e ff. 142-143, secção do Colégio de Coimbra: padres, estudantes e «Coadjutores Temporales», sem lista de noviços — manuscrito lido em imagem · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 39/141.jpg"` · prova indireta
   - que em Nov. 1686 já não havia noviciado em Coimbra: o grupo dos noviços existe só na secção da Domus Probationis de Lisboa
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 72 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-b`) · `python3 tools/packet.py deh-francisco-barbosa` · `python3 tools/packet.py deh-francisco-barbosa` · prova indireta
