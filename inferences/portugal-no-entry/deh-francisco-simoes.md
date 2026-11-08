@@ -5,8 +5,8 @@ name: Francisco Simões
 dehergne_no: 785
 nationality: Portugal
 entry_place: Lisboa (Casa de Provação do Monte Olivete)
-entry_date: 1666-10-28
-confidence: baixa
+entry_date: 28 de Outubro de 1666 (Dehergne — sem cota de catálogo da Lusitânia)
+confidence: média
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,9 +14,9 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # Francisco Simões (`deh-francisco-simoes`)
 
-**Lugar de entrada: Lisboa (Casa de Provação do Monte Olivete)** — 1666-10-28 (confiança: **baixa**).
+**Lugar de entrada: Lisboa (Casa de Provação do Monte Olivete)** — 28 de Outubro de 1666 (Dehergne — sem cota de catálogo da Lusitânia) (confiança: **média**).
 
-A data de entrada (28 de Outubro de 1666) está confirmada por Pfister, que acrescenta que em 1668, «avant la fin de son noviciat», Simões se embarcou para as Índias (Wicki 1107: «Ir. Francisco Simóes, Novize»). O noviciado foi, portanto, começado em Portugal. Entre 1665 e 1669 a província tinha um só noviciado — a Casa de Provação do Monte Olivete, em Lisboa: é a única «Domus Probationis» dos catálogos de 1665 (Lus. 45, f. 322) e de 1669 (f. 370). O lugar de entrada é, por inferência, **Lisboa (Casa de Provação), confiança baixa**; nenhuma fonte lida o nomeia directamente como noviço, porque a lista dos noviços de 1666-1668 se perdeu.
+Francisco Simões (Simois), nascido a 8 de Setembro de 1650, entrou na Companhia a **28 de Outubro de 1666** e embarcou para a Índia a **22 de Abril de 1668** ainda **noviço** (W 1107). Não há catálogo da província para 1666-1668 (o Lus. 45 acaba em 1665; o Lus. 46 começa em 1675), nem assento nominal do noviciado. A inferência é institucional: em 1665 todos os noviços da província estavam na **Casa de Provação de Lisboa** (Lus. 45, ff. 322-323) e o noviciado de Évora estava suprimido (1660-1669) — donde **Lisboa (Casa de Provação), confiança média**. Na Índia (1668-1690) não há fontes no nosso arquivo além do registo de embarque; os 4 votos foram feitos em Goa a 2 de Fev. 1685 (Lus. 10, 254). Chegou a Macau em 1690 e morreu em Pequim a 5 de Maio de 1694.
 
 ## Identificação
 
@@ -35,7 +35,7 @@ A data de entrada (28 de Outubro de 1666) está confirmada por Pfister, que acre
 | Dehergne, entrada (`E.`) | 28 oct |
 | Base Timelink (actual) | `?` / 16661028 |
 | Tabela Obsidian (sugestão) | — |
-| **Proposta desta nota** | **Lisboa (Casa de Provação do Monte Olivete)** — 1666-10-28 (baixa) |
+| **Proposta desta nota** | **Lisboa (Casa de Provação do Monte Olivete)** — 28 de Outubro de 1666 (Dehergne — sem cota de catálogo da Lusitânia) (média) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -45,7 +45,7 @@ Dehergne (doc 65, nº 785) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-Francisco Simões nasceu a 8 de Setembro de 1650 e entrou na Companhia a 28 de Outubro de 1666. Em Abril de 1668, ainda noviço, embarcou para a Índia (Wicki 1107); ali completou os estudos e ensinou teologia sete anos. Professou os 4 votos a 15 de Agosto de 1681. Chegou a Macau em 1690 e à China em 1691 (Nanquim, Xangai, Kiang-nan), passando depois por Xantum (1692), Tcheng-ting (Hopei, 1693) e de novo Kiang-nan (1694). Em Tcheng-ting baptizou mais de mil pessoas num ano; adoeceu e foi chamado a Pequim, onde morreu a 5 de Maio de 1694 (Dehergne; Pfister 461; SF V, 248). O nome chinês que Dehergne lhe dá é Kouo T'ien-Tsio, Leang-Kouei.
+Francisco Simões (nos documentos latinos: Franciscus Simois/Simoens), nascido a 8 de Setembro de 1650, entrou na Companhia a 28 de Outubro de 1666 e embarcou para a Índia a 22 de Abril de 1668, ainda noviço («Ir. Francisco Simóes, Novize», W 1107 — 96.ª expedição). Esteve mais de vinte anos na Índia antes de chegar a **Macau em 1690** (SF V, 221); em 1691 estava em Nanquim e Xangai (JS 134, 375); em 1692 no Shantung; em 1693 em Chengting (Hopei); em 1694 no Kiang-nan (Goa 27, 107). Fez os 4 votos em **Goa, casa professa, a 2 de Fevereiro de 1685** (Lus. 10, 254). Morreu em Pequim a 5 de Maio de 1694 (JS 116a, 287v; SF V, 248; Planchet, p. 168). O lugar do noviciado não está documentado: não há catálogo da província para 1666-1668.
 
 ## 3. Cronologia (base Timelink)
 
@@ -104,9 +104,15 @@ Fui aos catálogos da província imediatamente antes e depois do noviciado: no d
 
 Não existem catálogos de 1666, 1667 nem 1668: o LUS. 45 salta do T1 de 1665 (ff. 309-332v) para o de 1669 (ff. 362-376v). O catálogo de 1665 é anterior à entrada de Simões (Outubro de 1666); o de 1669 é posterior ao seu embarque (Abril de 1668) e, por isso, já não o lista em Portugal — confirmei que a lista «Novitij» de 1669 (f. 370) só tem os cinco noviços entrados em 1667-1668. A lista onde ele estaria nomeado perdeu-se. Fica a inferência estrutural: **Lisboa (Casa de Provação), confiança baixa**.
 
+### 4.4 4. O hiato documental de 1666-1668 e a pesquisa no arquivo (2026-11-08)
+
+A data exacta do Dehergne (28 de Outubro de 1666), sem cota de catálogo da Lusitânia, é invulgar: as datas ao dia vêm em geral dos catálogos trienais. A explicação provável é que a notícia assenta em fontes de Roma/Índia (JS, SF, Goa 27, Lus. 10), não nos catálogos da província — e estes, para 1666-1668, **não existem no nosso arquivo**: o Lus. 45 termina no catálogo de 1665 (ff. 309-332v) e o Lus. 46 começa no de 1675 (ff. 1-21v). O intervalo cobre precisamente os dezoito meses entre a entrada (Out. 1666) e o embarque (Abr. 1668).
+
+Procurou-se informação no arquivo sobre os anos de Índia (1668-1690): o registo de embarque (W 1107 — «Ir. Francisco Simóes, Novize»), as crónicas e os catálogos de Goa **não estão digitalizados** neste arquivo; as colecções disponíveis (Documenta Indica, Schütte, Documentação do Padroado) não chegam a este período ou não o mencionam. As únicas referências são as que o Dehergne cita (SF V; JS 134; JA 49-V-22; Goa 27), que não possuímos.
+
 ### O que não foi encontrado
 
-Procurou-se o nome nas listas de noviços existentes: catálogo de 1665 (Lus. 45, ff. 322-323v, «Domus Probationis Ulyssiponensis», n.º 399-422) — anterior à entrada, não pode figurar; catálogo de 1669 (f. 370, «Novitij») — posterior ao embarque, e só lista os noviços de 1667-1668. Não há catálogos de 1666, 1667 nem 1668 no LUS. 45 (o índice do pacote salta de 1665 para 1669), e nenhum outro volume do conjunto cobre esses anos. Também se verifica que o próprio Simões não consta das listas de 1669 por já estar na Índia. Ficam por localizar eventuais registos de noviciado da Casa de Provação de Lisboa de 1666-1668, que os catálogos trienais não conservaram. REVISÃO (2026-11-02): a formulação «a província tinha um só noviciado em 1665» deve ler-se com cautela. Franco (doc 52, p. 49) documenta que em 1660-1669 os noviços de Évora estavam em Lisboa (3.ª interrupção), mas não diz que o noviciado de Coimbra tivesse sido suprimido. No catálogo de 1665, as páginas examinadas dos blocos de Coimbra (f. 313v: lista de irmãos estudantes, sem cabeçalho «Novitii») e de Évora (f. 320: coadjutores espirituais e temporais) não têm lista de noviços, e os noviços aparecem na «Domus Probationis Ulyssiponensis» (ff. 322-323) — o que é compatível com a inexistência de outro noviciado, mas não é prova formal. A atribuição Lisboa mantém-se como inferência (baixa).
+O noviciado não está documentado: não há catálogo da província para 1666-1668 (Lus. 45 acaba em 1665; Lus. 46 começa em 1675) e o Dehergne não cita qualquer cota da Lusitânia para a entrada. Procurou-se no arquivo (Documenta Indica, Schütte, Documentação do Padroado, catálogos jesuítas) e não há menção a este homem no período indiano; as fontes citadas pelo Dehergne (SF V, JS 134, JA 49-V-22, Goa 27, Lus. 10) não estão digitalizadas aqui. A atribuição a Lisboa (média) assenta na instituição: em 1665 todos os noviços estavam na Domus Probationis de Lisboa e Évora estava suprimida.
 
 ## 5. Evidência
 

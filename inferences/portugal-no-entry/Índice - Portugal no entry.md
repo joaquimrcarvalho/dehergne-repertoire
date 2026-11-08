@@ -12,7 +12,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **47** · **média**: **37** · **baixa**: **13** · **não determinado**: **13**
+- lugar proposto com confiança **alta**: **47** · **média**: **38** · **baixa**: **12** · **não determinado**: **13**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
@@ -106,6 +106,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-dionisio-ferreira]] | Dionísio Ferreira | 300 | — | **Lisboa (Arroios — Noviciado das Missões da Índia, dito Noviciado do Oriente)** | 1738-02-05 | média |
 | [[deh-estevao-lopes]] | Estêvão Lopes | 487 | Coimbra, anotado no Dehergne | **Lisboa (Casa de Provação — noviciado da província; casa do Monte Olivete)** | 1708-03-21 | média |
 | [[deh-francisco-lopes]] | Francisco Lopes | 488 | noviço em Coimbra em 1590 | **Coimbra** | 1590-02 (data de Dehergne; confirmada apenas por via indireta) | média |
+| [[deh-francisco-simoes]] | Francisco Simões | 785 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 28 de Outubro de 1666 (Dehergne — sem cota de catálogo da Lusitânia) | média |
 | [[deh-francisco-da-costa]] | Francisco da Costa | 210 | — | **Évora (Colégio de Évora)** | 1707-02-09 (o catálogo de 1711 situa-o em Évora) | média |
 | [[deh-goncalo-dias]] | Gonçalo Dias | 253 | Évora 1611 | **Évora (Colégio de Jesus / noviciado de Évora)** | 1608 (Dehergne: E. 1608) | média |
 | [[deh-inacio-lopes]] | Inácio Lopes | 489 | — | **Coimbra (Colégio de Coimbra)** | 1681 (o catálogo de 1685 dá-lhe os anos de Companhia indicados) | média |
@@ -138,7 +139,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-antonio-preto]] | António Preto | 662 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência fraca** | 1650 (Dehergne) / 1651 (catálogo de 1655: 4 anos de Companhia) | baixa |
 | [[deh-antonio-rodrigues-ii]] | António Rodrigues | 699a | Coimbra | **Lisboa (Casa de Provação do Monte Olivete — noviciado da província)** | 1624 (Dehergne); c. 1625 segundo o catálogo de 1633 (8 anos de Companhia em Maio de 1633) | baixa |
 | [[deh-francisco-pereira]] | Francisco Pereira | 619 | ? | **Lisboa (Casa de Provação do Monte Olivete) — por inferência, não por prova nominal** | 1622 | baixa |
-| [[deh-francisco-simoes]] | Francisco Simões | 785 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1666-10-28 | baixa |
 | [[deh-goncalo-de-oliveira]] | Gonçalo de Oliveira | 595 | Coimbra | **Coimbra (Colégio de Coimbra) — atribuição provisória** | 1637 (Pfister/Dehergne) ou 1638 (o catálogo de 1645 dá-lhe «Societ. 7») | baixa |
 | [[deh-jose-monteiro]] | José Monteiro | 563 | — | **Coimbra (noviciado) — inferência, com Évora e Lisboa como alternativas não excluídas** | 17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data) | baixa |
 | [[deh-jose-de-magalhaes]] | José de Magalhães | 507 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1649 | baixa |
