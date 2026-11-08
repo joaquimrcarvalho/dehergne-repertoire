@@ -52,9 +52,9 @@
    "forca": "contextual"
   },
   {
-   "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66): índice de pessoas, p. 198 da digitalização, regista «Pinto, Manuel, 1307»; a entrada n.º 1307 fica na p. 243 (impressa 205) da edição citada — fora desta digitalização (207 pp.)",
-   "comando": "pha page 66 198 --edited",
-   "o_que_prova": "confirma que W 1307 é uma entrada da lista de Wicki (não uma página); a localização exacta não é verificável nesta cópia",
+   "citacao": "Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 63 da digitalização (impressa **309**; a obra começa na impressa 251), n.º 1307: «Ir. Manuel Pinto, Frater, Port.» — 114.ª expedição (1691), secção «für „Japan“» — texto alemão, edição impressa",
+   "comando": "pha page 66 63 --edited",
+   "o_que_prova": "confirma o embarque de 1691: «1307. Ir. Manuel Pinto, Frater, Port.» na 114.ª expedição, «für Japan» — irmão, não padre; a localização correcta é a p. 63 (impressa 309)",
    "forca": "indireta"
   },
   {

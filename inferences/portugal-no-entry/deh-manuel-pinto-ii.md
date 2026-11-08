@@ -113,8 +113,8 @@ O lugar de entrada não é determinável com as fontes disponíveis, e a própri
   - contexto do assento: pertence ao bloco do Colégio de Coimbra do catálogo de 1696
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 243 (impressa 205), n.º 646, verbete «Pinto, Manuel (II)» — edited (`french-ocr`) · `pha page 65 243 --edited` · prova contextual
   - a notícia e as suas três referências: «E. 14 mars 1652 (Lus. 46, 322)», «W 1307», «M. in itinere ad Jap. vel Sinas, 1692 (HS 49, 66v)»
-- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66): índice de pessoas, p. 198 da digitalização, regista «Pinto, Manuel, 1307»; a entrada n.º 1307 fica na p. 243 (impressa 205) da edição citada — fora desta digitalização (207 pp.) · `pha page 66 198 --edited` · prova indireta
-  - confirma que W 1307 é uma entrada da lista de Wicki (não uma página); a localização exacta não é verificável nesta cópia
+- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 63 da digitalização (impressa **309**; a obra começa na impressa 251), n.º 1307: «Ir. Manuel Pinto, Frater, Port.» — 114.ª expedição (1691), secção «für „Japan“» — texto alemão, edição impressa · `pha page 66 63 --edited` · prova indireta
+  - confirma o embarque de 1691: «1307. Ir. Manuel Pinto, Frater, Port.» na 114.ª expedição, «für Japan» — irmão, não padre; a localização correcta é a p. 63 (impressa 309)
 - *Historia Societatis* (HS) 49, 66v — citada pelo Dehergne para a morte em 1692 · prova negativa
   - NÃO POSSUÍDA: não existe neste arquivo nem nas digitalizações; a morte de 1692 não pode ser verificada
 
