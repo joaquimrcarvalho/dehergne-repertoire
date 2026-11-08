@@ -16,7 +16,7 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 **Lugar de entrada: Lisboa (Casa de Provação / Domus Probationis)** — 1686-01-21 (lido no catálogo de 1693) (confiança: **alta**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — CONFIRMADA. O noviço é nomeado na **Domus Probationis de Lisboa**: no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado; imagem `LUS. 39/142.jpg`), secção «Domus Probationis Ulyssiponensis», está «Fr. **Felix Barbosa**» — o mesmo nome do assento do catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132), que dá a data exacta («ingressus Societ. 21. Januarii an. 686»). Com a nomeação na casa de noviciado, a prova é directa (confiança alta); a única reserva é o prenome (Félix nos catálogos, François em Dehergne). Notas de leitura: (a) a cota do Dehergne «Lus. 46, **225v**» é gralha por **255v** (n.º 132); (b) em 1693, no mesmo fólio, está no bloco do **Colégio de Coimbra** (aluno do 4.º ano de Filosofia) — residência posterior, não noviciado; (c) a dúvida sobre um «Felix Barboza» no índice de 1696 **não se confirma**: o nome aí é «Fr. **Felix Barreto**» (outra pessoa).
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — CONFIRMADA. O noviço é nomeado na **Domus Probationis de Lisboa**: no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado; imagem `LUS. 39/142.jpg`), secção «Domus Probationis Ulyssiponensis», está «Fr. **Felix Barbosa**» — o mesmo nome do assento do catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132), que dá a data exacta («ingressus Societ. 21. Januarii an. 686»). A identificação com o Francisco Barbosa do Dehergne é sustentada por dois dados: (a) **W 1329** chama-lhe «P. **Francisco Barbosa**, Port.» na 117.ª expedição (1694); (b) no catálogo de **1696** ele **desaparece** do bloco de Coimbra, onde continuam os companheiros da mesma sequência de 1693 (José de Freitas, Domingos de Cabo) — coerente com o embarque de 1694. Provas: nomeação na casa de noviciado + embarque em 1694 ⇒ **Lisboa (Casa de Provação), alta**. Reserva: o prenome (Félix nos catálogos, Francisco em Wicki/Dehergne) e a residência em Coimbra em 1693 (posterior ao noviciado). Notas de leitura: a cota do Dehergne «Lus. 46, 225v» é gralha por **255v** (n.º 132); o «Félix» do índice de 1696 é «Fr. Felix **Barreto**», outra pessoa.
 
 Francisco Barbosa (nos catálogos: «Fr. **Felix** Barbosa»), natural de Santarém (Scalabis), entrou na Companhia a **21 de Janeiro de 1686** — data que o catálogo de 1693 (Lus. 46, f. 255v carimbado, n.º 132) inscreve — e é **nomeado noviço na Domus Probationis de Lisboa** no catálogo breve de Novembro de 1686 (Lus. 39, f. 144 carimbado: «Fr. Felix Barbosa»). Nessa data o noviciado era único na província (unificação de Junho de 1685), pelo que o lugar de entrada é **Lisboa (Casa de Provação), confiança alta**. Em 1693 era aluno do 4.º ano de Filosofia no **Colégio de Coimbra** (mesmo assento) — residência posterior, que não altera o noviciado.
 
@@ -92,9 +92,11 @@ O catálogo breve de Nov. 1686 (Lus. 39, ff. 140-143v = carimbados 142-145v) tem
 
 **Dúvida nova (2026-11-08)**: o índice do catálogo de **1696** (Lus. 46, f. 315 carimbado, imagem 311) regista «Felix Barboza — p. 24, n.º 288». Se for o mesmo homem do assento de 1693 (ingressus 21 Jan. 1686), então **não embarcou em 1694** (ou voltou) — o que contraria a notícia do Dehergne (W 1329). Se for outro, há dois Felix Barbosa na província. Falta ler o assento de 1696.
 
-### 4.4 4. Nota de leitura: o «Félix» de 1696 é Barreto, não Barbosa
+### 4.4 4. A ausência em 1696 e o nome de W 1329
 
-Tinha anotado uma dúvida a partir do índice do catálogo de 1696 (Lus. 46, f. 315 carimbado, imagem `LUS. 46/311.jpg`), onde me parecia ler «Felix Barboza». A leitura correcta é «**Fr. Felix Barreto**» — outra pessoa, na mesma página do índice (p. 24, n.º 288). Não há, portanto, nenhum Felix Barbosa no catálogo de 1696, e a cadeia 1686 (noviço em Lisboa) → 1693 (estudante em Coimbra) → 1694 (embarque, W 1329) não é contraditada. Fica registada a correcção.
+O investigador verificou o catálogo de **1696** (Lus. 46, ff. 314-343v) no bloco do Colégio de Coimbra: lá estão os companheiros que em 1693 ladeavam Barbosa na mesma sequência — **José de Freitas** e **Domingos de Cabo** —, mas Barbosa **não está**. Ou seja, ele saiu da província entre 1693 e 1696, o que concorda com o embarque de 1694.
+
+E o embarque (Wicki, 117.ª expedição, 1694) chama-lhe «**P. Francisco Barbosa**, Port.» (W **1329**) — o prenome que o Dehergne usa. Os catálogos da província chamam-lhe «Felix»; Wicki «Francisco». São, com toda a probabilidade, os dois nomes do mesmo homem — e é esta a única reserva que fica na ficha.
 
 ### O que não foi encontrado
 
@@ -112,12 +114,15 @@ Procurou-se e não se encontrou: (1) o assento nominal de Barbosa na lista de no
   - que em Nov. 1686 já não havia noviciado em Coimbra: o grupo dos noviços existe só na secção da Domus Probationis de Lisboa
 - Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), n.º 72 — notícia transcrita na base Timelink (atributo `obs` da fonte `dehergne-b`) · `python3 tools/packet.py deh-francisco-barbosa` · `python3 tools/packet.py deh-francisco-barbosa` · prova indireta
   - estado da questão: «N. Scalabis, d. de Lisbonne, 1671 — E. 21 janv. 1686 (Lus. 46, 255v)», sem lugar; destinado à China em 1693 e a Goa em 1694
+- Wicki, *Liste der Jesuiten-Indienfahrer 1541-1758* (doc 66), p. 64 da digitalização (impressa **310**), n.º 1329: «P. **Francisco Barbosa**, Port.», 117.ª expedição (1694) — edição impressa · `pha page 66 64 --edited` · prova direta
+  - confirma o embarque de 1694 e dá o prenome Francisco (o dos catálogos é Félix)
 
 ## 6. Referências
 
 - [[0 Portugal no entry]]
 - [[deh-francisco-barbosa]]
 - **doc 65** — Dehergne, Joseph. Répertoire des Jésuites de Chine de 1552 à 1800. vol. 37. (Roma : Paris: Institutum historicum ; Letouzey & Ané, 1973). (fetched-from-zotero-unverified (Zotero item 6SXPRBXS; title read on the book's own title page — « de 1552 à 1800 » — and the edition confirmed against AHSI 43 (1974) n. 353. NOTE: this document's file name says «de 1542 à 1800»; the printed title is 1552))
+- **doc 66** — Wicki, Josef. Liste der Jesuiten-Indienfahrer 1541-1758. vol. 7. (Münster Westfalen: Aschendorff, 1967). (fetched-from-zotero-unverified)
 
 ---
 
