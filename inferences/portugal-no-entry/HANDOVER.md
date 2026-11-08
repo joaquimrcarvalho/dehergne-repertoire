@@ -69,6 +69,7 @@ Nas `evidencias`, `comando` é normalmente `open "<imagem ARSI>"` e/ou `pha page
 
 ## 6. Armadilhas conhecidas (não repetir)
 
+- **As listas de noviços podem estar em VÁRIAS casas** (2026‑11‑08). No catálogo de **1675** (Lus. 45, ff. 444‑463v) há noviços em **Coimbra** (f. 451), em **Évora** (a partir do **f. 454v**) e na **Casa de Provação de Lisboa** (**f. 456v**) — não só em Coimbra, como se concluíra por leitura parcial. Antes de afirmar «não havia noviços em X», verificar o *fim* de cada bloco de casa (recto e verso), e não só o meio.
 - **«Não está no pha» ≠ «não existe».** Os catálogos ARSI estão em disco (SSD «ARSI», `/Volumes/ARSI`), fora do pha. Foi este erro que gerou o relatório de fólios errado (Lus. 44 II ff. 350‑440 existem).
 - **SSD «ARSI»:** desde 2026‑11 as digitalizações estão no **SSD externo «ARSI»** — `/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/`. **Não há paginação iCloud, logo não é preciso aquecer as imagens.** Se o volume não estiver montado, **montá‑lo** antes de ler: a ausência do volume não é prova de que o fólio não existe. A cópia antiga em iCloud ainda existe (mesmos nomes de ficheiro), mas já não se cita por ela; os `comando` dos JSON foram migrados para o caminho do SSD.
 - **iCloud (legado):** nas cópias antigas as imagens podiam estar «paginadas»; aquecer com `cat "<ficheiro>" > /dev/null`. Só relevante se se voltar a ler a cópia iCloud.
