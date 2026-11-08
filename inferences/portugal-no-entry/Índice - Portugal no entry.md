@@ -12,7 +12,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 ## Resumo
 
 - pessoas tratadas: **110**
-- lugar proposto com confiança **alta**: **47** · **média**: **37** · **baixa**: **14** · **não determinado**: **12**
+- lugar proposto com confiança **alta**: **47** · **média**: **37** · **baixa**: **13** · **não determinado**: **13**
 - vinham com sugestão na tabela [[0 Portugal no entry]]: **37** (das quais **35** ficaram com lugar fundamentado)
 
 ### Lugares propostos
@@ -20,7 +20,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | lugar | nº de pessoas |
 |---|---:|
 | Coimbra | 41 |
-| Lisboa | 41 |
+| Lisboa | 40 |
 | Évora | 14 |
 | «in mari» — admitido a bordo, na viagem de Portugal para a Índia | 1 |
 
@@ -143,7 +143,6 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-jose-monteiro]] | José Monteiro | 563 | — | **Coimbra (noviciado) — inferência, com Évora e Lisboa como alternativas não excluídas** | 17 de Dezembro de 1661 (Dehergne, citando Lus. 45, 319v; o fólio dá «soc. 3» em 1665, o que é compatível, mas não regista a data) | baixa |
 | [[deh-jose-de-magalhaes]] | José de Magalhães | 507 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1649 | baixa |
 | [[deh-joao-baptista]] | João Baptista | 71 | — | **Coimbra (noviciado)** | 1671-05-20 (manuscrito ARSI; Dehergne lê 20-03-1671) | baixa |
-| [[deh-joao-fernandes-fou]] | João Fernandes Fou | 292 | — | **Lisboa (Casa de Provação do Monte Olivete)** | 1663 (Dehergne; Lus. 45, 394) | baixa |
 | [[deh-joao-de-figueiredo]] | João de Figueiredo | 308 | — | **Coimbra (noviciado do Real Colégio de Jesus) — inferência** | 1650 (Dehergne; confirmado pelo catálogo de 1655: 5 anos de Companhia) | baixa |
 | [[deh-pedro-de-lis]] | Pedro de Lis | 475 | — | **Lisboa (noviciado da Companhia na corte) — inferência** | 1649-08-15 | baixa |
 | [[deh-simao-pinto]] | Simão Pinto | 648 | — | **Coimbra (inferido)** | 1675 (Dehergne; confirmado pelo «fuit 3» do catálogo de 1678) | baixa |
@@ -151,6 +150,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 | [[deh-antonio-simoes-i]] | António Simões | 782 | — | **— não determinado —** | 1678 (Dehergne) | nenhuma |
 | [[deh-inacio-lobo]] | Inácio Lobo | 479 | ? Não é claro, provavelmente Coimbra o verdadeiro nome será [Inácio Simões](Inácio%20Simões) | **— não determinado —** | 1624 (Dehergne) — não confirmada nos catálogos; reentrada de 1635 não verificada | nenhuma |
 | [[deh-jose-soares]] | José Soares | 796 | — | **— não determinado —** | Março de 1673 (Dehergne; «63 anos de Religião» em 1736 confirmam 1673) | nenhuma |
+| [[deh-joao-fernandes-fou]] | João Fernandes Fou | 292 | — | **— não determinado —** | indeterminada — os dados do Dehergne (n. 1640, E. 1663) pertencem a **Inácio Pereira**; o único dado seguro é a morte a 18 de Abril de 1673, a caminho da Índia | nenhuma |
 | [[deh-joao-simoes]] | João Simões | 786 | — | **— não determinado —** | 1734-05-17 (data confirmada em fonte primária e no registo da província, que no entanto o não nomeia) | nenhuma |
 | [[deh-joao-de-abreu]] | João de Abreu | 4 | — | **— não determinado —** | 1648 (Dehergne; «annos duos cum dimidio» de Companhia em 1651 ⇒ entrada em 1648/49) | nenhuma |
 | [[deh-joao-de-seixas]] | João de Seixas | 754 | — | **— não determinado —** | 1727-11-25 (Dehergne) ou 1729-11-25 (Sommervogel; Pfister nota a variante) | nenhuma |
@@ -167,6 +167,7 @@ Notas de inferência para os missionários portugueses da China cujo `jesuita-en
 - [[deh-antonio-simoes-i]] — António Simões (entrada 1678): ver a nota para o que foi procurado e o que falta.
 - [[deh-inacio-lobo]] — Inácio Lobo (entrada 1624): ver a nota para o que foi procurado e o que falta.
 - [[deh-jose-soares]] — José Soares (entrada 16730300): ver a nota para o que foi procurado e o que falta.
+- [[deh-joao-fernandes-fou]] — João Fernandes Fou (entrada 1663): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-simoes]] — João Simões (entrada 17340517): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-abreu]] — João de Abreu (entrada 16480000): ver a nota para o que foi procurado e o que falta.
 - [[deh-joao-de-seixas]] — João de Seixas (entrada 17271125): ver a nota para o que foi procurado e o que falta.

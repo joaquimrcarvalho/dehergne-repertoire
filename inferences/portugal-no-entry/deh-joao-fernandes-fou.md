@@ -4,9 +4,9 @@ person_id: deh-joao-fernandes-fou
 name: João Fernandes Fou
 dehergne_no: 292
 nationality: Portugal
-entry_place: Lisboa (Casa de Provação do Monte Olivete)
-entry_date: "1663 (Dehergne; Lus. 45, 394)"
-confidence: baixa
+entry_place: não determinado
+entry_date: "indeterminada — os dados do Dehergne (n. 1640, E. 1663) pertencem a **Inácio Pereira**; o único dado seguro é a morte a 18 de Abril de 1673, a caminho da Índia"
+confidence: nenhuma
 source: "[[0 Portugal no entry]]"
 created: 2026-11-08
 tags: [dehergne, jesuita-entrada, portugal, china]
@@ -14,11 +14,11 @@ tags: [dehergne, jesuita-entrada, portugal, china]
 
 # João Fernandes Fou (`deh-joao-fernandes-fou`)
 
-**Lugar de entrada: Lisboa (Casa de Provação do Monte Olivete)** — 1663 (Dehergne; Lus. 45, 394) (confiança: **baixa**).
+**Lugar de entrada: não determinado** — indeterminada — os dados do Dehergne (n. 1640, E. 1663) pertencem a **Inácio Pereira**; o único dado seguro é a morte a 18 de Abril de 1673, a caminho da Índia (confiança: **nenhuma**).
 
-> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma (campo «suggestion» vazio e coluna je_table com «?»)** — NÃO confirmada nominalmente, mas com inferência estrutural forte: em 1665 a província tinha **um único noviciado**, a «Domus Probationis Ulyssiponensis» (Lus. 45, f. 322, n.º 377), e a sua lista «Novitij» (f. 322v, n.º 399 — f. 323, n.º 422) mostra que as entradas de 1663 se faziam todas ali. Como Dehergne lhe dá E. 1663 e a entrada foi em Portugal (ainda em 1673 embarcou de Portugal para a China), o lugar de entrada só pode ser Lisboa. Falta, porém, a prova nominal: não existe catálogo de 1663/1664, e na lista de noviços de 1665 não há nenhum «João Fernandes Fou» legível — o único candidato próximo é o n.º 417 («Fr. Joannes …, Patria M…, ingressus 11 Sept. 1663, ætatis 25, adjutor spiritualis»), cujo apelido não consegui ler com segurança. Além disso, o fólio que Dehergne cita (Lus. 45, 394 = catálogo de 1672) tem os dados biográficos certos mas outro nome: «Fr. Ignatius Pereira ex Insula vulgo Madera, an. 32, Societ. 9». Por isso: baixa.
+> Sugestão na tabela [[0 Portugal no entry]]: **nenhuma («?» na coluna jesuita-entrada)** — NÃO DETERMINADO — **confusão de pessoas no Dehergne**. As três cotas da notícia (Lus. 45, 394; 443; 445v) repartem-se por dois homens diferentes: (1) o f. **394** (catálogo de 1672) é «Fr. **Ignatius Pereira**, ex insula vulgo Madeira, an. 32, Societ. 9» — é dele que vêm a naturalidade madeirense, o nascimento em 1640 e a entrada em 1663 (32 anos e 9 de Companhia em 1672); (2) o f. **445v** (catálogo de 1675) é o mesmo Inácio, então «Ignatius Pereyra da Insula Madeira, idade 34, sociedade 13» — **vivo** dois anos depois; (3) o f. **443** (lista de defuntos de 1673) é o verdadeiro João Fernandes: «Fr. **Joannes Fernandes** obijt in navigatione ad Indiam die 18. April. 1673». Logo, o João Fernandes que morreu em 1673 não tem dados de nascimento nem de entrada documentados — os que Dehergne lhe atribui são de Inácio Pereira. O lugar de entrada é, por isso, indeterminável.
 
-João Fernandes Fou (junior) nasceu na Madeira em 1640 e entrou na Companhia em 1663, mas não há catálogo de 1663 nem de 1664 que o nomeie noviço. O que se pode provar é o enquadramento: em 1665 a província portuguesa tinha um só noviciado, a **Casa de Provação de Lisboa** («Domus Probationis Ulyssiponensis», Lus. 45, f. 322), e a lista dos seus noviços inclui 23 entrantes de 1663-1664 com as datas de ingresso (ff. 322v-323). Num deles não se lê o nosso homem com segurança; o único registo que coincide em idade e anos de Companhia (f. 394, catálogo de 1672: 32 anos, 9 de Companhia) traz o nome «Fr. Ignatius Pereira». Conclui-se por inferência estrutural: **Lisboa (Casa de Provação), confiança baixa**.
+João Fernandes Fou (junior) — irmão coadjutor morto a bordo, a caminho da Índia, a **18 de Abril de 1673** («Fr. Joannes Fernandes obijt in navigatione ad Indiam die 18. April. 1673», Lus. 45, f. 443). A notícia do Dehergne atribui-lhe nascimento na Madeira em 1640 e entrada em 1663, mas esses dados são de **outra pessoa**: o catálogo de 1672 (Lus. 45, f. 394) regista «Fr. **Ignatius Pereira**, ex insula vulgo Madeira, an. 32, Societ. 9» — e o mesmo Inácio Pereira continua vivo no catálogo de 1675 (f. 445v: «idade 34, sociedade 13»), enquanto João Fernandes morre em 1673. Há, pois, **confusão de pessoas no Dehergne**: a naturalidade, o nascimento e a data de entrada de João Fernandes Fou são indetermináveis, e com eles o lugar de entrada. **Não determinado**.
 
 ## Identificação
 
@@ -36,8 +36,8 @@ João Fernandes Fou (junior) nasceu na Madeira em 1640 e entrou na Companhia em 
 |---|---|
 | Dehergne, entrada (`E.`) | 1663 |
 | Base Timelink (actual) | `?` / 1663 |
-| Tabela Obsidian (sugestão) | nenhuma (campo «suggestion» vazio e coluna je_table com «?») |
-| **Proposta desta nota** | **Lisboa (Casa de Provação do Monte Olivete)** — 1663 (Dehergne; Lus. 45, 394) (baixa) |
+| Tabela Obsidian (sugestão) | nenhuma («?» na coluna jesuita-entrada) |
+| **Proposta desta nota** | **não determinado** — indeterminada — os dados do Dehergne (n. 1640, E. 1663) pertencem a **Inácio Pereira**; o único dado seguro é a morte a 18 de Abril de 1673, a caminho da Índia (nenhuma) |
 
 ## 1. Notícia de Dehergne (base Timelink)
 
@@ -49,7 +49,7 @@ Dehergne (doc 65, nº 292) — ver `/Users/jrc/jesuit-archive/dropbox/collection
 
 ## 2. Biografia
 
-João Fernandes Fou (junior), irmão coadjutor, nasceu em 1640 na ilha da Madeira e entrou na Companhia em 1663. Em 1672 o catálogo da província regista um irmão madeirense de 32 anos e 9 de Companhia na Casa de Lisboa (Lus. 45, f. 394, n.º 42, aí com o nome «Fr. Ignatius Pereira»). Embarcou com o P. Intorcetta a 15 de Março de 1673 (Wicki 1153) e morreu durante a viagem, a 18 de Abril de 1673 (Lus. 45, 443; Dehergne diz 1 de Maio, HS 49, 116). Dehergne distingue-o expressamente do homónimo mais velho (n. 1626, Pedroso, diocese do Porto, E. 1649).
+João Fernandes Fou (junior), irmão coadjutor. A única informação segura é a sua morte: «Fr. Joannes Fernandes obijt in navigatione ad Indiam die 18. April. 1673» (Lus. 45, f. 443, lista de defuntos da província e da viagem da Índia, 1673). Dehergne dá-lhe nascimento na Madeira em 1640, entrada em 1663 e embarque com o P. Intorcetta a 15 de Março de 1673 (W 1153) — mas o nascimento e a entrada em 1663 são, na verdade, de **Inácio Pereira**, o madeirense registado no catálogo de 1672 (f. 394: 32 anos, 9 de Companhia) e ainda vivo no de 1675 (f. 445v: 34 anos, 13 de Companhia). Dehergne conhecia dois irmãos coadjutores com este nome (um sénior, n. 1626, Pedroso, E. 1649; este, júnior, n. 1640) e reconhece que é o júnior o morto em 1673 — mas os dados biográficos que lhe associa são de Inácio Pereira.
 
 ## 3. Cronologia (base Timelink)
 
@@ -69,44 +69,50 @@ João Fernandes Fou (junior), irmão coadjutor, nasceu em 1640 na ilha da Madeir
 
 ## 4. Verificação no arquivo pha
 
-### 4.1 O que se procurava: um noviço de 1663
+### 4.1 1. O que diz o Dehergne — e as suas três cotas
 
-Dehergne dá-lhe «E. 1663 (Lus. 45, 394)» e identifica-o como o mais novo de dois irmãos coadjutores do mesmo nome. Um entrado em 1663 seria noviço em 1665 (o bienal de noviciado), pelo que o catálogo I de 1665 (Lus. 45, ff. 309-332v) devia nomeá-lo na lista de noviços da casa de noviciado. Foi essa lista que se procurou.
+> «Fernandes Fou, João (port.) (II) fr. coadj. 292 Fou (M 443, 670: Fo). N. « ex insula vulgo Madeira », 1640 -E. 1663 (Lus. 45, 394). Emb. avec le P. Intorcetta, 15 mars 1673 (W 1153). M. 1 mai 1673 « in itinere ad Sinas » (HS 49, 116), ou plutôt le 18 avril durant la traversée (Lus. 45, 443). Nous connaissons deux fr. coadj. de ce nom, l'un, senior, N. 1626, Pedrozo, d. Porto., E. 1649., l'autre, junior, N. 1640: c'est ce dernier qui est M. en 1673 (Lus. 45, 443, 445v).»
 
-### 4.2 O único noviciado da província em 1665 era a Casa de Provação de Lisboa
+— Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 126, n.º 292.
 
-No catálogo de 1665 a Casa de Provação de Lisboa abre no f. 322, n.º 377, com o título «**Domus Probationis Ulyssiponensis**»; a lista «**Novitij**» começa no f. 322v, n.º 399, e continua até ao f. 323, n.º 422, imediatamente antes de «Collegium Bracarense» (f. 323v). É a única casa de noviciado do catálogo — todos os outros blocos são colégios, residências e missões. E os noviços aí listados têm as datas de entrada expressas («ingressus»): 1663 (Fevereiro, Março, Abril, Maio, Setembro, Outubro e Dezembro) e 1664. Ou seja: em 1663 as entradas da província faziam-se no noviciado de Lisboa.
+As cotas são três: 394 (para a entrada), 443 e 445v (para a morte). Lidas as três, repartem-se por **dois homens**.
 
-### 4.3 O problema: não o encontrei nomeadamente
+### 4.2 2. Lus. 45, f. 394 (1672): é «Fr. Ignatius Pereira»
 
-Percorri os n.º 399-422 (23 noviços de 1663-1664) e não há nenhum «João Fernandes Fou». O único candidato próximo é o n.º 417:
+No catálogo de 1672 (1672-T1, Lus. 45, f. 394 = imagem `LUS. 45/394.jpg`), n.º 42:
 
-> «417. Fr. Joannes …, Patria M…; ingressus 11 Sept. 1663; ætatis 25; adjutor spiritualis.»
+> «Fr. **Ignatius Pereyra**, ex insula vulgo **Madeira**, an. **32**, Societ. **9**, opt.ª valetudine …»
 
-— ARSI, *Lus. 45*, f. 323, n.º 417 — leitura directa do manuscrito (imagem `LUS. 45/323.jpg`).
+32 anos e 9 anos de Companhia em 1672 ⇒ nascido em ~1640 e entrado em ~1663 — exactamente os dados que Dehergne atribui a João Fernandes Fou. Mas o nome é outro.
 
-Data (11 de Setembro de 1663), idade (25 anos ⇒ nascimento em 1640) e estado (adjutor spiritualis, irmão) encaixam no perfil; mas o apelido e a pátria estão escritos em tinta muito clara e não os leio com segurança suficiente para afirmar a identificação.
+### 4.3 3. Lus. 45, f. 445v (1675): o mesmo Inácio, vivo; e f. 443 (1673): o João Fernandes defunto
 
-O catálogo de 1672, que Dehergne cita, confirma os dados biográficos mas com outro nome: no f. 394, n.º 42, lê-se «**Fr. Ignatius Pereira ex Insula vulgo Madera, an. 32, Societ. 9**» — idade 32 (nascimento em 1640) e 9 anos de Companhia (entrada em 1663) coincidem com o nosso homem, mas o nome não. Não posso, por isso, apresentar prova directa; fica a inferência estrutural: **Lisboa (Casa de Provação), confiança baixa**.
+No catálogo de 1675 (1675-T1, f. 445v = imagem `LUS. 45/445v.jpg`) está de novo «Fr. **Ignatius Pereyra**, ex Insula Madeira, aetatis **34**, Societ. **13** …» — o homem **não morreu em 1673**: continuou na província.
+
+Quem morreu em 1673 foi outro: na lista de defuntos da província e da viagem da Índia (1673-T10, f. 443 = imagem `LUS. 45/c443.jpg`) lê-se «Fr. **Joannes Fernandes** obijt in navigatione ad Indiam die **18. April. 1673**». É este o nosso homem — e é o único dado que temos dele.
+
+### 4.4 4. Conclusão: indeterminável
+
+A notícia do Dehergne junta os dados de **Inácio Pereira** (madeirense, n. 1640, E. 1663) ao **João Fernandes** morto em 1673. Sem nascimento nem data de entrada documentados para João Fernandes, não há como situar o noviciado: **não determinado**, confiança **nenhuma**. Fica a nota de que o homónimo sénior (n. 1626, Pedroso, E. 1649) também não é ele.
+
+Para retomar: procurar «Joannes Fernandes» nas listas de noviços de 1660-1663 (as de 1663 não sobrevivem) e na lista de embarque de 1673 (W 1153), que poderá dar a idade no momento do embarque — e, com ela, uma estimativa da entrada.
 
 ### O que não foi encontrado
 
-Procurou-se o nome nas listas de noviços do único noviciado da província em 1665 (Lus. 45, ff. 322-323v: n.º 399-422, com datas de ingresso de 1663-1664) — não está legivelmente. Não existem catálogos de 1663, 1664, 1666, 1667 nem 1668 no LUS. 45 (o índice do pacote salta de 1665 para 1669), pelo que a lista de noviços de 1663-1664 se perdeu. Verificou-se ainda, na sessão anterior, o «SS. Seminarii Maranhonis» de 1665 (f. 315v, «Novitij Scholastici»), o «Collegium Funcalense» (f. 326) e as listas da Casa de Provação de 1654/55, 1661/62 e 1665 (ff. 116-117, 297v-300, 322v-323) — sem resultado. O fólio citado por Dehergne (f. 394, catálogo de 1672) tem os dados biográficos mas o nome «Fr. Ignatius Pereira»; fica registado como pista não resolvida. REVISÃO (2026-11-02): a formulação «a província tinha um só noviciado em 1665» deve ler-se com cautela. Franco (doc 52, p. 49) documenta que em 1660-1669 os noviços de Évora estavam em Lisboa (3.ª interrupção), mas não diz que o noviciado de Coimbra tivesse sido suprimido. No catálogo de 1665, as páginas examinadas dos blocos de Coimbra (f. 313v: lista de irmãos estudantes, sem cabeçalho «Novitii») e de Évora (f. 320: coadjutores espirituais e temporais) não têm lista de noviços, e os noviços aparecem na «Domus Probationis Ulyssiponensis» (ff. 322-323) — o que é compatível com a inexistência de outro noviciado, mas não é prova formal. A atribuição Lisboa mantém-se como inferência (baixa).
+O lugar de entrada é indeterminável: não há dados de nascimento nem de entrada para João Fernandes Fou — os que o Dehergne lhe atribui (Madeira, 1640, E. 1663) são de **Inácio Pereira**, registado em 1672 (f. 394) e ainda vivo em 1675 (f. 445v). O único dado seguro é a morte, a 18 de Abril de 1673, a caminho da Índia (f. 443). Procurou-se também: as listas de noviços de 1665 (ff. 322v-323, sem identificação segura) e a lista de embarque de 1673 (W 1153, a rever).
 
 ## 5. Evidência
 
-- ARSI, *Lus. 45*, f. 322, n.º 377 — catálogo de 1665: título «Domus Probationis Ulyssiponensis» · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/322.jpg"` · prova directa (estrutura da província)
-  - em 1665 a província tinha um único noviciado, na Casa de Provação de Lisboa
-- ARSI, *Lus. 45*, f. 322v, n.º 399 — catálogo de 1665: título «Novitij», com as datas de ingresso («ingressus») dos noviços de 1663-1664 · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/322v.jpg"` · prova directa (enquadramento do ano da entrada)
-  - os entrantes de 1663 eram noviços na Casa de Provação de Lisboa
-- ARSI, *Lus. 45*, f. 323, n.º 406-422 — catálogo de 1665, continuação da lista «Novitij» (inclui o n.º 417, ingressus 11 Sept. 1663, ætatis 25) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/323.jpg"` · prova negativa
-  - procura nominal (negativa/duvidosa): nenhum «João Fernandes Fou» legível; o n.º 417 coincide em data e idade mas o apelido não é legível
-- ARSI, *Lus. 45*, f. 323v — catálogo de 1665: «Collegium Bracarense», início do bloco seguinte · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/323v.jpg"` · prova directa
-  - fim do bloco da Casa de Provação (a lista dos noviços vai só até ao n.º 422)
-- ARSI, *Lus. 45*, f. 394, n.º 42 — catálogo de 1672: «Fr. Ignatius Pereira ex Insula vulgo Madera, an. 32, Societ. 9» (fim da lista da casa anterior; «Collegium Conimbricense» começa no n.º 46) · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/394.jpg"` · prova indirecta (coincidência biográfica; nome diferente)
-  - o fólio que Dehergne cita para a naturalidade e o ano de entrada: dados biográficos coincidentes (Madeira, 32 anos, 9 de Companhia ⇒ n. 1640, entrada 1663), mas com outro nome — a identificação não fica provada
-- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 126, verbete «Fernandes Fou, João» — edited · `pha page 65 126 --edited` · prova contextual
-  - E. 1663, naturalidade madeirense, distinção entre os dois homónimos e morte na viagem de 1673
+- ARSI, *Lus. 45*, catálogo de 1672 (1672-T1), f. 394, n.º 42: «Fr. Ignatius Pereyra, ex insula vulgo Madeira, an. 32, Societ. 9, opt.ª valetudine» — imagem `LUS. 45/394.jpg`, manuscrito lido em imagem digital · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/394.jpg"` · prova negativa
+  - NEGATIVA/confusão: o assento que o Dehergne cita para a entrada de João Fernandes Fou é de **Inácio Pereira** (madeirense, 32 anos, 9 de Companhia em 1672 ⇒ n. ~1640, E. ~1663)
+- ARSI, *Lus. 45*, catálogo de 1675 (1675-T1), f. 445v: «Fr. Ignatius Pereyra, ex Insula Madeira, aetatis 34, Societ. 13» — imagem `LUS. 45/445v.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/445v.jpg"` · prova negativa
+  - o mesmo Inácio Pereira está vivo em 1675 (34 anos, 13 de Companhia) ⇒ não é o homem morto em 1673
+- ARSI, *Lus. 45*, 1673-T10, lista de defuntos da província e da viagem da Índia, f. 443: «Fr. Joannes Fernandes obijt in navigatione ad Indiam die 18. April. 1673» — imagem `LUS. 45/c443.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/c443.jpg"` · prova direta
+  - o único dado documentado de João Fernandes Fou: a morte a 18 de Abril de 1673, a caminho da Índia
+- Joseph Dehergne, *Répertoire des Jésuites de Chine* (doc 65), p. 126, n.º 292, verbete «Fernandes Fou, João (II)» — edited (`french-ocr`) · `pha page 65 126 --edited` · prova contextual
+  - estado da questão e a confusão: nascimento madeirense e E. 1663 (cota 394 = Inácio Pereira); morte em 1673 (cotas 443 e 445v)
+- ARSI, *Lus. 45*, catálogo de 1665, «Domus Probationis Ulyssiponensis», lista «Novitij» (ff. 322-323) — imagens `LUS. 45/322.jpg` e `LUS. 45/323.jpg` · `open "/Volumes/ARSI/ARSI Lusitania/v2-2025-01-19/LUS. 45/322.jpg"` · prova contextual
+  - contexto: em 1665 o único noviciado da província era o de Lisboa; a lista de noviços não permite identificar João Fernandes
 
 ## 6. Referências
 
