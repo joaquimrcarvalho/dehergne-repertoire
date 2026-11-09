@@ -37,6 +37,13 @@ transcription conventions.
   work, and each file is copyright of its transcriber. Never rewrite them
   mechanically; content changes go through the researcher. Validate
   translations with the Kleio server before importing.
+* **Commit `sources/` only after the Kleio check.** Changes to the `.cli`
+  files must be translated and imported with the Kleio server first
+  (`tlnb.update_from_sources()`, then `tlnb.get_import_status()` /
+  `tlnb.get_translation_report()` with no errors) and only then committed, so
+  that the history contains only changes the pipeline accepted. If the server
+  is not available, leave the edits **uncommitted in the working tree** and say
+  so — do not commit them «for later validation».
 * **The database is derived data.** Everything in `database/` can be rebuilt
   from `sources/` by translating and importing; treat it as disposable.
 * **Transcription conventions.** Follow `extras/doc/Dehergne_transcription_format.md`
