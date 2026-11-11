@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=57
+kleio$gacto2.str/translations=58
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin3-35
    fonte$dehergne-o/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra O
 
@@ -33,7 +33,7 @@ kleio$gacto2.str/translations=57
             ls$nome-chines/Lin Kong-sa
             ls$nome-chines/Oliveira, Lin
             ls$nascimento/?/16190000
-            ls$jesuita-entrada/?/16370000
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 44 f. 643v n.º 401/1637
             ls$embarque/Capitaina/16550323
             ls$wicky/988/16550323
             ls$wicky-viagem/87/16550323
@@ -152,7 +152,7 @@ kleio$gacto2.str/translations=57
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Escolástico
             ls$nascimento/Carapito, diocese de Viseu# @wikidata:Q1035417/16730000
-            ls$jesuita-entrada/?/16890309
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 208/16890309
             ls$embarque/[Para a China]/16920000
             ls$wicky/1316/16920000
             ls$wicky-viagem/115/16920000

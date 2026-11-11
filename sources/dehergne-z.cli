@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=48
+kleio$gacto2.str/translations=49
 
    property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-25
@@ -111,7 +111,7 @@ kleio$gacto2.str/translations=48
             ls$jesuita-estatuto/Padre
             ls$nome/Pedro Jusarte
             ls$nascimento/Loures, diocese de Lisboa# @wikidata:Q917535/16160000#ou 16180000
-            ls$jesuita-entrada/?/16350000#ou 16320000
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 44 f. 579v n.º 263/1635
             ls$embarque/?/16450406
             ls$wicky/927/16450406
             ls$wicky-viagem/79/16450406

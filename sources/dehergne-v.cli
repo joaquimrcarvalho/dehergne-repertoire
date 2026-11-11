@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=121
+kleio$gacto2.str/translations=122
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-61
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
 
@@ -803,7 +803,7 @@ kleio$gacto2.str/translations=121
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Escolástico
             ls$nascimento/Verros#ILOC/1597
-            ls$jesuita-entrada/?/1614
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Lus. 39/1614
             ls$embarque/S. Carlos/16180400#meados do mês
             ls$wicky/664/16180400
             ls$wicky-viagem/57/16180400#meados do mês
@@ -871,7 +871,7 @@ kleio$gacto2.str/translations=121
             ls$jesuita-estatuto/Padre
             ls$nome/António Velloso
             ls$nascimento/Braga# @wikidata:Q83247/1597
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/16150902/obs=Dehergne omits place of entry; appears in Coimbra college catalogue 1619 (Lus. 44 II, fol. 361) among cursistas; and in 1617 under "Irmãos noviços estudantes"(Lus. 39, fol. 97).
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Franco, Imagem da virtude… Évora (noviciado único)/16150902/obs=Dehergne omits place of entry; appears in Coimbra college catalogue 1619 (Lus. 44 II, fol. 361) among cursistas; and in 1617 under "Irmãos noviços estudantes"(Lus. 39, fol. 97).
             ls$embarque/[Para a Índia]/16240325
             ls$wicky/709/16240325
             ls$wicky-viagem/62/16240325
@@ -1239,7 +1239,7 @@ kleio$gacto2.str/translations=121
             ls$nome-chines/Lieou Ma-no
             ls$nome-chines/Wei Ma-no
             ls$nascimento/Marvão, diocese de Portalegre%Morvam#o catálogo de 1717 diz S. Marcos, diocese de Évora, a primeira data vem do catálogo de 1734 @wikidata:Q988863/17130702
-            ls$jesuita-entrada/?#o catálogo de 1717 diz 17170509, a primeira data vem do catálogo de 1734/17290731
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17290731
             ls$grau-academico/Mestre em Artes
             ls$embarque/?/1746#não padre
             ls$wicky/1911/1746

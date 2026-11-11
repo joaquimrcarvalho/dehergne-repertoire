@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=212
+kleio$gacto2.str/translations=213
 
    property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-126
@@ -31,7 +31,7 @@ kleio$gacto2.str/translations=212
             ls$nome-chines/Tchang
             ls$nome-chines/Pachieco, Cham
             ls$nascimento/Braga# @wikidata:Q83247/16220000
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/16360000/obs=Dehergne omits place of entry; appears in Coimbra college catalogue 1639, age 17, "Rhetorico" (Lus. 44 II, fol. 580, n. 288, college starts fol. 576v).
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 44 n.º 601/1636/obs=Dehergne omits place of entry; appears in Coimbra college catalogue 1639, age 17, "Rhetorico" (Lus. 44 II, fol. 580, n. 288, college starts fol. 576v).
             ls$embarque/?/16430330#não padre
             ls$wicky/914/16430330
             ls$wicky-viagem/77/16430330
@@ -636,7 +636,7 @@ kleio$gacto2.str/translations=212
             ls$jesuita-estatuto/Padre
             ls$nome/Félix-José Pereyra
             ls$nascimento/Lisboa# @wikidata:Q597/16740129
-            ls$jesuita-entrada/?/16900114
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 208 n.º 412/16900114
             ls$embarque/Sta. Ana/17160314
             ls$jesuita-cargo/Procurador do Japão
             ls$chegada/Macau# @wikidata:Q14773/17160831
@@ -668,7 +668,7 @@ kleio$gacto2.str/translations=212
             ls$nome-chines/Li Fan-tsi
             ls$nome-chines/Jen-Feng
             ls$nascimento/Lisboa# @wikidata:Q597/16070000
-            ls$jesuita-entrada/?/16220000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 f. 405v/1622
             ls$embarque/Sacramento/16290403#não padre
             ls$wicky/762/16290403
             ls$wicky-viagem/67/16290403
@@ -828,7 +828,7 @@ kleio$gacto2.str/translations=212
             ls$nome-chines/Kin Pei-Lien Yu-Tch'ouan
             ls$nome-chines/Kin Ma-no
             ls$nascimento/Lugar da Cruz#ILOC/16370000
-            ls$jesuita-entrada/?/16550000
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 181 n.º 177/1655
             ls$embarque/?/16580419
             ls$wicky/1049/16580419
             ls$wicky-viagem/90/16580419
@@ -1274,7 +1274,7 @@ kleio$gacto2.str/translations=212
             ls$nome-chines/Tch'en Chan-Tchö King-Tche
             ls$nome-chines/Pineiro, Chin
             ls$nascimento/Loures, diocese de Lisboa# @wikidata:Q917535/16880321
-            ls$jesuita-entrada/?/17041109
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/17041109
             ls$grau-academico/Mestre em Artes
             ls$cargo/Preceptor do infante D. José
             rel$profissional/Preceptor de/José/deh-domingos-pinheiro-ref1
@@ -1401,7 +1401,7 @@ kleio$gacto2.str/translations=212
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Quintela, diocese de Miranda# @wikidata:Q111798/15440000#entre 1544 e 1548
-            ls$jesuita-entrada/?/15660000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/1566
             ls$embarque/Sta. Catarina/15760307
             ls$wicky/179/15760307
             ls$wicky-viagem/23/15760307
@@ -1521,7 +1521,7 @@ kleio$gacto2.str/translations=212
             ls$nome-chines/Mou
             ls$nome-chines/Mou Jo-ché%Le vice-provincial Mendes explique que Manuel Pinto entra en Chine avec le piao et le nom chinois de José Simoes, Mou Jo-ché
             ls$nascimento/Nespereira, diocese de Viseu# @wikidata:Q64355/16900804
-            ls$jesuita-entrada/?/17041230
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Franco, Imagem da virtude… Évora (noviciado único)/17041230
             ls$embarque/Sta. Ana/17160314
             ls$wicky/1600/17160314
             ls$wicky-viagem/139/17160314
@@ -1946,7 +1946,7 @@ kleio$gacto2.str/translations=212
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Golegã# @wikidata:Q1012522/16340000
-            ls$jesuita-entrada/?/16500000
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 180 n.º 93/1650
             ls$embarque/Bom Jesus da Vidigueira/16570404
             ls$wicky/1044/16570404
             ls$wicky-viagem/89/16570404

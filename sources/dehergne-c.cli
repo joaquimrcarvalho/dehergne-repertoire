@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=296
+kleio$gacto2.str/translations=297
 
    property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-194
@@ -16,7 +16,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Trancoso, diocese de Viseu%Dehergne escreve Francoso# @wikidata:Q686868/1595#ou Frechas, diocese de Viseu, 1593 wikidata:Q1452157
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/1611/obs=Dehergne omits place of entry; appears in Coimbra college catalogue Jan. 1614 (Lus. 44 II, fol. 313v, n. 273).
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 39/1611/obs=Dehergne omits place of entry; appears in Coimbra college catalogue Jan. 1614 (Lus. 44 II, fol. 313v, n. 273).
             ls$embarque/S. Carlos#segundo Wicky/16180416
             ls$wicky/659/16180416
             ls$wicky-viagem/57/16180400#meados do mês, 16180416 segundo Dehergne
@@ -66,7 +66,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Celorico da Beira%Francosensis# @wikidata:Q523596/1598
-            ls$jesuita-entrada/?/16150613
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 39 f. 97/16150613
             ls$embarque/?/16240325
             ls$wicky/711/16240325
             ls$wicky-viagem/62/16240325
@@ -194,7 +194,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Penajóia, diocese de Lamego# @wikidata:Q64774/1683
-            ls$jesuita-entrada/?/1700
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/1699%1700
             ls$embarque/[Para a China]/1701#era noviço
             ls$wicky/1446/1701
             ls$wicky-viagem/124/1701
@@ -210,7 +210,7 @@ kleio$gacto2.str/translations=296
             ls$jesuita-estatuto/Padre
             ls$nome/Paulo de Campoz
             ls$nascimento/Bobadela, diocese de Coimbra#em Oliveira do Hospital @wikidata:Q888363/17210707
-            ls$jesuita-entrada/?/17370502
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17370502
             ls$embarque/[Para o Japão]/1746
             ls$wicky/1917/1746
             ls$wicky-viagem/165/1746
@@ -414,7 +414,7 @@ kleio$gacto2.str/translations=296
             ls$nome/João Cardozo
             ls$nome-chines/Kia Jo-wang
             ls$nascimento/Setúbal# @wikidata:Q173699/1619
-            ls$jesuita-entrada/?/1634
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 44 f. 529/1634
             ls$estadia/Lisboa# @wikidata:Q597/16490415/obs=ver entrada de António Francisco Cardim
             ls$embarque/?/16490415
             ls$wicky/957/16490415
@@ -459,7 +459,7 @@ kleio$gacto2.str/translations=296
             ls$nome/João Francisco Cardozo
             ls$nome-chines/Mei Ta-Tch'eng Eul-Tchang
             ls$nascimento/Porto de Mós, diocese de Leiria# @wikidata:Q1012710/16770613
-            ls$jesuita-entrada/?/16921222
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 n.º 420/16921222
             ls$embarque/[Para o Malabar]/1708
             ls$wicky/1511/1708
             ls$wicky-viagem/131/1708
@@ -703,7 +703,7 @@ kleio$gacto2.str/translations=296
             ls$jesuita-estatuto/Frade Coadjutor
             ls$nome-chines/Tchao Tchong Leang-Fou
             ls$nascimento/Lisboa# @wikidata:Q597/1629
-            ls$jesuita-entrada/?/1647
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 45 f. 21 n.º 438/1647
             ls$embarque/?/16500420
             ls$wicky/963/16500420
             ls$wicky-viagem/83/16500420
@@ -715,7 +715,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Tancos, diocese de Lisboa# @wikidata:Q2296675/1661
-            ls$jesuita-entrada/?/1678#se for ele
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 46 f. 000v/1678
             ls$embarque/?/16810326
             ls$wicky/1198/16810326
             ls$wicky-viagem/104/16810326
@@ -744,7 +744,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Porto de Mós, diocese de Leiria# @wikidata:Q1012710/17100114
-            ls$jesuita-entrada/?/17240402
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17240402
             ls$embarque/[Para o Japão]/17320425#data completada segundo Wicky
             ls$wicky/1800/17320425#data completada segundo Wicky
             ls$wicky-viagem/152/17320425#data completada segundo Wicky
@@ -1760,7 +1760,7 @@ kleio$gacto2.str/translations=296
             ls$nome-chines/Mou Ya-li
             ls$nome-chines/Kouo
             ls$nascimento/Viana do Alentejo, diocese de Évora%Viana, diocese de Évora# @wikidata:Q1022265/1626
-            ls$jesuita-entrada/?/16451120
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Franco, Imagem da virtude… Évora (noviciado único)/16431120%16451120
             ls$embarque/?/16720301
             ls$wicky/1118/16720301
             ls$wicky-viagem/98/16720301
@@ -1781,7 +1781,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Abrantes, diocese da Guarda%Abrantès de Guarda?# @wikidata:Q331191/1586
-            ls$jesuita-entrada/?/1604
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Franco, Imagem da virtude… Évora (noviciado único)/1604
             ls$embarque/Nossa Senhora de Jesus/16090323#não padre
             ls$wicky/564/16090323
             ls$wicky-viagem/50/16090323
@@ -1994,7 +1994,7 @@ kleio$gacto2.str/translations=296
             ls$nome-chines/Fang Ye-Tchang
             ls$nome-chines/Fang Je-Cheng Tsi-ko
             ls$nascimento/Lisboa# @wikidata:Q597/16890217
-            ls$jesuita-entrada/?/17040921
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/17040921
             ls$embarque/Sta. Ana/17160314
             ls$wicky/1598/17160314
             ls$wicky-viagem/139/17160314
@@ -2088,7 +2088,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lisboa# @wikidata:Q597/1612
-            ls$jesuita-entrada/Lisboa (Casa de Provação do Monte Olivete)# @wikidata:Q597/1628/obs=Dehergne omits place of entry; entre 1619 e 1630 o único noviciado da província era a Casa de Provação do Monte Olivete, em Lisboa (Franco, Imagem da virtude… Coimbra I, p. 25).
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 f. 494r n.º 258/1628/obs=Dehergne omits place of entry; entre 1619 e 1630 o único noviciado da província era a Casa de Provação do Monte Olivete, em Lisboa (Franco, Imagem da virtude… Coimbra I, p. 25).
             ls$estadia/Coimbra# @wikidata:Q45412/1633/obs=catálogo de Maio de 1633 (T1), « Colégio de Coimbra », n.º 258: « Ir. Lucas Correa de Lx.ª… idade 21 annos: da Companhia 5: estuda artes » (Lus. 44 II, f. 494).
             ls$estadia/Braga, Colégio/1636/obs=Not in Dehergne, but in Lus. 44 II, 548.
             ls$embarque/?/16410330
@@ -2107,7 +2107,7 @@ kleio$gacto2.str/translations=296
             ls$nome-chines/Ngan Ma-eul-ti-no
             ls$nome-chines/Teng
             ls$nascimento/Lisboa# @wikidata:Q597/16991111
-            ls$jesuita-entrada/?/17200815
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17200815
             ls$embarque/[Para a China]#segundo Wicky/1725
             ls$wicky/1691/1725
             ls$wicky-viagem/146/1725
@@ -2219,7 +2219,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Braga# @wikidata:Q83247/1662
-            ls$jesuita-entrada/?/1678
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 70v n.º 446/1678
             ls$embarque/[Para a China]/1694
             ls$wicky/1334/1694
             ls$wicky-viagem/117/1694
@@ -2363,7 +2363,7 @@ kleio$gacto2.str/translations=296
             ls$jesuita-estatuto/Padre
             ls$nome-chines/Fang
             ls$nascimento/Braga# @wikidata:Q83247/16910422
-            ls$jesuita-entrada/?/17070209
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17070209
             ls$embarque/?/17140412
             ls$wicky/1585/17140412
             ls$wicky-viagem/137/17140412
@@ -2437,7 +2437,7 @@ kleio$gacto2.str/translations=296
             ls$nome-chines/Kouo Na-tsio Tö-Tsing
             ls$nascimento/Ilha do Faial, Açores# @wikidata:Q657187/1603
             ls$idade/33/1636
-            ls$jesuita-entrada/?/1617
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 f. 354/1621%1617
             ls$embarque/?/16290403
             ls$wicky/748/16290403
             ls$wicky-viagem/67/16290403
@@ -2590,7 +2590,7 @@ kleio$gacto2.str/translations=296
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Tentúgal, diocese de Coimbra% Tancugal# @wikidata:Q2119651/1633
-            ls$jesuita-entrada/?/1649
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 180 n.º 111/1649
             ls$embarque/Bom Jesus da Vidigueira/16570404
             ls$wicky/1041/16570404
             ls$wicky-viagem/89/16570404

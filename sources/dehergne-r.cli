@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=214
+kleio$gacto2.str/translations=215
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-121
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$bdcconline/"https://bdcconline.net/en/stories/$1"/obs=Biographical Dictionary of Chinese Christianity
@@ -496,7 +496,7 @@ kleio$gacto2.str/translations=214
             ls$jesuita-estatuto/Padre
             ls$nome-chines/Li Ning-Che Kong-Yu
             ls$nascimento/Portalegre# @wikidata:Q622819/1570
-            ls$jesuita-entrada/?/1588
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 39 f. 17 n.º 13/1588
             ls$embarque/S. João/16000404#não padre
             ls$wicky/420/16000404
             ls$wicky-viagem/42/16000404
@@ -702,7 +702,7 @@ kleio$gacto2.str/translations=214
             ls$nome/Bartolomeu de Reboredo
             ls$nome/Bartolomeu de Reboreda
             ls$nascimento/Alpalhão, diocese de Portalegre%Alpalham# @wikidata:Q1997074/1607
-            ls$jesuita-entrada/?/1625
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 n.º 162/1625
             ls$embarque/?/16300418#não padre
             ls$wicky/792/16300418
             ls$wicky-viagem/68/16300418
@@ -762,7 +762,7 @@ kleio$gacto2.str/translations=214
             ls$nome-chines/T'ien-Yeou
             ls$nome-chines/Hei
             ls$nascimento/Vimieiro, diocese de Évora# @wikidata:Q2259460/1632
-            ls$jesuita-entrada/?/16490216
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Lus. 45 f. 55/16490216
             ls$embarque/S. Francisco/16550323
             ls$wicky/994/16550323
             ls$wicky-viagem/87/16550323
@@ -787,7 +787,7 @@ kleio$gacto2.str/translations=214
             ls$nome-chines/Fou Tso-Lin
             ls$nome-chines/Li-sseu
             ls$nascimento/Lisboa# @wikidata:Q597/17160831
-            ls$jesuita-entrada/?/17280501
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17280501
             ls$embarque/[Para a China]/17350413#não padre
             ls$wicky/1824/17350413
             ls$wicky-viagem/154/17350413
@@ -1018,7 +1018,7 @@ kleio$gacto2.str/translations=214
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Montemor-o-Novo, diocese de Évora#ou Lisboa @wikidata:Q538407 ou wikidata:Q597/1550#cerca de
-            ls$jesuita-entrada/?/1567
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Franco, Imagem da virtude… Évora (noviciado único)/1571%1567
             ls$embarque/S. Salvador/15810408
             ls$wicky/223/15810408
             ls$wicky-viagem/27/15810408
@@ -1057,7 +1057,7 @@ kleio$gacto2.str/translations=214
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Covilhã, diocese da Guarda# @wikidata:Q849026/1601
-            ls$jesuita-entrada/Coimbra%?/1618%1624# Coimbra likely, Dehergne misread "15 de Compª" as "18 de Compª" ver Lus. 44 II: f. 394v, n.º 303 (Coimbra, 1622), Lus. 44 II: f. 419r, n.º 256 (Coimbra, 1625), Lus. 44 II: f. 459, n.º 481 (Colégio de Braga,1628). Birth place collated from all the entries Aldeia Nova, Fundão, Covilhã, Bispado da Guarda
+            ls$jesuita-entrada/Coimbra%?/1618%1624#@wikidata:Q45412 Coimbra likely, Dehergne misread "15 de Compª" as "18 de Compª" ver Lus. 44 II: f. 394v, n.º 303 (Coimbra, 1622), Lus. 44 II: f. 419r, n.º 256 (Coimbra, 1625), Lus. 44 II: f. 459, n.º 481 (Colégio de Braga,1628). Birth place collated from all the entries Aldeia Nova, Fundão, Covilhã, Bispado da Guarda
             ls$estadia/Coimbra# @wikidata:Q45412/1633/obs=Dehergne omits place of entry; appears in Coimbra 1633 college catalogue (Lus. 44 II, fol. 492, college starts fol.490v).
             ls$embarque/?/16300418
             ls$wicky/778a/16300418
@@ -1139,7 +1139,7 @@ kleio$gacto2.str/translations=214
             ls$nome/Geronimo Rodrigues
             ls$nome-chines/Lou Jou-Lou Tien-Si
             ls$nascimento/Monforte, diocese de Elvas# @wikidata:Q769062/1567
-            ls$jesuita-entrada/?/1585
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 39/1585
             ls$embarque/?/15950415#não padre
             ls$wicky/349/15950415
             ls$wicky-viagem/38/15950415
@@ -1160,7 +1160,7 @@ kleio$gacto2.str/translations=214
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Montemor-o-Novo, diocese de Évora# @wikidata:Q538407/1575#cerca de
-            ls$jesuita-entrada/?/1592
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Lus. 44 f. 73v n.º 233/1592
             ls$embarque/Conceição#segundo Wicky/15960410#não padre
             ls$wicky/354/15960410
             ls$wicky-viagem/39/15960410
@@ -1616,7 +1616,7 @@ kleio$gacto2.str/translations=214
             ls$nome-chines/Li Touen-Wang
             ls$nome-chines/Li Tun Von
             ls$nascimento/Évora# @wikidata:Q179948/16451028
-            ls$jesuita-entrada/?/16591015
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 319 n.º 287/16591015
             ls$embarque/?/16730315
             ls$wicky/1150/16730315
             ls$wicky-viagem/99/16730315
@@ -1671,7 +1671,7 @@ kleio$gacto2.str/translations=214
             ls$nacionalidade/Portugal
             ls$nome/António Rozado
             ls$nascimento/Idanha a Nova, diocese da Guarda# @wikidata:Q999446/1672
-            ls$jesuita-entrada/?/16880422
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/16880422
             ls$embarque/[Para a China]/1694#não é encontrado no catálogo de 1697
             ls$wicky/1337/1694/obs=Dehergne não coloca o seu nº de Wicky, informação acrescentada segundo Wicky
             ls$wicky-viagem/117/1694/obs=Dehergne não coloca o seu nº de Wicky, informação acrescentada segundo Wicky

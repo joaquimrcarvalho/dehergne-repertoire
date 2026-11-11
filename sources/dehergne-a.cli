@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=261
+kleio$gacto2.str/translations=262
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-175
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-a/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -73,7 +73,7 @@ kleio$gacto2.str/translations=261
             ls$nome/Gil d'Abreu
             ls$nome/Gil Dabreu
             ls$nascimento/Campo Maior# @wikidata:Q995297/15930000
-            ls$jesuita-entrada/?/16110713
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Franco, Imagem da virtude… Évora (noviciado único)/16110713
             ls$embarque/S. Carlos#segundo Wicky, destinado ao Japão/16180416#preso por um corsário holandês
             ls$wicky/660/16180416
             ls$wicky-viagem/57/16180400#meados do mês, 16180416 segundo Dehergne
@@ -265,7 +265,7 @@ kleio$gacto2.str/translations=261
             ls$nome-chines/Tö Ki-Jen
             ls$nome-chines/Tée Ki-Gin
             ls$nascimento/Bragança# @wikidata:Q768261/16950424
-            ls$jesuita-entrada/?/17100301
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 47 f. 128 n.º 228/17100301
             ls$embarque/[Para a China]#segundo Wicky/17170417#não padre
             ls$wicky/1621/17170417
             ls$wicky-viagem/140/17170417
@@ -604,7 +604,7 @@ kleio$gacto2.str/translations=261
             ls$nome-chines/Lu
             ls$nome-chines/Li
             ls$nascimento/Lisboa# @wikidata:Q597/16580000
-            ls$jesuita-entrada/?/16730000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 000v/1673
             ls$embarque/?#segundo entrada de Cicero terá sido em Lisboa/16900408
             ls$wicky/1278/16900408
             ls$wicky-viagem/113/16900408
@@ -671,7 +671,7 @@ kleio$gacto2.str/translations=261
             ls$nome-chines/Miu#Mieou
             ls$nome-chines/Moui Cao
             ls$nascimento/Esgueira, diocese de Coimbra# @wikidata:Q2258588/16120000
-            ls$jesuita-entrada/?/16280000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/1628
             ls$embarque/Sacramento/16290403#era noviço
             ls$wicky/773/16290403
             ls$wicky-viagem/67/16290403
@@ -1579,7 +1579,7 @@ kleio$gacto2.str/translations=261
             ls$nome-chines/Wou Tche-Fang Tcheng-Yi
             ls$nome-chines/Ou Tche-Fng Tcheng-I
             ls$nascimento/Viana do Castelo# @wikidata:Q208158/17180824
-            ls$jesuita-entrada/?/17360322
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Catálogo dos Sojeitos… 1711-1758 (1909-1911), p. 15/17360322
             ls$embarque/?/17440000#cerca de
             ls$wicky/1907/17450000
             ls$wicky-viagem/164/17450000
@@ -1622,7 +1622,7 @@ kleio$gacto2.str/translations=261
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Viseu# @wikidata:Q117676/15810000
-            ls$jesuita-entrada/?/15870000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 n.º 3/1587
             ls$embarque/S. Filipe/16140408
             ls$wicky/598/16140408
             ls$wicky-viagem/53/16140408

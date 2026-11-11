@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=140
+kleio$gacto2.str/translations=141
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-89
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-d/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra D
@@ -464,7 +464,7 @@ kleio$gacto2.str/translations=140
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lavre, diocese de Évora# @wikidata:Q1997904/16661212#o catálogo do Japão de 1697 diz 1658
-            ls$jesuita-entrada/?/16810326#o catálogo do Japão de 1697 diz 1675
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Lus. 46 f. 68v n.º 380/16810326
             ls$embarque/Santiago/16820329
             ls$wicky/1216/16820329
             ls$wicky-viagem/105/16820329
@@ -488,7 +488,7 @@ kleio$gacto2.str/translations=140
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Frade Coadjutor
             ls$nascimento/Vila Real, diocese de Braga# @wikidata:Q503856/15910000
-            ls$jesuita-entrada/?/16080000
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Franco, Imagem da virtude… Évora (noviciado único)/1608
             ls$embarque/S. Carlos/16180400#meados de Abril
             ls$wicky/665/16180400
             ls$wicky-viagem/57/16180400#meados de Abril
@@ -923,7 +923,7 @@ kleio$gacto2.str/translations=140
             ls$nome-chines/Yen Jo-van
             ls$nome-chines/Edoardo
             ls$nascimento/Lisboa# @wikidata:Q597/16711127#ou 17 de Novembro
-            ls$jesuita-entrada/?/16900717#ou 1689
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 19/16900717
             ls$embarque/?/16960000
             ls$wicky/1361/16960000
             ls$wicky-viagem/119/16960000
@@ -982,7 +982,7 @@ kleio$gacto2.str/translations=140
             ls$jesuita-estatuto/Frade coadjutor
             ls$nome/Xavier Eduardus
             ls$nascimento/Coimbra# @wikidata:Q45412/17141111
-            ls$jesuita-entrada/?/17361103#ou 17361104
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 48 f. 168/17361103
             ls$embarque/?#será S. Pedro e S. Paulo, indicado na entrada de José Montanha? Seria Xavier Duarte um dos três jesuítas aí mencionados?/17420000
             ls$wicky/1896/17420000
             ls$wicky-viagem/161/17420000

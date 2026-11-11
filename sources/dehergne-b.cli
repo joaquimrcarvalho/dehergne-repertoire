@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=242
+kleio$gacto2.str/translations=243
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-182
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-b/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs=Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra B
@@ -239,7 +239,7 @@ kleio$gacto2.str/translations=242
             ls$nome-chines/Kouo Jo-Wanf#Pf.
             ls$nome-chines/Ngai
             ls$nascimento/Bombarral, diocese de Lisboa# @wikidata:Q891820/16540000#ou diocese de Coimbra, 16580623
-            ls$jesuita-entrada/?/16710320
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 46 f. 347 n.º 657/16710320
             ls$jesuita-entrada/?/16811112#alternativa
             ls$embarque/?/16940000
             ls$wicky/1331/16940000
@@ -260,7 +260,7 @@ kleio$gacto2.str/translations=242
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Santarém# @wikidata:Q273877/16710000
-            ls$jesuita-entrada/?/16860121
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 255v n.º 132/16860121
             ls$embarque/[Para a China]/16940000#Le catal. 1693 (JS 134, 378v) l'inscrit pour la mission de Chine, et celui de 1694 pour la province de Goa. Il s'embarque effectivement pour cette dernière, en 1694
             ls$wicky/1329/16940000
             ls$wicky-viagem/117/16940000
@@ -272,12 +272,11 @@ kleio$gacto2.str/translations=242
                et celui de 1694 pour la province de Goa.
                Il s'embarque effectivement pour cette dernière, en 1694 (W 1329)."""
 
-
          n$Miguel Barbosa/id=deh-miguel-barbosa
             ls$nacionalidade/Portugal#Dehergne diz fr. por engano
             ls$jesuita-estatuto/Padre
             ls$nascimento/Braga# @wikidata:Q83247/16200000
-            ls$jesuita-entrada/?/16350000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 f. 264/1635
             ls$embarque/?/16430330
             ls$wicky/917/16430330
             ls$wicky-viagem/77/16430330
@@ -379,7 +378,7 @@ kleio$gacto2.str/translations=242
          n$Rui Barreto/id=deh-rui-barreto
             ls$nascimento/Mora, diocese de Évora# @wikidata:Q174800/15520000
             ls$nacionalidade/Portugal
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/15681228#ou 15721228/obs=Dehergne omits place of entry; in Coimbra student de "Casos" in 1579 Lus. 39:3, Documenta Indica XI (doc 82, p. 56)
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 43 f. 345/15681228/obs=Dehergne omits place of entry; in Coimbra student de "Casos" in 1579 Lus. 39:3, Documenta Indica XI (doc 82, p. 56)
             ls$jesuita-ordenacao-padre/?/15790404#antes de
             ls$embarque/Chagas/15790404#novo padre
             ls$wicky/206/15790404
@@ -400,7 +399,7 @@ kleio$gacto2.str/translations=242
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Arcos de Valdevez, diocese de Braga# @wikidata:Q490302/16940902
-            ls$jesuita-entrada/?/17120212
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Catálogo dos Sojeitos… 1711-1758 (1909-1911), p. 2, n.º 4/17120212
             ls$embarque/[Para a China]/17300404
             ls$wicky/1752/17300404
             ls$wicky-viagem/150/17300404
@@ -414,7 +413,7 @@ kleio$gacto2.str/translations=242
             ls$jesuita-estatuto/Padre
             ls$nome-chines/Long Ngan-tang Ngan-Kouo
             ls$nascimento/Arcos de Valdevez, diocese de Braga# @wikidata:Q490302/16641021
-            ls$jesuita-entrada/?/16810612
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 46 f. 127 n.º 170/16810612
             ls$embarque/?/16940000
             ls$wicky/1335/16940000
             ls$wicky-viagem/117/16940000
@@ -448,7 +447,7 @@ kleio$gacto2.str/translations=242
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Gradil, diocese de Lisboa# @wikidata:Q1024960/17080122
-            ls$jesuita-entrada/?/17240402
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Catálogo dos Sojeitos… 1711-1758 (1909-1911), p. 91, n.º 633/17240402
             ls$embarque/[Para a China]/17300404#não padre
             ls$wicky/1753/17300404
             ls$wicky-viagem/150/17300404

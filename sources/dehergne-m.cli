@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=251
+kleio$gacto2.str/translations=252
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-161
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-m/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs= """Dehergne, Joseph, Répertoire des Jésuites de Chine, de 1542 à 1800, 1973. Letra M
@@ -313,7 +313,7 @@ kleio$gacto2.str/translations=251
             ls$nome-chines/Yang Jo-chö
             ls$nome-chines/Pei-Houo
             ls$nascimento/Amarante, diocese de Braga# @wikidata:Q454875/16360000
-            ls$jesuita-entrada/?/16490000
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 180/1649
             ls$embarque/S. Lourenço das Almas/16570404
             ls$wicky/1020/16570404
             ls$wicky-viagem/89/16570404
@@ -1061,7 +1061,7 @@ kleio$gacto2.str/translations=251
             ls$nome/Manoel da Matta
             ls$nome-chines/K'iu Leang-Che Yeou-Kong
             ls$nascimento/Lisboa# @wikidata:Q597/16671010
-            ls$jesuita-entrada/?/16820204
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 46 f. 127v n.º 186/16820204
             ls$embarque/[Para a China]/16940000
             ls$wicky/1330/16940000
             ls$wicky-viagem/117/16940000
@@ -1888,7 +1888,7 @@ kleio$gacto2.str/translations=251
             ls$jesuita-estatuto/Padre
             ls$nome/Bento Monteyro
             ls$nascimento/Coimbra# @wikidata:Q45412/17180601
-            ls$jesuita-entrada/?/17320627
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Catálogo dos Sojeitos… 1711-1758 (1909-1911), p. 17, n.º 212/17320627
             ls$embarque/[Para o Japão]/17350413#não padre
             ls$wicky/1827/17350413
             ls$wicky-viagem/154/17350413
@@ -1917,7 +1917,7 @@ kleio$gacto2.str/translations=251
             ls$nome-chines/Mo Té-Ngo
             ls$nome-chines/Mo Ten-Go
             ls$nascimento/Lisboa# @wikidata:Q597/16460809#ou 1649
-            ls$jesuita-entrada/?/16611217#ou 1663
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 319v n.º 313/16611217
             ls$embarque/S. Pedro/16770419
             ls$wicky/1178/16770419
             ls$wicky-viagem/102/16770419
@@ -2064,7 +2064,7 @@ kleio$gacto2.str/translations=251
             ls$jesuita-estatuto/Padre
             ls$nome/Francisco Moreyra
             ls$nascimento/Coimbra# @wikidata:Q45412/16891227
-            ls$jesuita-entrada/?/17040101
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Franco, Imagem da virtude… Évora (noviciado único)/17040101
             ls$embarque/Sta. Ana/17160314
             ls$wicky/1602/17160314
             ls$wicky-viagem/139/17160314
@@ -2347,7 +2347,7 @@ kleio$gacto2.str/translations=251
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lisboa# @wikidata:Q597/16180000
-            ls$jesuita-entrada/?/16350000
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 f. 535v n.º 135/1635
             ls$embarque/[Para a China]/16440412
             ls$wicky/918/16440412
             ls$wicky-viagem/78/16440412
@@ -2396,7 +2396,7 @@ kleio$gacto2.str/translations=251
             ls$jesuita-estatuto/Padre
             ls$nome/António de Murcea
             ls$nascimento/Rasto, diocese de Braga#ILOC/16700000
-            ls$jesuita-entrada/?/16880612
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/16880612
             ls$embarque/S. Francisco Borja/16930000%16920000#corrigido de acordo com Wicky
             ls$wicky/1323/16930000%16920000#corrigido de acordo com Wicky
             ls$wicky-viagem/116/16930000%16920000#corrigido de acordo com Wicky

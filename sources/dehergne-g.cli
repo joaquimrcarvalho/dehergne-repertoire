@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=193
+kleio$gacto2.str/translations=194
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-115
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-g/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -102,7 +102,7 @@ kleio$gacto2.str/translations=193
             ls$jesuita-estatuto/Padre
             ls$nome/Matthieu Gago
             ls$nascimento/Serpa, diocese de Évora# @wikidata:Q550963/1590
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/1608/obs=Dehergne omits place of entry; appears in Coimbra college catalogue 1611 (starts at fol. 286) under "Irmãos Artistas do Pr[imeir]o Curso" (Lus. 44-I:290v, n.511).
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Franco, Imagem da virtude… Évora (noviciado único)/1608/obs=Dehergne omits place of entry; appears in Coimbra college catalogue 1611 (starts at fol. 286) under "Irmãos Artistas do Pr[imeir]o Curso" (Lus. 44-I:290v, n.511).
             ls$embarque/S. Carlos/16180400#meio do mês
             ls$wicky/649/16180400
             ls$wicky-viagem/57/16180400#meados do mês
@@ -164,7 +164,7 @@ kleio$gacto2.str/translations=193
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lavre, diocese de Évora%Laure#ou Montemor-o-Novo @wikidata:Q1997904 ou wikidata:Q538407/1610
-            ls$jesuita-entrada/?/1625
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 44 f. 416 n.º 181/1625
             ls$embarque/?/16300418#não padre
             ls$wicky/789/16300418
             ls$wicky-viagem/68/16300418

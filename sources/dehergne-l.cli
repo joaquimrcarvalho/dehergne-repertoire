@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=203
+kleio$gacto2.str/translations=204
 
    property$multiple-entry-flag/124
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-130
@@ -976,7 +976,7 @@ kleio$gacto2.str/translations=203
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Quintela, diocese de Lamego%Guintella# @wikidata:Q111798/17091006
-            ls$jesuita-entrada/?/17260602
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 47 f. 000v/17260602
             ls$embarque/[Para Goa]/17300404
             ls$wicky/1744/17300404
             ls$wicky-viagem/150/17300404
@@ -1181,7 +1181,7 @@ kleio$gacto2.str/translations=203
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Braga# @wikidata:Q83247/16881004
-            ls$jesuita-entrada/?/17041226
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Franco, Imagem da virtude… Évora (noviciado único)/17041226
             ls$embarque/Sta. Ana/17160314
             ls$wicky/1599/17160314
             ls$wicky-viagem/139/17160314
@@ -1244,7 +1244,7 @@ kleio$gacto2.str/translations=203
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Lisboa# @wikidata:Q597/1635
-            ls$jesuita-entrada/?/16490815
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 45 f. 101v/16490815
             ls$embarque/Capitaina/16550323
             ls$wicky/991/16550323
             ls$wicky-viagem/87/16550323
@@ -1483,7 +1483,7 @@ kleio$gacto2.str/translations=203
             ls$nome-chines/Li Kouo-Chen
             ls$nome-chines/Li Que Xen
             ls$nascimento/Lisboa# @wikidata:Q597/16900702
-            ls$jesuita-entrada/?/17070217
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 47 f. 120 n.º 48/17070217
             ls$embarque/Sta. Ana/17160314
             ls$wicky/1601/17160314
             ls$wicky-viagem/139/17160314
@@ -1522,7 +1522,7 @@ kleio$gacto2.str/translations=203
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Santo António da Terrugem, diocese de Elvas# @wikidata:Q2257171/16930321
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/17080321/obs=Dehergne ommits place of entry; appears in 1711 at Coimbra college catalogue, under "Scholastici"(Lus. 47,fol.126v, n. 193, Coimbra starts in fol.120).
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 47 f. 126v n.º 193/17080321/obs=Dehergne ommits place of entry; appears in 1711 at Coimbra college catalogue, under "Scholastici"(Lus. 47,fol.126v, n. 193, Coimbra starts in fol.120).
             ls$embarque/?/17140412#não padre
             ls$wicky/1586/17140412
             ls$wicky-viagem/137/17140412
@@ -1561,7 +1561,7 @@ kleio$gacto2.str/translations=203
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Proença-a-Nova# @wikidata:Q1003172/1574
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/15900200/obs=Dehergne omits place of entry; appears as novice in Coimbra in May 1590 (Lus. 44 25, p.29 n. 160).
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 44 f. 65/159002/obs=Dehergne omits place of entry; appears as novice in Coimbra in May 1590 (Lus. 44 25, p.29 n. 160).
             ls$embarque/[Para a Índia]/15920407#não padre/obs=Dehergne supõe que seja o mesmo
             ls$wicky/333/15920407
             ls$wicky-viagem/35/15920407
@@ -1582,7 +1582,7 @@ kleio$gacto2.str/translations=203
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Braga# @wikidata:Q83247/16621221
-            ls$jesuita-entrada/?/1681
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 46 f. 127 n.º 168/1681
             ls$tarefa/Estuda Teologia - 1º ano/1693
             ls$estadia/Coimbra# @wikidata:Q45412/1693/obs=no primeiro ano de Teologia
             ls$embarque/?/1694#já era padre
@@ -1595,7 +1595,7 @@ kleio$gacto2.str/translations=203
          n$João Lopes/id=deh-joao-lopes
             ls$nacionalidade/Portugal
             ls$nascimento/Sabugal, diocese de Lamego# @wikidata:Q992645/1673
-            ls$jesuita-entrada/?/16880316
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Franco, Imagem da virtude… Évora (noviciado único)/16880316
             ls$embarque/[Para a China]/1692#não padre
             ls$wicky/1315/1692
             ls$wicky-viagem/115/1692
@@ -1758,7 +1758,7 @@ kleio$gacto2.str/translations=203
             ls$jesuita-estatuto/Padre
             ls$nome/João Loreiro
             ls$nascimento/Lisboa# @wikidata:Q597/17170908
-            ls$jesuita-entrada/?/17320503
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17320503
             ls$embarque/[Para o Japão]/17350413#não padre
             ls$wicky/1828/17350413
             ls$wicky-viagem/154/17350413

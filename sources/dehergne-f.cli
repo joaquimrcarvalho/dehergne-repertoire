@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=215
+kleio$gacto2.str/translations=216
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin1-123
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    fonte$dehergne-f/1973/Dicionário Biográfico/loc=Online archive.org:details:bhsi37/obs="""
@@ -270,7 +270,7 @@ kleio$gacto2.str/translations=215
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Frade Coadjutor
             ls$nascimento/Miranda#do Douro ou do Corvo? @wikidata:Q373475 ou wikidata:Q370187/1631
-            ls$jesuita-entrada/?/1651
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 176/1651
             ls$embarque/Bom Jesus da Vidigueira#segundo Wicky/16570404
             ls$wicky/1046/16570404
             ls$wicky-viagem/89/16570404
@@ -772,7 +772,7 @@ kleio$gacto2.str/translations=215
             ls$jesuita-estatuto/Padre
             ls$nome-chines/Fei Tö-ni
             ls$nascimento/Lisboa# @wikidata:Q597/17201009#ou 17201010
-            ls$jesuita-entrada/?/17380205
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Catálogo dos Sojeitos… 1711-1758 (1909-1911), p. 24/17380205
             ls$embarque/?/1745#?
             ls$wicky/1908/1745
             ls$wicky-viagem/164/1745
@@ -1063,7 +1063,7 @@ kleio$gacto2.str/translations=215
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Viana#qual delas?/1631
-            ls$jesuita-entrada/?/1650
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 45 f. 180 n.º 112/1650
             ls$embarque/Bom Jesus da Vidigueira/16570404
             ls$wicky/1042/16570404
             ls$wicky-viagem/89/16570404
@@ -1111,7 +1111,7 @@ kleio$gacto2.str/translations=215
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Frade Coadjutor
             ls$nascimento/S. André de Medi, diocese do Porto#?/1591
-            ls$jesuita-entrada/?/1611
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Lus. 39 f. 72/1611
             ls$embarque/Sto. Amaro/16180400#meados do mês
             ls$wicky/645/16180400
             ls$wicky-viagem/57/16180400#meados do mês
@@ -1881,7 +1881,7 @@ kleio$gacto2.str/translations=215
             ls$jesuita-estatuto/Padre
             ls$nome/Pedro de Francesco
             ls$nascimento/Covilhã, diocese da Guarda# @wikidata:Q849026/1564
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/1588#ou 1581 segundo Wicki/obs="""
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Franco, Imagem da virtude… Évora (noviciado único)/1581%1588/obs="""
             Dehergne omits place of entry; 
             appears in Coimbra college catalogue 1587 (Lus. 44 I, fol. 12, n. 89) 
             as student of philosophy.
@@ -1981,7 +1981,7 @@ kleio$gacto2.str/translations=215
             ls$jesuita-estatuto/Padre
             ls$nome/António Freyre
             ls$nascimento/Braga# @wikidata:Q83247/16701101
-            ls$jesuita-entrada/?/16850702
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 39 f. 140/16850702
             ls$embarque/Sta. Ana#segundo Wicky, directo para Macau/17160314
             ls$wicky/1597/17160314
             ls$wicky-viagem/139/17160314
@@ -2179,7 +2179,7 @@ kleio$gacto2.str/translations=215
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Escolástico
             ls$nascimento/Lamego# @wikidata:Q117591/1674
-            ls$jesuita-entrada/?/16881128
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 207v/16881128
             ls$embarque/[Para Goa]/1691
             ls$wicky/1302/1691
             ls$wicky-viagem/114/1691

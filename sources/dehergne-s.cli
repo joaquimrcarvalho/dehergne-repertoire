@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=204
+kleio$gacto2.str/translations=205
    link$wikidata/"https://www.wikidata.org/wiki/$1"/id=root-lin2-123
    link$issue/"https://github.com/joaquimrcarvalho/dehergne-repertoire/issues/$1"
    link$archive/"https://archive.org/details/bhsi37/page/$1/mode/1up"/obs="""
@@ -962,7 +962,7 @@ kleio$gacto2.str/translations=204
             ls$nome-chines/K'y-Ly-sse, Siqueyra
             ls$nascimento/Carcavelos# @wikidata:Q663893/16931204
             ls$grau-academico/Mestre em Artes
-            ls$jesuita-entrada/?/17090901
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 47 f. 143 n.º 585/17090901
             ls$embarque/[Para a China]/1725
             ls$wicky/1690/1725
             ls$wicky-viagem/146/1725
@@ -1549,7 +1549,7 @@ kleio$gacto2.str/translations=204
             ls$nome-chines/Kouo T'ien-Tsio
             ls$nome-chines/Leang-Kouei
             ls$nascimento/?/16500908
-            ls$jesuita-entrada/?/16661028
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 45 f. 322 n.º 377/16661028
             ls$embarque/?/16680422#noviço
             ls$wicky/1107/16680422
             ls$wicky-viagem/96/16680422
@@ -1908,7 +1908,7 @@ kleio$gacto2.str/translations=204
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Pouva, diocese de Portalegre#será Póvoa e Meadas? ILOC/1614
-            ls$jesuita-entrada/?/1630
+            ls$jesuita-entrada/Évora%?# @wikidata:Q179948 Lus. 44 f. 500 n.º 426/1630
             ls$embarque/Capitaina/16550323
             ls$wicky/983/16550323
             ls$wicky-viagem/87/16550323
@@ -2021,7 +2021,7 @@ kleio$gacto2.str/translations=204
             ls$nome/Diogo de Sottomayor
             ls$nome-chines/Lo Ko-pei#(Jacques é Ya-ko-pé em chinês)
             ls$nascimento/Viana do Alentejo, diocese de Évora# @wikidata:Q1022265/1635
-            ls$jesuita-entrada/?/1651
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 45 f. 116 n.º 22/16540315%1651
             ls$embarque/?/16610406
             ls$wicky/1059/16610406
             ls$wicky-viagem/92/16610406
@@ -2132,7 +2132,7 @@ kleio$gacto2.str/translations=204
             ls$nome-chines/So Ma-no
             ls$nome-chines/Só
             ls$nascimento/Lisboa# @wikidata:Q597/1677
-            ls$jesuita-entrada/?/16940825
+            ls$jesuita-entrada/Lisboa%?# @wikidata:Q597 Lus. 46 f. 19 n.º 338/16940825
             ls$embarque/[Para o Japão]/1701#noviço, Goa 27, 118v col. 2, le met au juvénat de Goa en 1697 « alitur sumptibus suae provinciae (sinensis)»
             ls$wicky/1450/1701
             ls$wicky-viagem/124/1701
@@ -2158,7 +2158,7 @@ kleio$gacto2.str/translations=204
             ls$nacionalidade/Portugal
             ls$jesuita-estatuto/Padre
             ls$nascimento/Amarante, diocese de Braga# @wikidata:Q454875/1597
-            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412/1611/obs=Dehergne omits place of entry; appears under "Ir[mão]s Noviços" in Coimbra college catalogue 1612 (starts fol. 70) (Lus. 39, fol. 71v). In 1617 (Lus. 39) Coimbra college catalogue (fol. 70) appears under "Primeiro Curso" (fol. 96v, col.2).
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Lus. 39/1611/obs=Dehergne omits place of entry; appears under "Ir[mão]s Noviços" in Coimbra college catalogue 1612 (starts fol. 70) (Lus. 39, fol. 71v). In 1617 (Lus. 39) Coimbra college catalogue (fol. 70) appears under "Primeiro Curso" (fol. 96v, col.2).
             ls$idade/14/1611
             ls$grau-academico/Mestre em Artes
             ls$embarque/S. Carlos/16180416
@@ -2190,7 +2190,7 @@ kleio$gacto2.str/translations=204
             ls$nome-chines/Sou
             ls$nome-chines/Souo
             ls$nascimento/Coimbra# @wikidata:Q45412/16970126
-            ls$jesuita-entrada/?/17121031
+            ls$jesuita-entrada/Coimbra%?# @wikidata:Q45412 Catálogo dos Sojeitos… 1711-1758 (1909-1911)/17121031
             ls$embarque/[Para a China]/1725#com a embaixada de D. Alexandre Metelo
             ls$wicky/1689/1725
             ls$wicky-viagem/146/1725
